@@ -3,7 +3,13 @@ __Current Version: v9-2__
 
 __Authors: [ILL-](https://steamcommunity.com/profiles/76561197970451100), [WareBare](https://steamcommunity.com/id/warebare), And [A Cat](https://steamcommunity.com/id/felis_noctu)__
 
-Disclaimer: The authors keep no responsibility for any loss of data or errors that occur while using this mod. This mod changes several game files which may cause errors I am not aware of. Do not contact Neocore or use the in-game bug reporting feature to report any bugs you have while running this mod. Neocore does not provide support to people who run mods.
+---
+## DISCLAIMERS
+
+___THIS MOD IS NO LONGER IN ACTIVE DEVELOPMENT BY THE ORIGINAL AUTHORS!___ This repo currently represents our work as of the last time ILL- released an update, and as the base game has updated since then: 
+* **The authors keep no responsibility for any loss of data or errors that occur while using this mod. This mod changes several game files which may cause errors I am not aware of. Do not contact Neocore or use the in-game bug reporting feature to report any bugs you have while running this mod. Neocore does not provide support to people who run mods.**
+
+It is **NOT** recommended to run this mod on existing characters, nor is it to remove the mod on a character created within this environment. Doing so is nearly guaranteed to cause data loss. Fresh characters only!
 
 Fix-Only versions have been discontinued, as 1.04 fixes most of the issues with end game gear.
 
