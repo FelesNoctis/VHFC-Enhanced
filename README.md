@@ -13,7 +13,6 @@ This mod now includes A Cat's description changes as of v6. He's a master wordsm
 
 ---
 ## DESCRIPTION
----
 
 The Van Helsing series has stolen a place in my heart as one of the most atmospheric and interesting ARPGs I've played. Unfortunately the recent installment is not living up to my expectations, and I wanted to do something about it.
 
@@ -23,7 +22,6 @@ What this game does not do is make you overpowered without challenge or give you
 
 ---
 ## MAJOR FEATURES
----
 
 ### __Monster Scaling:__
 The vanilla balance in VHFC is rough around certain levels. The problems stem from being unable to keep up with decent resistances with new, good gear, and the vanilla scaling has some sudden, immense increases in difficulty. The new scaling I created using an exponential algorithm, smoothing out what was once a jagged, sometimes intense curve in monster power to a more subtle and steady increase with some emphasis on monsters gaining power when you do. For example from obtaining and leveling new skills at 20 and 40. Then when you start leveling slower and have enough time between levels to find some good gear to replace the old ones, the scaling rate starts increasing again. No more sudden, massive boosts of power in enemies that you can't keep up with.
@@ -85,7 +83,6 @@ There's also an issue with converting old Godlike items to the new ones, any God
 
 ---
 ## MINOR FEATURES
----
 
 * Key Chests properly drop what they say they should: An Epic, Set, or Godlike item, depending on the chest. Please note that Godlike and Set items only drop at level 100, even from key chests. Previously Silver and Gold chests only had a small chance to drop their intended item, often requiring 4 or more keys to get a Godlike. With the difficulty of getting fate points in the latest versions, you should be rewarded for opening those chests. Additionally they drop more items, and have a chance to drop more than one of their intended item, if you're really lucky.
 * Godlike and Set items now drop properly from champions, bosses, and anything else that can drop an Epic item. Previously they couldn't drop from anything but the Key Chests. Arena chests have an additional chance to drop Set and Godlike gear at higher arena wins. The current droprates for Set items are 1 to every 5 Epics, and Godlike drops are at 1 to every 50 Epics. The Epic droprate is unchanged.
@@ -95,7 +92,6 @@ There's also an issue with converting old Godlike items to the new ones, any God
 
 ---
 ## BUGFIXES
----
 
 * Only working Set items drop. The 30+ Set items without Set Bonuses no longer drop, and until Neocore gives them bonuses or I do you will only get the functional Set items, and there are still plenty to choose from. Each class has at least one class-specific Set, and there are several cross-class Sets.
 * The 46 instances of set items having over 100x their intended stats have all been fixed. I'm serious.
@@ -107,13 +103,11 @@ There's also an issue with converting old Godlike items to the new ones, any God
 
 ---
 ## PLANNED FEATURES
----
 
 v9 has covered pretty much all of what I intend to do with this mod and now mostly requires polish. I will be enhancing the current features and fixing bugs and balancing the game as time goes on. I will also be adding in new items and enchantments, and continuing to polish up the balance and skills in the game.
 
 ---
 ## DOWNLOAD AND INSTALLATION
----
 
 You can download any version of this mod from my Google Dropbox here: [Download Here](drive.google.com)
 
@@ -133,7 +127,6 @@ ___The changelog is now in the first post in the Steam thread.___
 
 ---
 ## LIST OF SPECIFIC MECHANICS
----
 
 There are some added mechanics that use Keywords to describe what they do. More will be added in the future.
 
