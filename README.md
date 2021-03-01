@@ -1,7 +1,7 @@
 # [MOD] Van Helsing Enhanced: An Overhaul And Bugfix
 __Current Version: v9-2__
 
-__Authors: ILL-, WareBare, And A Cat__
+__Authors: [ILL-](https://steamcommunity.com/profiles/76561197970451100), WareBare, And [A Cat](https://steamcommunity.com/id/felis_noctu)__
 
 Disclaimer: The authors keep no responsibility for any loss of data or errors that occur while using this mod. This mod changes several game files which may cause errors I am not aware of. Do not contact Neocore or use the in-game bug reporting feature to report any bugs you have while running this mod. Neocore does not provide support to people who run mods.
 
