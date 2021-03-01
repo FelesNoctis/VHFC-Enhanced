@@ -13,9 +13,9 @@ It is **NOT** recommended to run this mod on existing characters, nor is it to r
 
 Fix-Only versions have been discontinued, as 1.04 fixes most of the issues with end game gear.
 
-About Multiplayer: Changing the core files of the game changes your version checksum, and two clients with different checksums cannot play together. Basically, you cannot play with anyone who does not have this mod installed. Uninstalling this mod will fix the problem, but there will be problems with gear missing their enchantments, gear missing entirely, other things like that. It will essentially break any gear you've obtained while running the mod.
+**About Multiplayer:**
 
-This mod now includes A Cat's description changes as of v6. He's a master wordsmith and worked hard to clarify a lot of the in-game descriptions, as well as add flare to the text!
+Changing the core files of the game changes your version checksum, and two clients with different checksums cannot play together. Basically, you cannot play with anyone who does not have this mod installed. Uninstalling this mod will fix the problem, but there will be problems with gear missing their enchantments, gear missing entirely, other things like that. It will essentially break any gear you've obtained while running the mod.
 
 ---
 ## DESCRIPTION
