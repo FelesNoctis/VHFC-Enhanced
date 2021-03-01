@@ -1,4 +1,4 @@
-# [MOD] Van Helsing Enhanced: An Overhaul And Bugfix v9-2
+# [MOD] Van Helsing Enhanced: An Overhaul And Bugfix
 __Current Version: v9-2__
 
 __Authors: ILL-, WareBare, And A Cat__
