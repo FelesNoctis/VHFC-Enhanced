@@ -1,0 +1,5328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Skills>
+		<Common>			
+			<manacostpersecond>
+				<eng>Mana cost per second</eng>
+			</manacostpersecond>		
+		</Common>		
+		<Obstacles>
+			<SummonerSigil_Hollow>
+				<Name>
+					<eng>Summon Sigil</eng>
+				</Name>
+			</SummonerSigil_Hollow>
+			<boostersigil_hollow>
+				<Name>
+					<eng>Dark Sigil</eng>
+				</Name>
+			</boostersigil_hollow>
+			<harmfulsigil_hollow>
+				<Name>
+					<eng>Harmful Sigil</eng>
+				</Name>
+			</harmfulsigil_hollow>			
+			<Finalboss_Summon_Undead_Totem>
+				<Name>
+					<eng>Totem of Unlife</eng>
+				</Name>
+			</Finalboss_Summon_Undead_Totem>
+			<Finalboss_Drain_Life_Totem>
+				<Name>
+					<eng>Totem of Draining</eng>
+				</Name>
+			</Finalboss_Drain_Life_Totem>
+			<Finalboss_Damage_slow_Totem>
+				<Name>
+					<eng>Totem of Slow Torment</eng>
+				</Name>
+			</Finalboss_Damage_slow_Totem>
+			<Finalboss_Invulnerability_Totem>
+				<Name>
+					<eng>Totem of Invinciblity</eng>
+				</Name>
+			</Finalboss_Invulnerability_Totem>
+			<mega_magic_missile>
+				<Name>
+					<eng>Seeker Bolt</eng>
+				</Name>
+			</mega_magic_missile>
+			<mega_magic_missile_>
+				<Name>
+					<eng>Seeker Bolt</eng>
+				</Name>
+			</mega_magic_missile_>
+			<mega_magic_missile__>
+				<Name>
+					<eng>Seeker Bolt</eng>
+				</Name>
+			</mega_magic_missile__>
+		</Obstacles>
+		<ImprovedFlamethrower>
+			<Name>
+				<eng>Phlogiston Jet</eng>
+			</Name>
+			<Desc>
+				<eng>A continuous attack that deals fire damage in a 1.5 meter wide, 14 meter long streak.</eng>
+			</Desc>
+			<effect0>
+				<eng>Hit (Fire):\n- Damage Effectiveness: %weapondamage_ per second \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Unstable Mixture</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_, but mana cost is also increased by %manabonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Napalm Mixture</eng>
+				</Name>
+				<Desc>
+					<eng>Targets are ignited for 5 seconds, taking %dot_ of the original flame damage each second.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Disorienting Flames</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies hit by the flame are slowed by 30% for %durationbonus_ seconds (once per skill activation).</eng>
+				</Desc>
+			</Powerup2>			
+		</ImprovedFlamethrower>
+		<ImprovedFlamethrower_ManaCost>
+			<Name>
+				<eng>Pressure Regulation</eng>
+			</Name>
+			<Desc>
+				<eng>Mana cost is decreased by %manabonus_.</eng>
+			</Desc>
+		</ImprovedFlamethrower_ManaCost>
+		<ImprovedFlamethrower_chargeDamage>
+			<Name>
+				<eng>Cumulative Burn</eng>
+			</Name>
+			<Desc>
+				<eng>Damage is increased by %damagebonuspersec_ per second while the skill is continuously used.</eng>
+			</Desc>			
+		</ImprovedFlamethrower_chargeDamage>
+		<ImprovedFlamethrower_desperateBurn>
+			<Name>
+				<eng>Desperate Burn</eng>
+			</Name>
+			<Desc>
+				<eng>You gain %desperateburn_ bonus damage reduction while casting.</eng>
+			</Desc>			
+		</ImprovedFlamethrower_desperateBurn>
+		<ImprovedFlamethrower_resistReduction>
+			<Name>
+				<eng>Heat Shock</eng>
+			</Name>
+			<Desc>
+				<eng>Enemies struck permanently lose %resistreduction_ of their damage resistances each second. (This includes immune creatures.)</eng>
+			</Desc>			
+		</ImprovedFlamethrower_resistReduction>
+		<ImprovedRocketSwarm>
+			<Name>
+				<eng>Rocket Barrage</eng>
+			</Name>
+			<Desc>
+				<eng>Launches 10 rockets at the target dealing damage within 2 meters. The damage listed is for one rocket (and they never miss).</eng>
+			</Desc>
+			<effect0>
+				<eng>Per Rocket (Physical):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Extended Swarm</eng>
+				</Name>
+				<Desc>
+					<eng>Number of rockets is increased by %aoerocketcount_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Optimized Blast Pattern</eng>
+				</Name>
+				<Desc>
+					<eng>The area of effect is increased by %blastradiusbonus_ meters.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Concussive Warheads</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck are stunned for %stunduration_ seconds.</eng>
+				</Desc>
+			</Powerup2>			
+		</ImprovedRocketSwarm>		
+		<ImprovedRocketSwarm_Cooldown>
+			<Name>
+				<eng>Phlogiston Rocket Fuel</eng>
+			</Name>
+			<Desc>
+				<eng>Cooldown is reduced by %cooldown_ seconds.</eng>
+			</Desc>			
+		</ImprovedRocketSwarm_Cooldown>
+		<ImprovedRocketSwarm_Knockdown>
+			<Name>
+				<eng>Sweeping Blast</eng>
+			</Name>
+			<Desc>
+				<eng>Enemies have a %knockbackchance_% to be knocked down.</eng>
+			</Desc>						
+		</ImprovedRocketSwarm_Knockdown>
+		<ImprovedRocketSwarm_RocketSpeed>
+			<Name>
+				<eng>Improved Rocket Fins</eng>
+			</Name>
+			<Desc>
+				<eng>The rockets travel %rocketspeed_% faster.</eng>
+			</Desc>			
+		</ImprovedRocketSwarm_RocketSpeed>
+		<ImprovedRocketSwarm_MultiTarget>
+			<Name>
+				<eng>Hornet Missiles</eng>
+			</Name>
+			<Desc>
+				<eng>An additional %aoerocketcount_ rockets are launched and they will hit multiple enemies in a %aoeradius_ meters larger target area.</eng>
+			</Desc>		
+		</ImprovedRocketSwarm_MultiTarget>
+		<Bombardment>
+			<Name>
+				<eng>Firestorm</eng>
+			</Name>
+			<Desc>
+				<eng>Launches a grenade up in the air releasing a cluster of bombs that rain down around you in a large area. Each bomb deals Physical and Fire damage to enemies within 2 meters. The bombardment lasts for 8 seconds.</eng>
+			</Desc>
+			<effect0>
+				<eng>Grenade (Physical, Fire):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>High-Explosive Bombs</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Incendiary Bombs</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies are ignited for 5 seconds, taking %dot_ of the original explosion damage each second.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Shockwave Bombs</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies have a %knockbackchance_% chance to be knocked down.</eng>
+				</Desc>
+			</Powerup2>			
+		</Bombardment>		
+		<Bombardment_ManaCost>
+			<Name>
+				<eng>Efficient Design</eng>
+			</Name>
+			<Desc>
+				<eng>Mana cost is decreased by %manacost_%.</eng>
+			</Desc>					
+		</Bombardment_ManaCost>
+		<Bombardment_Cooldown>
+			<Name>
+				<eng>Explosives Training</eng>
+			</Name>
+			<Desc>
+				<eng>Cooldown is reduced by %cooldown_ seconds.</eng>
+			</Desc>						
+		</Bombardment_Cooldown>
+		<Bombardment_BombCount>
+			<Name>
+				<eng>Sustained Bombardment</eng>
+			</Name>
+			<Desc>
+				<eng>The bombardment lasts %bombcount_ seconds longer.</eng>
+			</Desc>						
+		</Bombardment_BombCount>
+		<Bombardment_BlastRadius>
+			<Name>
+				<eng>Refined Explosives</eng>
+			</Name>
+			<Desc>
+				<eng>The explosion radius of the bombs is increased by %blastradius_ meters.</eng>
+			</Desc>						
+		</Bombardment_BlastRadius>
+		<Fusillade>
+			<Name>
+				<eng>Fusillade</eng>
+			</Name>
+			<Desc>
+				<eng>Launches a hail of projectiles damaging all enemies in a 50° arc in front of you. The damage gradually decreases past 2 meters, dropping to zero at a 14 meters.</eng>
+			</Desc>
+			<effect0>
+				<eng>%attack_ Physical damage (%weapondamage_ of Weapon Damage) at 2 meters</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Heavy Fusillade</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Tommyknocker Cartridge</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck are stunned for %stunduration_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Unchoked Blast</eng>
+				</Name>
+				<Desc>
+					<eng>The damage arc is increased by %arcangle_°.</eng>
+				</Desc>
+			</Powerup2>			
+		</Fusillade>
+		<Fusillade_criticalDamage>
+			<Name>
+				<eng>Barbed Hail</eng>
+			</Name>
+			<Desc>
+				<eng>Increases Critical Damage (even beyond the maximum limit)</eng>
+			</Desc>
+			<effect0>
+				<eng>Critical Damage is increased by %criticaldamage_.</eng>
+			</effect0>			
+		</Fusillade_criticalDamage>
+		<Fusillade_damageLossStart>
+			<Name>
+				<eng>Heavy Projectiles</eng>
+			</Name>
+			<Desc>
+				<eng>The damage dropoff range is improved (maximum range is also increased).</eng>
+			</Desc>
+			<effect0>
+				<eng>Damage dropoff starts at %damagelossstart_ meters.</eng>
+			</effect0>
+		</Fusillade_damageLossStart>
+		<Fusillade_knockback>
+			<Name>
+				<eng>Tumbler Ammunition</eng>
+			</Name>
+			<Desc>
+				<eng>Targets may be knocked down.</eng>
+			</Desc>
+			<effect0>
+				<eng>%knockbackchance_% knockdown chance.</eng>
+			</effect0>			
+		</Fusillade_knockback>
+		<Fusillade_criticalChance>
+			<Name>
+				<eng>Ripper Ammunition</eng>
+			</Name>
+			<Desc>
+				<eng>Increases Critical Hit Chance (even beyond the maximum limit)</eng>
+			</Desc>
+			<effect0>
+				<eng>Critical Hit Chance is increased by %criticalchance_.</eng>
+			</effect0>			
+		</Fusillade_criticalChance>
+		<ImprovedFrostMineCluster>
+			<Name>
+				<eng>Frost Mine Array</eng>
+			</Name>
+			<Desc>
+				<eng>Places a protective ring of 5 frost mines dealing ice damage within 2 meters when triggered. Freezes enemies for 1 second, then slows them down by 30% for 3 more seconds. Laying new mines will destroy existing arrays.</eng>
+			</Desc>
+			<effect0>
+				<eng>Mine (Ice):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<effect1>
+				<eng>Enemies struck are frozen for 1 second and then slowed by %slow_% for 3 seconds.</eng>
+			</effect1>
+			<Powerup0>
+				<Name>
+					<eng>Frost Blight Mines</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Freezing Shock Mines</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies are frozen for an additional %freezeduration_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Hexaglycerine Mines</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies gain %physicalvulnerability_ physical vulerability for 5 seconds.</eng>
+				</Desc>
+			</Powerup2>			
+		</ImprovedFrostMineCluster>
+		<ImprovedFrostMineCluster_mineCount>
+			<Name>
+				<eng>Extended Array</eng>
+			</Name>
+			<Desc>
+				<eng>An additional %minecount_ mines are deployed.</eng>
+			</Desc>						
+		</ImprovedFrostMineCluster_mineCount>
+		<ImprovedFrostMineCluster_slow>
+			<Name>
+				<eng>Frostgel Filling</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the slow effect by %slowbonus_%.</eng>
+			</Desc>						
+		</ImprovedFrostMineCluster_slow>
+		<ImprovedFrostMineCluster_manaCost>
+			<Name>
+				<eng>Mine Assembly Kit</eng>
+			</Name>
+			<Desc>
+				<eng>Mana cost is reduced by %manacost_%.</eng>
+			</Desc>			
+		</ImprovedFrostMineCluster_manaCost>
+		<ImprovedFrostMineCluster_slowDuration>
+			<Name>
+				<eng>Hypernitrate Additive</eng>
+			</Name>
+			<Desc>
+				<eng>The slow effect lasts an additional %slowduration_ seconds.</eng>
+			</Desc>						
+		</ImprovedFrostMineCluster_slowDuration>
+		<ImprovedNoxiousMine>
+			<Name>
+				<eng>Toxin Mine</eng>
+			</Name>
+			<Desc>
+				<eng>Launches a mine which arms itself with a 2 second delay and deals poison damage for 5 seconds within 1.5 meters when triggered. Targets are also afflicted with 25% vulnerability for 10 seconds. (A maximum of 3 mines permitted, laying a 4th will destroys the one you created first.)</eng>
+			</Desc>
+			<effect0>
+				<eng>%attack_ initial Poison damage (%weapondamage_ of Weapon Damage)</eng>
+			</effect0>
+			<effect1>
+				<eng>%cloudattack_ Poison damage (%cloudweapondamage_ of Weapon Damage) per second</eng>
+			</effect1>
+			<Powerup0>
+				<Name>
+					<eng>Experimental Neurotoxin</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Spasm Toxin</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck are slowed by %slow_% for 10 seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Ultrapressurized Canister</eng>
+				</Name>
+				<Desc>
+					<eng>The area of effect is increased by %blastradius_ meters.</eng>
+				</Desc>
+			</Powerup2>			
+		</ImprovedNoxiousMine>
+		<ImprovedNoxiousMine_ArmTime>
+			<Name>
+				<eng>Chemical Primer</eng>
+			</Name>
+			<Desc>
+				<eng>Decreases the arming time of the mines.</eng>
+			</Desc>
+			<effect0>
+				<eng>Arming time is reduced by %armtime_ seconds.</eng>
+			</effect0>			
+		</ImprovedNoxiousMine_ArmTime>
+		<ImprovedNoxiousMine_Vulnerability>
+			<Name>
+				<eng>Chemical Burns</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the vulnerability effect.</eng>
+			</Desc>
+			<effect0>
+				<eng>Vulnerability is increased by %vulnerability_.</eng>
+			</effect0>
+		</ImprovedNoxiousMine_Vulnerability>
+		<ImprovedNoxiousMine_mineCount>
+			<Name>
+				<eng>Extended Cluster</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the maximum number of mines.</eng>
+			</Desc>
+			<effect0>
+				<eng>%minecount_ additional mines can be deployed.</eng>
+			</effect0>			
+		</ImprovedNoxiousMine_mineCount>
+		<ImprovedNoxiousMine_cooldown>
+			<Name>
+				<eng>Auto-Assembler</eng>
+			</Name>
+			<Desc>
+				<eng>Decreases cooldown.</eng>
+			</Desc>
+			<effect0>
+				<eng>Cooldown is reduced by %cooldown_ seconds.</eng>
+			</effect0>
+		</ImprovedNoxiousMine_cooldown>		
+		<ImprovedIncendiaryMine>
+			<Name>
+				<eng>Hades Mine</eng>
+			</Name>
+			<Desc>
+				<eng>Launches a mine which arms itself with a 2 second delay and deals fire damage for 5 seconds within 3 meters when triggered. Targets are ignited. (A maximum of 3 mines permitted, laying a 4th will destroys the one you created first.)</eng>
+			</Desc>
+			<effect0>
+				<eng>Mine (Fire):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<effect1>
+				<eng>DOT (Fire):\n- Damage Effectiveness: %dotweapondamage_ per second\n- Total Damage: +%lvlscaleDOT_</eng>
+			</effect1>
+			<Powerup0>
+				<Name>
+					<eng>White Phosphorus Charge</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies burn for %dotduration_ seconds longer.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Overcharged Mine</eng>
+				</Name>
+				<Desc>
+					<eng>The area of effect is increased by %blastradius_ meters.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Hellblast Mine</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup2>
+			<Expert>
+				<Name>
+					<eng>Multiconstructor Belt</eng>
+				</Name>
+				<Desc>
+					<eng>Cooldown is reduced by %cooldown_ seconds.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Extended Cluster</eng>
+				</Name>
+				<Desc>
+					<eng>%minecount_ additional mines can be deployed.</eng>
+				</Desc>
+			</Master>
+		</ImprovedIncendiaryMine>
+		<improvedSluggishTime>
+			<Name>
+				<eng>Chrono-lock</eng>
+			</Name>
+			<Desc>
+				<eng>Cuts the flow of time by half while you remain able to act normally. Also increases your damage for the duration.</eng>
+			</Desc>
+			<effect0>
+				<eng>Increases damage by %damage_.</eng>
+			</effect0>
+			<buff__Burnout>
+				<eng>%s: -%.3g%% cooldown (-%.3g%% per level)</eng>
+			</buff__Burnout>
+			<buff__Boost>
+				<eng>%s: -%.3g%% cooldown (-%.3g%% per level)</eng>
+			</buff__Boost>
+			<Powerup0>
+				<Name>
+					<eng>Extended Sluggish Time</eng>
+				</Name>
+				<Desc>
+					<eng>The duration is increased by %duration_ seconds.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Regenerative Shroud</eng>
+				</Name>
+				<Desc>
+					<eng>Heals %heal_ of your maximum health per second.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Dramatic Precision</eng>
+				</Name>
+				<Desc>
+					<eng>Increases Critical Hit Chance by %critchance_ (even beyond the maximum limit).</eng>
+				</Desc>
+			</Powerup2>			
+		</improvedSluggishTime>
+		<improvedSluggishTime_cooldown>
+			<Name>
+				<eng>Reiterator Core Fan</eng>
+			</Name>
+			<Desc>
+				<eng>Cooldown is reduced by %cooldown_ seconds.</eng>
+			</Desc>						
+		</improvedSluggishTime_cooldown>
+		<improvedSluggishTime_damage>
+			<Name>
+				<eng>Auxiliary Aim Gyroscope</eng>
+			</Name>
+			<Desc>
+				<eng>Damage is increased by %damageboost_.</eng>
+			</Desc>						
+		</improvedSluggishTime_damage>
+		<improvedSluggishTime_magicFind>
+			<Name>
+				<eng>Indeterministic Matter Converter</eng>
+			</Name>
+			<Desc>
+				<eng>Increases Magic Item find chance by %magicfind_ while the skill is active.</eng>
+			</Desc>						
+		</improvedSluggishTime_magicFind>
+		<improvedSluggishTime_mana>
+			<Name>
+				<eng>Chronodiffusion Collector</eng>
+			</Name>
+			<Desc>
+				<eng>Regenerates %mana_ of your maximum Mana each second.</eng>
+			</Desc>						
+		</improvedSluggishTime_mana>
+		<chronoLock>
+			<Name>
+				<eng>Chrono-lock</eng>
+			</Name>
+			<Desc>
+				<eng>Cuts the flow of time by half while you remain able to act normally. Also increases your damage for the duration.</eng>
+			</Desc>
+			<effect0>
+				<eng>Increases damage by %damage_</eng>
+			</effect0>
+			<buff__Fear>
+				<eng>%s: -%.3g%% Cooldown (-%.3g%% per level)</eng>
+			</buff__Fear>
+			<buff__ArcaneHealing>
+				<eng>%s: -%.3g%% Cooldown (-%.3g%% per level)</eng>
+			</buff__ArcaneHealing>
+			<Powerup0>
+				<Name>
+					<eng>Extended Sluggish Time</eng>
+				</Name>
+				<Desc>
+					<eng>The duration is increased by %durationbonus_ seconds.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Regenerative Shroud</eng>
+				</Name>
+				<Desc>
+					<eng>Heals %heal_ of your maximum health per second.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Dramatic Precision</eng>
+				</Name>
+				<Desc>
+					<eng>Increases Critical Hit Chance by %critchance_ (even beyond the maximum limit).</eng>
+				</Desc>
+			</Powerup2>			
+		</chronoLock>
+		<chronoLock_cooldown>
+			<Name>
+				<eng>Collected Mind</eng>
+			</Name>
+			<Desc>
+				<eng>Decreases cooldown.</eng>
+			</Desc>
+			<effect0>
+				<eng>Cooldown is reduced by %cooldowndecrease_ seconds.</eng>
+			</effect0>			
+		</chronoLock_cooldown>
+		<chronoLock_damage>
+			<Name>
+				<eng>Rigorous Precision</eng>
+			</Name>
+			<Desc>
+				<eng>Increases damage</eng>
+			</Desc>
+			<effect0>
+				<eng>Damage is increased by %damagebonus_.</eng>
+			</effect0>			
+		</chronoLock_damage>
+		<chronoLock_magicfind>
+			<Name>
+				<eng>Twist of Fate</eng>
+			</Name>
+			<Desc>
+				<eng>Increases Magic Item find chance while the skill is active.</eng>
+			</Desc>
+			<effect0>
+				<eng>Magic Item Find is increased by %magicfind_.</eng>
+			</effect0>			
+		</chronoLock_magicfind>
+		<chronoLock_mana>
+			<Name>
+				<eng>Chrono Drain</eng>
+			</Name>
+			<Desc>
+				<eng>Regenerates some of your Mana.</eng>
+			</Desc>
+			<effect0>
+				<eng>%mana_ Mana regenerated per second.</eng>
+			</effect0>			
+		</chronoLock_mana>
+		<interceptiveForcefield>
+			<Name>
+				<eng>Upgrade Forcefield</eng>
+			</Name>
+			<Desc>
+				<eng>Upgrades the damage absorbing capability of your protective energy bubble.</eng>
+			</Desc>
+			<effect0>
+				<eng>The shield has %shieldmaxhp_ additional hit points.</eng>
+			</effect0>
+			<Expert>
+				<Name>
+					<eng>Auxiliary Battery</eng>
+				</Name>
+				<Desc>
+					<eng>%shieldcharge_ shield power regenerated each second, on a %chargedelay_ second regeneration delay.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Irrational Reinductor Core</eng>
+				</Name>
+				<Desc>
+					<eng>%rechargechance_ chance to recharge instantly when depleted.</eng>
+				</Desc>
+			</Master>			
+		</interceptiveForcefield>
+		<block>
+			<Name>
+				<eng>Shield Block</eng>
+			</Name>
+			<Desc>
+				<eng>You raise your shield to block all damage that originates in a 180° arc in front of you. While blocking, you cannot attack or move. Each incoming attack increases your Retaliation Value depending on the damage blocked. When you stop blocking, you deal increased damage with the next strike based on your Retaliation Value. Note that area attacks cannot be blocked.</eng>
+			</Desc>
+			<effect0>
+				<eng>%blockpointsmul4damagebonus_ bonus damage per Retaliation point.</eng>
+			</effect0>
+			<miniShieldBlock>
+				<eng>%s: +%.3g%% Retaliation point (+%.3g%% per level)</eng>
+			</miniShieldBlock>
+			<buff__Painlessness>
+				<eng>%s: +%.3g%% Retaliation point (+%.3g%% per level)</eng>
+			</buff__Painlessness>
+			<Powerup0>
+				<Name>
+					<eng>Shield Blast</eng>
+				</Name>
+				<Desc>
+					<eng>Attackers have a %stunchance_ chance to be stunned for 2 seconds.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Reflecting Shield</eng>
+				</Name>
+				<Desc>
+					<eng>Retaliation Value charges %blockpoints_ faster.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Shield Boon</eng>
+				</Name>
+				<Desc>
+					<eng>Each attack regenerates %heal_ of your maximum health in the first %healdurationlimit_ seconds of blocking.</eng>
+				</Desc>
+			</Powerup2>
+		</block>
+		<block_blockPoolMax>
+			<Name>
+				<eng>Arcane Retaliation</eng>
+			</Name>
+			<Desc>
+				<eng>Increases your maximum Retaliation Value by %blockpoolmax_%.</eng>
+			</Desc>
+			<effect0>
+				<eng>Maximum Retaliation Value is increased.</eng>
+			</effect0>
+		</block_blockPoolMax>
+		<block_slowDecrease>
+			<Name>
+				<eng>Shield Wall</eng>
+			</Name>
+			<Desc>
+				<eng>Each blocked attack has a %ragechance_ chance to generate a Rage point.</eng>
+			</Desc>			
+		</block_slowDecrease>
+		<block_blockPoints>
+			<Name>
+				<eng>Deflection Mastery</eng>
+			</Name>
+			<Desc>
+				<eng>Blocking increases the Retaliation Value %blockpoints_ faster.</eng>
+			</Desc>			
+		</block_blockPoints>
+		<block_undepleteChance>
+			<Name>
+				<eng>Stalwart Defense</eng>
+			</Name>
+			<Desc>
+				<eng>There is a %undepletechance_ chance that your attacks do not deplete your Retaliation value.</eng>
+			</Desc>			
+		</block_undepleteChance>
+		<gigaBash>
+			<Name>
+				<eng>Smashing Blow</eng>
+			</Name>
+			<Desc>
+				<eng>Strikes a single target for heavy melee damage. If you keep attacking the same target, every subsequent strike deals 15% increased damage, stacking up to 30 times.</eng>
+			</Desc>
+			<effect0>
+				<eng>Hit (Physical):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Pulverizing Blow</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Skullcrushing Blow</eng>
+				</Name>
+				<Desc>
+					<eng>Target is stunned for %stunduration_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Disemboweling Strike</eng>
+				</Name>
+				<Desc>
+					<eng>Target is afflicted with %vulnerability_ vulnerability for 5 seconds.</eng>
+				</Desc>
+			</Powerup2>			
+		</gigaBash>
+		<gigaBash_powerupCost>
+			<Name>
+				<eng>Wrath of Mind</eng>
+			</Name>
+			<Desc>
+				<eng>Smashing Blow powerups cost %powerupcost_ less Rage.</eng>
+			</Desc>					
+		</gigaBash_powerupCost>
+		<gigaBash_heal>
+			<Name>
+				<eng>Vampiric Onslaught</eng>
+			</Name>
+			<Desc>
+				<eng>Each strike restores %heal_ of your maximum health.</eng>
+			</Desc>						
+		</gigaBash_heal>
+		<gigaBash_ragePerKill>
+			<Name>
+				<eng>Furious Onslaught</eng>
+			</Name>
+			<Desc>
+				<eng>Each strike generates %rageperkill_ Rage, this only works when the rage gain reaches level 3.</eng>
+			</Desc>						
+		</gigaBash_ragePerKill>
+		<gigaBash_massSlow>
+			<Name>
+				<eng>Relentless Onslaught</eng>
+			</Name>
+			<Desc>
+				<eng>The target is slowed by %massslow_ for 5 seconds. The duration increases with multiple strikes.</eng>
+			</Desc>			
+		</gigaBash_massSlow>
+		<megaViper>
+			<Name>
+				<eng>Viper Leap</eng>
+			</Name>
+			<Desc>
+				<eng>You blink forward up to 10 meters and strike a single target. The target is slain instantly, if the damage exceeds 60% of his current health.</eng>
+			</Desc>
+			<effect0>
+				<eng>Hit (Physical):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Forceful Thrust</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Dream Venom</eng>
+				</Name>
+				<Desc>
+					<eng>The target is unable to cast spells for %nocastduration_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Breeze of Death</eng>
+				</Name>
+				<Desc>
+					<eng>The attack gains a 2 meter damage radius that deals %areadamage_ damage.</eng>
+				</Desc>
+			</Powerup2>			
+		</megaViper>
+		<megaViper_killHPLimit>
+			<Name>
+				<eng>Twisted Blade</eng>
+			</Name>
+			<Desc>
+				<eng>Decreases the health threshold for instant kills by %actualhppercentdamagedealt_.</eng>
+			</Desc>			
+		</megaViper_killHPLimit>
+		<megaViper_castDistance>
+			<Name>
+				<eng>Shadow Step</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the maximum blink range by %castdistance_ meters.</eng>
+			</Desc>			
+		</megaViper_castDistance>
+		<megaViper_knockdown>
+			<Name>
+				<eng>Soul Thud</eng>
+			</Name>
+			<Desc>
+				<eng>The target is knocked down if you attack from at least %minknockdowndist_ meters away (some enemies may be immune to this).</eng>
+			</Desc>			
+		</megaViper_knockdown>
+		<megaViper_manaCost>
+			<Name>
+				<eng>Battle Trance</eng>
+			</Name>
+			<Desc>
+				<eng>Mana cost is reduced by %manacost_.</eng>
+			</Desc>
+		</megaViper_manaCost>
+		<megaWhirlwind>
+			<Name>
+				<eng>Hurricane Assault</eng>
+			</Name>
+			<Desc>
+				<eng>You spin around while moving towards the cursor, damaging all enemies in your path within 2 meters. Dealt damage increases by 20% and Mana cost also increases per second. The damage output is based on your attack rate.</eng>
+			</Desc>
+			<effect0>
+				<eng>Hit (Physical):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Tornado Strikes</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Path of Destruction</eng>
+				</Name>
+				<Desc>
+					<eng>Area of effect is increased by %range_ meters.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Essence Hurricane</eng>
+				</Name>
+				<Desc>
+					<eng>Each hit recharges %manaperhit_ Mana.</eng>
+				</Desc>
+			</Powerup2>			
+		</megaWhirlwind>
+		<megaWhirlwind_manaCost>
+			<Name>
+				<eng>Effortless Storm</eng>
+			</Name>
+			<Desc>
+				<eng>Mana cost is reduced to %manacost_.</eng>
+			</Desc>
+			</megaWhirlwind_manaCost>
+		<megaWhirlwind_hpPerHit>
+			<Name>
+				<eng>Boon of Carnage</eng>
+			</Name>
+			<Desc>
+				<eng>Each hit heals you for %hpperhit_ of your maximum health.</eng>
+			</Desc>			
+		</megaWhirlwind_hpPerHit>
+		<megaWhirlwind_speed>
+			<Name>
+				<eng>Hurricane Rush</eng>
+			</Name>
+			<Desc>
+				<eng>Movement speed is increased by %slowdecrease_.</eng>
+			</Desc>						
+		</megaWhirlwind_speed>
+		<megaWhirlwind_defense>
+			<Name>
+				<eng>Blade Aura</eng>
+			</Name>
+			<Desc>
+				<eng>Defense is increased by %defense_ while the skill is active.</eng>
+			</Desc>			
+		</megaWhirlwind_defense>
+		<Smite>
+			<Name>
+				<eng>Smite</eng>
+			</Name>
+			<Desc>
+				<eng>You fade into the Ink and burst forward with blinding speed. Enemies in your path take shock damage and are knocked down. (Powerful enemies may resist the knockdown.)</eng>
+			</Desc>
+			<effect0>
+				<eng>Move to the mouse cursor in a split second (obstacles will stop you).</eng>
+			</effect0>
+			<effect1>
+				<eng>Enemies in your Path (Physical):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect1>
+			<Powerup0>
+				<Name>
+					<eng>Ghastly Touch</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Ink Blast</eng>
+				</Name>
+				<Desc>
+					<eng>An explosion occurs at the end of the path dealing %aoedamagepercent_ of the original damage to enemies within 3 meters.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Spirit Shock</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck are stunned for %stunduration_ seconds.</eng>
+				</Desc>
+			</Powerup2>			
+			<Expert>
+				<Name>
+					<eng>Attuned Soul</eng>
+				</Name>
+				<Desc>
+					<eng>Cooldown is reduced by %cooldowndecrease_ seconds.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Aura of Cold</eng>
+				</Name>
+				<Desc>
+					<eng>Damage path width is increased by %widthbonus_ meters.</eng>
+				</Desc>
+			</Master>
+		</Smite>
+		<tuskeCleave>
+			<Name>
+				<eng>Spike Strike</eng>
+			</Name>
+			<Desc>
+				<eng>A field of razor sharp spikes emerge from the ground in front of you, damaging enemies within 5 meters in a 120 degree arc.</eng>
+			</Desc>
+			<effect0>
+				<eng>Spikes (Physical):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Barbed Spikes</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Impaling Spikes</eng>
+				</Name>
+				<Desc>
+					<eng>Critical Damage is increased by %criticaldamage_.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Bleedout</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck have %physicalresist_ less physical resistance for 3 seconds.</eng>
+				</Desc>
+			</Powerup2>			
+		</tuskeCleave>
+		<tuskeCleave_damageSpecial>
+			<Name>
+				<eng>Mightbane Spikes</eng>
+			</Name>
+			<Desc>
+				<eng>Elite, Champion and Boss enemies take %damagespecial_ more damage.</eng>
+			</Desc>			
+		</tuskeCleave_damageSpecial>
+		<tuskeCleave_range>
+			<Name>
+				<eng>Field of Spikes</eng>
+			</Name>
+			<Desc>
+				<eng>Area of effect increased by %range_ meters.</eng>
+			</Desc>
+		</tuskeCleave_range>
+		<tuskeCleave_blockPoolCost>
+			<Name>
+				<eng>Resonating Spikes</eng>
+			</Name>
+			<Desc>
+				<eng>Reduces the retaliation use of Spike Strike by an additional %depletedecrease_.</eng>
+			</Desc>			
+		</tuskeCleave_blockPoolCost>
+		<tuskeCleave_massSlow>
+			<Name>
+				<eng>Spike Snare</eng>
+			</Name>
+			<Desc>
+				<eng>Enemies struck are slowed by %massslow_ for 5 seconds.</eng>
+			</Desc>			
+		</tuskeCleave_massSlow>
+		<Megafrostring>
+			<Name>
+				<eng>Frost Sphere</eng>
+			</Name>
+			<Desc>
+				<eng>Creates a protective frost sphere of 3 meter radius that deals continuous ice damage. Nearby enemies also have their movement slowed.</eng>
+			</Desc>
+			<effect0>
+				<eng>Sphere (Ice):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_ \n- Frost Sphere gains 50% additional damage from added Elemental damage</eng>
+			</effect0>
+			<effect1>
+				<eng>%chill_ slow for enemies struck.</eng>
+			</effect1>
+			<Powerup0>
+				<Name>
+					<eng>Chill Bite</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Ice Aura</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies are frozen for %freezeduration_ seconds (once per activation).</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Unrelenting Blizzard</eng>
+				</Name>
+				<Desc>
+					<eng>Duration is increased by %durationbonus_ seconds.</eng>
+				</Desc>
+			</Powerup2>			
+		</Megafrostring>
+		<Megafrostring_range>
+			<Name>
+				<eng>Dome of Cold</eng>
+			</Name>
+			<Desc>
+				<eng>Increases area of effect by %radiusbonus_ meters.</eng>
+			</Desc>
+		</Megafrostring_range>
+		<Megafrostring_slow>
+			<Name>
+				<eng>Freezing Grip</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the slowdown effect by %chillbonus_.</eng>
+			</Desc>
+		</Megafrostring_slow>
+		<Megafrostring_duration>
+			<Name>
+				<eng>Ceaseless Blizzard</eng>
+			</Name>
+			<Desc>
+				<eng>Increases duration by %durationbonus_ seconds.</eng>
+			</Desc>						
+		</Megafrostring_duration>
+		<Megafrostring_vulnerability>
+			<Name>
+				<eng>Frozen Blood</eng>
+			</Name>
+			<Desc>
+				<eng>Targets are afflicted with %vulnerability_ ice vulnerability while inside the area of effect.</eng>
+			</Desc>						
+		</Megafrostring_vulnerability>		
+		<battleCry>
+			<Name>
+				<eng>Battlecry</eng>
+			</Name>
+			<Desc>
+				<eng>The Battlecry increases your damage and movement speed for a short time. Allies within 8 meters receive 50% of the bonuses.</eng>
+				<debuffdesc>
+						<eng>Battlecry: Increased damage and movement speed.</eng>
+				</debuffdesc>
+			</Desc>
+			<effect0>
+				<eng>Bonus %postcalcfurydamagebonus_ damage.</eng>
+			</effect0>
+			<effect1>
+				<eng>Bonus %speed_ movement speed.</eng>
+			</effect1>
+			<taunt>
+				<eng>%s: +%.3g%% to bonuses (+%.3g%% per level)</eng>
+			</taunt>
+			<buff__ChainSnare>
+				<eng>%s: +%.3g%% to bonuses (+%.3g%% per level)</eng>
+			</buff__ChainSnare>
+			<Powerup0>
+				<Name>
+					<eng>Rejuvenating Shout</eng>
+				</Name>
+				<Desc>
+					<eng>You also regenerate %hpregen_ of your maximum health per second.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Warding Shout</eng>
+				</Name>
+				<Desc>
+					<eng>You gain +%defense_ to your Defense.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Terrifying Shout</eng>
+				</Name>
+				<Desc>
+					<eng>All enemies within the area of effect are struck with fear and flee for %fearduration_ seconds. (Powerful enemies may resist this.)</eng>
+				</Desc>
+			</Powerup2>			
+		</battleCry>
+		<battleCry_duration>
+			<Name>
+				<eng>Echoing Shout</eng>
+			</Name>
+			<Desc>
+				<eng>Duration is increased by %duration_ seconds.</eng>
+			</Desc>			
+		</battleCry_duration>
+		<battleCry_range>
+			<Name>
+				<eng>Thundering Shout</eng>
+			</Name>
+			<Desc>
+				<eng>Area of effect is increased by %range_ meters.</eng>
+			</Desc>			
+		</battleCry_range>
+		<battleCry_damageReduction>
+			<Name>
+				<eng>Staggering Shout</eng>
+			</Name>
+			<Desc>
+				<eng>Enemies within the area of effect deal %damagereduction_ less damage.</eng>
+			</Desc>			
+		</battleCry_damageReduction>
+		<battleCry_damageBonus>
+			<Name>
+				<eng>Exhilarating Shout</eng>
+			</Name>
+			<Desc>
+				<eng>Damage is increased by %damagebonus_.</eng>
+			</Desc>						
+		</battleCry_damageBonus>				
+		<protectiveAura>
+			<Name>
+				<eng>Aura of Vigilance</eng>
+			</Name>
+			<Desc>
+				<eng>You and all your allies within 10 meters gain a Defense and Resistances bonus (calculated from your stats).</eng>
+			</Desc>
+			<effect0>
+				<eng>Bonus %defense_ Defense.</eng>
+			</effect0>
+			<effect1>
+				<eng>Bonus %fullresistance_ to all resistances.</eng>
+			</effect1>
+			<Expert>
+				<Name>
+					<eng>Aura of Haste</eng>
+				</Name>
+				<Desc>
+					<eng>You and your allies within the area of effect gain a %speed_ movement bonus to speed.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Aura of Fortune</eng>
+				</Name>
+				<Desc>
+					<eng>You and your allies within the area of effect gain a %magicfind_ bonus to find magic items.</eng>
+				</Desc>
+			</Master>
+		</protectiveAura>
+		<protectiveAura_range>
+			<Name>
+				<eng>Enlarged Aura</eng>
+			</Name>
+			<Desc>
+				<eng>Increases area of effect.</eng>
+			</Desc>
+			<effect0>
+				<eng>Area of effect increased by %range_ meters.</eng>
+			</effect0>			
+		</protectiveAura_range>
+		<protectiveAura_sacrifice>
+			<Name>
+				<eng>Aura of Sacrifice</eng>
+			</Name>
+			<Desc>
+				<eng>Some of the damage taken by allies within the area of effect is transferred to you.</eng>
+			</Desc>
+			<effect0>
+				<eng>%damagetransfer_ damage transferred to you</eng>
+			</effect0>
+		</protectiveAura_sacrifice>
+		<protectiveAura_speed>
+			<Name>
+				<eng>Aura of Haste</eng>
+			</Name>
+			<Desc>
+				<eng>You and your allies within the area of effect gain a movement speed bonus.</eng>
+			</Desc>
+			<effect0>
+				<eng>+%speed_ movement speed</eng>
+			</effect0>
+		</protectiveAura_speed>
+		<protectiveAura_magicFind>
+			<Name>
+				<eng>Aura of Fortune</eng>
+			</Name>
+			<Desc>
+				<eng>You and your allies within the area of effect gain a bonus to find magic items.</eng>
+			</Desc>
+			<effect0>
+				<eng>+%magicfind_ magic item find</eng>
+			</effect0>
+		</protectiveAura_magicFind>
+		<brutalMagicMissile>
+			<Name>
+				<eng>Stream of Bolts</eng>
+			</Name>
+			<Desc>
+				<eng>Launches energy bolts at a rate of 3 per second while the skill is active. The bolts hit the nearest enemy unless you have a direct target. When the skill is inactivate an extra energy bolt is generated every second, up to a maximum of 3.</eng>
+			</Desc>
+			<effect0>
+				<eng>Per Bolt (Lightning):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Raw Force</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Essence Bolts</eng>
+				</Name>
+				<Desc>
+					<eng>Each bolt recharges %manaperhit_ of your maximum Mana upon impact.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Paralyzing Bolts</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck are shocked for %shockduration_ seconds.</eng>
+				</Desc>
+			</Powerup2>			
+		</brutalMagicMissile>
+		<brutalMagicMissile_boltCount>
+			<Name>
+				<eng>Swarm of Bolts</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the maximum number of extra energy bolts by %boltcountbonus_.</eng>
+			</Desc>					
+		</brutalMagicMissile_boltCount>
+		<brutalMagicMissile_blast>
+			<Name>
+				<eng>Spark Blast</eng>
+			</Name>
+			<Desc>
+				<eng>The energy bolts causes %blastdamage_ area damage within 2 meters.</eng>
+			</Desc>						
+		</brutalMagicMissile_blast>
+		<brutalMagicMissile_slow>
+			<Name>
+				<eng>Enervating Bolts</eng>
+			</Name>
+			<Desc>
+				<eng>The energy bolts slow enemies down by %slow_% for 2 seconds.</eng>
+			</Desc>					
+		</brutalMagicMissile_slow>
+		<brutalMagicMissile_criticalChance>
+			<Name>
+				<eng>Supercharged Bolts</eng>
+			</Name>
+			<Desc>
+				<eng>Increases Critical Hit Chance by %critchance_% (even beyond the maximum limit).</eng>
+			</Desc>						
+		</brutalMagicMissile_criticalChance>
+		<gianthidra>
+			<Name>
+				<eng>Flame Serpent</eng>
+			</Name>
+			<Desc>
+				<eng>Summons an invulnerable, three-headed Fire Hydra. Attacks a single target, deals fire damage. The creature does not block movement.</eng>
+			</Desc>
+			<effect0>
+				<eng>Per Head (Fire):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<effect1>
+				<eng>Mana upkeep: %manareserve_ of maximum Mana per active hydra.</eng>
+			</effect1>
+			<Powerup0>
+				<Name>
+					<eng>Fire Spit</eng>
+				</Name>
+				<Desc>
+					<eng>Targets are ignited for 5 seconds, taking %dot_ damage each second.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Blazing Droplets</eng>
+				</Name>
+				<Desc>
+					<eng>Hydra attacks deal %aoedamage_ of damage within 2 meters of the target.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Scalding Venom</eng>
+				</Name>
+				<Desc>
+					<eng>Targets are afflicted with %firevulnerability_ vulnerability against fire as long as the Fire Hydra exists. The effect can be stacked.</eng>
+				</Desc>
+			</Powerup2>			
+		</gianthidra>
+		<GiantHidra_duration>
+			<Name>
+				<eng>Summoning Aid</eng>
+			</Name>
+			<Desc>
+				<eng>Duration is increased by %durationbonus_ seconds.</eng>
+			</Desc>						
+		</GiantHidra_duration>
+		<GiantHidra_respawn>
+			<Name>
+				<eng>Spontaneous Simulracum</eng>
+			</Name>
+			<Desc>
+				<eng>The Hydra has a %respawnchance_ chance to respawn immediately after disappearing.</eng>
+			</Desc>					
+		</GiantHidra_respawn>
+		<GiantHidra_cooldown>
+			<Name>
+				<eng>Summoning Talent</eng>
+			</Name>
+			<Desc>
+				<eng>Cooldown is reduced by %cooldowndecrease_ seconds.</eng>
+			</Desc>						
+		</GiantHidra_cooldown>
+		<GiantHidra_upkeep>
+			<Name>
+				<eng>Spirit Affinity</eng>
+			</Name>
+			<Desc>
+				<eng>Hydra upkeep is reduced by %upkeepdecrease_.</eng>
+			</Desc>						
+		</GiantHidra_upkeep>		
+		<megapillar>
+			<Name>
+				<eng>Frost Pillar</eng>
+			</Name>
+			<Desc>
+				<eng>Creates a 3 meter wide rolling frost column which attacks the nearest enemy, dealing continuous ice damage.</eng>
+			</Desc>
+			<effect0>
+				<eng>Pillar (Ice):\n- Damage Effectiveness: %weapondamage_ per second\n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<effect1>
+				<eng>Targets are slowed by %chill_ while in the area of effect.</eng>
+			</effect1>
+			<effect2>
+				<eng>Mana upkeep: %manareserve_ of maximum Mana.</eng>
+			</effect2>
+			<Powerup0>
+				<Name>
+					<eng>Bone-chilling Cold</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Spool of Frost</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck are frozen for %freezeduration_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Winter Pillar</eng>
+				</Name>
+				<Desc>
+					<eng>The area of effect is increased by %radiusbonus_ meters.</eng>
+				</Desc>
+			</Powerup2>		
+		</megapillar>
+		<Megapillar_speed>
+			<Name>
+				<eng>Swift Pillar</eng>
+			</Name>
+			<Desc>
+				<eng>Movement speed of the column is increased by %speedbonus_.</eng>
+			</Desc>						
+		</Megapillar_speed>
+		<Megapillar_upkeep>
+			<Name>
+				<eng>Frost Magic Aptitude</eng>
+			</Name>
+			<Desc>
+				<eng>Pillar upkeep is reduced by %upkeepdecrease_.</eng>
+			</Desc>						
+		</Megapillar_upkeep>
+		<Megapillar_duration>
+			<Name>
+				<eng>Persistent Pillar</eng>
+			</Name>
+			<Desc>
+				<eng>Duration is increased by %durationbonus_ seconds.</eng>
+			</Desc>						
+		</Megapillar_duration>
+		<Megapillar_cooldown>
+			<Name>
+				<eng>Cold Mastery</eng>
+			</Name>
+			<Desc>
+				<eng>Cooldown is reduced by %cooldowndecrease_ seconds.</eng>
+			</Desc>						
+		</Megapillar_cooldown>		
+		<gigatuzfal>
+			<Name>
+				<eng>Blazing Barrier</eng>
+			</Name>
+			<Desc>
+				<eng>You create a 2 meter thick wall of fire by drawing on the ground. It can be of any shape or length, but the longer the wall, the more Mana it consumes. (Base Mana cost is 20 which doubles with each additional meter.) Enemies leaving area of effect are burning for 5 seconds, taking 50% of the original damage per second. Enemies killed by the wall create lesser Fire Hydras (not more than 6).</eng>
+			</Desc>
+			<effect0>
+				<eng>Ground Effect (Fire):\n- Damage Effectiveness: %weapondamage_ per second\n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<effect1>
+				<eng>%hidraattack_ Fire damage (%hidraweapondamage_ of Weapon Damage) per hydra attack.</eng>
+			</effect1>
+			<Powerup0>
+				<Name>
+					<eng>Infernal Barrier</eng>
+				</Name>
+				<Desc>
+					<eng>Fire damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Hellspawn</eng>
+				</Name>
+				<Desc>
+					<eng>Hydra damage is increased by %hidradamagebonus_.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Greek Fire</eng>
+				</Name>
+				<Desc>
+					<eng>Ignited enemies burn for an additional %burningdurationbonus_ seconds.</eng>
+				</Desc>
+			</Powerup2>			
+		</gigatuzfal>
+		<GigaTuzfal_hidracount>
+			<Name>
+				<eng>Fiery Sustenance</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the maximum number of lesser Fire Hydras by %hidracountbonus_.</eng>
+			</Desc>						
+		</GigaTuzfal_hidracount>
+		<GigaTuzfal_duration>
+			<Name>
+				<eng>Everlasting Flames</eng>
+			</Name>
+			<Desc>
+				<eng>Duration is increased by %durationbonus_ seconds.</eng>
+			</Desc>
+		</GigaTuzfal_duration>
+		<GigaTuzfal_dotdamage>
+			<Name>
+				<eng>Charring Flames</eng>
+			</Name>
+			<Desc>
+				<eng>Burning damage is increased by %burningdamagebonus_.</eng>
+			</Desc>						
+		</GigaTuzfal_dotdamage>
+		<GigaTuzfal_mana>
+			<Name>
+				<eng>Fire Boon</eng>
+			</Name>
+			<Desc>
+				<eng>Mana cost is reduced by %manacostdecrease_.</eng>
+			</Desc>						
+		</GigaTuzfal_mana>		
+		<ultrajegfal>
+			<Name>
+				<eng>Frost Barrier</eng>
+			</Name>
+			<Desc>
+				<eng>You create a 2 meter thick wall of frost by drawing on the ground. It can be of any shape or length, but the longer the wall, the more Mana it consumes. (Base Mana cost is 20 which doubles with each additional meter.) Enemies passing through the wall take ice damage and are frozen for 3 seconds. Enemies resisting the effect are slowed by 50% for 3 seconds. Targets cannot be affected by another wall of frost for 10 seconds.</eng>
+			</Desc>
+			<effect0>
+				<eng>Ground Effect (Ice):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Soul Chill</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Frost Statues</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies are frozen for an additional %freezedurationbonus_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Frostbite Venom</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies are afflicted with %vulnerability_ vulnerability against ice and physical damage for 5 seconds.</eng>
+				</Desc>
+			</Powerup2>
+			<Expert>
+				<Name>
+					<eng>Eternal Cold</eng>
+				</Name>
+				<Desc>
+					<eng>Duration is increased by %durationbonus_ seconds.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Cold Shock</eng>
+				</Name>
+				<Desc>
+					<eng>Frozen enemies are slowed by %postfreezeslow_ for 3 seconds after the effect ends.</eng>
+				</Desc>
+			</Master>
+		</ultrajegfal>
+		<UltraJegfal_duration>
+			<Name>
+				<eng>Eternal Cold</eng>
+			</Name>
+			<Desc>
+				<eng>Increases duration</eng>
+			</Desc>
+			<effect0>
+				<eng>Duration is increased by %durationbonus_ seconds.</eng>
+			</effect0>			
+		</UltraJegfal_duration>
+		<UltraJegfal_damage>
+			<Name>
+				<eng>Winter's Touch</eng>
+			</Name>
+			<Desc>
+				<eng>Increases damage</eng>
+			</Desc>
+			<effect0>
+				<eng>Damage is increased by %damagebonus_.</eng>
+			</effect0>			
+		</UltraJegfal_damage>
+		<UltraJegfal_slow>
+			<Name>
+				<eng>Cold Shock</eng>
+			</Name>
+			<Desc>
+				<eng>Frozen targets are slowed for 3 seconds after the effect ends</eng>
+			</Desc>
+			<effect0>
+				<eng>Frozen enemies are slowed by %postfreezeslow_ for 3 seconds after the effect ends.</eng>
+			</effect0>			
+		</UltraJegfal_slow>
+		<UltraJegfal_mana>
+			<Name>
+				<eng>Cold Mastery</eng>
+			</Name>
+			<Desc>
+				<eng>Decreases Mana cost</eng>
+			</Desc>
+			<effect0>
+				<eng>Mana cost is reduced by %mana_.</eng>
+			</effect0>			
+		</UltraJegfal_mana>		
+		<uberinknova>
+			<Name>
+				<eng>Doomstorm</eng>
+			</Name>
+			<Desc>
+				<eng>Creates an otherworldly explosion around you dealing arcane damage within 6 meters. Then 10 Ink Meteors rain down from the sky to the same area, each dealing physical damage within 2 meters. Finally, each meteor spawns 2-3 Netherhounds which will attack enemies for 6 seconds.</eng>
+			</Desc>
+			<effect0>
+				<eng>Explosion (Arcane):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<effect1>
+				<eng>Meteor (Physical):\n- Damage Effectiveness: %meteorweapondamage_ \n- Total Damage: +%lvlscaleMeteor_</eng>
+			</effect1>
+			<effect2>
+				<eng>Netherhound damage: %dogattack_ Physical damage per attack.</eng>
+			</effect2>
+			<Powerup0>
+				<Name>
+					<eng>Arcane Devastation</eng>
+				</Name>
+				<Desc>
+					<eng>Explosion damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Ferocious Fiends</eng>
+				</Name>
+				<Desc>
+					<eng>Netherhound damage is increased by %dogdamagebonus_.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Deep Impact</eng>
+				</Name>
+				<Desc>
+					<eng>Meteor area of effect is increased by %meteorradiusbonus_ meters.</eng>
+				</Desc>
+			</Powerup2>			
+		</uberinknova>
+		<Uberinknova_range>
+			<Name>
+				<eng>Sphere of Devastation</eng>
+			</Name>
+			<Desc>
+				<eng>Explosion area of effect is increased by %blastradiusbonus_ meters.</eng>
+			</Desc>						
+		</Uberinknova_range>
+		<Uberinknova_lifetime>
+			<Name>
+				<eng>Tenacious Fiends</eng>
+			</Name>
+			<Desc>
+				<eng>Netherhounds blink out of existence %lifetime_ seconds later.</eng>
+			</Desc>						
+		</Uberinknova_lifetime>
+		<Uberinknova_count>
+			<Name>
+				<eng>Rain of Devastation</eng>
+			</Name>
+			<Desc>
+				<eng>The number of meteors is increased by %meteorcountbonus_.</eng>
+			</Desc>						
+		</Uberinknova_count>
+		<Uberinknova_kutyastrength>
+			<Name>
+				<eng>Resilient Fiends</eng>
+			</Name>
+			<Desc>
+				<eng>Netherhound health is increased by %doghpbonus_, and damage by %dogdamagebonus_.</eng>
+			</Desc>						
+		</Uberinknova_kutyastrength>			
+		<Superlightning>
+			<Name>
+				<eng>Thunderblast</eng>
+			</Name>
+			<Desc>
+				<eng>A bolt of lightning strikes the target, dealing lightning damage to all within a 2 meters radius. The spell can be charged to increase the area of effect (by keeping the mouse button pressed) to a maximum of 5 meters (1 meter per second). You cannot move while charging.</eng>
+			</Desc>
+			<effect0>
+				<eng>%attack_ Lightning Damage (%weapondamage_ of Weapon Damage)</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Bolt of Destruction</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Shock Paralysis</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies are shocked for %stunduration_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Lightning Hex</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies are afflicted with %vulnerability_ vulnerability against lightning and against physical damage for 5 seconds.</eng>
+				</Desc>
+			</Powerup2>			
+		</Superlightning>
+		<Superlightning_kill>
+			<Name>
+				<eng>Bolt of Death</eng>
+			</Name>
+			<Desc>
+				<eng>Targets have a chance to be killed instantly</eng>
+			</Desc>
+			<effect0>
+				<eng>Enemies have a %kill_ chance to be killed instantly.</eng>
+			</effect0>			
+		</Superlightning_kill>
+		<Superlightning_chargespeed>
+			<Name>
+				<eng>Hastened Doom</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the charging speed of the spell</eng>
+			</Desc>
+			<effect0>
+				<eng>Spell charging is %chargespeed_ faster.</eng>
+			</effect0>			
+		</Superlightning_chargespeed>
+		<Superlightning_mana>
+			<Name>
+				<eng>Lightning Affinity</eng>
+			</Name>
+			<Desc>
+				<eng>Decreases Mana cost</eng>
+			</Desc>
+			<effect0>
+				<eng>Mana cost is reduced by %mana_ Mana.</eng>
+			</effect0>			
+		</Superlightning_mana>
+		<Superlightning_damage>
+			<Name>
+				<eng>Destructive Blast</eng>
+			</Name>
+			<Desc>
+				<eng>Increases damage</eng>
+			</Desc>
+			<effect0>
+				<eng>Damage is increased by %damagebonus_.</eng>
+			</effect0>			
+		</Superlightning_damage>			
+		<fedaksariteleport>
+			<Name>
+				<eng>Ink Leap</eng>
+			</Name>
+			<Desc>
+				<eng>You can perform an Ink Jump to the designated location instantly. Can be used frequently but each jump reserves some of your Mana.</eng>
+				<debuffdesc>
+						<eng>Ink Leap upkeep. Maximum mana decreased.</eng>
+				</debuffdesc>
+			</Desc>
+			<effect0>
+				<eng>Teleport to the cursor.</eng>
+			</effect0>
+			<effect1>
+				<eng>Mana upkeep: %manareserve_ of maximum Mana per jump for %manatime_ seconds.</eng>
+			</effect1>
+			<Mirror>
+				<eng>%s: %.3g%% Upkeep time (%.3g%% per level)</eng>
+			</Mirror>
+			<painlessness>
+				<eng>%s: %.3g%% Upkeep time (%.3g%% per level)</eng>
+			</painlessness>
+			<Powerup0>
+				<Name>
+					<eng>Ink Ripple</eng>
+				</Name>
+				<Desc>
+					<eng>As you Ink Jump away you deal %leaveblastattack_ damage (%leaveblastweapondamage_ of Weapon Damage) to enemies within 3 meters.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Ink Surge</eng>
+				</Name>
+				<Desc>
+					<eng>Upon arrival you deal %arriveblastattack_ damage (%arriveblastweapondamage_ of Weapon Damage) to enemies within 3 meters.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Soul Echoes</eng>
+				</Name>
+				<Desc>
+					<eng>As you Ink Jump away %mirrorcount_ mirror images are created who fight for you for 20 seconds. The mirror images have 50% of your health and deal damage equal to 80% of your Weapon Damage.</eng>
+				</Desc>
+			</Powerup2>			
+		</fedaksariteleport>
+		<FedaksariTeleport_mana>
+			<Name>
+				<eng>Unburdened Soul</eng>
+			</Name>
+			<Desc>
+				<eng>Mana upkeep is reduced by %manadecrease_.</eng>
+			</Desc>						
+		</FedaksariTeleport_mana>
+		<FedaksariTeleport_manatime>
+			<Name>
+				<eng>Unfettered Soul</eng>
+			</Name>
+			<Desc>
+				<eng>Upkeep time is reduced by %manatimedecrease_ seconds.</eng>
+			</Desc>						
+		</FedaksariTeleport_manatime>
+		<FedaksariTeleport_rage>
+			<Name>
+				<eng>Unrestrained Soul</eng>
+			</Name>
+			<Desc>
+				<eng>Each jump generates %rage_ Rage.</eng>
+			</Desc>						
+		</FedaksariTeleport_rage>
+		<FedaksariTeleport_heal>
+			<Name>
+				<eng>Unyielding Soul</eng>
+			</Name>
+			<Desc>
+				<eng>Each jump restores %heal_ of your maximum health.</eng>
+			</Desc>						
+		</FedaksariTeleport_heal>				
+		<UberElementalResist>
+			<Name>
+				<eng>Elemental Aegis</eng>
+			</Name>
+			<Desc>
+				<eng>You gain a large bonus to your elemental resistance and there is also a chance for a Bubble of Invulnerability forming around whenever you get hit. The bubble protects you from all damage for 2 seconds.</eng>
+			</Desc>
+			<effect0>
+				<eng>%resist_ bonus elemental resistance</eng>
+			</effect0>
+			<effect1>
+				<eng>%invulchance_ chance to create invulnerability bubble</eng>
+			</effect1>						
+		</UberElementalResist>
+		<UberElementalResist_fire>
+			<Name>
+				<eng>Mark of Flame</eng>
+			</Name>
+			<Desc>
+				<eng>Increases all Fire type damage.</eng>
+			</Desc>
+			<effect0>
+				<eng>+%fire_ fire damage</eng>
+			</effect0>			
+		</UberElementalResist_fire>
+		<UberElementalResist_lightning>
+			<Name>
+				<eng>Mark of Storm</eng>
+			</Name>
+			<Desc>
+				<eng>Increases all Lightning type damage.</eng>
+			</Desc>
+			<effect0>
+				<eng>+%lightning_ lightning damage</eng>
+			</effect0>			
+		</UberElementalResist_lightning>
+		<UberElementalResist_ice>
+			<Name>
+				<eng>Mark of Winter</eng>
+			</Name>
+			<Desc>
+				<eng>Increases all Ice type damage.</eng>
+			</Desc>
+			<effect0>
+				<eng>+%ice_ ice damage</eng>
+			</effect0>			
+		</UberElementalResist_ice>
+		<UberElementalResist_duration>
+			<Name>
+				<eng>Mark of Immortality</eng>
+			</Name>
+			<Desc>
+				<eng>Increases duration of invulnerability</eng>
+			</Desc>
+			<effect0>
+				<eng>+%duration_ seconds duration</eng>
+			</effect0>			
+		</UberElementalResist_duration>		
+		<Marker>
+			<Name>
+				<eng>Transmodulator Ray</eng>
+			</Name>
+			<Desc>
+				<eng>A ray of energy runs towards the designated target while you keep the mouse button pressed. The ray deals continuous fire, ice and lightning damage. Your mechanical allies will prefer to attack the same target while the ray is active. The ray cannot be blocked by obstacles.</eng>
+			</Desc>
+			<effect0>
+				<eng>Ray (Fire, Ice, Lightning):\n- Damage Effectiveness: %weapondamage_ per second\n- Total Damage: +%lvlscale_\n- Attack Rate: 0.25 seconds</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Overheat</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Ray Pulse</eng>
+				</Name>
+				<Desc>
+					<eng>The target is slowed by %slow_ while the ray is active.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>De-energizing Ray</eng>
+				</Name>
+				<Desc>
+					<eng>The target is afflicted with %vulnerability_ vulnerability while the ray is active.</eng>
+				</Desc>
+			</Powerup2>
+			<Expert>
+				<Name>
+					<eng>Multifocal Ray</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies touched by the ray (other than the designated target) also take %aoe_ damage.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Deteriorator Ray</eng>
+				</Name>
+				<Desc>
+					<eng>Targets are afflicted with %vulnerability_ vulnerability while the ray is active.</eng>
+				</Desc>
+			</Master>					
+		</Marker>
+		<Marker_aoe>
+			<Name>
+				<eng>Multifocal Ray</eng>
+			</Name>
+			<Desc>
+				<eng>Enemies touched by the ray (other than the designated target) also take damage.</eng>
+			</Desc>
+			<effect0>
+				<eng>%aoe_ damage to secondary targets</eng>
+			</effect0>			
+		</Marker_aoe>
+		<Marker_heal>
+			<Name>
+				<eng>Biofeedback Ray</eng>
+			</Name>
+			<Desc>
+				<eng>The ray restores some of your health.</eng>
+			</Desc>
+			<effect0>
+				<eng>%heal_ of maximum health restored per second</eng>
+			</effect0>			
+		</Marker_heal>
+		<Marker_rage>
+			<Name>
+				<eng>Infuriating Ray</eng>
+			</Name>
+			<Desc>
+				<eng>The ray generates Rage.</eng>
+			</Desc>
+			<effect0>
+				<eng>%rage_ Rage per second</eng>
+			</effect0>			
+		</Marker_rage>
+		<Marker_vulnerability>
+			<Name>
+				<eng>Deteriorator Ray</eng>
+			</Name>
+			<Desc>
+				<eng>Targets are afflicted with vulnerability while the ray is active.</eng>
+			</Desc>
+			<effect0>
+				<eng>%vulnerability_ vulnerability</eng>
+			</effect0>			
+		</Marker_vulnerability>		
+		<advancedbulletbarrage>
+			<Name>
+				<eng>Lead Storm</eng>
+			</Name>
+			<Desc>
+				<eng>You unleash a continuous barrage of bullets at a tremendous rate, firing out to 14 meters in front of you in a 20 degree arc. Every 7th bullet explodes on impact, dealing damage to enemies within 2 meters.</eng>
+			</Desc>
+			<effect0>
+				<eng>%attack_ Physical damage (%weapondamage_ of weapon damage) per shot</eng>
+				<eng>Bullet Hit (Physical):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<effect1>
+				<eng>Explosion (Physical):\n- Damage Effectiveness: %weapondamageExpl_ \n- Total Damage: +%lvlscaleExpl_</eng>
+			</effect1>
+			<Powerup0>
+				<Name>
+					<eng>Devastator Barrage</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Bewildering Barrage</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck have a %stunchance_ chance to be stunned for 2 seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Unstoppable Barrage</eng>
+				</Name>
+				<Desc>
+					<eng>Shots have a %passthrough_ chance to pierce the targets and hit more enemies.</eng>
+				</Desc>
+			</Powerup2>			
+		</advancedbulletbarrage>
+		<AdvancedBulletBarrage_range>
+			<Name>
+				<eng>Ballistic Adapter</eng>
+			</Name>
+			<Desc>
+				<eng>Maximum range is increased by %range_ meters.</eng>
+			</Desc>						
+		</AdvancedBulletBarrage_range>
+		<AdvancedBulletBarrage_explosion>
+			<Name>
+				<eng>Modified Feedbelt</eng>
+			</Name>
+			<Desc>
+				<eng>Reduces the number of shots between explosive rounds by %explosion_.</eng>
+			</Desc>						
+		</AdvancedBulletBarrage_explosion>
+		<AdvancedBulletBarrage_damage>
+			<Name>
+				<eng>High Explosive Rounds</eng>
+			</Name>
+			<Desc>
+				<eng>Explosive round damage is increased by %masterydamagebonus_.</eng>
+			</Desc>					
+		</AdvancedBulletBarrage_damage>
+		<AdvancedBulletBarrage_mana>
+			<Name>
+				<eng>Redesigned Wiring</eng>
+			</Name>
+			<Desc>
+				<eng>Mana cost is reduced by %mana_.</eng>
+			</Desc>						
+		</AdvancedBulletBarrage_mana>		
+		<gunplatformboost>
+			<Name>
+				<eng>Platform Overdrive</eng>
+			</Name>
+			<Desc>
+				<eng>Your gun platform skills cool down faster for 10 seconds.</eng>
+			</Desc>
+			<effect0>
+				<eng>Cooldowns are reduced by %skillcooldown_</eng>
+			</effect0>			
+			<buff__Overdrive>
+				<eng>%s: -%.3g%% cooldown (-%.3g%% per level)</eng>
+			</buff__Overdrive>
+			<buff__SpringHeeledJump>
+				<eng>%s: -%.3g%% cooldown (-%.3g%% per level)</eng>
+			</buff__SpringHeeledJump>
+			<Powerup0>
+				<Name>
+					<eng>Energy Boost</eng>
+				</Name>
+				<Desc>
+					<eng>Gun platform damage is increased by %damage_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Quick patch Procedure</eng>
+				</Name>
+				<Desc>
+					<eng>Gun platform health is increased by %heal_.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Armor Plate Polarization</eng>
+				</Name>
+				<Desc>
+					<eng>Your gun platform receives %damagereduce_ damage reduction.</eng>
+				</Desc>
+			</Powerup2>			
+		</gunplatformboost>
+		<GunplatformBoost_duration>
+			<Name>
+				<eng>Overdrive Protocol</eng>
+			</Name>
+			<Desc>
+				<eng>Duration is increased by %duration_.</eng>
+			</Desc>					
+		</GunplatformBoost_duration>
+		<GunplatformBoost_damage>
+			<Name>
+				<eng>Optimized Attack Pattern</eng>
+			</Name>
+			<Desc>
+				<eng>Gun platform damage is increased by %damage_.</eng>
+			</Desc>					
+		</GunplatformBoost_damage>
+		<GunplatformBoost_regen>
+			<Name>
+				<eng>Repair Arm Automatization</eng>
+			</Name>
+			<Desc>
+				<eng>Gun platform repairs %regen_ of its maximum health per second.</eng>
+			</Desc>						
+		</GunplatformBoost_regen>
+		<GunplatformBoost_cooldown>
+			<Name>
+				<eng>Overdrive Optimization</eng>
+			</Name>
+			<Desc>
+				<eng>Cooldown is reduced by %cooldown_ seconds.</eng>
+			</Desc>						
+		</GunplatformBoost_cooldown>		
+		<geppokrobbantas>
+			<Name>
+				<eng>Dismemberbot Blast</eng>
+			</Name>
+			<Desc>
+				<eng>Your Dismemberbots, Assault Mechanoids and Pocket Mechanoids explode, causing physical damage to enemies within 2 meters. They also leave a mine behind that arms itself after 2 seconds and explodes when triggered. The mines deal 50% damage of the original blast.</eng>
+			</Desc>
+			<effect0>
+				<eng>Explosion (Physical, Fire):\n- Damage Effectiveness: %weapondamage_ per Dismemberbot\n- Total Damage Increase: +%lvlscale_</eng>
+			</effect0>
+			<Marker>
+				<eng>%s: -%.3g%% cooldown (-%.3g%% per level)</eng>
+			</Marker>
+			<buff__Repair>
+				<eng>%s: -%.3g%% cooldown (-%.3g%% per level)</eng>
+			</buff__Repair>
+			<Powerup0>
+				<Name>
+					<eng>Cog Shrapnel</eng>
+				</Name>
+				<Desc>
+					<eng>Explosion damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Cryonic Blast</eng>
+				</Name>
+				<Desc>
+					<eng>Mine-struck targets are stunned for %freeze_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Coolant Vapors</eng>
+				</Name>
+				<Desc>
+					<eng>Mine blasts leave a vapor cloud behind for %slow_ seconds, slowing enemies down by 50%.</eng>
+				</Desc>
+			</Powerup2>			
+		</geppokrobbantas>		
+		<GeppokRobbantas_radius>
+			<Name>
+				<eng>Improved Explosive Compression</eng>
+			</Name>
+			<Desc>
+				<eng>Area of effect is increased by %radius_ meters.</eng>
+			</Desc>						
+		</GeppokRobbantas_radius>
+		<GeppokRobbantas_rage>
+			<Name>
+				<eng>Molecular Infuriator</eng>
+			</Name>
+			<Desc>
+				<eng>Kills by explosions provide %rage_ additional Rage.</eng>
+			</Desc>					
+		</GeppokRobbantas_rage>
+		<GeppokRobbantas_knockback>
+			<Name>
+				<eng>Shockwave Emitter</eng>
+			</Name>
+			<Desc>
+				<eng>Enemies within the explosion range have a %knockback_ chance to be knocked down.</eng>
+			</Desc>					
+		</GeppokRobbantas_knockback>
+		<GeppokRobbantas_mana>
+			<Name>
+				<eng>Ergonomic Detonator</eng>
+			</Name>
+			<Desc>
+				<eng>Mana cost is reduced by %mana_.</eng>
+			</Desc>						
+		</GeppokRobbantas_mana>		
+		<geppokidezes>
+			<Name>
+				<eng>Dismemberbot Pack</eng>
+			</Name>
+			<Desc>
+				<eng>Creates a mechanical ally equipped with mutilator blades, which fights for you until it is destroyed.</eng>
+			</Desc>
+			<effect0>
+				<eng>Dismemberbot (Physical):\n- Damage Effectiveness: %damage_ \n- Base DPH: %petDMG_ \n- Total Damage Increase: +%lvlscale_ \n- Mana Reserved: %manareserve_</eng>
+			</effect0>
+			<effect1>
+				<eng>Base Hit points: %hp_</eng>
+			</effect1>
+			<ZapperbeastDistributor>
+				<eng>%s: +%.3g%% dismemberbot damage (+%.3g%% per level)</eng>
+			</ZapperbeastDistributor>
+			<buff__AssaultMechanoid>
+				<eng>%s: +%.3g%% dismemberbot damage (+%.3g%% per level)</eng>
+			</buff__AssaultMechanoid>
+			<Powerup0>
+				<Name>
+					<eng>Quick Reinforcements</eng>
+				</Name>
+				<Desc>
+					<eng>%count_ additional mechanical allies are created.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Creative Reassembly</eng>
+				</Name>
+				<Desc>
+					<eng>When a mechanical ally is destroyed there is a %resurrect_ chance that a new one is created instantly.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Efficient Construction</eng>
+				</Name>
+				<Desc>
+					<eng>Reduces the mana reservation of Dismemberbots by %stun_</eng>
+				</Desc>
+			</Powerup2>			
+		</geppokidezes>
+		<GeppokIdezes_hp>
+			<Name>
+				<eng>Advanced Construction Materials</eng>
+			</Name>
+			<Desc>
+				<eng>The mechanical allies have %hpbonus_ additional health.</eng>
+			</Desc>						
+		</GeppokIdezes_hp>
+		<GeppokIdezes_damage>
+			<Name>
+				<eng>Enhanced Weapons Arsenal</eng>
+			</Name>
+			<Desc>
+				<eng>The mechanical allies deal %damage_ additional damage.</eng>
+			</Desc>						
+		</GeppokIdezes_damage>
+		<GeppokIdezes_speed>
+			<Name>
+				<eng>Superior Actuators</eng>
+			</Name>
+			<Desc>
+				<eng>The mechanical allies move %speed_ faster.</eng>
+			</Desc>						
+		</GeppokIdezes_speed>
+		<GeppokIdezes_cooldown>
+			<Name>
+				<eng>Assembler Operation Expertise</eng>
+			</Name>
+			<Desc>
+				<eng>Cooldown is decreased by %cooldown_ seconds.</eng>
+			</Desc>					
+		</GeppokIdezes_cooldown>		
+		<ornithopteridezes>
+			<Name>
+				<eng>Hunter-Killer Ornithopter</eng>
+			</Name>
+			<Desc>
+				<eng>Creates an ornithopter that uses a machine gun for distant targets and a flamethrower for close quarters.</eng>
+			</Desc>
+			<effect0>
+				<eng>Gun (Physical): \n- Damage Effectiveness: %shootdamage_ \n- Base DPH: %petDMG_ \n- Total Damage Increase: +%lvlscaleGun_ \n- Mana Reserved: %manareserve_</eng>
+			</effect0>
+			<effect1>
+				<eng>Flamethrower (Fire): \n- Damage Effectiveness: %flamethrowerdamage_ \n- Total Damage Increase: +%lvlscaleFlame_</eng>
+			</effect1>
+			<effect2>
+				<eng>Base Hit points: %hp_</eng>
+			</effect2>
+			<MechanicalAide>
+				<eng>%s: +%.3g%% ornithopter damage (+%.3g%% per level)</eng>
+			</MechanicalAide>
+			<buff__CannonOrnithopter>
+				<eng>%s: +%.3g%% ornithopter damage (+%.3g%% per level)</eng>
+			</buff__CannonOrnithopter>			
+			<Powerup0>
+				<Name>
+					<eng>Fire Control System</eng>
+				</Name>
+				<Desc>
+					<eng>Hunter-Killer weapon damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Blast Ammunition</eng>
+				</Name>
+				<Desc>
+					<eng>Changes the Hunter-Killers's attack to an area of effect that causes %explosivedamage_ of the original damage.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Susceptibility Identifier</eng>
+				</Name>
+				<Desc>
+					<eng>Hunter-Killer targets are afflicted with %vulnerability_ vulnerability for 5 seconds (does not stack).</eng>
+				</Desc>
+			</Powerup2>			
+		</ornithopteridezes>
+		<OrnithopterIdezes_hp>
+			<Name>
+				<eng>Durable Airframe</eng>
+			</Name>
+			<Desc>
+				<eng>Hunter-Killer health is increased by %hpbonus_.</eng>
+			</Desc>						
+		</OrnithopterIdezes_hp>
+		<OrnithopterIdezes_ignite>
+			<Name>
+				<eng>Combustion Gel Canister</eng>
+			</Name>
+			<Desc>
+				<eng>Flamethrowers ignite enemies for 5 seconds, who take %ignite_ of the original damage each second.</eng>
+			</Desc>					
+		</OrnithopterIdezes_ignite>
+		<OrnithopterIdezes_countchance>
+			<Name>
+				<eng>Auto-Assembler</eng>
+			</Name>
+			<Desc>
+				<eng>Reduces the mana cost of summoning Hunter-Killers.</eng>
+			</Desc>
+			<effect0>
+				<eng>%countchance_ reduced mana cost</eng>
+			</effect0>			
+		</OrnithopterIdezes_countchance>
+		<OrnithopterIdezes_cooldown>
+			<Name>
+				<eng>Assembler Operation Expertise</eng>
+			</Name>
+			<Desc>
+				<eng>Decreases cooldown.</eng>
+			</Desc>
+			<effect0>
+				<eng>Cooldown is reduced by %cooldown_ seconds.</eng>
+			</effect0>			
+		</OrnithopterIdezes_cooldown>		
+		<frostraysentry>
+			<Name>
+				<eng>Cool Aide</eng>
+			</Name>
+			<Desc>
+				<eng>Creates an immobile turret that attacks enemies with a frost ray. They ray's damage increases by 50% per second (to a maximum of 200%) and affects anything it touches. You can only have 3 of these turrets active. If you create more, the first one is destroyed immediately.</eng>
+			</Desc>
+			<effect0>
+				<eng>Turret Ray (Ice):\nDamage Effectiveness: %weapondamage_ \nBase DPH: %petDMG_ \nTotal Damage Increase: +%lvlscale_</eng>
+			</effect0>
+			<effect1>
+				<eng>Base Hit points: %hp_</eng>
+			</effect1>
+			<buff__ExplosiveAides>
+				<eng>%s: +%.3g%% turret damage (+%.3g%% per level)</eng>
+			</buff__ExplosiveAides>
+			<RepairDrone>
+				<eng>%s: +%.3g%% turret health (+%.3g%% per level)</eng>
+			</RepairDrone>
+			<Powerup0>
+				<Name>
+					<eng>Hypercooler Ray</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Freeze Pulse</eng>
+				</Name>
+				<Desc>
+					<eng>Targets are frozen for %freeze_ seconds (once pre creature).</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Disorienting Ray</eng>
+				</Name>
+				<Desc>
+					<eng>Targets are afflicted with %vulnerability_ vulnerability while under the ray.</eng>
+				</Desc>
+			</Powerup2>			
+		</frostraysentry>
+		<FrostRaySentry_charge>
+			<Name>
+				<eng>Hypothermic Maximizer</eng>
+			</Name>
+			<Desc>
+				<eng>Maximum charge damage is increased by %charge_.</eng>
+			</Desc>						
+		</FrostRaySentry_charge>
+		<FrostRaySentry_slow>
+			<Name>
+				<eng>Demobilisation Inductor</eng>
+			</Name>
+			<Desc>
+				<eng>Targets are slowed by %slow_ while under the ray.</eng>
+			</Desc>						
+		</FrostRaySentry_slow>
+		<FrostRaySentry_range>
+			<Name>
+				<eng>Sensor Array Enhancer</eng>
+			</Name>
+			<Desc>
+				<eng>Maximum attack range of the sentry is increased by %range_ meters.</eng>
+			</Desc>						
+		</FrostRaySentry_range>
+		<FrostRaySentry_cooldown>
+			<Name>
+				<eng>Coolant Technology Expertise</eng>
+			</Name>
+			<Desc>
+				<eng>Cooldown is reduced by %cooldown_ seconds.</eng>
+			</Desc>						
+		</FrostRaySentry_cooldown>			
+		<katyusatower>
+			<Name>
+				<eng>Devastator Sentry</eng>
+			</Name>
+			<Desc>
+				<eng>Creates an immobile turret that shoots clusters of rockets at enemies within 14 meters. Each cluster contains 2 rockets striking the same target, dealing damage within 2 meters.</eng>
+			</Desc>
+			<effect0>
+				<eng>Turret Rocket (Physical):\nDamage Effectiveness: %weapondamage_ \nBase DPH: %petDMG_ \nTotal Damage Increase: +%lvlscale_</eng>
+			</effect0>
+			<effect1>
+				<eng>Base Hit points: %hp_</eng>
+			</effect1>
+			<buff__Deployturret>
+				<eng>%s: +%.3g%% sentry damage (+%.3g%% per level)</eng>
+			</buff__Deployturret>
+			<buff__DeployPhlogistonturret>
+				<eng>%s: +%.3g%% sentry damage (+%.3g%% per level)</eng>
+			</buff__DeployPhlogistonturret>			
+			<Powerup0>
+				<Name>
+					<eng>Heavy Warheads</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Rocket Mayhem</eng>
+				</Name>
+				<Desc>
+					<eng>Targets are stunned for %stun_ seconds (once per creature).</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Extended Rocket Spread</eng>
+				</Name>
+				<Desc>
+					<eng>Area of effect is increased by %radius_ meters.</eng>
+				</Desc>
+			</Powerup2>			
+		</katyusatower>
+		<KatyusaTower_rocket>
+			<Name>
+				<eng>Rocket Swarm</eng>
+			</Name>
+			<Desc>
+				<eng>The number of rockets is increased by %rocket_.</eng>
+			</Desc>						
+		</KatyusaTower_rocket>
+		<KatyusaTower_knockback>
+			<Name>
+				<eng>High Speed Shockwave</eng>
+			</Name>
+			<Desc>
+				<eng>Enemies have a %knockback_ chance to be knocked down for each rocket that hits them.</eng>
+			</Desc>						
+		</KatyusaTower_knockback>
+		<KatyusaTower_range>
+			<Name>
+				<eng>Triangulator Gyroscope</eng>
+			</Name>
+			<Desc>
+				<eng>Maximum attack range of the turret is increased by %range_ meters.</eng>
+			</Desc>						
+		</KatyusaTower_range>
+		<KatyusaTower_cooldown>
+			<Name>
+				<eng>Static Engineering Proficiency</eng>
+			</Name>
+			<Desc>
+				<eng>Cooldown is reduced by %cooldown_ seconds.</eng>
+			</Desc>						
+		</KatyusaTower_cooldown>		
+		<NagygepPassive>
+			<Name>
+				<eng>Upgrade Gun Platform</eng>
+			</Name>
+			<Desc>
+				<eng>Upgrades the gun platform's combat strength, increasing its hitpoints and damage. Also equips the platform with a cannon upgrade.</eng>
+			</Desc>
+			<effect0>
+				<eng>Platform health is increased by %platformhpbonus_</eng>
+			</effect0>	
+			<effect1>
+				<eng>Platform damage is increased by %platformdamagebonus_</eng>
+			</effect1>	
+			<Expert>
+				<Name>
+					<eng>Hornet Missile Launcher</eng>
+				</Name>
+				<Desc>
+					<eng>Equips a launcher which fires %rocket_ missiles every 20 seconds. The missiles can hit multiple targets, each dealing 250% of Weapon Damage.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Heat Ray Turret</eng>
+				</Name>
+				<Desc>
+					<eng>Equips a heat ray gun that continuously attacks a single target. The ray's damage (%ray_ of Weapon Damage) increases by 50% per second until it's striking the same target.</eng>
+				</Desc>
+			</Master>
+			<melee_attack>
+				<Name>
+					<eng>Blade Damage</eng>
+				</Name>				
+			</melee_attack>
+			<gepagyu_shoot>
+				<Name>
+					<eng>Machine Gun Damage</eng>
+				</Name>				
+			</gepagyu_shoot>
+		</NagygepPassive>	
+		<NagygepPassive_ray_shoot>
+			<Name>
+				<eng>Heat Ray Gun Damage</eng>
+			</Name>
+		</NagygepPassive_ray_shoot>
+		<NagygepPassive_rocket_shoot>
+			<Name>
+				<eng>Missile Damage</eng>
+			</Name>
+		</NagygepPassive_rocket_shoot>
+		<NagygepPassive_agyu_shoot>
+			<Name>
+				<eng>Cannon Damage</eng>
+			</Name>
+		</NagygepPassive_agyu_shoot>
+		<NagygepPassive_melee_attack>
+			<Name>
+				<eng>Melee Damage</eng>
+			</Name>
+		</NagygepPassive_melee_attack>
+		<NagygepPassive_gepagyu_shoot>
+			<Name>
+				<eng>Minigun Damage</eng>
+			</Name>
+		</NagygepPassive_gepagyu_shoot>	
+		<delayedFagyTerjedes>
+			<Name>
+				<eng>Shadow Jolt</eng>
+			</Name>
+			<Desc>
+				<eng>You enter your cloaked form and when you reappear a shockwave deals ice damage within 4 meters, freezing enemies for 3 seconds.</eng>
+			</Desc>
+			<effect0>
+				<eng>%dftattack_ Ice damage (%dftweapondamage_ of Weapon Damage)</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Dimension Blast</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Dimension Shock</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck are frozen for an additional %freezedurationbonus_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Shadow Touch</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck receive %markcount_ shadow marks.</eng>
+				</Desc>
+			</Powerup2>			
+		</delayedFagyTerjedes>
+		<delayedFagyTerjedes_blastRadius>
+			<Name>
+				<eng>Shadow Dome</eng>
+			</Name>
+			<Desc>
+				<eng>Area of effect is increased by %blastradiusbonus_ meters.</eng>
+			</Desc>			
+		</delayedFagyTerjedes_blastRadius>
+		<delayedFagyTerjedes_slowDuration>
+			<Name>
+				<eng>Spirit Shackles</eng>
+			</Name>
+			<Desc>
+				<eng>Enemies are slowed by 50% for %slowduration_ seconds after the freeze effect wears off.</eng>
+			</Desc>			
+		</delayedFagyTerjedes_slowDuration>
+		<delayedFagyTerjedes_damage>
+			<Name>
+				<eng>Soul Implosion</eng>
+			</Name>
+			<Desc>
+				<eng>Damage is increased by %damagebonus_.</eng>
+			</Desc>			
+		</delayedFagyTerjedes_damage>
+		<delayedFagyTerjedes_cooldown>
+			<Name>
+				<eng>Shadow Walking</eng>
+			</Name>
+			<Desc>
+				<eng>Cooldown is reduced by %cooldowndecrease_ seconds.</eng>
+			</Desc>			
+		</delayedFagyTerjedes_cooldown>
+		<shadowMaster>
+			<Name>
+				<eng>Phantom Stance</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the ambush bonus and duration.</eng>
+			</Desc>
+			<effect0>
+				<eng>Ambush damage bonus is increased by %damagebonus_.</eng>
+			</effect0>
+			<effect1>
+				<eng>Ambush duration is increased by %durationbonus_ seconds.</eng>
+			</effect1>
+			<Expert>
+				<Name>
+					<eng>Phantom Dash</eng>
+				</Name>
+				<Desc>
+					<eng>Increases your movement speed by %speed_ while the ambush bonus lasts.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Phantom Blow</eng>
+				</Name>
+				<Desc>
+					<eng>Further increases the ambush bonus by %moredamagebonus_.</eng>
+				</Desc>
+			</Master>
+		</shadowMaster>
+		<shadowMaster_duration>
+			<Name>
+				<eng>Mantle of Darkness</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the duration of staying cloaked.</eng>
+			</Desc>
+			<effect0>
+				<eng>Cloak lasts an additional %duration_ seconds.</eng>
+			</effect0>
+		</shadowMaster_duration>
+		<shadowMaster_hpRegen>
+			<Name>
+				<eng>Heart of Darkness</eng>
+			</Name>
+			<Desc>
+				<eng>Each second spent in cloaked form restores some of your health.</eng>
+			</Desc>
+			<effect0>
+				<eng>%hpregen_ of maximum health restored per second while cloaked.</eng>
+			</effect0>
+		</shadowMaster_hpRegen>
+		<shadowMaster_manaRegen>
+			<Name>
+				<eng>Essence of Darkness</eng>
+			</Name>
+			<Desc>
+				<eng>Each second you spend in cloaked form restores some of your Mana.</eng>
+			</Desc>
+			<effect0>
+				<eng>%manaregen_ of maximum Mana restored per second while cloaked.</eng>
+			</effect0>
+		</shadowMaster_manaRegen>
+		<shadowMaster_speed>
+			<Name>
+				<eng>Phantom Dash</eng>
+			</Name>
+			<Desc>
+				<eng>Increases your movement speed while cloaked</eng>
+			</Desc>
+			<effect0>
+				<eng>Movement speed is increased by %speed_ while cloaked.</eng>
+			</effect0>
+		</shadowMaster_speed>
+		<shadowComboStrike>
+			<Name>
+				<eng>Shadow Twirl</eng>
+			</Name>
+			<Desc>
+				<eng>You strike the target three times and tag it with three shadow marks.</eng>
+			</Desc>
+			<effect0>
+				<eng>Per Hit (Physical):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Shadow Raze</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Shadow Bash</eng>
+				</Name>
+				<Desc>
+					<eng>Targets are stunned for %stunduration_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Shadow Whirlwind</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies within %markradius_ meters of the original target receive a shadow mark per strike.</eng>
+				</Desc>
+			</Powerup2>			
+		</shadowComboStrike>
+		<shadowComboStrike_attackRate>
+			<Name>
+				<eng>Phantom Strikes</eng>
+			</Name>
+			<Desc>
+				<eng>Attack speed is increased by %attackratebonus_.</eng>
+			</Desc>			
+		</shadowComboStrike_attackRate>
+		<shadowComboStrike_additionalMarkChance>
+			<Name>
+				<eng>Hexed Strikes</eng>
+			</Name>
+			<Desc>
+				<eng>Attacks have a %additionalmarkchance_ chance to put an extra shadow mark on the target.</eng>
+			</Desc>			
+		</shadowComboStrike_additionalMarkChance>
+		<shadowComboStrike_powerupCost>
+			<Name>
+				<eng>Shadowless Fury</eng>
+			</Name>
+			<Desc>
+				<eng>Shadow Twirl powerups cost %powerupcostdecrease_ less Rage.</eng>
+			</Desc>			
+		</shadowComboStrike_powerupCost>
+		<shadowComboStrike_rageChance>
+			<Name>
+				<eng>Spectral Rage</eng>
+			</Name>
+			<Desc>
+				<eng>Each strike has a %ragechance_ chance to generate an extra Rage point.</eng>
+			</Desc>			
+		</shadowComboStrike_rageChance>
+		<shadowHydraStrike>
+			<Name>
+				<eng>Blink Assault</eng>
+			</Name>
+			<Desc>
+				<eng>Projects a phantasm that delivers 11 strikes to enmies before dissapearing. Each strike applies a shadow mark.</eng>
+			</Desc>
+			<effect0>
+				<eng>Hit (Physical):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Overwhelming Assault</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Hex Whirlwind</eng>
+				</Name>
+				<Desc>
+					<eng>Targets receive %markcountbonus_ additional shadow marks.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Enervating Assault</eng>
+				</Name>
+				<Desc>
+					<eng>Targets are slowed by %chill_ for 5 seconds.</eng>
+				</Desc>
+			</Powerup2>			
+		</shadowHydraStrike>
+		<shadowHydraStrike_strikeCount>
+			<Name>
+				<eng>Blink Chain</eng>
+			</Name>
+			<Desc>
+				<eng>Maximum number of targets is increased by %strikecountbonus_.</eng>
+			</Desc>			
+		</shadowHydraStrike_strikeCount>
+		<shadowHydraStrike_searchRadius>
+			<Name>
+				<eng>Boundless Assault</eng>
+			</Name>
+			<Desc>
+				<eng>Area of effect is increased by %searchradiusbonus_ meters.</eng>
+			</Desc>			
+		</shadowHydraStrike_searchRadius>
+		<shadowHydraStrike_criticalChance>
+			<Name>
+				<eng>Heartseeker Strikes</eng>
+			</Name>
+			<Desc>
+				<eng>Each strike increases the Critical Hit Chance by %critchance_ % until the end of the attack sequence (even beyond the maximum limit).</eng>
+			</Desc>			
+		</shadowHydraStrike_criticalChance>
+		<shadowHydraStrike_damageReduction>
+			<Name>
+				<eng>Darkforce Aura</eng>
+			</Name>
+			<Desc>
+				<eng>Bestows %damagereduction_ damage reduction for the duration of the attack sequence.</eng>
+			</Desc>			
+		</shadowHydraStrike_damageReduction>
+		<shadowAssassinStrike>
+			<Name>
+				<eng>Wraith Strike</eng>
+			</Name>
+			<Desc>
+				<eng>You strike a single target dealing heavy damage. If the target is killed, you immediately enter the cloaked form. Any shadow marks on the target cumulatively increase the damage by 30%. The shadow marks are then destroyed.</eng>
+			</Desc>
+			<effect0>
+				<eng>Hit (Physical):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>True Strike</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Hexed Blade</eng>
+				</Name>
+				<Desc>
+					<eng>Shadow marks increase damage by an additional %markdamagebonus_.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Crippling Strike</eng>
+				</Name>
+				<Desc>
+					<eng>Target is afflicted with %vulnerability_ vulnerability for 5 seconds.</eng>
+				</Desc>
+			</Powerup2>			
+		</shadowAssassinStrike>
+		<shadowAssassinStrike_heal>
+			<Name>
+				<eng>Soulstealer Blade</eng>
+			</Name>
+			<Desc>
+				<eng>Each kill restores %heal_ of your maximum health.</eng>
+			</Desc>
+		</shadowAssassinStrike_heal>
+		<shadowAssassinStrike_rage>
+			<Name>
+				<eng>Dark Fury</eng>
+			</Name>
+			<Desc>
+				<eng>Each kill generates %rage_ additional Rage.</eng>
+			</Desc>			
+		</shadowAssassinStrike_rage>
+		<shadowAssassinStrike_manaCost>
+			<Name>
+				<eng>Assassin's Blood</eng>
+			</Name>
+			<Desc>
+				<eng>Mana cost reduced by %manacostdecrease_.</eng>
+			</Desc>			
+		</shadowAssassinStrike_manaCost>
+		<shadowAssassinStrike_markDamage>
+			<Name>
+				<eng>Assassin's Mark</eng>
+			</Name>
+			<Desc>
+				<eng>Shadow marks increase damage by %markdamagebonus_.</eng>
+			</Desc>			
+		</shadowAssassinStrike_markDamage>
+		<shadowNecro>
+			<Name>
+				<eng>Shadow Burst</eng>
+			</Name>
+			<Desc>
+				<eng>A burst of lifeforce draining energy from the shadow world damages all enemies within 6 meters. Any shadow marks on the target gets destroyed while increasing the damage effect by 25%.</eng>
+			</Desc>
+			<effect0>
+				<eng>Burst (Arcane):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Gust of Darkness</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Storm of Darkness</eng>
+				</Name>
+				<Desc>
+					<eng>Area of effect is increased by %radiusbonus_ meters.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Draining Blast</eng>
+				</Name>
+				<Desc>
+					<eng>You instantly gain %heal_ of your maximum health.</eng>
+				</Desc>
+			</Powerup2>			
+		</shadowNecro>
+		<shadowNecro_damage>
+			<Name>
+				<eng>Obscure Power</eng>
+			</Name>
+			<Desc>
+				<eng>Damage is increased by %damagebonus_.</eng>
+			</Desc>			
+		</shadowNecro_damage>
+		<shadowNecro_deathBlast>
+			<Name>
+				<eng>Soul Blasts</eng>
+			</Name>
+			<Desc>
+				<eng>Targets killed generate secondary explosions that deal %deathblastdamage_ of the original damage within 2 meters.</eng>
+			</Desc>			
+		</shadowNecro_deathBlast>
+		<shadowNecro_manaCost>
+			<Name>
+				<eng>Shadow Attunement</eng>
+			</Name>
+			<Desc>
+				<eng>Mana cost is reduced by %manacostdecrease_.</eng>
+			</Desc>			
+		</shadowNecro_manaCost>
+		<shadowNecro_cooldown>
+			<Name>
+				<eng>Shadow Dancing</eng>
+			</Name>
+			<Desc>
+				<eng>Cooldown is reduced by %cooldowndecrease_ seconds.</eng>
+			</Desc>			
+		</shadowNecro_cooldown>
+		<shadowAura>
+			<Name>
+				<eng>Aura of Darkness</eng>
+			</Name>
+			<Desc>
+				<eng>Creates a malevolent aura around you in a 5 meter radius. All enemies with shadow marks take continuous damage within the aura. (The marks are not destroyed.)</eng>
+			</Desc>
+			<effect0>
+				<eng>Aura (Arcane):\n- Damage Effectiveness: %weapondamage_ per second\n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Spirit Syphon</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Lingering Darkness</eng>
+				</Name>
+				<Desc>
+					<eng>Duration is increased by %durationbonus_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Sphere of Darkness</eng>
+				</Name>
+				<Desc>
+					<eng>Area of effect is increased by %radiusbonus_ meters.</eng>
+				</Desc>
+			</Powerup2>
+		</shadowAura>
+		<shadowAura_markChance>
+			<Name>
+				<eng>Overbearing Darkness</eng>
+			</Name>
+			<Desc>
+				<eng>Enemies within the aura have a %markchance_ chance to gain an extra shadow mark each second.</eng>
+			</Desc>			
+		</shadowAura_markChance>
+		<shadowAura_vulnerability>
+			<Name>
+				<eng>Crushing Darkness</eng>
+			</Name>
+			<Desc>
+				<eng>Enemies are afflicted with %vulnerability_ vulnerability per shadow mark.</eng>
+			</Desc>			
+		</shadowAura_vulnerability>
+		<shadowAura_massSlow>
+			<Name>
+				<eng>Grasp of Darkness</eng>
+			</Name>
+			<Desc>
+				<eng>Enemies within the aura are slowed %chill_. The effect increases for each shadow mark on an enemy.</eng>
+			</Desc>			
+		</shadowAura_massSlow>
+		<shadowAura_cooldown>
+			<Name>
+				<eng>Agent of Darkness</eng>
+			</Name>
+			<Desc>
+				<eng>Cooldown is decreased by %cooldowndecrease_ seconds.</eng>
+			</Desc>			
+		</shadowAura_cooldown>
+		<shadowPoisonTrail>
+			<Name>
+				<eng>Trail of Darkness</eng>
+			</Name>
+			<Desc>
+				<eng>You enter the cloaked form and while moving you leave a 1 meter wide poison streak behind. The streak turns into a poisonous cloud for 6 seconds when you reappear. Enemies who enter the streak take continuous damage for 5 seconds (does not stack).</eng>
+			</Desc>
+			<effect0>
+				<eng>%sptattack_ Poison damage (%sptweapondamage_ of Weapon Damage) per sec</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Withering Trail</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Cursed Trail</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies are afflicted with %vulnerability_ vulnerability while poisoned.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Enervating Trail</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies are slowed by %chill_ while poisoned.</eng>
+				</Desc>
+			</Powerup2>
+			<Expert>
+				<Name>
+					<eng>Trail of Damnation</eng>
+				</Name>
+				<Desc>
+					<eng>The duration of the poison streak is increased by %durationbonus_ seconds.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Shadow Ranger</eng>
+				</Name>
+				<Desc>
+					<eng>Cooldown is reduced by %cooldowndecrease_ seconds.</eng>
+				</Desc>
+			</Master>
+		</shadowPoisonTrail>
+		<shadowPoisonTrail_dotDuration>
+			<Name>
+				<eng>Shadow Poison</eng>
+			</Name>
+			<Desc>
+				<eng>Increases poison damage duration.</eng>
+			</Desc>
+			<effect0>
+				<eng>Duration is increased by +%dotdurationbonus_ seconds.</eng>
+			</effect0>
+		</shadowPoisonTrail_dotDuration>
+		<shadowPoisonTrail_duration>
+			<Name>
+				<eng>Trail of Damnation</eng>
+			</Name>
+			<Desc>
+				<eng>Increases duration of the poison streak.</eng>
+			</Desc>
+			<effect0>
+				<eng>Duration is increased by +%durationbonus_ seconds.</eng>
+			</effect0>
+		</shadowPoisonTrail_duration>
+		<shadowPoisonTrail_manaCost>
+			<Name>
+				<eng>Shadow Blood</eng>
+			</Name>
+			<Desc>
+				<eng>Decreases Mana cost.</eng>
+			</Desc>
+			<effect0>
+				<eng>Mana cost is reduced by %manacostdecrease_.</eng>
+			</effect0>
+		</shadowPoisonTrail_manaCost>
+		<shadowPoisonTrail_cooldown>
+			<Name>
+				<eng>Shadow Ranger</eng>
+			</Name>
+			<Desc>
+				<eng>Decreases cooldown.</eng>
+			</Desc>
+			<effect0>
+				<eng>Cooldown is reduced by %cooldowndecrease_ seconds.</eng>
+			</effect0>
+		</shadowPoisonTrail_cooldown>
+		<shadowWarrior>
+			<Name>
+				<eng>Shadow Warriors</eng>
+			</Name>
+			<Desc>
+				<eng>You enter the cloaked form and summon two shadow warriors. The warriors will use the Shadow Twirl attack on targets and will try to switch to a new target after generating 6 shadow marks. They have the same health, defense and resistances as you, but their damage depends on the level of this skill. Summoning new warriors will destroy the old ones.</eng>
+			</Desc>
+			<effect0>
+				<eng>Shadow warrior damage: %attack_ Physical damage (%weapondamage_ of Weapon Damage)</eng>
+			</effect0>
+			<effect1>
+				<eng>Shadow warrior health: %maxhp_ (%castermaxhpmul_ of of your health)</eng>
+			</effect1>
+			<buff__PhantasmalAide>
+				<eng>%s: +%.3g%% warrior damage (+%.3g%% per level)</eng>
+			</buff__PhantasmalAide>
+			<buff__ghostlyMirage>
+				<eng>%s: +%.3g%% warrior damage (+%.3g%% per level)</eng>
+			</buff__ghostlyMirage>
+			<Powerup0>
+				<Name>
+					<eng>Shadow Brutes</eng>
+				</Name>
+				<Desc>
+					<eng>The warriors' damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Shadow Champions</eng>
+				</Name>
+				<Desc>
+					<eng>The warriors' health is increased by %hpbonus_.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Shadow Revenants</eng>
+				</Name>
+				<Desc>
+					<eng>The warriors deal %blastdamage_ times of their attack damage in a 3 meter radius when they die.</eng>
+				</Desc>
+			</Powerup2>			
+		</shadowWarrior>
+		<shadowWarrior_resurrectChance>
+			<Name>
+				<eng>Eternal Warriors</eng>
+			</Name>
+			<Desc>
+				<eng>The warriors have a %resurrectchance_ chance to resurrect immeadiately after they die.</eng>
+			</Desc>			
+		</shadowWarrior_resurrectChance>
+		<shadowWarrior_speed>
+			<Name>
+				<eng>Phantom Warriors</eng>
+			</Name>
+			<Desc>
+				<eng>The warriors' movement speed is increased by %speed_.</eng>
+			</Desc>			
+		</shadowWarrior_speed>
+		<shadowWarrior_additionalMarkChance>
+			<Name>
+				<eng>Wraithblades</eng>
+			</Name>
+			<Desc>
+				<eng>The warriors have a %additionalmarkchance_ chance to generate an additional shadow mark with each strike.</eng>
+			</Desc>			
+		</shadowWarrior_additionalMarkChance>
+		<shadowWarrior_cooldown>
+			<Name>
+				<eng>Shadow Master</eng>
+			</Name>
+			<Desc>
+				<eng>Cooldown to summon the warriors is reduced by %cooldowndecrease_ seconds.</eng>
+			</Desc>
+		</shadowWarrior_cooldown>
+		<decoy>
+			<Name>
+				<eng>Seekermatons</eng>
+			</Name>
+			<Desc>
+				<eng>Summons 3 Seekermatons looking for enemies within 40 meters, following, illuminating and afflicting them with vulnerability. An enemy may only be targeted by one seekermaton at any time. The seekermatons cannot be damaged and remain indefinitely.</eng>
+			</Desc>
+			<effect0>
+				<eng>%vulnerability_ increased vulnerability.</eng>
+			</effect0>
+			<effect1>
+				<eng>-%slow_ movement speed to targets.</eng>
+			</effect1>
+			<Powerup0>
+				<Name>
+					<eng>Enhanced Illuminators</eng>
+				</Name>
+				<Desc>
+					<eng>Vulnerability effect is further increased by %vulnerabilitybonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Photon Shackles</eng>
+				</Name>
+				<Desc>
+					<eng>Marked Enemies are slowed by %massslow_.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Seekermaton Pack</eng>
+				</Name>
+				<Desc>
+					<eng>Summons %cikeszcountbonus_ additional Seekermatons.</eng>
+				</Desc>
+			</Powerup2>			
+			<Expert>
+				<Name>
+					<eng>Lumino-Degradators</eng>
+				</Name>
+				<Desc>
+					<eng>Marked enemies take %dotDamageBonus_ additional damage from damage over time effects.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Weakness Highlighters</eng>
+				</Name>
+				<Desc>
+					<eng>Attacks on marked enemies have +%critChance_ chance to result in Critical Hits (even beyond the maximum limit).</eng>
+				</Desc>
+			</Master>
+		</decoy>
+		<decoyFelrobbantas>
+			<Name>
+				<eng>Destroy Seekermatons</eng>
+			</Name>
+			<Desc>
+				<eng>Your Seekermatons attract the attention of as many enemies as possible for 3 seconds then explode. The explosions deals damage within 3.5 meters of each Seekermaton.</eng>
+			</Desc>
+			<effect0>
+				<eng>Explosion (fire, Physical):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Improved Self-destructors</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Splinter Cloud</eng>
+				</Name>
+				<Desc>
+					<eng>Area of effect is increased by %blastradiusbonus_ meters.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Lead Shrapnel</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck are stunned for %stunduration_ seconds.</eng>
+				</Desc>
+			</Powerup2>			
+		</decoyFelrobbantas>
+		<decoyFelrobbantas_m1>
+			<Name>
+				<eng>Napalm Droplets</eng>
+			</Name>
+			<Desc>
+				<eng>Enemies struck are ignited for 5 seconds, taking %dot_ of the original explosion damage each second.</eng>
+			</Desc>			
+		</decoyFelrobbantas_m1>
+		<decoyFelrobbantas_m2>
+			<Name>
+				<eng>Quantum Imprint Rematerializator</eng>
+			</Name>
+			<Desc>
+				<eng>The Seekermatons have a %resurrectchance_ chance to resurrect immediately after the explosion.</eng>
+			</Desc>			
+		</decoyFelrobbantas_m2>
+		<decoyFelrobbantas_m3>
+			<Name>
+				<eng>Dirty Bomblets</eng>
+			</Name>
+			<Desc>
+				<eng>Enemies struck are afflicted with %vulnerability_ vulnerability for 5 seconds.</eng>
+			</Desc>			
+		</decoyFelrobbantas_m3>
+		<decoyFelrobbantas_m4>
+			<Name>
+				<eng>Blast Antagonizers</eng>
+			</Name>
+			<Desc>
+				<eng>Each kill generates +%ragePerKill_ Rage.</eng>
+			</Desc>			
+		</decoyFelrobbantas_m4>
+		<precisionShot>
+			<Name>
+				<eng>Precision Shot</eng>
+			</Name>
+			<Desc>
+				<eng>You fire a precision shot with a 2.5 second delay by holding down the mouse button. The shot deals extreme damage unless you release the shot prematurely. Premature shots deals minor damage.</eng>
+			</Desc>
+			<effect0>
+				<eng>Precision Shot (Physical):\n- Damage Effectiveness: 1500% \n- Total Damage: +%lvlscaleSniper_</eng>
+			</effect0>
+			<effect1>
+				<eng>Premature Shot (Physical):\n- Damage Effectiveness: 250% \n- Total Damage: +%lvlscale_</eng>
+			</effect1>
+			<Powerup0>
+				<Name>
+					<eng>Devastator Round</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Nickel Coated Round</eng>
+				</Name>
+				<Desc>
+					<eng>The shot can pierce a maximum of %piercecount_ targets.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Traumatizer Round</eng>
+				</Name>
+				<Desc>
+					<eng>Critical chance is increased by %critchance_ (even beyond the maximum limit).</eng>
+				</Desc>
+			</Powerup2>
+		</precisionShot>
+		<precisionShot_m1>
+			<Name>
+				<eng>Lightseeker Scope</eng>
+			</Name>
+			<Desc>
+				<eng>%aimtimedecrease_ aim time by on targets marked by Seekermatons.</eng>
+			</Desc>			
+		</precisionShot_m1>
+		<precisionShot_m2>
+			<Name>
+				<eng>Quickshot</eng>
+			</Name>
+			<Desc>
+				<eng>Increases premature shot damage by %damagebonus_.</eng>
+			</Desc>			
+		</precisionShot_m2>
+		<precisionShot_m3>
+			<Name>
+				<eng>Sharpshooter Training</eng>
+			</Name>
+			<Desc>
+				<eng>Critical chance is increased by %criticalhit_.</eng>
+			</Desc>			
+		</precisionShot_m3>
+		<precisionShot_m4>
+			<Name>
+				<eng>Calm Focus</eng>
+			</Name>
+			<Desc>
+				<eng>Precision Shot powerups cost %powerupcostdecrease_ less Rage.</eng>
+			</Desc>			
+		</precisionShot_m4>
+		<scatterblast>
+			<Name>
+				<eng>Ricochet Blast</eng>
+			</Name>
+			<Desc>
+				<eng>Fires a powerful shot that splinters when it hits a target, sending out shards to up to 4 targets within 5 meters. Each shard ricochets up to 5 times.</eng>
+			</Desc>
+			<effect0>
+				<eng>Ricochet Blast (Physical):\n- Damage Effectiveness: 250% \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<effect1>
+				<eng>Ricochet (Physical):\n- Damage Effectiveness: 20% \n- Total Damage: +%lvlscale_</eng>
+			</effect1>
+			<Powerup0>
+				<Name>
+					<eng>Assassin Shot</eng>
+				</Name>
+				<Desc>
+					<eng>Increases the damage of the initial hit (not shard damage) by %singledamagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Culling Rounds</eng>
+				</Name>
+				<Desc>
+					<eng>The shards deal %ricochetdamagebonus_ more damage.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Riot Control</eng>
+				</Name>
+				<Desc>
+					<eng>Slows all targets hit by the shards by %slow_ for 3 seconds.</eng>
+				</Desc>
+			</Powerup2>
+		</scatterblast>
+		<scatterblast_m1>
+			<Name>
+				<eng>Seeker Shells</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the radius shards will seek out targets by %searchradius_.</eng>
+			</Desc>			
+		</scatterblast_m1>
+		<scatterblast_m2>
+			<Name>
+				<eng>Hydra Round</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the number of shards by %fragmentcount_.</eng>
+			</Desc>			
+		</scatterblast_m2>
+		<scatterblast_m3>
+			<Name>
+				<eng>Rubberized Fragments</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the number of times shards ricochet by %ricochetcount_.</eng>
+			</Desc>			
+		</scatterblast_m3>
+		<scatterblast_m4>
+			<Name>
+				<eng>Hollow Point Rounds</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the damage of the initial hit (not shard damage) by %singledamagebonus_.</eng>
+			</Desc>			
+		</scatterblast_m4>
+		<poisonBlast>
+			<Name>
+				<eng>Poison Blast</eng>
+			</Name>
+			<Desc>
+				<eng>Shoots an explosive charge which deals damage within 3 meters. The explosion also generates a toxic cloud that persists for 5 seconds. Enemies stepping into the cloud are poisoned and take additional damage for 10 seconds, and are also afflicted with 25% vulnerability. The effects of multiple shots do not stack.</eng>
+			</Desc>
+			<effect0>
+				<eng>Blast (Poison):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<effect1>
+				<eng>Poisoned enemies take Poison Damage (%dot_ of the damage of explosion) per second.</eng>
+			</effect1>
+			<Powerup0>
+				<Name>
+					<eng>Arsenic Cloud</eng>
+				</Name>
+				<Desc>
+					<eng>Poison damage over time is increased by %dotbonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Potent Toxin</eng>
+				</Name>
+				<Desc>
+					<eng>Toxic cloud duration is increased by %dotdurationbonus_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Debilitating Toxin</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies in the cloud deal %damagereduction_ less damage (this even affects powerful enemies).</eng>
+				</Desc>
+			</Powerup2>			
+		</poisonBlast>
+		<poisonBlast_m1>
+			<Name>
+				<eng>Concentrated Toxin Cloud</eng>
+			</Name>
+			<Desc>
+				<eng>Poison damage over time percentage is increased by %dotbonus_.</eng>
+			</Desc>						
+		</poisonBlast_m1>
+		<poisonBlast_m2>
+			<Name>
+				<eng>Incessant Cloud</eng>
+			</Name>
+			<Desc>
+				<eng>Toxic cloud duration is increased by %clouddurationbonus_ seconds.</eng>
+			</Desc>						
+		</poisonBlast_m2>
+		<poisonBlast_m3>
+			<Name>
+				<eng>Massive Cloud</eng>
+			</Name>
+			<Desc>
+				<eng>Area of effect is increased by %radiusbonus_ meters.</eng>
+			</Desc>						
+		</poisonBlast_m3>
+		<poisonBlast_m4>
+			<Name>
+				<eng>Toxin Sensitivity</eng>
+			</Name>
+			<Desc>
+				<eng>Enemies have their Poison Resistance reduced by %doubledotchance_.</eng>
+			</Desc>						
+		</poisonBlast_m4>		
+		<glacierShot>
+			<Name>
+				<eng>Glacier Shot</eng>
+			</Name>
+			<Desc>
+				<eng>Fires a bullet piercing all targets in its path, dealing ice damage. Each impact creates ice shards that hit every enemy within 4 meters of the impact. The shards deal 75% of the original damage.</eng>
+			</Desc>
+			<effect0>
+				<eng>Hit (Ice):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Cold Blast</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Glacier Round</eng>
+				</Name>
+				<Desc>
+					<eng>Targets are frozen for %freezeduration_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Slicing Shrapnel</eng>
+				</Name>
+				<Desc>
+					<eng>Increases the range Shards will seek targets by %searchradius_.</eng>
+				</Desc>
+			</Powerup2>			
+		</glacierShot>
+		<glacierShot_m1>
+			<Name>
+				<eng>Iceblaster Rounds</eng>
+			</Name>
+			<Desc>
+				<eng>Increases damage on frozen or slowed targets by %frozenvulnerability_.</eng>
+			</Desc>			
+		</glacierShot_m1>
+		<glacierShot_m2>
+			<Name>
+				<eng>Frostgel Rounds</eng>
+			</Name>
+			<Desc>
+				<eng>Slows targets down by %slow_.</eng>
+			</Desc>			
+		</glacierShot_m2>
+		<glacierShot_m3>
+			<Name>
+				<eng>Frostburn Rounds</eng>
+			</Name>
+			<Desc>
+				<eng>Targets are afflicted with %vulnerability_ vulnerability for 5 seconds (does not stack).</eng>
+			</Desc>			
+		</glacierShot_m3>
+		<glacierShot_m4>
+			<Name>
+				<eng>Improved Fragmentation</eng>
+			</Name>
+			<Desc>
+				<eng>The shards seek targets %searchradius_ meters further.</eng>
+			</Desc>			
+		</glacierShot_m4>
+		<sphereOfTimelessness>
+			<Name>
+				<eng>Sphere of Timelessness</eng>
+			</Name>
+			<Desc>
+				<eng>Creates a bubble of personal time while the world stands still. The bubble starts to shrink as you move around and disappears after walking some distance. Perfoming attacks or using skills counts as if you have moved 4 meters. A few actions like shuffling inventory items are without penalty. When the bubble is gone, time returns to normal. You also gain a substantial damage bonus for the duration.</eng>			
+			</Desc>
+			<effect0>
+				<eng>Time bubble dissipates after moving %skillduration_ meters.</eng>
+			</effect0>
+			<effect1>
+				<eng>%postcalcfurydamagebonus_ bonus damage.</eng>
+			</effect1>
+			<Powerup0>
+				<Name>
+					<eng>Frozen Carnage</eng>
+				</Name>
+				<Desc>
+					<eng>The damage bonus is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Timeless Rush</eng>
+				</Name>
+				<Desc>
+					<eng>Each time a skill is used, there is a %freeactionchance_ chance that the action is free.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Helpless Foes</eng>
+				</Name>
+				<Desc>
+					<eng>Critical Damage is increased by %critdamage_ (even beyond maximum limit).</eng>
+				</Desc>
+			</Powerup2>
+		</sphereOfTimelessness>
+		<sphereOfTimelessness_m1>
+			<Name>
+				<eng>Unerring Strikes</eng>
+			</Name>
+			<Desc>
+				<eng>Critical Chance is increased by %critchance_ (even beyond maximum limit).</eng>
+			</Desc>			
+		</sphereOfTimelessness_m1>
+		<sphereOfTimelessness_m2>
+			<Name>
+				<eng>Timeless Fury</eng>
+			</Name>
+			<Desc>
+				<eng>Each kill generates %ragebonus_ Rage.</eng>
+			</Desc>			
+		</sphereOfTimelessness_m2>
+		<sphereOfTimelessness_m3>
+			<Name>
+				<eng>Gift of Eternity</eng>
+			</Name>
+			<Desc>
+				<eng>Each meter's worth of action regenerates %manapertick_ of your maximum mana.</eng>
+			</Desc>			
+		</sphereOfTimelessness_m3>
+		<sphereOfTimelessness_m4>
+			<Name>
+				<eng>Balm of Eternity</eng>
+			</Name>
+			<Desc>
+				<eng>Each meter's worth of action restores %hppertick_ of maximum health.</eng>
+			</Desc>			
+		</sphereOfTimelessness_m4>		
+		<missileVault>
+			<Name>
+				<eng>Missile Vault</eng>
+			</Name>
+			<Desc>
+				<eng>Fires a heavy explosive charge a short distance that deals damage within 3 meters, then using the kickback you flip backwards several meters.</eng>
+			</Desc>
+			<effect0>
+				<eng>Explosion (Physical, Fire):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<effect1>
+				<eng>%distance_ meter vault distance.</eng>
+			</effect1>
+			<Powerup0>
+				<Name>
+					<eng>Concussion Missile</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Shock Missile</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck are stunned for %stunduration_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Stagger Missile</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck are afflicted with %vulnerability_ vulnerability for 5 seconds.</eng>
+				</Desc>
+			</Powerup2>
+		</missileVault>
+		<missileVault_m1>
+			<Name>
+				<eng>Shockwave Missile</eng>
+			</Name>
+			<Desc>
+				<eng>Area of effect of the explosion is increased by %blastradiusbonus_ meters.</eng>
+			</Desc>			
+		</missileVault_m1>
+		<missileVault_m2>
+			<Name>
+				<eng>Thrust Missile</eng>
+			</Name>
+			<Desc>
+				<eng>Vault distance is increased by %distancebonus_ meters.</eng>
+			</Desc>			
+		</missileVault_m2>
+		<missileVault_m3>
+			<Name>
+				<eng>Incendiary Missile</eng>
+			</Name>
+			<Desc>
+				<eng>The explosion ignites enemies for 3 seconds, who take an additional %dot_ of the original missile damage each second.</eng>
+			</Desc>			
+		</missileVault_m3>
+		<missileVault_m4>
+			<Name>
+				<eng>Explosive Acrobatics Expertise</eng>
+			</Name>
+			<Desc>
+				<eng>Cooldown is reduced by %cooldowndecrease_ seconds.</eng>
+			</Desc>			
+		</missileVault_m4>
+		<battleStance>
+			<Name>
+				<eng>Battle Stance</eng>
+			</Name>
+			<Desc>
+				<eng>Standing still for 3 seconds bestows a substantial damage bonus.</eng>
+			</Desc>
+			<effect0>
+				<eng>Damage is increased by %damage_.</eng>
+			</effect0>			
+			<Expert>
+				<Name>
+					<eng>Evasive Stance</eng>
+				</Name>
+				<Desc>
+					<eng>Adds a %dodge_ defense bonus to the effects of the skill.</eng>
+				</Desc>				
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Perfect Timing</eng>
+				</Name>
+				<Desc>
+					<eng>Critical Hit Chance is increased by %critchance_ (even beyond the maximum limit).</eng>
+				</Desc>				
+			</Master>			
+		</battleStance>
+		<battleStance_m1>
+			<Name>
+				<eng>Evasive Stance</eng>
+			</Name>
+			<Desc>
+				<eng>Adds a dodge bonus to the effects of the skill.</eng>
+			</Desc>
+			<effect0>
+				<eng>Gain %dodge_ dodge.</eng>
+			</effect0>
+		</battleStance_m1>
+		<battleStance_criticalDamage>
+			<Name>
+				<eng>Flawless Aim</eng>
+			</Name>
+			<Desc>
+				<eng>Increases Critical Damage (even beyond the maximum limit).</eng>
+			</Desc>
+			<effect0>
+				<eng>Critical Damage is increased by %critdamage_.</eng>
+			</effect0>
+		</battleStance_criticalDamage>
+		<battleStance_m2>
+			<Name>
+				<eng>Perfect Timing</eng>
+			</Name>
+			<Desc>
+				<eng>Increases Critical Hit Chance (even beyond the maximum limit).</eng>
+			</Desc>
+			<effect0>
+				<eng>Critical Chance is increased by %critchance_.</eng>
+			</effect0>
+		</battleStance_m2>
+		<battleStance_attackRate>
+			<Name>
+				<eng>Perfect Balance</eng>
+			</Name>
+			<Desc>
+				<eng>Increases attack rate.</eng>
+			</Desc>
+			<effect0>
+				<eng>Attack rate is increased by %attackrate_.</eng>
+			</effect0>
+		</battleStance_attackRate>
+		<aura__Rampage_limit>
+			<Name>
+				<eng>Red Fog</eng>
+			</Name>
+			<Desc>
+				<eng>The bonus is applied from 90% of maximum Rage.</eng>
+			</Desc>
+		</aura__Rampage_limit>
+		<aura__Rampage_critchance>
+			<Name>
+				<eng>Furious Rampage</eng>
+			</Name>
+			<Desc>
+				<eng>At maximum Rage you gain 1% Critical Hit Chance.</eng>
+			</Desc>
+		</aura__Rampage_critchance>
+
+		<aura__TreasureHunter>
+			<effect1>
+				<eng>Magic Find Chance is increased by %modifiervalue_(item_find_chance)%.</eng>
+			</effect1>
+		</aura__TreasureHunter>
+		<aura__TreasureHunter_potionfind>
+			<Name>
+				<eng>Essence Hunter</eng>
+			</Name>
+			<Desc>
+				<eng>Also increases the chance to find Essences by 10%.</eng>
+			</Desc>
+		</aura__TreasureHunter_potionfind>
+		<aura__TreasureHunter_essencefind>
+			<Name>
+				<eng>Relic Hunter</eng>
+			</Name>
+			<Desc>
+				<eng>Also increases the chance to find Essences by 15%.</eng>
+			</Desc>
+		</aura__TreasureHunter_essencefind>
+
+		<aura__HiddenReserves_powerup>
+			<Name>
+				<eng>Inner Fire</eng>
+			</Name>
+			<Desc>
+				<eng>When activating powerups, there is a 5% chance that you regain spent Rage points immediately.</eng>
+			</Desc>
+		</aura__HiddenReserves_powerup>
+		<aura__HiddenReserves_manaperrage>
+			<Name>
+				<eng>Rage Conversion</eng>
+			</Name>
+			<Desc>
+				<eng>You gain 1 Mana per Rage point spent.</eng>
+			</Desc>
+		</aura__HiddenReserves_manaperrage>
+
+		<aura__PowerForBlood_potion>
+			<Name>
+				<eng>Enchanted Soul</eng>
+			</Name>
+			<Desc>
+				<eng>The cooldown for mana potions is reduced by 10%.</eng>
+			</Desc>
+		</aura__PowerForBlood_potion>
+		<aura__PowerForBlood_manaperkill>
+			<Name>
+				<eng>Soul Trap</eng>
+			</Name>
+			<Desc>
+				<eng>Each killed enemy recharges 1% of your maximum Mana.</eng>
+			</Desc>
+		</aura__PowerForBlood_manaperkill>
+
+		<aura__Minecraft_ManaCost>
+			<Name>
+				<eng>Efficient Construction</eng>
+			</Name>
+			<Desc>
+				<eng>Mana cost of all mine type skills is decreased by 10%.</eng>
+			</Desc>
+		</aura__Minecraft_ManaCost>
+		<aura__Minecraft_Cooldown>
+			<Name>
+				<eng>Improved Assembling</eng>
+			</Name>
+			<Desc>
+				<eng>Cooldown of all mine type skills is decreased by 10%.</eng>
+			</Desc>
+		</aura__Minecraft_Cooldown>
+
+		<aura__UnnaturalResistance_resistchance>
+			<Name>
+				<eng>Supernatural Resistance</eng>
+			</Name>
+			<Desc>
+				<eng>There is a 5% chance that negative effects don't affect you at all.</eng>
+			</Desc>
+		</aura__UnnaturalResistance_resistchance>
+		<aura__UnnaturalResistance_resistance>
+			<Name>
+				<eng>Anomalous Resilience</eng>
+			</Name>
+			<Desc>
+				<eng>Decreases incoming damage from duration based harmful effects by 20%.</eng>
+			</Desc>
+		</aura__UnnaturalResistance_resistance>
+		
+		<aura__Hunter_sRejuvenation_potion>
+			<Name>
+				<eng>Enchanted Blood</eng>
+			</Name>
+			<Desc>
+				<eng>The cooldown for health potions is reduced by 10%.</eng>
+			</Desc>
+		</aura__Hunter_sRejuvenation_potion>
+		<aura__Hunter_sRejuvenation_hpperkill>
+			<Name>
+				<eng>Hunter's Revitalization</eng>
+			</Name>
+			<Desc>
+				<eng>Each killed enemy heals you for 1% of your maximum Hit Points.</eng>
+			</Desc>
+		</aura__Hunter_sRejuvenation_hpperkill>
+		
+		<aura__Recklessness_physicalDamage>
+			<Name>
+				<eng>Adrenaline Rush</eng>
+			</Name>
+			<Desc>
+				<eng>You gain another 10% physical damage when you are below 30% health.</eng>
+			</Desc>
+		</aura__Recklessness_physicalDamage>
+		<aura__Recklessness_physicalResist>
+			<Name>
+				<eng>Survival Instinct</eng>
+			</Name>
+			<Desc>
+				<eng>The Physical Resistance penalty is lowered to 20%.</eng>
+			</Desc>
+		</aura__Recklessness_physicalResist>
+
+		<aura__WardWisdom_itemDefense>
+			<Name>
+				<eng>Armor Wards</eng>
+			</Name>
+			<Desc>
+				<eng>Armors provide 20% additional Defense.</eng>
+			</Desc>
+		</aura__WardWisdom_itemDefense>
+		<aura__WardWisdom_defenseResistance>
+			<Name>
+				<eng>Resistance Wards</eng>
+			</Name>
+			<Desc>
+				<eng>All of your resistances are increased by 5% of your Defense value.</eng>
+			</Desc>
+		</aura__WardWisdom_defenseResistance>
+
+		<aura__GoliathSlayer_defenseAgainst>
+			<Name>
+				<eng>Steadfast Slayer</eng>
+			</Name>
+			<Desc>
+				<eng>Grants 10% additional Defense against powerful enemies.</eng>
+			</Desc>
+		</aura__GoliathSlayer_defenseAgainst>
+		<aura__GoliathSlayer_uniqueFindChance>
+			<Name>
+				<eng>Lucky Slayer</eng>
+			</Name>
+			<Desc>
+				<eng>Powerful enemies are 10% more likely to drop epic, set or legendary items.</eng>
+			</Desc>
+		</aura__GoliathSlayer_uniqueFindChance>
+
+		<aura__FireSage_ManaReserve>
+			<Name>
+				<eng>Fire Grandmastery</eng>
+			</Name>
+			<Desc>
+				<eng>Upkeep is reduced to 10% of maximum Mana.</eng>
+			</Desc>
+		</aura__FireSage_ManaReserve>
+		<aura__FireSage_FocusDamage>
+			<Name>
+				<eng>Fiery Resonance</eng>
+			</Name>
+			<Desc>
+				<eng>Fire elemental damage bonuses on your spellcuffs count as if they were 30% stronger.</eng>
+			</Desc>
+		</aura__FireSage_FocusDamage>
+
+		<aura__IceSage_ManaReserve>
+			<Name>
+				<eng>Ice Grandmastery</eng>
+			</Name>
+			<Desc>
+				<eng>Upkeep is reduced to 10% of maximum Mana.</eng>
+			</Desc>
+		</aura__IceSage_ManaReserve>
+		<aura__IceSage_FocusDamage>
+			<Name>
+				<eng>Cold Resonance</eng>
+			</Name>
+			<Desc>
+				<eng>Ice elemental damage bonuses on your spellcuffs count as if they were 30% stronger.</eng>
+			</Desc>
+		</aura__IceSage_FocusDamage>
+
+		<aura__StormSage_ManaReserve>
+			<Name>
+				<eng>Storm Grandmastery</eng>
+			</Name>
+			<Desc>
+				<eng>Upkeep is reduced to 15% of maximum Mana.</eng>
+			</Desc>
+		</aura__StormSage_ManaReserve>
+		<aura__StormSage_FocusDamage>
+			<Name>
+				<eng>Lightning Resonance</eng>
+			</Name>
+			<Desc>
+				<eng>Elemental and Arcane damage bonuses on your spellcuffs and staves count as if they were 30% stronger.</eng>
+			</Desc>
+		</aura__StormSage_FocusDamage>
+
+		<aura__MentalDiscipline_ManaCost>
+			<Name>
+				<eng>Manaweaving Expertise</eng>
+			</Name>
+			<Desc>
+				<eng>Upkeep skills cost 10% less Mana.</eng>
+			</Desc>
+		</aura__MentalDiscipline_ManaCost>
+		<aura__MentalDiscipline_Damage>
+			<Name>
+				<eng>Manaweaving Mastery</eng>
+			</Name>
+			<Desc>
+				<eng>Upkeep skills do 5% more damage.</eng>
+			</Desc>
+		</aura__MentalDiscipline_Damage>
+
+		<aura__Spellbinding_doubleDurationChance>
+			<Name>
+				<eng>Wild Magic</eng>
+			</Name>
+			<Desc>
+				<eng>All slow, stun, freeze, shock and confusion effects you create have a 10% chance to last twice as long.</eng>
+			</Desc>
+		</aura__Spellbinding_doubleDurationChance>
+		<aura__Spellbinding_vulnerability>
+			<Name>
+				<eng>Harmful Binding</eng>
+			</Name>
+			<Desc>
+				<eng>You deal 10% more damage to slowed, stunned, frozen, shocked or confused enemies.</eng>
+			</Desc>
+		</aura__Spellbinding_vulnerability>
+
+		<aura__MechanoidBuilding_ManaCost>
+			<Name>
+				<eng>Efficient Construction</eng>
+			</Name>
+			<Desc>
+				<eng>Mana cost of all mechanical ally creation skills is reduced by 10%.</eng>
+			</Desc>
+		</aura__MechanoidBuilding_ManaCost>
+		<aura__MechanoidBuilding_Resist>
+			<Name>
+				<eng>Robust Mechanoids</eng>
+			</Name>
+			<Desc>
+				<eng>Your mechanical allies gain 10% resistance agains all forms of damage.</eng>
+			</Desc>
+		</aura__MechanoidBuilding_Resist>
+
+		<aura__PerimeterExpertise_ManaCost>
+			<Name>
+				<eng>Efficient Construction</eng>
+			</Name>
+			<Desc>
+				<eng>Mana cost of all turret creation skills is reduced by 10%.</eng>
+			</Desc>
+		</aura__PerimeterExpertise_ManaCost>
+		<aura__PerimeterExpertise_Resist>
+			<Name>
+				<eng>Robust Turrets</eng>
+			</Name>
+			<Desc>
+				<eng>Your turrets gain 10% resistance agains all forms of damage.</eng>
+			</Desc>
+		</aura__PerimeterExpertise_Resist>
+
+		<aura__EntropyDiscipline_ccRes>
+			<Name>
+				<eng>Entropic Aura</eng>
+			</Name>
+			<Desc>
+				<eng>Your actual Crowd Control Resistance is increased by 30%.</eng>
+			</Desc>
+		</aura__EntropyDiscipline_ccRes>
+		<aura__EntropyDiscipline_ccResReduce>
+			<Name>
+				<eng>Intense Entropy</eng>
+			</Name>
+			<Desc>
+				<eng>Enemy creatures also have their resistances reduced by 5%.</eng>
+			</Desc>
+		</aura__EntropyDiscipline_ccResReduce>
+
+		<aura__ClearShot_radius>
+			<Name>
+				<eng>Quick Aim</eng>
+			</Name>
+			<Desc>
+				<eng>The bonus is applied if no enemies are within 8 meters.</eng>
+			</Desc>
+		</aura__ClearShot_radius>
+		<aura__ClearShot_damage>
+			<Name>
+				<eng>Steel Nerves</eng>
+			</Name>
+			<Desc>
+				<eng>If only a single enemy is within distance, you still gain 50% of the bonus.</eng>
+			</Desc>
+		</aura__ClearShot_damage>
+		
+		<giantHidra__passive>
+			<Name>
+				<eng>Flame Serpent</eng>
+			</Name>
+			<Desc>
+				<eng>You have active flame serpents that require upkeep, decreasing your maximum Mana.</eng>
+			</Desc>			
+		</giantHidra__passive>		
+		
+		
+		<bleeding_bonechopper>
+			<Name>
+				<eng>Bleeding</eng>
+			</Name>
+			<Desc>
+				<eng>You are bleeding and will continue to suffer Physical Damage.</eng>
+			</Desc>
+		</bleeding_bonechopper>
+		<lighningclaw>
+			<Name>
+				<eng>Shocked</eng>
+			</Name>
+			<Desc>
+				<eng>You are shocked. Your movement speed and damage is reduced by 50%.</eng>
+			</Desc>
+		</lighningclaw>
+		<icebolt>
+			<Name>
+				<eng>Icebolt</eng>
+			</Name>
+			<Desc>
+				<eng>You are slowed down by 30%.</eng>
+			</Desc>
+		</icebolt>
+		<__icebolt_nosferatu>
+			<Name>
+				<eng>Icebolt</eng>
+			</Name>
+			<Desc>
+				<eng>You are slowed down by 30%.</eng>
+			</Desc>
+		</__icebolt_nosferatu>
+		<icespell_area>
+			<Name>
+				<eng>Winter Flare</eng>
+			</Name>
+			<Desc>
+				<eng>You are slowed down by 40%.</eng>
+			</Desc>
+		</icespell_area>
+		<Centaur_Archery>
+			<Name>
+				<eng>Centaur Frost Arrow</eng>
+			</Name>
+			<Desc>
+				<eng>You are slowed down by 20%.</eng>
+			</Desc>
+		</Centaur_Archery>
+		<lightningclaw>
+			<Name>
+				<eng>Shocked</eng>
+			</Name>
+			<Desc>
+				<eng>Your damage and movement speed are decreased by 50%.</eng>
+			</Desc>
+		</lightningclaw>
+		<poisoning_strike>
+			<Name>
+				<eng>poisoning Strike</eng>
+			</Name>
+			<Desc>
+				<eng>You have been poisoned. You are taking continuous poison damage.</eng>
+			</Desc>
+		</poisoning_strike>
+		<Ice_DOT>
+			<Name>
+				<eng>Sphere of Frost</eng>
+			</Name>				
+			<Desc>
+				<eng>You are taking continuous ice damage.</eng>
+			</Desc>
+		</Ice_DOT>
+		<stunning_missile_hollowking>
+			<Name>
+				<eng>Frost Missile</eng>
+			</Name>				
+			<Desc>
+				<eng>You are frozen for 3 seconds.</eng>
+			</Desc>
+		</stunning_missile_hollowking>
+		<Afterburn_Basalthanor>
+			<Name>
+				<eng>Flaming Strike</eng>
+			</Name>				
+			<Desc>
+				<eng>You are taking continuous fire damage.</eng>
+			</Desc>
+		</Afterburn_Basalthanor>
+		<td_world_Rat_Pits>
+			<Name>
+				<eng>Create Rat Pit</eng>
+			</Name>				
+			<Desc>
+				<eng>Creates a rat pit that continuously summons rats for 60 seconds or until destroyed. The rats fight on your side.</eng>
+			</Desc>
+		</td_world_Rat_Pits>
+		<aranycikesz_mark>
+			<Name>
+				<eng>Marked</eng>
+			</Name>				
+			<Desc>
+				<eng>You are marked! You are more vulnerable to damage from all sources!</eng>
+			</Desc>
+		</aranycikesz_mark>
+		<finalboss_damage_slow_totem>
+			<Name>
+				<eng>Totem of Slow Torment</eng>
+			</Name>				
+			<Desc>
+				<eng>A totem is slowing your movement and you are also taking continuous damage!</eng>
+			</Desc>
+		</finalboss_damage_slow_totem>
+		<finalboss_nova>
+			<Name>
+				<eng>Bligthwave</eng>
+			</Name>				
+			<Desc>
+				<eng>Kills all enemy creatures present in the Void Cathedral, except the Faceless One, who takes 5000 damage.</eng>
+			</Desc>
+		</finalboss_nova>
+		<taunt>
+			<Name>
+				<eng>Taunt</eng>
+			</Name>
+			<Desc>
+				<eng>All enemies within 10 meters prioritize you as their target for 10 seconds. You also gain a bonus to your Defense for the duration.</eng>
+			</Desc>
+			<effect0>
+				<eng>+%defense_ Defense</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Challenging Taunt</eng>
+				</Name>
+				<Desc>
+					<eng>Range of the taunt is increased by %radiusbonus_ meters.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Enraging Taunt</eng>
+				</Name>
+				<Desc>
+					<eng>Taunted enemies are afflicted with %vulnerability_ vulnerability for the duration.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Echoing Taunt</eng>
+				</Name>
+				<Desc>
+					<eng>Duration is increased by %durationbonus_ seconds.</eng>
+				</Desc>
+			</Powerup2>
+			<Expert>
+				<Name>
+					<eng>Loud Voice</eng>
+				</Name>
+				<Desc>
+					<eng>Range is increased by %radiusbonus_ meters.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Quick Mind</eng>
+				</Name>
+				<Desc>
+					<eng>Cooldown is reduced by %cooldowndecrease_ seconds.</eng>
+				</Desc>
+			</Master>
+		</taunt>
+		<miniShieldBlock>
+			<Name>
+				<eng>Lesser Shield Block</eng>
+			</Name>
+			<Desc>
+				<eng>You raise your shield to block a large portion of the damage that originates in a 180° arc in front of you. While blocking, you cannot attack or move. Note that area attacks cannot be blocked.</eng>
+			</Desc>
+			<effect0>
+				<eng>Blocking absorbs %frontresist_ of incoming damage.</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Reflective Block</eng>
+				</Name>
+				<Desc>
+					<eng>Attackers have a %stunchance_ chance to be stunned for 2 seconds.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Steel Shelter</eng>
+				</Name>
+				<Desc>
+					<eng>Each attack regenerates %heal_ of your maximum health in the first %healdurationlimit_ seconds of blocking.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Staggering Block</eng>
+				</Name>
+				<Desc>
+					<eng>Attackers are afflicted with %vulnerability_ vulnerability for 4 seconds.</eng>
+				</Desc>
+			</Powerup2>
+			<Expert>
+				<Name>
+					<eng>Enraging Block</eng>
+				</Name>
+				<Desc>
+					<eng>Blocked attacks have a %ragechance_ chance to yield 1 Rage.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Lesser Retaliation</eng>
+				</Name>
+				<Desc>
+					<eng>Each block reflects %reflectdamage_ of the damage back to the attacker.</eng>
+				</Desc>
+			</Master>
+		</miniShieldBlock>
+		<shadowRend>
+			<Name>
+				<eng>Shadow Rend</eng>
+			</Name>
+			<Desc>
+				<eng>Strikes a single target dealing physical damage and tag it with a shadow mark.</eng>
+			</Desc>
+			<effect0>
+				<eng>Hit (Physical):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Greater Rend</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Shadow Word</eng>
+				</Name>
+				<Desc>
+					<eng>The target receives %markcountbonus_ additional shadow marks.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Mind Rend</eng>
+				</Name>
+				<Desc>
+					<eng>The target is stunned for %stunduration_ seconds.</eng>
+				</Desc>
+			</Powerup2>
+			<Expert>
+				<Name>
+					<eng>Hexed Rend</eng>
+				</Name>
+				<Desc>
+					<eng>There is a %additionalmarkchance_ chance that the target receives an additional shadow mark.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Measured Rend</eng>
+				</Name>
+				<Desc>
+					<eng>Shadow Rend powerups cost %powerupcostdecrease_ less Rage.</eng>
+				</Desc>
+			</Master>
+		</shadowRend>
+		<shadowshackles>
+			<Name>
+				<eng>Shadow Shackles</eng>
+			</Name>
+			<Desc>
+				<eng>Creates a ring of disruptive energy that deals arcane damage within 3 meters. Enemies within are also slowed and receive a shadow mark each second.</eng>
+			</Desc>
+			<effect0>
+				<eng>Energy Ring (Arcane):\n- Damage Effectiveness: %weapondamage_ per second\n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<effect1>
+				<eng>Targets are slowed by %chill_.</eng>
+			</effect1>
+			<Powerup0>
+				<Name>
+					<eng>Draining Shackles</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Marked Shackles</eng>
+				</Name>
+				<Desc>
+					<eng>%moremarkchance_ for an extra shadow mark when enemies are tagged by the spell.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Binding Shackles</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies are slowed by an additional %chillbonus_.</eng>
+				</Desc>
+			</Powerup2>
+			<Expert>
+				<Name>
+					<eng>Shadow Jailor</eng>
+				</Name>
+				<Desc>
+					<eng>Cooldown is reduced by %cooldowndecrease_ seconds.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Eternal Shadow Warden</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies are slowed by an additional %chillbonus_ permanently.</eng>
+				</Desc>
+			</Master>
+		</shadowshackles>		
+		<hide>
+			<Name>
+				<eng>Umbra Form</eng>
+			</Name>
+			<Desc>
+				<eng>You fade into the shadow world, making yourself invisible. After the duration has expired (or you attack a target) you immediately snap out of your cloaked form and receive an Ambush Bonus, increasing your damage considerably.</eng>
+			</Desc>
+			<effect0>
+				<eng></eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Umbral Sanctuary</eng>
+				</Name>
+				<Desc>
+					<eng>You become invulnerable for %invulnerabilityduration_ seconds when you emerge from cloak.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Umbral Slumber</eng>
+				</Name>
+				<Desc>
+					<eng>You remain in cloaked form for an additional %durationbonus_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Umbral Boon</eng>
+				</Name>
+				<Desc>
+					<eng>You regenerate %manaregen_ mana each second while in cloaked form.</eng>
+				</Desc>
+			</Powerup2>
+			<Expert>
+				<Name>
+					<eng>Shadow Tethers</eng>
+				</Name>
+				<Desc>
+					<eng>Cooldown is reduced by %cooldowndecrease_ seconds.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Shadow Tranquility</eng>
+				</Name>
+				<Desc>
+					<eng>Umbra Form powerups cost 1 less Rage.</eng>
+				</Desc>
+			</Master>
+		</hide>		
+		<inkrupture>
+			<Name>
+				<eng>Ink Rupture</eng>
+			</Name>
+			<Desc>
+				<eng>You release a shockwave of dark energy while entering your cloaked form. The shockwave deals physical damage in a 3 meter radius. Returning from the shadow world gives you an Ambush Bonus, increasing your damage considerably.</eng>
+			</Desc>
+			<effect0>
+				<eng>Shockwave (Physical):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Ink Blast</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Ink Bubble</eng>
+				</Name>
+				<Desc>
+					<eng>You remain in cloaked form for an additional %durationbonus_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Ink Shock</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck by the shockwave are stunned for %stunduration_ seconds.</eng>
+				</Desc>
+			</Powerup2>
+			<Expert>
+				<Name>
+					<eng>Ink Tide</eng>
+				</Name>
+				<Desc>
+					<eng>Mana cost is reduced by %manacostdecrease_.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Ink Pulse</eng>
+				</Name>
+				<Desc>
+					<eng>Cooldown is reduced by %cooldowndecrease_ seconds.</eng>
+				</Desc>
+			</Master>
+		</inkrupture>		
+		<portalobscura>
+			<Name>
+				<eng>Portal Obscura</eng>
+			</Name>
+			<Desc>
+				<eng>You perform an Ink Jump to the designated location instantly and also enter cloaked form.</eng>
+			</Desc>
+			<effect0>
+				<eng>Jump to location in cloaked form</eng>
+			</effect0>
+			<inkrupture>
+				<eng>%s: -%.3g%% Cooldown (-%.3g%% per level)</eng>
+			</inkrupture>			
+			<Powerup0>
+				<Name>
+					<eng>Unholy Departure</eng>
+				</Name>
+				<Desc>
+					<eng>Jumping away stuns enemies for %stunduration_ seconds within 2 meters.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Parting Gift</eng>
+				</Name>
+				<Desc>
+					<eng>Jumping away tags enemies with %markcount_ shadow mark within 2 meters.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Jump Shock</eng>
+				</Name>
+				<Desc>
+					<eng>Jumping away afflicts enemies with %vulnerability_ vulnerability for 5 seconds within 2 meters.</eng>
+				</Desc>
+			</Powerup2>
+			<Expert>
+				<Name>
+					<eng>Ailment Obscura</eng>
+				</Name>
+				<Desc>
+					<eng>Jumping away heals you for %heal_ of your max HP.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Miasma Obscura</eng>
+				</Name>
+				<Desc>
+					<eng>Jumping away creates a noxious cloud for 5 seconds, dealing poison damage within 2 meters (%weapondamage_ of Weapon Damage).</eng>
+				</Desc>
+			</Master>
+		</portalobscura>		
+		<deepumbraform>
+			<Name>
+				<eng>Deep Umbra Form</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the maximum time you can spend in cloaked form and your health and mana regeneration rate while you are in it.</eng>
+			</Desc>
+			<effect0>
+				<eng>Cloaked form duration is increased by %durationbonus_ seconds.</eng>
+			</effect0>
+			<effect1>
+				<eng>Heals %hpregen_ of your maximum health each second.</eng>
+			</effect1>
+			<effect2>
+				<eng>Regenerates %manaregen_ of your maximum Mana each second.</eng>
+			</effect2>			
+			<Expert>
+				<Name>
+					<eng>Umbral Dash</eng>
+				</Name>
+				<Desc>
+					<eng>Your movement speed is increased by 10% while in cloaked form.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Umbral Rush</eng>
+				</Name>
+				<Desc>
+					<eng>Your movement speed is increased by a further 15% while in cloaked form.</eng>
+				</Desc>
+			</Master>
+		</deepumbraform>		
+		<markofslow>
+			<Name>
+				<eng>Mark of Slow</eng>
+			</Name>
+			<Desc>
+				<eng>The movement speed of all enemies with shadow marks is decreased. (Multiple shadow marks stack.)</eng>
+			</Desc>
+			<effect0>
+				<eng>Enemies slowed by %slow_.</eng>
+			</effect0>			
+			<Expert>
+				<Name>
+					<eng>Aura of Obstruction</eng>
+				</Name>
+				<Desc>
+					<eng>Afflicted targets slow all other enemies within 2 meters.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Stunning Marks</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies are stunned for 5 seconds when they accumulate 10 shadow marks.</eng>
+				</Desc>
+			</Master>
+		</markofslow>		
+		<markofvulnerability>
+			<Name>
+				<eng>Mark of Vulnerability</eng>
+			</Name>
+			<Desc>
+				<eng>All enemies with shadow marks become more vulnerable to damage. (Multiple shadow marks stack.)</eng>
+			</Desc>
+			<effect0>
+				<eng>Targets afflicted with %vulnerability_ vulnerability per shadow mark.</eng>
+			</effect0>			
+			<Expert>
+				<Name>
+					<eng>Deadly Marks</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies immediately take damage equal to 500% of your total damage when they accumulate 10 shadow marks. This damage can crit.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Aura of Weakness</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies extend their vulnerability to all other enemies within 2 meters of them.</eng>
+				</Desc>
+			</Master>
+		</markofvulnerability>		
+		<markOfReborn>
+			<Name>
+				<eng>Mark of Persistence</eng>
+			</Name>
+			<Desc>
+				<eng>Whenever a shadow mark is destroyed by a skill, there is a chance that it is immediately recreated on the target.</eng>
+			</Desc>
+			<effect0>
+				<eng>%rebornmarkchance_ chance to recreate shadow mark.</eng>
+			</effect0>			
+			<Expert>
+				<Name>
+					<eng>Shock of the Marked</eng>
+				</Name>
+				<Desc>
+					<eng>There is a 25% chance that a target becomes stunned for 2 seconds when a mark is recreated on it.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Torment of the Marked</eng>
+				</Name>
+				<Desc>
+					<eng>The chance that a target becomes stunned when a mark is recreated on it is increased by another 25%.</eng>
+				</Desc>
+			</Master>
+		</markOfReborn>
+		<shadowfury>
+			<Name>
+				<eng>Shadow Fury</eng>
+			</Name>
+			<Desc>
+				<eng>You continuously gain some rage while you are in cloaked form.</eng>
+			</Desc>
+			<effect0>
+				<eng>%ragechance_ chance to gain 5 Rage each second.</eng>
+			</effect0>
+			<Expert>
+				<Name>
+					<eng>Persistent Fury</eng>
+				</Name>
+				<Desc>
+					<eng>After you exit cloaked form, you continue to gain rage for half the time you spent cloaked.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Unrelenting Fury</eng>
+				</Name>
+				<Desc>
+					<eng>Increases the Rage gain rate by 2.</eng>
+				</Desc>
+			</Master>
+		</shadowfury>
+		<hpregenminion>
+			<Name>
+				<eng>Self-Repair Module</eng>
+			</Name>
+			<Desc>
+				<eng>All of your minions are created with a self-repair module, allowing them to regain a portion of their maximum health each second.</eng>
+			</Desc>
+			<effect0>
+				<eng>Your minions heal %hpregen_ of their maximum health each second</eng>
+			</effect0>			
+			<Expert>
+				<Name>
+					<eng>Marvelous Repair Box</eng>
+				</Name>
+				<Desc>
+					<eng>Your minions have a 2% chance every 1 second to instantly regain all of their health.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Astounding Repair Box</eng>
+				</Name>
+				<Desc>
+					<eng>The chance that your minions regain all of their health is increased by another 2%.</eng>
+				</Desc>
+			</Master>
+		</hpregenminion>
+		
+		<pasztorkodas>
+			<Name>
+				<eng>Pseudo-Pathic Synergy</eng>
+			</Name>
+			<Desc>
+				<eng>All your minions (both mechanoid and turret types) within 5 meters gain bonus damage.</eng>
+			</Desc>
+			<effect0>
+				<eng>+%damagebonus_ minion damage</eng>
+			</effect0>			
+			<Expert>
+				<Name>
+					<eng>Pseudo-Pathic Mending</eng>
+				</Name>
+				<Desc>
+					<eng>All your minions within range regenerate 1% of their maximum health per second.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Pseudo-Pathic Zone</eng>
+				</Name>
+				<Desc>
+					<eng>The area of effect is increased by 1 meter.</eng>
+				</Desc>
+			</Master>
+		</pasztorkodas>
+		<aura__HiddenReserves>
+			<Name>
+				<eng>Hidden Reserves</eng>
+			</Name>
+			<Desc>
+				<eng>Every point of Rage you spend heals you.</eng>
+			</Desc>
+			<effect0>
+				<eng>Regain %heal_ Hit points per Rage point spent.</eng>
+			</effect0>
+			<Expert>
+				<Name>
+					<eng>Inner Fire</eng>
+				</Name>
+				<Desc>
+					<eng>When activating powerups, there is a 5% chance that you regain spent Rage points immediately.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Rage Conversion</eng>
+				</Name>
+				<Desc>
+					<eng>You gain 1 Mana for each Rage point you spend.</eng>
+				</Desc>
+			</Master>
+		</aura__HiddenReserves>
+		<Paradox_cooldown>
+			<Name>
+				<eng>Paradox Assembly</eng>
+			</Name>
+			<Desc>
+				<eng>Reduced cooldown for creating minions and turrets.</eng>
+			</Desc>
+			<effect0>
+				<eng>%cooldownbonus_ cooldown time</eng>
+			</effect0>
+			<Expert>
+				<Name>
+					<eng>Turret Assembly</eng>
+				</Name>
+				<Desc>
+					<eng>All turrets gain an additional 25% HP.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Mechanoid Assembly</eng>
+				</Name>
+				<Desc>
+					<eng>All mechanoids (except turrets) gain an additional 25% HP.</eng>
+				</Desc>
+			</Master>
+		</Paradox_cooldown>
+		<aura__MechanoidBuildingHP>
+			<Name>
+				<eng>Reinforced Structure</eng>
+			</Name>
+			<Desc>
+				<eng>Your turrets and mechanoids gain extra hitpoints</eng>
+			</Desc>
+			<effect0>
+				<eng>+%hpbonus_ HP for all minions</eng>
+			</effect0>
+			<Expert>
+				<Name>
+					<eng>Structural Efficiency</eng>
+				</Name>
+				<Desc>
+					<eng>Constructing mechanoids costs 10% less Mana.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Protective Coating</eng>
+				</Name>
+				<Desc>
+					<eng>Your mechanoids' health is increased by 10%.</eng>
+				</Desc>
+			</Master>
+		</aura__MechanoidBuildingHP>
+		<BattleStanceHPRegen>
+			<Name>
+				<eng>Metabolic Overdrive</eng>
+			</Name>
+			<Desc>
+				<eng>You gain increased HP regeneration after standing still for 2 seconds.</eng>
+			</Desc>
+			<effect0>
+				<eng>Heals %hpregenbonus_ of your maximum health each second</eng>
+			</effect0>
+			<Expert>
+				<Name>
+					<eng>Mental Overdrive</eng>
+				</Name>
+				<Desc>
+					<eng>Mana Regeneration is increased by 20%.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Defensive Overdrive</eng>
+				</Name>
+				<Desc>
+					<eng>Damage taken is reduced by 5% while not moving.</eng>
+				</Desc>
+			</Master>
+		</BattleStanceHPRegen>
+		<Rocket>
+			<Name>
+				<eng>Duplex Rocket</eng>
+			</Name>
+			<Desc>
+				<eng>Launches a cluster of 2 rockets at the target damaging enemies within 2 meters. The rockets always hit and do the listed damage individually.</eng>
+			</Desc>
+			<effect0>
+				<eng>Per Rocket (Physical):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Chain Ignition</eng>
+				</Name>
+				<Desc>
+					<eng>Increases the number of rockets launched by %strikecount_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Pre-Fragmented Warhead</eng>
+				</Name>
+				<Desc>
+					<eng>The area of effect is increased by %linkedrangebonus_ meters.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Phosphorescent Charge</eng>
+				</Name>
+				<Desc>
+					<eng>Targets are stunned for %stunduration_ seconds.</eng>
+				</Desc>
+			</Powerup2>
+			<Expert>
+				<Name>
+					<eng>Hypersonic Blastwave</eng>
+				</Name>
+				<Desc>
+					<eng>Targets have a 10% chance to be knocked down.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Augmented Rocket Racks</eng>
+				</Name>
+				<Desc>
+					<eng>Cooldown is reduced by 1 second.</eng>
+				</Desc>
+			</Master>
+		</Rocket>
+		<EnergyBlast>
+			<Name>
+				<eng>Forcefield Discharge</eng>
+			</Name>
+			<Desc>
+				<eng>Releases a violent shockwave of energy dealing damage within a 6 meter radius.</eng>
+			</Desc>
+			<effect0>
+				<eng>Shockwave (Physical):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Limiter Overload</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Ethereal Blast Echo</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck are stunned for %stunduration_ seconds.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Emergency Valve Release</eng>
+				</Name>
+				<Desc>
+					<eng>Blast radius is increased by %radiusbonus_ meters.</eng>
+				</Desc>
+			</Powerup2>
+			<Expert>
+				<Name>
+					<eng>Infused Kinetic Crystals</eng>
+				</Name>
+				<Desc>
+					<eng>Mana cost is reduced by 20%.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Lightweight Dischargers</eng>
+				</Name>
+				<Desc>
+					<eng>Forcefield Discharge powerups cost 1 less Rage.</eng>
+				</Desc>
+			</Master>
+		</EnergyBlast>
+		<fireminearray>
+			<Name>
+				<eng>Incendiary Mine Array</eng>
+			</Name>
+			<Desc>
+				<eng>Lays 3 incendiary mines around you. The mines cause fire damage to enemies within 2 meters and also igniting them for 5 seconds for 40% of the original damage per second. Laying new mines destroys any mines you've previously created.</eng>
+			</Desc>
+			<effect0>
+				<eng>Mine (Fire):\n- Damage Effectiveness: %weapondamage_ \n- Total Damage: +%lvlscale_</eng>
+			</effect0>
+			<Powerup0>
+				<Name>
+					<eng>Enhanced Combustion</eng>
+				</Name>
+				<Desc>
+					<eng>Damage is increased by %damagebonus_.</eng>
+				</Desc>
+			</Powerup0>
+			<Powerup1>
+				<Name>
+					<eng>Sticky Fuel</eng>
+				</Name>
+				<Desc>
+					<eng>Enemies struck burn %dotduration_ seconds longer.</eng>
+				</Desc>
+			</Powerup1>
+			<Powerup2>
+				<Name>
+					<eng>Arsonist's Glee</eng>
+				</Name>
+				<Desc>
+					<eng>Each hit from a mine yields %rageperhit_ Rage.</eng>
+				</Desc>
+			</Powerup2>
+			<Expert>
+				<Name>
+					<eng>Efficient Rematerializator</eng>
+				</Name>
+				<Desc>
+					<eng>Mana cost is reduced by 20%.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Enlarged Mine Dispenser</eng>
+				</Name>
+				<Desc>
+					<eng>1 additional mine is deployed.</eng>
+				</Desc>
+			</Master>
+		</fireminearray>
+		<LangszoroTapolas>
+			<Name>
+				<eng>Vaporized Fuel</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the weapon damage of flamethrower-type skills.</eng>
+			</Desc>
+			<effect0>
+				<eng>%damagebonus_ increased weapon damage.</eng>
+			</effect0>
+			<Expert>
+				<Name>
+					<eng>Supercooled Nozzle</eng>
+				</Name>
+				<Desc>
+					<eng>Flamethrower skill powerups cost 1 less Rage.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Pressurised Mixture</eng>
+				</Name>
+				<Desc>
+					<eng>Flamethrowers consume 10% less Mana.</eng>
+				</Desc>
+			</Master>
+		</LangszoroTapolas>
+		<RaketaTapolas>
+			<Name>
+				<eng>Warhead Crafting</eng>
+			</Name>
+			<Desc>
+				<eng>Increases the weapon damage of all rocket type skills.</eng>
+			</Desc>
+			<effect0>
+				<eng>%damagebonus_ increased weapon damage.</eng>
+			</effect0>
+			<Expert>
+				<Name>
+					<eng>Low Density Warhead</eng>
+				</Name>
+				<Desc>
+					<eng>Mana cost for launching rockets is reduced by 10%.</eng>
+				</Desc>
+			</Expert>
+			<Master>
+				<Name>
+					<eng>Pressurised Ignitor</eng>
+				</Name>
+				<Desc>
+					<eng>Cooldown for rocket skills is reduced by 10%.</eng>
+				</Desc>
+			</Master>
+		</RaketaTapolas>
+		<jegcsapas>
+			<Name>
+				<eng>Ice Beam</eng>
+			</Name>
+			<Desc>
+				<eng>You are slowed down by 35%.</eng>
+			</Desc>						
+		</jegcsapas>
+		<repairdrone__heal>
+			<Name>
+				<eng>Mana Generator</eng>
+			</Name>
+			<Desc>
+				<eng>A repair drone is regenerating your Mana.</eng>
+			</Desc>						
+		</repairdrone__heal>
+	</Skills>
+	<Property>	
+		<increase_damage>
+			<desc>
+				<eng>$SIGN$$VALUE$ to All Damage</eng>
+			</desc>
+			<bonus_percent>
+				<desc>
+					<eng>$SIGN$$VALUE$% to All Damage</eng>
+				</desc>
+			</bonus_percent>
+		</increase_damage>
+	</Property>
+</Root>

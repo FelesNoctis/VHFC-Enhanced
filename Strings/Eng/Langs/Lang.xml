@@ -1,0 +1,6224 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<GC>
+		<KillRobbers>
+			<eng>Find and kill the brigands</eng>
+		</KillRobbers>
+		<GoBack>
+			<eng>Return to Borislav Tveter</eng>
+		</GoBack>
+	</GC>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Traps>
+		<conditions>
+			<enemy_killed>
+				<eng>Kill enemies</eng>
+			</enemy_killed>
+			<trap_built>
+				<withParam>
+					<eng>Build %s traps</eng>
+				</withParam>
+			</trap_built>
+		</conditions>
+		<berantodaralo>
+			<name>
+				<eng>Pull-In-O-Grinder™</eng>
+			</name>
+			<desc>
+				<eng>The Pull-In-O-Grinder™ is a nasty piece of work with a whirlewind of blades and a devious set of arms pulling nearby intruders in for a treat.</eng>
+			</desc>
+		</berantodaralo>
+		<daralogodor>
+			<name>
+				<eng>Grind-O-Pit™</eng>
+			</name>
+			<desc>
+				<eng>Falling into a pit would be a rather unpleasent experience already, but the Grind-O-Pit™ adds an extra layer of fun by introducing six layers of twirling blades.</eng>
+			</desc>
+		</daralogodor>
+		<elektromospadlo>
+			<name>
+				<eng>Electr-O-Floor™</eng>
+			</name>
+			<desc>
+				<eng>Looks innocent enough, doesn't it? Well, think again! The Electr-O-Floor™ will not only straighten up your hair but also fry your heart, chrome your lungs, cook your liver and pop out your eyeballs. You know! For kids!</eng>
+			</desc>
+		</elektromospadlo>
+		<hidraulikuspres>
+			<name>
+				<eng>Hydraulic-O-Grinder™</eng>
+			</name>
+			<desc>
+				<eng>With this beauty, you can sit back and watch as your enemies bicker about which one of them should go first to their inevitable (and rather messy) death.</eng>
+			</desc>
+		</hidraulikuspres>
+		<ketrecmonster>
+			<name>
+				<eng>Monster-In-The-Box™</eng>
+			</name>
+			<desc>
+				<eng>A simple but effective trap: a hungry werewolf locked in a confined space. Once it gets out, you don't want to stand in its way...</eng>
+			</desc>
+		</ketrecmonster>
+		<langszoro>
+			<name>
+				<eng>Flamethr-O-Wer™</eng>
+			</name>
+			<desc>
+				<eng>"Gee, I sure like to set those people on fire over there... But I'm way too far away to get the job done. If only I had something that would throw flame on them..."</eng>
+			</desc>
+		</langszoro>
+		<rugoselloko>
+			<name>
+				<eng>Spring-O-Kick™</eng>
+			</name>
+			<desc>
+				<eng>This cleverly disguised trap consists of four huge springs attached movable pieces of the floor. When they are stepped on, the springs are released, throwing away the intruders, hopefully into the depths of the sewers.</eng>
+			</desc>
+		</rugoselloko>
+		<talajtuskek>
+			<name>
+				<eng>Spike-O-Floor™</eng>
+			</name>
+			<desc>
+				<eng>A rather basic trap, huge, rusty spikes springing up from below, nothing special. That doesn't mean it is not dangerous though...</eng>
+			</desc>
+		</talajtuskek>
+		<tuskeshenger>
+			<name>
+				<eng>Spike-O-Roll™</eng>
+			</name>
+			<desc>
+				<eng>This fiendish little contraption releases a rolling column of death with swirling blades of destruction to murder any would be raiders of lost tombs.</eng>
+			</desc>
+		</tuskeshenger>
+		<villamveto>
+			<name>
+				<eng>Thunderthr-O-Wer™</eng>
+			</name>
+			<desc>
+				<eng>This one's like a mix of the Hydraulic-O-Grinder™ and the Flamethr-O-Wer™, but with Lightning! Let's just say it's not a very good idea to be standing between the coils.</eng>
+			</desc>
+		</villamveto>
+	</Traps>
+	<Battle>
+		<Loot>
+			<Gold>
+				<eng>%s Gold</eng>
+			</Gold>
+		</Loot>
+		<Event>
+			<Miss>
+				<eng>Miss</eng>
+			</Miss>
+			<Dodge>
+				<eng>Dodged</eng>
+			</Dodge>
+			<Parry>
+				<eng>Deflected</eng>
+			</Parry>
+			<Resist>
+				<eng>Resisted</eng>
+			</Resist>
+		</Event>
+		<GUI>
+			<constructor>
+				<nagygep_respawn>
+					<eng>Respawning in %d sec</eng>
+				</nagygep_respawn>
+			</constructor>
+			<vote>
+				<start_arena>
+					<title>
+						<eng>Start Arena</eng>
+					</title>
+					<desc>
+						<eng>A teammate has voted to begin the arena. Are you ready to start?</eng>
+					</desc>
+				</start_arena>
+				<leave_map>
+					<title>
+						<eng>Leave Map</eng>
+					</title>
+					<desc>
+						<eng>A teammate has voted to finish the adventure. Are you ready to leave?</eng>
+					</desc>
+				</leave_map>
+				<surrender>
+					<title>
+						<eng>Surrender</eng>
+					</title>
+					<desc>
+						<eng>A teammate has voted to abort the adventure. Do you wish to leave (and fail the adventure)?</eng>
+					</desc>
+				</surrender>
+				<party_vote>
+					<eng>Party votes:</eng>
+				</party_vote>
+				<accept_map>
+					<eng>Do you accept the map?</eng>
+				</accept_map>
+				<map_change>
+					<eng>Change map vote</eng>
+				</map_change>
+				<dest_map>
+					<eng>Destination map:</eng>
+				</dest_map>
+				<initiater>
+					<eng>Vote started by:</eng>
+				</initiater>
+				<refused>
+					<eng>Vote refused by %s</eng>
+				</refused>
+				<refused_nouser>
+					<eng>Vote failed</eng>
+				</refused_nouser>				
+			</vote>
+			<challenges>
+				<Label>
+					<eng>Challenges</eng>
+				</Label>
+				<Category>
+					<monsters>
+						<label>
+							<eng>Combat</eng>
+						</label>
+						<Challenge0>
+							<eng>Kill %d enemies!</eng>
+						</Challenge0>
+						<Challenge1>
+							<eng>Kill %d champion enemies!</eng>
+						</Challenge1>
+						<Challenge2>
+							<eng>Kill %d elite enemies!</eng>
+						</Challenge2>
+						<Challenge3>
+							<eng>Kill %d boss enemies!</eng>
+						</Challenge3>
+						<Challenge4>
+							<eng>Have Lady Katarina kill %d enemies!</eng>
+						</Challenge4>
+					</monsters>
+					<items>
+						<label>
+							<eng>Items</eng>
+						</label>
+						<Challenge0>
+							<eng>Use alchemy for %d essence capacity!</eng>
+						</Challenge0>
+						<Challenge1>
+							<eng>Spend %d gold on enchanting items!</eng>
+						</Challenge1>
+						<Challenge2>
+							<eng>Upgrade %d Godlike items to their maximum potential!</eng>
+						</Challenge2>
+						<Challenge3>
+							<eng>Spend %d gold!</eng>
+						</Challenge3>
+						<Challenge4>
+							<eng>Sell %d items!</eng>
+						</Challenge4>
+					</items>
+					<scenarios>
+						<label>
+							<eng>Adventures</eng>
+						</label>
+						<Challenge0>
+							<eng>Complete %d Adventures!</eng>
+						</Challenge0>
+						<Challenge1>
+							<eng>Complete %d Daily Quests</eng>
+						</Challenge1>
+						<Challenge2>
+							<eng>Complete %d Adventures without dying!</eng>
+						</Challenge2>
+						<Challenge3>
+							<eng>Survive %d waves in the Arena!</eng>
+						</Challenge3>
+						<Challenge4>
+							<eng>Complete %d coop Adventures!</eng>
+						</Challenge4>
+					</scenarios>
+					<characters>
+						<label>
+							<eng>Renown</eng>
+						</label>
+						<Challenge0>
+							<eng>Reach Level 100 with %d different character classes! </eng>
+						</Challenge0>
+						<Challenge1>
+							<eng>Reach Glory level %d!</eng>
+						</Challenge1>
+						<Challenge2>
+							<eng>Spend %d Fate points!</eng>
+						</Challenge2>
+						<Challenge3>
+							<eng>Open %d chests!</eng>
+						</Challenge3>
+						<Challenge4>
+							<eng>Find %d Epic/Set/Godlike items!</eng>
+						</Challenge4>
+					</characters>
+				</Category>
+			</challenges>
+			<TrapLearnWindow>
+				<TrapsToLearnLabel>
+					<eng>Traps to Learn</eng>
+				</TrapsToLearnLabel>
+				<LearnIconLabel>
+					<eng>Learn</eng>
+				</LearnIconLabel>
+				<ResearchCost>
+					<eng>Research Cost: %s</eng>
+				</ResearchCost>
+			</TrapLearnWindow>
+			<TrapSlotWindow>
+				<EmplacementLabel>
+					<eng>Trap Emplacement</eng>
+				</EmplacementLabel>
+				<CapacityLabel>
+					<eng>Generator Capacity:</eng>
+				</CapacityLabel>
+				<MachinepartsLabel>
+					<eng>Machine Parts:</eng>
+				</MachinepartsLabel>
+				<CapacityCost>
+					<eng>Generator Capacity: %s</eng>
+				</CapacityCost>
+				<MachinepartsCost>
+					<eng>Machine Parts: %s</eng>
+				</MachinepartsCost>
+				<ClickActions>
+					<Disassamble>
+						<eng>%s to Disassamble</eng>
+					</Disassamble>
+				</ClickActions>
+				<MapTitle>
+					<eng>Traps in the Lair</eng>
+				</MapTitle>
+			</TrapSlotWindow>
+			<Victory>
+				<eng>Victory</eng>
+			</Victory>
+			<WaypointWindow>
+				<Label>
+					<eng>Ink Gate</eng>
+				</Label>
+				<Activate>
+					<eng>Activate</eng>
+				</Activate>
+				<CurrentLocation>
+					<eng>Current Location:</eng>
+				</CurrentLocation>
+				<Portal>
+					<eng>Portal (%s)</eng>
+				</Portal>
+				<TeleportToUser>
+					<eng>User (%s)</eng>
+				</TeleportToUser>
+			</WaypointWindow>
+			<ActiveQuest>
+				<Label>
+					<eng>Objectives:</eng>
+				</Label>
+			</ActiveQuest>
+			<Pause>
+				<eng>Pause</eng>
+			</Pause>
+			<Saving>
+				<eng>Saving</eng>
+			</Saving>
+			<MsgBox>
+				<timeleft>
+					<eng>Time left to decide: %.0f seconds</eng>
+				</timeleft>
+			</MsgBox>
+			<FinalDeathScreen>
+				<eng>You are dead. Unfortunately this is a Hardcore character, so your adventure is now over.\n\nPress the "Menu" button to return to the Main Menu.</eng>
+			</FinalDeathScreen>
+			<DeathScreen>
+				<eng>You died and lost %d gold.\n\nPress Esc to respawn.</eng>
+			</DeathScreen>
+			<VictoryScreen>
+				<eng>Level Complete!\n\nPress Esc to return to the Main Menu.</eng>
+			</VictoryScreen>
+			<FinalDeathScreen_XBOX>
+				<eng>You are dead. Unfortunately this is a Hardcore character, so your adventure is now over.\n\nPress Start to return to the Main Menu.</eng>
+			</FinalDeathScreen_XBOX>
+			<FinalDeathScreen_XBOXONE>
+				<eng>You are dead. Unfortunately this is a Hardcore character, so your adventure is now over.\n\nPress then Menu button to return to the Main Menu.</eng>
+			</FinalDeathScreen_XBOXONE>
+			<DeathScreen_XBOX>
+				<eng>You died and lost %d gold.\n\nPress Start to respawn.</eng>
+			</DeathScreen_XBOX>
+			<VictoryScreen_XBOX>
+				<eng>Level Complete!\n\nPress Start to return to the Main Menu.</eng>
+			</VictoryScreen_XBOX>
+			<LevelUp>
+				<eng>Level Up!</eng>
+			</LevelUp>
+			<ReputationUp>
+				<eng>Reputation Up!</eng>
+			</ReputationUp>
+			<GloryUp>
+				<eng>Glory Up!</eng>
+			</GloryUp>
+			<NewPerk>
+				<eng>New Perk!</eng>
+			</NewPerk>
+			<ChallengeCompleted>
+				<eng>Challenge Completed!</eng>
+			</ChallengeCompleted>
+			<PowerUpCombo>
+				<text>
+					<eng>Set Combo</eng>
+				</text>
+				<popup>
+					<eng>The Set Combo button allows you to create and store specific powerup combinations, which you can then recall by pressing Space. You can create a separate combination for each skill you know. When you press Space, you recall the combos stored for the two skills you currently have at the ready.</eng>
+				</popup>
+			</PowerUpCombo>
+			<PowerUpCombo_XBOX>
+				<text>
+					<eng>Use Combo</eng>
+				</text>
+				<popup>
+					<eng>You can use a preset combo of powerups with a single key.</eng>
+				</popup>
+			</PowerUpCombo_XBOX>
+			<TownPortal>
+				<text>
+					<eng>Town Portal</eng>
+				</text>
+				<popup>
+					<eng>Teleports you back to your hideout.</eng>
+				</popup>
+			</TownPortal>
+			<Popup>
+				<PotionType0>
+					<eng>You currently possess %d Healing Potions. Drinking one of these potions will restore 50%% of your max Health.</eng>
+				</PotionType0>
+				<PotionType1>
+					<eng>You currently possess %d Mana Potions. Drinking one of these potions will restore 50%% of your max Mana.</eng>
+				</PotionType1>
+				<PotionType2>
+					<eng>You currently possess %d Rage Potions. Drinking one of these potions will increase your Rage by 50%% of your max Rage.</eng>
+				</PotionType2>
+				<PotionType3>
+					<eng>You currently possess %d Rejuvenation Potions. Drinking one of these potions will fully restore both your Mana and your Health.</eng>
+				</PotionType3>
+				<PotionSellCost>
+					<eng>\nSelling price per potion: %s.</eng>
+				</PotionSellCost>
+				<PotionBuyCost>
+					<eng>\nBuying price per potion: %s.</eng>
+				</PotionBuyCost>
+				<FragmentSellCost>
+					<eng>\nSelling price per fragment: %s.</eng>
+				</FragmentSellCost>
+				<FragmentBuyCost>
+					<eng>\nBuying price per fragment: %s.</eng>
+				</FragmentBuyCost>
+				<RuneSellCost>
+					<eng>\nSelling price per rune: %s.</eng>
+				</RuneSellCost>
+				<RuneBuyCost>
+					<eng>\nBuying price per rune: %s.</eng>
+				</RuneBuyCost>
+				<DrinkPotionType0>
+					<eng>Drink Health Potion</eng>
+				</DrinkPotionType0>
+				<DrinkPotionType1>
+					<eng>Drink Mana Potion</eng>
+				</DrinkPotionType1>
+			</Popup>
+			<LowerRightWindow>
+				<Open>
+					<popup>
+						<eng>Show window icons</eng>
+					</popup>
+				</Open>
+				<Close>
+					<popup>
+						<eng>Hide window icons</eng>
+					</popup>
+				</Close>
+				<Help>
+					<eng>Help</eng>
+				</Help>
+				<Menu>
+					<eng>Menu</eng>
+				</Menu>
+				<Character>
+					<eng>Character</eng>
+				</Character>
+				<Map>
+					<eng>Map</eng>
+				</Map>
+			</LowerRightWindow>
+			<LowerLeftWindow>
+				<Sword>
+					<popup>
+						<eng>Switch to melee weapon</eng>
+					</popup>
+				</Sword>
+				<Pistol>
+					<popup>
+						<eng>Switch to ranged weapon</eng>
+					</popup>
+				</Pistol>
+				<Open>
+					<popup>
+						<eng>Show weapon selection icons</eng>
+					</popup>
+				</Open>
+				<Close>
+					<popup>
+						<eng>Hide weapon selection icons</eng>
+					</popup>
+				</Close>
+			</LowerLeftWindow>
+			<UpperLeftWindow>
+				<OnErrand>
+					<popup>
+						<eng>Your companion is away selling and buying items. She will return in %d seconds.</eng>
+					</popup>
+				</OnErrand>
+				<Dead>
+					<popup>
+						<eng>Your companion has been severely weakened and cannot take material form. She will regain her strength in %d seconds.</eng>
+					</popup>
+				</Dead>
+				<Unavailable>
+					<popup>
+						<eng>Target is out of reach.</eng>
+					</popup>
+				</Unavailable>
+				<ping>
+					<eng>Ping: %d</eng>
+				</ping>
+				<command>
+					<kick>
+						<eng>Kick</eng>
+					</kick>
+					<ban>
+						<eng>Ban</eng>
+					</ban>
+					<steam>
+						<eng>Show Profile</eng>
+					</steam>
+				</command>
+			</UpperLeftWindow>
+			<charactersheet>
+				<label>
+					<eng>Character Sheet</eng>
+				</label>
+				<NA>
+					<eng>N/A</eng>
+				</NA>
+				<BODY>
+					<label>
+						<eng>Body</eng>
+					</label>
+					<popup>
+						<eng>Body determines your physical condition. A high Body value increases your Melee Damage (%s), gives a bonus to your Hit Points (%s) and a bonus to your Defense (%s).</eng>
+					</popup>
+					<companionpopup>
+						<eng>Body determines your companion's physical condition. A high Body value increases her Melee Damage (%s), gives a bonus to her Hit Points (%s) and a bonus to her Defense (%s).</eng>
+					</companionpopup>
+				</BODY>
+				<DEXTERITY>
+					<label>
+						<eng>Dexterity</eng>
+					</label>
+					<popup>
+						<eng>Dexterity determines how precise your hand-eye coordination is. A high Dexterity value increases your Ranged Damage (%s) and your Dodge value (%s).</eng>
+					</popup>
+					<companionpopup>
+						<eng>Dexterity determines how precise your companion's hand-eye coordination is. A high Dexterity value increases her Ranged Damage (%s) and her Dodge value (%s).</eng>
+					</companionpopup>
+				</DEXTERITY>
+				<WILLPOWER>
+					<label>
+						<eng>Willpower</eng>
+					</label>
+					<popup>
+						<eng>Willpower determines how talented you are at casting occult Spells. A high Willpower value gives a bonus to Mana Points (%s) and increases your Spellpower (%s).</eng>
+					</popup>
+					<companionpopup>
+						<eng>Willpower determines how close your companion's body is to complete etherealness. Thus a high Willpower will give her an increased resistance to all attacks (%s). It also increases the percentage of her chance based skills (%s).</eng>
+					</companionpopup>
+				</WILLPOWER>
+				<LUCK>
+					<label>
+						<eng>Luck</eng>
+					</label>
+					<popup>
+						<eng>Luck determines how lucky you are. A high Luck value increase your chance of finding Gold (%s), Magical Items (%s) and of Dodging (%s). It also increases the Damage dealt by Critical Hits (%s).</eng>
+					</popup>
+					<companionpopup>
+						<eng>Luck determines how lucky your companion is. A high Luck value increase your chance of finding Gold (%s), Magical Items (%s) and also your companion's ability to Dodge (%s). It also increases Damage she deals with Critical Hits (%s).</eng>
+					</companionpopup>
+				</LUCK>
+				<HP>
+					<label>
+						<eng>HP</eng>
+					</label>
+					<popup>
+						<eng>Your maximum number of Hit Points. When your HP falls to 0, your hero dies and you can respawn at a predetermined location for a percentage of your current gold, respawn on the spot for even more gold or return to the last safe area for free. (Note that some options might not be available at all times!)</eng>
+					</popup>
+					<companionpopup>
+						<eng>The maximum number of Hit Points for your companion. When her HP falls to 0, she will return into a ghost form in which she must remain for a certain amount of time.</eng>
+					</companionpopup>
+				</HP>
+				<RAGE>
+					<label>
+						<eng>Rage</eng>
+					</label>
+					<popup>
+						<eng>Rage is spent using Powerups for your skills and accumulated by defeating monsters.</eng>
+					</popup>
+				</RAGE>
+				<MANA>
+					<label>
+						<eng>Mana</eng>
+					</label>
+					<popup>
+						<eng>Mana is spent on Spells and special attacks.</eng>
+					</popup>
+				</MANA>
+				<ATTACK>
+					<label>
+						<eng>Attack</eng>
+					</label>
+					<popup>
+						<eng>Attack Rating determines your chance if hitting an enemy. The higher your Attack Rating compared to the enemy's Defense Rating the better your chances. Your chance of hitting is always at least 5% but cannot exceed 95%.</eng>
+					</popup>
+				</ATTACK>
+				<DEFENSE>
+					<label>
+						<eng>Defense</eng>
+					</label>
+					<popup>
+						<eng>Current chance of defending against average attack: %d%%.\nDefense helps avoid enemy attacks. The higher your Defense Rating compared to the enemy's Attack Rating the better your chances are of not getting hit at all. The chance of avoiding being hit is always at least 5%% but cannot exceed 95%%.</eng>
+					</popup>
+				</DEFENSE>
+				<SPELLPOWER>
+					<label>
+						<eng>Spellpower</eng>
+					</label>
+					<popup>
+						<eng>Spellpower affects the strength of your spells. The higher this value the more effective they will become.</eng>
+					</popup>
+				</SPELLPOWER>
+				<RESISTANCES>
+					<label>
+						<eng>Resistances</eng>
+					</label>
+				</RESISTANCES>
+				<PHYSICAL_RESISTANCE>
+					<label>
+						<eng>Physical</eng>
+					</label>
+					<popup>
+						<eng>Reduces the damage suffered from physical attacks like the blade of a bandit or the claws of a wolf by %d%%. (This already includes the reduction from Defense)</eng>
+					</popup>
+				</PHYSICAL_RESISTANCE>
+				<POISON_RESISTANCE>
+					<label>
+						<eng>Poison</eng>
+					</label>
+					<popup>
+						<eng>Resistance to Poison. Reduces the damage suffered from being poisoned by %d%%. (This already includes the reduction from Defense)</eng>
+					</popup>
+				</POISON_RESISTANCE>
+				<ELEMENTAL_RESISTANCE>
+					<label>
+						<eng>Elemental</eng>
+					</label>
+					<popup>
+						<eng>Resistance to damage from elemental spells like Flaming Spheres or Lightning Strikes by %d%%. (This already includes the reduction from Defense)</eng>
+					</popup>
+				</ELEMENTAL_RESISTANCE>
+				<DetailedStats>
+					<label>
+						<eng>Details</eng>
+					</label>
+					<popup>
+						<eng>Gives detailed information on your character's derived statistics.</eng>
+					</popup>
+				</DetailedStats>
+				<AvailablePoints>
+					<label>
+						<eng>Available Ability Points</eng>
+					</label>
+					<popup>
+						<eng>This is the amount of Ability Points you can distribute among your three main attributes.</eng>
+					</popup>
+				</AvailablePoints>
+				<DODGE>
+					<label>
+						<eng>Dodge</eng>
+					</label>
+					<popup>
+						<eng>Current dodge chance against average attack: %d%%\nDodge gives a chance of directly avoiding any attacks before the calculation of Attack and Defense.</eng>
+					</popup>
+				</DODGE>
+				<PARRY>
+					<label>
+						<eng>Deflect</eng>
+					</label>
+					<popup>
+						<eng>Deflect gives a direct chance to completely avoid attacks that occur within your Deflect Range.</eng>
+					</popup>
+				</PARRY>
+				<CRITICAL_HIT>
+					<label>
+						<eng>Critical Chance</eng>
+					</label>
+					<popup>
+						<eng>Critical Chance is the likelihood of scoring a Critical Hit on your opponent, significantly increasing the Damage inflicted.</eng>
+					</popup>
+				</CRITICAL_HIT>
+				<CRITICAL_DAMAGE>
+					<label>
+						<eng>Critical Damage</eng>
+					</label>
+					<popup>
+						<eng>Critical Damage indicates the bonus to Damage on a Critical Hit.</eng>
+					</popup>
+				</CRITICAL_DAMAGE>
+				<MagicItemFindBonus>
+					<label>
+						<eng>Magic Item Chance</eng>
+					</label>
+					<popup>
+						<eng>Bonus affecting the chance of finding more and better Magical Items.</eng>
+					</popup>
+				</MagicItemFindBonus>
+				<GoldFindBonus>
+					<label>
+						<eng>Gold Bonus</eng>
+					</label>
+					<popup>
+						<eng>Bonus which makes you find more Gold.</eng>
+					</popup>
+				</GoldFindBonus>
+				<MovementSpeed>
+					<label>
+						<eng>Movement Speed</eng>
+					</label>
+					<popup>
+						<eng>The speed at which your hero moves about the battlefield.</eng>
+					</popup>
+				</MovementSpeed>
+				<MAIN_ATTACK_RATE>
+					<label>
+						<eng>Primary Attack Speed</eng>
+					</label>
+					<popup>
+						<eng>The number of attacks your Hero can make per second with his primary skill.</eng>
+					</popup>
+					<popupmax>
+						<eng>The number of attacks your Hero can make per second with his primary skill. (Maximum speed reached!)</eng>
+					</popupmax>
+				</MAIN_ATTACK_RATE>
+				<ALTERNATE_ATTACK_RATE>
+					<label>
+						<eng>Secondary Attack Speed</eng>
+					</label>
+					<popup>
+						<eng>The number of attacks your Hero can make per second with his secondary skill.</eng>
+					</popup>
+					<popupmax>
+						<eng>The number of attacks your Hero can make per second with his secondary skill. (Maximum speed reached!)</eng>
+					</popupmax>
+				</ALTERNATE_ATTACK_RATE>
+				<attack_DPS>
+					<melee_popup>
+						<eng>Damage per second of your base melee attack.</eng>
+					</melee_popup>
+					<ranged_popup>
+						<eng>Damage per second of your base ranged attack.</eng>
+					</ranged_popup>
+					<skill_popup>
+						<eng>Damage per second with your %s skill.</eng>
+					</skill_popup>
+				</attack_DPS>
+				<MAIN_DPS>
+					<label>
+						<eng>Primary DPH</eng>
+					</label>
+				</MAIN_DPS>
+				<ALTERNATE_DPS>
+					<label>
+						<eng>Secondary DPH</eng>
+					</label>
+				</ALTERNATE_DPS>
+				<HP_ON_HIT>
+					<label>
+						<eng>HP per hit</eng>
+					</label>
+					<popup>
+						<eng>Hit Points gained with each successful attack.</eng>
+					</popup>
+				</HP_ON_HIT>
+				<HP_PER_KILL>
+					<label>
+						<eng>HP per kill</eng>
+					</label>
+					<popup>
+						<eng>Hit Points gained with each kill.</eng>
+					</popup>
+				</HP_PER_KILL>
+				<HP_STEAL>
+					<label>
+						<eng>Life Steal</eng>
+					</label>
+					<popup>
+						<eng>Percentage of dealt damage healed.</eng>
+					</popup>
+				</HP_STEAL>
+				<HP_REGEN>
+					<label>
+						<eng>HP Regeneration</eng>
+					</label>
+					<popup>
+						<eng>Hit Points regenerated every second.</eng>
+					</popup>
+				</HP_REGEN>
+				<MANA_ON_HIT>
+					<label>
+						<eng>Mana per hit</eng>
+					</label>
+					<popup>
+						<eng>Mana gained with each successful attack.</eng>
+					</popup>
+				</MANA_ON_HIT>
+				<MANA_PER_KILL>
+					<label>
+						<eng>Mana per kill</eng>
+					</label>
+					<popup>
+						<eng>Mana gained with each kill.</eng>
+					</popup>
+				</MANA_PER_KILL>
+				<MANA_STEAL>
+					<label>
+						<eng>Mana Steal</eng>
+					</label>
+					<popup>
+						<eng>Percentage of dealt damage is added to your Mana.</eng>
+					</popup>
+				</MANA_STEAL>
+				<MANA_REGEN>
+					<label>
+						<eng>Mana Regeneration</eng>
+					</label>
+					<popup>
+						<eng>Mana regenerated every second.</eng>
+					</popup>
+				</MANA_REGEN>
+				<GLOBAL_COOLDOWN>
+					<label>
+						<eng>Global Cooldown</eng>
+					</label>
+					<popup>
+						<eng>The minimum amount of time between the use of two attack spells.</eng>
+					</popup>
+				</GLOBAL_COOLDOWN>
+				<DAMAGE_REDUCTION>
+					<label>
+						<eng>Damage Reduction</eng>
+					</label>
+					<popup>
+						<eng>The damage you take is first reduced by %d%% then %d is subtracted from the result. Lady Katarina will take %d%% from the rest. From %d points of damage you would recieve %d.</eng>
+					</popup>
+				</DAMAGE_REDUCTION>
+				<COOLDOWN_REDUCE>
+					<label>
+						<eng>Cooldown Reduce</eng>
+					</label>
+					<popup>
+						<eng>All cooldowns of your spells are reduced by this percentage.</eng>
+					</popup>
+				</COOLDOWN_REDUCE>
+				<CC_RESIST>
+					<label>
+						<eng>CC Resistance</eng>
+					</label>
+					<popup>
+						<eng>Crowd Control Resistance. Reduces the duration of debilitating effects (slow, stun, etc.) by %d%%.</eng>
+					</popup>
+				</CC_RESIST>
+				<Statistics>
+					<label>
+						<eng>Statistics</eng>
+					</label>
+					<popup>
+						<eng>Interesting statistics about your Hero.</eng>
+					</popup>
+				</Statistics>
+				<GoldGathered>
+					<label>
+						<eng>Gold Gathered</eng>
+					</label>
+					<popup>
+						<eng>The total amount of Gold you have gathered on your journey so far.</eng>
+					</popup>
+				</GoldGathered>
+				<MonstersKilled>
+					<label>
+						<eng>Monsters killed</eng>
+					</label>
+					<popup>
+						<eng>The total number of monsters and other enemies you've slain during your adventure.</eng>
+					</popup>
+				</MonstersKilled>
+				<BossesKilled>
+					<label>
+						<eng>Nemesises killed</eng>
+					</label>
+					<popup>
+						<eng>The total number of your most powerful enemies you've slain during your adventure.</eng>
+					</popup>
+				</BossesKilled>
+				<MiniBossesKilled>
+					<label>
+						<eng>Archvillains killed</eng>
+					</label>
+					<popup>
+						<eng>The total number of the most powerful allies of the Nemesises you've slain during your adventure.</eng>
+					</popup>
+				</MiniBossesKilled>
+				<DeathCount>
+					<label>
+						<eng>Number of Deaths</eng>
+					</label>
+					<popup>
+						<eng>The number of times you died in your battle against the endless hordes of evil and stuff.</eng>
+					</popup>
+				</DeathCount>
+				<PlayTime>
+					<label>
+						<eng>Playtime</eng>
+					</label>
+					<popup>
+						<eng>The total amount of time you've spent with the Incredible Adventures of Van Helsing.</eng>
+					</popup>
+				</PlayTime>
+				<HPDrinkCount>
+					<label>
+						<eng>HP Potions Used</eng>
+					</label>
+					<popup>
+						<eng>The number of Health Potions you've used.</eng>
+					</popup>
+				</HPDrinkCount>
+				<ManaDrinkCount>
+					<label>
+						<eng>Mana Potions Used</eng>
+					</label>
+					<popup>
+						<eng>The number of Mana Potions you've used.</eng>
+					</popup>
+				</ManaDrinkCount>
+				<CompletedQuestCount>
+					<label>
+						<eng>Completed Quests</eng>
+					</label>
+					<popup>
+						<eng>The number of Quests you've completed.</eng>
+					</popup>
+				</CompletedQuestCount>
+				<ChestLooted>
+					<label>
+						<eng>Loot Attempts</eng>
+					</label>
+					<popup>
+						<eng>The number of times opened a chest, looted a corpse, etc.</eng>
+					</popup>
+				</ChestLooted>
+				<ItemsGambled>
+					<label>
+						<eng>Items Gambled</eng>
+					</label>
+					<popup>
+						<eng>The number of items you've bought on a gamble.</eng>
+					</popup>
+				</ItemsGambled>
+				<ItemsEnchanted>
+					<label>
+						<eng>Items Enchanted</eng>
+					</label>
+					<popup>
+						<eng>The number of items you've had Enchanted.</eng>
+					</popup>
+				</ItemsEnchanted>
+				<AlchemyUsed>
+					<label>
+						<eng>Alchemy Used</eng>
+					</label>
+					<popup>
+						<eng>The number of times you've used the Laboratory.</eng>
+					</popup>
+				</AlchemyUsed>
+				<ArtifactsForged>
+					<label>
+						<eng>Items Forged</eng>
+					</label>
+					<popup>
+						<eng>The number of items you've created in the Artifact Forge.</eng>
+					</popup>
+				</ArtifactsForged>
+				<HighestDamageTaken>
+					<label>
+						<eng>Highest Damage Taken</eng>
+					</label>
+					<popup>
+						<eng>The highest amount of damage you've taken with a single attack.</eng>
+					</popup>
+				</HighestDamageTaken>
+				<HighestDamageDealt>
+					<label>
+						<eng>Highest Damage Dealt</eng>
+					</label>
+					<popup>
+						<eng>The highest amount of damage you've dealt with a single attack against a single target.</eng>
+					</popup>
+				</HighestDamageDealt>
+				<StrongestKilled>
+					<label>
+						<eng>Strongest killed:</eng>
+					</label>
+					<popup>
+						<eng>The strongest enemy you have defeated so far.</eng>
+					</popup>
+				</StrongestKilled>
+				<FavouriteSkill>
+					<label>
+						<eng>Favorite Skill:</eng>
+					</label>
+					<popup>
+						<eng>The skill you used the most.</eng>
+					</popup>
+					<UseCount>
+						<eng>Number of skill uses</eng>
+					</UseCount>
+				</FavouriteSkill>
+				<XP>
+					<eng>XP</eng>
+				</XP>
+				<XPPercent>
+					<eng>(%.0f%% to next level)</eng>
+				</XPPercent>
+				<increase>
+					<label>
+						<eng>Increase</eng>
+					</label>
+					<popup>
+						<eng>Increae Attribute</eng>
+					</popup>
+				</increase>
+				<decrease>
+					<label>
+						<eng>Decrease</eng>
+					</label>
+					<popup>
+						<eng>Decreae Attribute</eng>
+					</popup>
+				</decrease>
+				<accept>
+					<popup>
+						<eng>Clicking on this button will finalize your allocation of Attribute Points.</eng>
+					</popup>
+				</accept>
+				<cancel>
+					<popup>
+						<eng>Clicking on this button will roll back your allocation of Attribute Points so you can distribute them again.</eng>
+					</popup>
+				</cancel>
+				<regen_value>
+					<eng>( +%g per sec )</eng>
+				</regen_value>
+			</charactersheet>
+			<companion>
+				<level>
+					<eng>Level</eng>
+				</level>
+				<XP>
+					<eng>XP</eng>
+				</XP>
+				<Equipment>
+					<label>
+						<eng>Equipment</eng>
+					</label>
+					<popup>
+						<eng>Your companion's Inventory and equipped items.</eng>
+					</popup>
+				</Equipment>
+				<Skills>
+					<label>
+						<eng>Skills</eng>
+					</label>
+					<popup>
+						<eng>Your companion's Skills.</eng>
+					</popup>
+					<Vanilla>
+						<popup>
+							<eng>General Skills</eng>
+						</popup>
+					</Vanilla>
+					<DLC>
+						<popup>
+							<eng>Blue Blood Skills</eng>
+						</popup>
+					</DLC>
+				</Skills>
+				<Behaviour>
+					<label>
+						<eng>Behavior</eng>
+					</label>
+					<popup>
+						<eng>Your instructions on the Behavior of your companion.</eng>
+					</popup>
+				</Behaviour>
+				<MeleeDPS>
+					<label>
+						<eng>Melee DPS</eng>
+					</label>
+					<popup>
+						<eng>Gives you a general idea about how much damage your Companion can do in close combat. (Note that Lady Katarina deals %s Damage based on her Level.)</eng>
+					</popup>
+				</MeleeDPS>
+				<HPPotionThreshold>
+					<popup>
+						<eng>Your Companion will drink a Healing Potion (if she has any in her Inventory) when she gets below %s of her total Hit Points.</eng>
+					</popup>
+					<label>
+						<eng>HP Potion Threshold</eng>
+					</label>
+				</HPPotionThreshold>
+				<RangedDPS>
+					<label>
+						<eng>Ranged DPS</eng>
+					</label>
+					<popup>
+						<eng>Gives you a general idea about how much damage your Companion can do from afar. (Note that Lady Katarina deals %s Damage based on her Level.)</eng>
+					</popup>
+				</RangedDPS>
+				<RESISTANCE>
+					<label>
+						<eng>Resistances (Ph/El/Po)</eng>
+					</label>
+					<popup>
+						<eng>Your companion's resistance to Physical/Elemental/Poison attacks.</eng>
+					</popup>
+				</RESISTANCE>
+				<behaviour>
+					<Defend>
+						<label>
+							<eng>Defend</eng>
+						</label>
+						<popup>
+							<eng>Your companion will attack those who would do you harm. Enemies will also prefer her as their target first.</eng>
+						</popup>
+					</Defend>
+					<Assist>
+						<label>
+							<eng>Assist</eng>
+						</label>
+						<popup>
+							<eng>Your companion will attack your target. In case of AOE spells, she will target the closest enemy you damaged with your last attack.</eng>
+						</popup>
+					</Assist>
+					<Weakest>
+						<label>
+							<eng>Charge</eng>
+						</label>
+						<popup>
+							<eng>Your companion will move to attack enemies sooner and she will target the weakest creatures first.</eng>
+						</popup>
+					</Weakest>
+					<Vulnarable>
+						<label>
+							<eng>Survive</eng>
+						</label>
+						<popup>
+							<eng>Your companion will target the weakest creatures first and enemies will tend to attack her last.</eng>
+						</popup>
+					</Vulnarable>
+				</behaviour>
+				<form>
+					<label>
+						<eng>Appearance</eng>
+					</label>
+					<Melee>
+						<label>
+							<eng>Melee</eng>
+						</label>
+						<popup>
+							<eng>Your companion will attack enemies in melee.</eng>
+						</popup>
+					</Melee>
+					<Ranged>
+						<label>
+							<eng>Ranged</eng>
+						</label>
+						<popup>
+							<eng>Your companion will attack enemies at range.</eng>
+						</popup>
+					</Ranged>
+					<Ghost>
+						<label>
+							<eng>Ghost</eng>
+						</label>
+						<popup>
+							<eng>Your companion will assume Ghost form while in combat, providing you with a 10% damage reduction from all damage. NOTE: She can't fight in Ghost form, nor can she be attacked.</eng>
+						</popup>
+					</Ghost>
+				</form>
+				<shopping>
+					<label>
+						<eng>Go Shopping</eng>
+					</label>
+					<popup>
+						<eng>Send your companion to sell items in her inventory and buy potions. NOTE: You can change her shopping list on the Behavior tab.</eng>
+					</popup>
+				</shopping>
+				<loottype>
+					<label>
+						<eng>Item Collecting</eng>
+					</label>
+					<Gold>
+						<label>
+							<eng>Gold</eng>
+						</label>
+						<popup>
+							<eng>Your companion will gather all the gold on the battlefield.</eng>
+						</popup>
+					</Gold>
+					<HPPotions>
+						<label>
+							<eng>Health Potions</eng>
+						</label>
+						<popup>
+							<eng>Your companion will gather every Health Potion on the battlefield.</eng>
+						</popup>
+					</HPPotions>
+					<ManaPotions>
+						<label>
+							<eng>Mana Potions</eng>
+						</label>
+						<popup>
+							<eng>Your companion will gather every Mana Potion on the battlefield.</eng>
+						</popup>
+					</ManaPotions>
+					<Normal>
+						<label>
+							<eng>Normal items</eng>
+						</label>
+						<popup>
+							<eng>Your companion will gather all non-magical items from the battlefield.</eng>
+						</popup>
+					</Normal>
+					<Essence>
+						<label>
+							<eng>Essences</eng>
+						</label>
+						<popup>
+							<eng>Your companion will gather all alchemical Essences from the battlefield.</eng>
+						</popup>
+					</Essence>
+					<Magic>
+						<label>
+							<eng>Magic items</eng>
+						</label>
+						<popup>
+							<eng>Your companion will gather all minor Magical items from the battlefield.</eng>
+						</popup>
+					</Magic>
+					<Rare>
+						<label>
+							<eng>Rare items</eng>
+						</label>
+						<popup>
+							<eng>Your companion will gather all Rare items from the battlefield.</eng>
+						</popup>
+					</Rare>
+					<Unique>
+						<label>
+							<eng>Epic items</eng>
+						</label>
+						<popup>
+							<eng>Your companion will gather all Epic items from the battlefield.</eng>
+						</popup>
+					</Unique>
+				</loottype>
+				<valuelimit>
+					<label>
+						<eng>Value limit</eng>
+					</label>
+					<popup>
+						<eng>Your companion will pick up any items cheaper than this value.</eng>
+					</popup>
+				</valuelimit>
+				<buypotions>
+					<label>
+						<eng>Buy Potions</eng>
+					</label>
+				</buypotions>
+				<hppotionstobuy>
+					<label>
+						<eng>HP Potions to buy</eng>
+					</label>
+					<popup>
+						<eng>Your companion will buy this amount of HP Potions the next time you send her to the store.</eng>
+					</popup>
+					<bought>
+						<eng>%d HP Potions bought for %d Gold.</eng>
+					</bought>
+				</hppotionstobuy>
+				<manapotionstobuy>
+					<label>
+						<eng>Mana Potions to buy</eng>
+					</label>
+					<popup>
+						<eng>Your companion will buy this amount of Mana Potions the next time you send her to the store.</eng>
+					</popup>
+					<bought>
+						<eng>%d Mana Potions bought for %d Gold.</eng>
+					</bought>
+				</manapotionstobuy>
+			</companion>
+			<inventory>
+				<label>
+					<eng>Inventory</eng>
+				</label>
+				<comp_label>
+					<eng>Kat's Inventory</eng>
+				</comp_label>
+				<ClickActions>
+					<Identify>
+						<eng>%s to Identify</eng>
+					</Identify>
+					<Split>
+						<eng>%s to Split</eng>
+					</Split>
+					<Sell>
+						<eng>%s to Sell</eng>
+					</Sell>
+					<Sell5>
+						<eng>%s to Sell 5 at once</eng>
+					</Sell5>
+					<SellStack>
+						<eng>%s to Sell the whole stack</eng>
+					</SellStack>
+					<Buy>
+						<eng>%s to Buy</eng>
+					</Buy>
+					<Buy5>
+						<eng>%s to Buy 5 at once</eng>
+					</Buy5>
+					<BuyStack>
+						<eng>%s to Buy a whole stack</eng>
+					</BuyStack>
+					<ToCompanion>
+						<eng>%s to give to Katarina</eng>
+					</ToCompanion>
+					<ToHero>
+						<eng>%s to give to Van Helsing</eng>
+					</ToHero>
+					<ToCompanionEquip>
+						<eng>%s to Equip on Katarina</eng>
+					</ToCompanionEquip>
+					<ToHeroEquip>
+						<eng>%s to Equip on Van Helsing</eng>
+					</ToHeroEquip>
+					<ToCompanionCompare>
+						<eng>%s to Compare with Katarina</eng>
+					</ToCompanionCompare>
+					<ToHeroCompare>
+						<eng>%s to Compare with Van Helsing</eng>
+					</ToHeroCompare>
+					<ToStorage>
+						<eng>%s to put into Storage</eng>
+					</ToStorage>
+					<ToTrophy>
+						<eng>%s to put on Display</eng>
+					</ToTrophy>
+					<ToAlchemy>
+						<eng>%s to use in the Laboratory</eng>
+					</ToAlchemy>
+					<ToEnchant>
+						<eng>%s to Enchant</eng>
+					</ToEnchant>
+					<ToForge>
+						<eng>%s to use in the Forge</eng>
+					</ToForge>
+					<Drink>
+						<eng>%s to Drink</eng>
+					</Drink>
+					<Consume>
+						<eng>%s to Consume</eng>
+					</Consume>
+					<Equip>
+						<eng>%s to Equip</eng>
+					</Equip>
+					<EquipLeft>
+						<eng>%s to Equip on Left Slot</eng>
+					</EquipLeft>
+					<EquipRight>
+						<eng>%s to Equip on Right Slot</eng>
+					</EquipRight>
+					<CompareWithRightRing>
+						<eng>%s to compare with Right Slot</eng>
+					</CompareWithRightRing>
+					<UnEquip>
+						<eng>%s to Unequip</eng>
+					</UnEquip>
+				</ClickActions>
+				<gold>
+					<popup>
+						<eng>This is the amount of Gold you are carrying at the moment. You can spend it in stores to buy better equipment.</eng>
+					</popup>
+					<label>
+						<eng>Gold</eng>
+					</label>
+				</gold>
+				<item_count>
+					<eng>Item count %d/%d</eng>
+				</item_count>
+				<DefaultSword>
+					<popup>
+						<eng>Van Helsing's basic Sword\ninflicting %s damage.</eng>
+					</popup>
+				</DefaultSword>
+				<DefaultPistol>
+					<popup>
+						<eng>Van Helsing's basic Pistol\ninflicting %s damage.</eng>
+					</popup>
+				</DefaultPistol>
+				<reorganize>
+					<popup>
+						<eng>This button will reorganize your inventory to be more optimized.</eng>
+					</popup>
+					<label>
+						<eng>Reorganize</eng>
+					</label>
+				</reorganize>
+				<Buyback>
+					<popup>
+						<eng>Recently sold items (still available for their selling price!)</eng>
+					</popup>
+				</Buyback>
+				<Alchemy>
+					<popup>
+						<eng>Alchemical components and potions</eng>
+					</popup>
+				</Alchemy>
+				<Items>
+					<popup>
+						<eng>Regular items</eng>
+					</popup>
+				</Items>
+				<Extra>
+					<popup>
+						<eng>Extra space for even more loot!</eng>
+					</popup>
+				</Extra>
+				<Quest>
+					<popup>
+						<eng>Quest Items</eng>
+					</popup>
+				</Quest>
+				<gamemode>
+					<popup>
+						<eng>Scrolls</eng>
+					</popup>
+				</gamemode>
+				<Identify>
+					<eng>Identify</eng>
+				</Identify>
+				<ToHero>
+					<eng>To Hero</eng>
+				</ToHero>
+				<ToCompanion>
+					<eng>To Companion</eng>
+				</ToCompanion>
+				<Equip>
+					<eng>Equip</eng>
+				</Equip>
+				<Equip_2>
+					<eng>Equip as secondary</eng>
+				</Equip_2>
+				<Unequip>
+					<eng>Unequip</eng>
+				</Unequip>
+				<Sell>
+					<eng>Sell</eng>
+				</Sell>
+				<Use>
+					<eng>Use</eng>
+				</Use>
+				<Use_Alchemy>
+					<eng>Put to %s slot</eng>
+				</Use_Alchemy>
+				<Drop>
+					<eng>Drop</eng>
+				</Drop>
+				<Store>
+					<eng>Store</eng>
+				</Store>
+				<trophy>
+					<eng>Put on display</eng>
+				</trophy>
+				<Slot>
+					<Melee>
+						<popup>
+							<eng>Melee Weapon</eng>
+						</popup>
+					</Melee>
+					<Ranged>
+						<popup>
+							<eng>Ranged Weapon</eng>
+						</popup>
+					</Ranged>
+					<Helmet>
+						<popup>
+							<eng>Hat</eng>
+						</popup>
+					</Helmet>
+					<Amulet>
+						<popup>
+							<eng>Amulet</eng>
+						</popup>
+					</Amulet>
+					<armor>
+						<popup>
+							<eng>Armor</eng>
+						</popup>
+					</armor>
+					<gloves>
+						<popup>
+							<eng>Gloves</eng>
+						</popup>
+					</gloves>
+					<boots>
+						<popup>
+							<eng>Boots</eng>
+						</popup>
+					</boots>
+					<cape>
+						<popup>
+							<eng>Cape</eng>
+						</popup>
+					</cape>
+					<belt>
+						<popup>
+							<eng>Belt</eng>
+						</popup>
+					</belt>
+					<trophy>
+						<popup>
+							<eng>Trophy</eng>
+						</popup>
+					</trophy>
+					<ring1>
+						<popup>
+							<eng>Ring</eng>
+						</popup>
+					</ring1>
+					<ring2>
+						<popup>
+							<eng>Ring</eng>
+						</popup>
+					</ring2>
+					<essence>
+						<popup>
+							<eng>Essence</eng>
+						</popup>
+					</essence>
+					<questitem>
+						<popup>
+							<eng>Quest Item</eng>
+						</popup>
+					</questitem>
+				</Slot>
+				<left_action_damage>
+					<eng>Left Skill Damage</eng>
+				</left_action_damage>
+				<right_action_damage>
+					<eng>Right Skill Damage</eng>
+				</right_action_damage>
+				<left_action_dps>
+					<eng>Left Skill DPS</eng>
+				</left_action_dps>
+				<right_action_dps>
+					<eng>Right Skill DPS</eng>
+				</right_action_dps>
+				<split_label>
+					<eng>Split Potion Stack</eng>
+				</split_label>				
+			</inventory>
+			<gambler>
+				<label>
+					<eng>Gamble</eng>
+				</label>
+			</gambler>
+			<vendor>
+				<label>
+					<eng>Store</eng>
+				</label>
+				<vendor>
+					<popup>
+						<eng>Store</eng>
+					</popup>
+				</vendor>
+				<buyback>
+					<popup>
+						<eng>Recently sold items</eng>
+					</popup>
+				</buyback>
+				<buy>
+					<eng>Buy</eng>
+				</buy>
+				<buy_for_pet>
+					<eng>Buy for Companion</eng>
+				</buy_for_pet>
+				<sellall>
+					<eng>Sell All</eng>
+					<popup>
+						<eng>Sells all of your items (except for Essences and quest essential items) to this vendor.</eng>
+					</popup>
+				</sellall>
+			</vendor>
+			<storage>
+				<label>
+					<eng>Storage</eng>
+				</label>
+				<additem>
+					<eng>To Hero</eng>
+				</additem>
+				<additemtopet>
+					<eng>To Companion</eng>
+				</additemtopet>
+				<store>
+					<eng>Store</eng>
+				</store>
+				<take>
+					<eng>Retreive</eng>
+				</take>
+			</storage>
+			<soldierinfo>
+				<magic_resistance>
+					<eng>Magic Resistance: %d</eng>
+				</magic_resistance>
+				<immunity>
+					<eng>Immunity to %s</eng>
+				</immunity>
+				<hit_dodge_chance>
+					<eng>Hit/Dodge Chance: %s/%s</eng>
+				</hit_dodge_chance>
+				<dodge_chance>
+					<eng>Dodge Chance: %s</eng>
+				</dodge_chance>
+			</soldierinfo>
+			<PerkWindow>
+				<title>
+					<eng>Perks</eng>
+				</title>
+				<availablepoints>
+					<label>
+						<eng>Available Perks</eng>
+					</label>
+				</availablepoints>
+				<reputation>
+					<eng>Reputation</eng>
+				</reputation>
+				<available>
+					<eng>Perks Available:</eng>
+				</available>
+				<learned>
+					<eng>Perks Learned:</eng>
+				</learned>
+				<learnperk>
+					<eng>Learn Perk</eng>
+				</learnperk>
+				<unlearnperk>
+					<eng>Unlearn</eng>
+				</unlearnperk>
+				<CantBeUndone>
+					<eng>Learning this Perk cannot be undone! Are you sure you want to learn it?</eng>
+				</CantBeUndone>
+				<available_aura>
+					<eng>Available Auras:</eng>
+				</available_aura>
+				<available_buff>
+					<eng>Available Tricks:</eng>
+				</available_buff>
+				<active_aura>
+					<eng>Active Auras:</eng>
+				</active_aura>
+				<active_buff>
+					<eng>Active Tricks:</eng>
+				</active_buff>
+			</PerkWindow>
+			<SkillsWindow>
+				<label>
+					<eng>Skills</eng>
+				</label>
+				<fullscreen>
+					<eng>Switch to full screen mode</eng>
+				</fullscreen>
+				<windowed>
+					<eng>Switch to windowed mode</eng>
+				</windowed>
+				<Melee>
+					<label>
+						<eng>Mystic Warrior</eng>
+					</label>
+					<popup>
+						<eng>Melee Skills</eng>
+					</popup>
+				</Melee>
+				<Ranged>
+					<label>
+						<eng>Occult Hunter</eng>
+					</label>
+					<popup>
+						<eng>Ranged Skills</eng>
+					</popup>
+				</Ranged>
+				<Magus>
+					<label>
+						<eng>Thaumaturge</eng>
+					</label>
+					<popup>
+						<eng>Magic Spells</eng>
+					</popup>
+				</Magus>
+				<Engineer>
+					<label>
+						<eng>Arcane Mechanic</eng>
+					</label>
+					<popup>
+						<eng>Tools and Gadgets</eng>
+					</popup>
+				</Engineer>
+				<Perk>
+					<label>
+						<eng>Tricks and Auras</eng>
+					</label>
+					<popup>
+						<eng>Special tricks and continuous auras</eng>
+					</popup>
+				</Perk>
+				<Aura>
+					<label>
+						<eng>Auras</eng>
+					</label>
+					<popup>
+						<eng>Continuous auras</eng>
+					</popup>
+					<instructions>
+						<eng>Drag and drop Aura into Active Aura slot!</eng>
+					</instructions>
+				</Aura>
+				<Buff>
+					<label>
+						<eng>Tricks</eng>
+					</label>
+					<popup>
+						<eng>Special tricks</eng>
+					</popup>
+				</Buff>
+				<Mastery>
+					<popup>
+						<eng>Your current Mastery Level for this group of Skills is %d. All Skill effects in this group are increased by this percentage.</eng>
+					</popup>
+				</Mastery>
+				<SkillPoints>
+					<label>
+						<eng>Available Skill Points</eng>
+					</label>
+					<popup>
+						<eng>Available Skill Points</eng>
+					</popup>
+				</SkillPoints>
+				<accept>
+					<popup>
+						<eng>Clicking on this button will finalize your allocation of Skill Points.</eng>
+					</popup>
+				</accept>
+				<cancel>
+					<popup>
+						<eng>Clicking on this button will roll back your allocation of Skill Points so you can distribute them again.</eng>
+					</popup>
+				</cancel>
+				<IncSkillLevel>
+					<eng>Increase Skill Level</eng>
+				</IncSkillLevel>
+				<DecSkillLevel>
+					<eng>Decrease Skill Level</eng>
+				</DecSkillLevel>
+				<Level>
+					<eng>Level</eng>
+				</Level>
+				<AddPowerup>
+					<eng>%s to add Powerup</eng>
+				</AddPowerup>
+				<RemovePowerup>
+					<eng>%s to remove Powerup</eng>
+				</RemovePowerup>
+				<LearnPowerup>
+					<eng>%s to learn Powerup</eng>
+				</LearnPowerup>
+				<LearnMastery>
+					<eng>%s to learn Skill Mastery</eng>
+				</LearnMastery>
+				<NotLearned>
+					<eng>Not learned</eng>
+				</NotLearned>
+				<Learn>
+					<eng>Learn</eng>
+				</Learn>
+				<UnLearn>
+					<eng>Unlearn</eng>
+				</UnLearn>
+				<PowerupSetup>
+					<eng>Set PWUPs</eng>
+				</PowerupSetup>
+				<FinishSetup>
+					<eng>Finish Combo</eng>
+				</FinishSetup>
+				<AddPowerupXBOX>
+					<eng>Add Powerup</eng>
+				</AddPowerupXBOX>
+				<RemovePowerupXBOX>
+					<eng>Remove Powerup</eng>
+				</RemovePowerupXBOX>
+				<Link>
+					<eng>Link</eng>
+				</Link>
+				<LinkTo>
+					<eng>Link to %s</eng>
+				</LinkTo>
+				<LinkToSlot0>
+					<eng>Set as Aura 2</eng>
+				</LinkToSlot0>
+				<LinkToSlot1>
+					<eng>Set as Aura 1</eng>
+				</LinkToSlot1>
+				<LinkToSlot2>
+					<eng>Set as Aura 3</eng>
+				</LinkToSlot2>
+				<CancelLink>
+					<eng>Cancel Linking</eng>
+				</CancelLink>
+				<ClickActions>
+					<ToLearn>
+						<eng>%s to Learn</eng>
+					</ToLearn>
+					<ToLearnNextLevel>
+						<eng>%s to Learn Next Level</eng>
+					</ToLearnNextLevel>
+					<ToUnLearn>
+						<eng>%s to Undo Last Level</eng>
+					</ToUnLearn>
+					<ToSetFirstSlotPassive>
+						<eng>%s to Set to Aura 1</eng>
+					</ToSetFirstSlotPassive>
+					<ToSetSecondSlotPassive>
+						<eng>%s to Set to Aura 2</eng>
+					</ToSetSecondSlotPassive>
+					<ToSetFirstSlotActive>
+						<eng>%s to Set as Left Trick</eng>
+					</ToSetFirstSlotActive>
+					<ToSetSecondSlotActive>
+						<eng>%s to Set as Right Trick</eng>
+					</ToSetSecondSlotActive>
+					<ToRemovePassive>
+						<eng>%s to Deactivate Aura</eng>
+					</ToRemovePassive>
+					<ToRemoveActive>
+						<eng>%s to Remove Trick</eng>
+					</ToRemoveActive>
+					<ToSelect>
+						<eng>%s to Select a Different Skill</eng>
+					</ToSelect>
+					<ToSelectForTraining>
+						<eng>%s to Select for Training</eng>
+					</ToSelectForTraining>
+				</ClickActions>
+				<page_index>
+					<eng>Page %d/%d</eng>
+				</page_index>
+				<quest_required>
+					<eng>You need to solve a certain Quest to unlock this skill.</eng>
+				</quest_required>
+				<skill_required>
+					<eng>Required Skill</eng>
+				</skill_required>
+				<LinkDescription>
+					<eng>Select the action button you want to link to!</eng>
+				</LinkDescription>
+			</SkillsWindow>
+			<MapWindow>
+				<label>
+					<eng>Map</eng>
+				</label>
+			</MapWindow>
+			<PetWindow>
+				<label>
+					<eng>Companion</eng>
+				</label>
+			</PetWindow>
+			<JournalWindow>
+				<label>
+					<eng>Journal</eng>
+				</label>
+			</JournalWindow>
+			<propertypopup>
+				<sellvalue>
+					<eng>Selling price:</eng>
+				</sellvalue>
+				<buyvalue>
+					<eng>Buying price:</eng>
+				</buyvalue>
+			</propertypopup>
+			<info>
+				<HighlightItemsOn>
+					<eng>Highlighting items ON</eng>
+				</HighlightItemsOn>
+				<HighlightItemsOff>
+					<eng>Highlighting items OFF</eng>
+				</HighlightItemsOff>
+			</info>
+			<AlchemyWindow>
+				<label>
+					<eng>Laboratory</eng>
+				</label>
+				<ResultCapped>
+					<eng>Alchemy can only get you so far. Due to theoretical limitations, the result of your current experiment may be less powerful than you expected!</eng>
+				</ResultCapped>
+				<labels>
+					<cost_gem_enchant>
+						<eng>Enhance Cost:</eng>
+					</cost_gem_enchant>
+					<cost_gem_combine>
+						<eng>Combine Cost:</eng>
+					</cost_gem_combine>
+					<cost_item_enchant>
+						<eng>Insertion Cost:</eng>
+					</cost_item_enchant>
+					<cost_item_dismantle>
+						<eng>Removal Cost:</eng>
+					</cost_item_dismantle>
+					<button_gem_enchant>
+						<eng>Enhance</eng>
+					</button_gem_enchant>
+					<button_gem_combine>
+						<eng>Combine</eng>
+					</button_gem_combine>
+					<button_item_enchant>
+						<eng>Insert</eng>
+					</button_item_enchant>
+					<button_item_dismantle>
+						<eng>Remove</eng>
+					</button_item_dismantle>
+					<tab_gem_enchant>
+						<eng>Enhance essence</eng>
+					</tab_gem_enchant>
+					<tab_gem_combine>
+						<eng>Combine essences</eng>
+					</tab_gem_combine>
+					<tab_item_enchant>
+						<eng>Enhance item</eng>
+					</tab_item_enchant>
+					<tab_item_dismantle>
+						<eng>Dismantle</eng>
+					</tab_item_dismantle>
+					<gem_enchant_source_1>
+						<eng>Source essence</eng>
+					</gem_enchant_source_1>
+					<gem_enchant_source_2>
+						<eng>Enhancer essence</eng>
+					</gem_enchant_source_2>
+					<gem_enchant_target>
+						<eng>Enhanced essence</eng>
+					</gem_enchant_target>
+					<gem_combine_source_1>
+						<eng>Primary source</eng>
+					</gem_combine_source_1>
+					<gem_combine_source_2>
+						<eng>Secondary source</eng>
+					</gem_combine_source_2>
+					<gem_combine_target>
+						<eng>Combined essence</eng>
+					</gem_combine_target>
+					<item_enchant_source_1>
+						<eng>Source item</eng>
+					</item_enchant_source_1>
+					<item_enchant_source_2>
+						<eng>Enhancer essence</eng>
+					</item_enchant_source_2>
+					<item_enchant_target>
+						<eng>Enhanced item</eng>
+					</item_enchant_target>
+					<item_dismantle_source_1>
+						<eng>Enhanced item</eng>
+					</item_dismantle_source_1>
+					<item_dismantle_target_1>
+						<eng>Dismantled item</eng>
+					</item_dismantle_target_1>
+					<item_dismantle_target_2>
+						<eng>Essences</eng>
+					</item_dismantle_target_2>
+				</labels>
+				<popup>
+					<tab_gem_enchant>
+						<eng>Enhance Essence\nAllows you to enhance the potency of an Essence by merging it with an another essence. The result depends on how strong the enhancer essence is compared to the improved one. Epic essences can be merged with another epic essence only.</eng>
+					</tab_gem_enchant>
+					<tab_gem_combine>
+						<eng>Combine Essence\nCombining two different types of Essence may produce a new, more potent Essence. However, not all combinations have usable results.</eng>
+					</tab_gem_combine>
+					<tab_item_enchant>
+						<eng>Enchant item\nInfusing an item with an Essence will apply its magical properties to that item.</eng>
+					</tab_item_enchant>
+					<tab_item_dismantle>
+						<eng>Dismantle item\nSeparates an item from any Essences it was previously infused with or separates previously fused Essences. Both the item and the essences survive.</eng>
+					</tab_item_dismantle>
+					<gem_enchant_source_1>
+						<eng>Place the Essence you want to Enhance into this slot.</eng>
+					</gem_enchant_source_1>
+					<gem_enchant_source_2>
+						<eng>Place the Essence you want to use to Enhance another one into this slot.</eng>
+					</gem_enchant_source_2>
+					<gem_enchant_target>
+						<eng>You can see the Enhanced Essence in this slot.</eng>
+					</gem_enchant_target>
+					<gem_combine_source_1>
+						<eng>Place one of the Essences you want to combine into this slot.</eng>
+					</gem_combine_source_1>
+					<gem_combine_source_2>
+						<eng>Place one of the Essences you want to combine into this slot.</eng>
+					</gem_combine_source_2>
+					<gem_combine_target>
+						<eng>If the two selected Essences can be combined, their product will be in this slot.</eng>
+					</gem_combine_target>
+					<item_enchant_source_1>
+						<eng>Place the item you want to infuse with an Essence into this slot.</eng>
+					</item_enchant_source_1>
+					<item_enchant_source_2>
+						<eng>Place the Essence you want to use into this slot.</eng>
+					</item_enchant_source_2>
+					<item_enchant_target>
+						<eng>You can see the infused item in this slot.</eng>
+					</item_enchant_target>
+					<item_dismantle_source_1>
+						<eng>Place the item you want to dismantle into this slot.</eng>
+					</item_dismantle_source_1>
+					<item_dismantle_target>
+						<eng>You can see the item which has had its Essences removed in this slot.</eng>
+					</item_dismantle_target>
+				</popup>
+			</AlchemyWindow>
+			<EnchantWindow>
+				<title>
+					<eng>Enchant</eng>
+				</title>
+				<enchant>
+					<label>
+						<eng>Enchant</eng>
+					</label>
+					<popup>
+						<eng>Applies a random Enchantment to the selected item.</eng>
+					</popup>
+				</enchant>
+				<disenchant>
+					<label>
+						<eng>Disenchant</eng>
+					</label>
+					<popup>
+						<eng>Removes all Enchantments from the selected item. (Except for those that were on the item when you found it and those that come from Essences.)</eng>
+					</popup>
+				</disenchant>
+				<cant_enchant>
+					<no_item>
+						<eng>Select an item first!</eng>
+					</no_item>
+					<too_many_enchants>
+						<eng>This Enchanter can't put any more Enchantments on this item.</eng>
+					</too_many_enchants>
+					<no_enchants>
+						<eng>You need to put an Enchantment on an item before you can remove it...</eng>
+					</no_enchants>
+					<not_enough_gold>
+						<eng>You don't have enough gold for this action!</eng>
+					</not_enough_gold>
+					<essence_capacity_overload>
+						<eng>Removing these Enchantments would make the item's Essence usage go over its Essence Capacity! You need to remove the Essences first in a Laboratory!</eng>
+					</essence_capacity_overload>
+				</cant_enchant>
+				<EnchantCount>
+					<eng>Enchant Count</eng>
+				</EnchantCount>
+				<MaxEnchantCount>
+					<eng>Max Enchant Count</eng>
+				</MaxEnchantCount>
+				<enchant_cost>
+					<eng>Enchant cost</eng>
+				</enchant_cost>
+				<disenchant_cost>
+					<eng>Disenchant cost</eng>
+				</disenchant_cost>
+			</EnchantWindow>
+			<ArtifactForgeWindow>
+				<title>
+					<eng>Artifact Forge</eng>
+				</title>
+				<forge>
+					<label>
+						<eng>Forge</eng>
+					</label>
+					<popup>
+						<eng>Forge the items together!</eng>
+					</popup>
+				</forge>
+				<normal>
+					<label>
+						<eng>Normal</eng>
+					</label>
+					<popup>
+						<eng>Fuse two items of the same same quailty into a third one. The newly created item will be appropriate to your level, keep half of its enchantments and inherit some echantments from the other two base items.</eng>
+					</popup>
+					<source>
+						<label>
+							<eng>Source</eng>
+						</label>
+						<popup>
+							<eng>The source items are destroyed in the forging process but their enchantments may randomly be transferred to the forged item. Enchantments that appear on both source items have a significantly higher chance of appearing on the new one.</eng>
+						</popup>
+					</source>
+					<target>
+						<label>
+							<eng>Forged Item</eng>
+						</label>
+						<popup>
+							<eng>The item in this slot will randomly lose half of its enchantments but it will inherit randomly chosen enchantments from the source items.</eng>
+						</popup>
+					</target>
+				</normal>
+				<epic>
+					<label>
+						<eng>Epic</eng>
+					</label>
+					<popup>
+						<eng>Sacrifice two items of great power of the same quailty to receive a new one of the same quality appropriate to your level.</eng>
+					</popup>
+					<source>
+						<label>
+							<eng>Source</eng>
+						</label>
+						<popup>
+							<eng>The source items are destroyed in the forging process but you will gain a new, level appropriate item of the same rarity.</eng>
+						</popup>
+					</source>
+					<target>
+						<label>
+							<eng>Forged Item</eng>
+						</label>
+						<popup>
+							<eng>The newly forged item will appear on this slot.</eng>
+						</popup>
+					</target>
+				</epic>
+				<CantCreateArtifact>
+					<eng>Sorry, but there's no valid item for this particular trio of ingredients.</eng>
+				</CantCreateArtifact>
+				<CantCreateArtifactDEBUG>
+					<eng>Sorry, but there's no valid item for this particular trio of ingredients.\nType: %s, Subtype: %s\nLevel: %d, Minimum cost: %d, Maximum cost: %d</eng>
+				</CantCreateArtifactDEBUG>
+				<TooFewEnchantments>
+					<eng>Sorry, but there wasn't enough available enchantments for the new item.</eng>
+				</TooFewEnchantments>
+				<TooFewEnchantmentsDEBUG>
+					<eng>Sorry, but there wasn't enough available enchantments for the new item.\nLevel: %d\nAverage Enchant Cost: %f\nIntended count: %d\nActual count: %d</eng>
+				</TooFewEnchantmentsDEBUG>
+			</ArtifactForgeWindow>
+			<LairGeneratorWindow>
+				<title>
+					<eng>Generator</eng>
+				</title>
+				<build>
+					<label>
+						<eng>Build</eng>
+					</label>
+					<popup>
+						<eng>Builds the currently selected upgrade for your Generator.</eng>
+					</popup>
+				</build>
+				<GeneratorUpgrades>
+					<label>
+						<eng>Generator Upgrades</eng>
+					</label>
+				</GeneratorUpgrades>
+				<ForgeUpgrades>
+					<label>
+						<eng>Artifact Forge Upgrades</eng>
+					</label>
+				</ForgeUpgrades>
+				<AlchemyUpgrades>
+					<label>
+						<eng>Laboratory Upgrades</eng>
+					</label>
+				</AlchemyUpgrades>
+				<GeneratorCapacity>
+					<label>
+						<eng>Generator Capacity</eng>
+					</label>
+				</GeneratorCapacity>
+				<goldcost>
+					<eng>Gold cost</eng>
+				</goldcost>
+				<capacityrequirement>
+					<eng>Generator usage</eng>
+				</capacityrequirement>
+				<itemrequired>
+					<eng>To build this upgrade, you will need the following item</eng>
+				</itemrequired>
+				<upgraderequired>
+					<eng>To build this upgrade, you will need the following Generator Upgrade</eng>
+				</upgraderequired>
+				<upgrade>
+					<generator_base>
+						<name>
+							<eng>Common Enhancer</eng>
+						</name>
+						<desc>
+							<eng>Increases the Capacity of the Generator by 30 points.</eng>
+						</desc>
+					</generator_base>
+					<generator_basic>
+						<name>
+							<eng>Improved Magnifier</eng>
+						</name>
+						<desc>
+							<eng>Increases the Capacity of the Generator by 30 points.</eng>
+						</desc>
+					</generator_basic>
+					<generator_advanced>
+						<name>
+							<eng>Absolute Accumulator</eng>
+						</name>
+						<desc>
+							<eng>Increases the Capacity of the Generator by 50 points.</eng>
+						</desc>
+					</generator_advanced>
+					<forge_type_slot>
+						<name>
+							<eng>Arcane Appliance</eng>
+						</name>
+						<desc>
+							<eng>Enables a new slot in the Artifact Forge, enabling you to set the exact type of item you are forging.</eng>
+						</desc>
+					</forge_type_slot>
+					<forge_enchant_count_slot>
+						<name>
+							<eng>Essential Transformer</eng>
+						</name>
+						<desc>
+							<eng>Enables a new slot in the Artifact Forge, enabling you to set the exact number of enchantments on the item you are forging.</eng>
+						</desc>
+					</forge_enchant_count_slot>
+					<forge_boost>
+						<name>
+							<eng>Thaumaturgic Turbine</eng>
+						</name>
+						<desc>
+							<eng>Makes forged items and their enchantments more powerful.</eng>
+						</desc>
+					</forge_boost>
+					<alchemy_essence_enhance_discount>
+						<name>
+							<eng>Universal Purifier</eng>
+						</name>
+						<desc>
+							<eng>Halves the cost of Enhancing Essences.</eng>
+						</desc>
+					</alchemy_essence_enhance_discount>
+					<alchemy_item_dismantle_discount>
+						<name>
+							<eng>Athanor</eng>
+						</name>
+						<desc>
+							<eng>Halves the cost of removing Essences from items.</eng>
+						</desc>
+					</alchemy_item_dismantle_discount>
+					<alchemy_item_enchant_discount>
+						<name>
+							<eng>Athanor DeLuxe</eng>
+						</name>
+						<desc>
+							<eng>Halves the cost of Enchanting items with Essences.</eng>
+						</desc>
+					</alchemy_item_enchant_discount>
+				</upgrade>
+			</LairGeneratorWindow>
+			<RespawnWindow>
+				<title>
+					<eng>Respawn</eng>
+				</title>
+				<respawn_here>
+					<eng>Respawn here!</eng>
+				</respawn_here>
+				<respawn_checkpoint>
+					<eng>Respawn at nearest checkpoint!</eng>
+				</respawn_checkpoint>
+				<respawn_town>
+					<eng>Respawn in %s!</eng>
+				</respawn_town>
+				<cost>
+					<eng>Cost:</eng>
+				</cost>
+				<respawn>
+					<eng>Respawn</eng>
+				</respawn>
+			</RespawnWindow>
+			<ResetSkillWindow>
+				<title>
+					<eng>Reset Skill Points</eng>
+				</title>
+				<cost>
+					<eng>1 Skill Point costs:</eng>
+				</cost>
+				<totalcost>
+					<eng>Total Cost:</eng>
+				</totalcost>
+				<description>
+					<eng>You can take back your spent skill points here, one by one. Use the “-“ to regain skill points, right click on powerups unlearn them.</eng>
+				</description>
+				<ask_before_close>
+					<eng>Would you like to finalize your changes before you quit?</eng>
+				</ask_before_close>
+				<Reset>
+					<eng>Reset</eng>
+				</Reset>
+			</ResetSkillWindow>
+			<ResetAbilityWindow>
+				<title>
+					<eng>Reset Ability Points</eng>
+				</title>
+				<cost>
+					<eng>1 Ability Point costs:</eng>
+				</cost>
+				<totalcost>
+					<eng>Total Cost:</eng>
+				</totalcost>
+				<description>
+					<eng>You can take back your spent ability points here, one by one. Use the “-“ to regain them.</eng>
+				</description>
+				<ask_before_close>
+					<eng>Would you like to finalize your changes before you quit?</eng>
+				</ask_before_close>
+				<Reset>
+					<eng>Reset</eng>
+				</Reset>
+			</ResetAbilityWindow>
+			<ResetKatarinaWindow>
+				<title>
+					<eng>Reset Katarina</eng>
+				</title>
+				<totalcost>
+					<eng>Reset Cost:</eng>
+				</totalcost>
+				<description>
+					<eng>You can take back spent ability and skill points of Lady Katarina here, all at once.</eng>
+				</description>
+				<ask_before_close>
+					<eng>Would you like to finalize your changes before you quit?</eng>
+				</ask_before_close>
+				<Reset>
+					<eng>Reset</eng>
+				</Reset>
+			</ResetKatarinaWindow>
+			<TrophyDisplay>
+				<label>
+					<eng>Trophy Display</eng>
+				</label>
+				<worldeffects>
+					<eng>World Effects:</eng>
+				</worldeffects>
+				<removeitem>
+					<eng>To Hero</eng>
+				</removeitem>
+				<removeitem_pet>
+					<eng>To Companion</eng>
+				</removeitem_pet>
+			</TrophyDisplay>
+			<PowerupCombo>
+				<label>
+					<eng>Powerup Combos</eng>
+				</label>
+			</PowerupCombo>
+			<Interaction>
+				<endgame_key_shop>
+					<name>
+						<eng>Key Shop</eng>
+					</name>
+				</endgame_key_shop>
+				<gamble>
+					<name>
+						<eng>Gamble</eng>
+					</name>
+				</gamble>
+				<Shop>
+					<name>
+						<eng>Store</eng>
+					</name>
+				</Shop>
+				<talk>
+					<name>
+						<eng>Quest</eng>
+					</name>
+				</talk>
+				<alchemy>
+					<name>
+						<eng>Laboratory</eng>
+					</name>
+				</alchemy>
+				<trainer>
+					<name>
+						<eng>Learn</eng>
+					</name>
+				</trainer>
+				<enchant>
+					<name>
+						<eng>Enchant item</eng>
+					</name>
+				</enchant>
+				<reset_ability>
+					<name>
+						<eng>Reset ability points</eng>
+					</name>
+				</reset_ability>
+				<reset_skill>
+					<name>
+						<eng>Reset skill points</eng>
+					</name>
+				</reset_skill>
+				<reset_katarina>
+					<name>
+						<eng>Reset Katarina</eng>
+					</name>
+				</reset_katarina>
+				<trophy_display>
+					<name>
+						<eng>Trophy Display</eng>
+					</name>
+				</trophy_display>
+				<artifact_forge>
+					<name>
+						<eng>Artifact Forge</eng>
+					</name>
+				</artifact_forge>
+				<trapshop>
+					<name>
+						<eng>Place Traps</eng>
+					</name>
+				</trapshop>
+				<traplearn>
+					<name>
+						<eng>Research Traps</eng>
+					</name>
+				</traplearn>
+				<resurrect>
+					<name>
+						<eng>Resurrect</eng>
+					</name>
+				</resurrect>
+				<inspect>
+					<name>
+						<eng>Inspect</eng>
+					</name>
+				</inspect>
+				<trade>
+					<name>
+						<eng>Trade</eng>
+					</name>
+				</trade>
+				<lair_generator>
+					<name>
+						<eng>Generator Improvements</eng>
+					</name>
+				</lair_generator>
+			</Interaction>
+			<HeroicDeeds>
+				<title>
+					<eng>Achievements</eng>
+				</title>
+				<upgrades>
+					<eng>Glory</eng>
+					<popup>
+						<eng>Killing monsters during Adventures will continuously raise your Glory Pool. When your Glory Pool reaches a certain point, you’ll gain a new Glory Level and get 2 Glory points. You can allocate these Glory points among various bonuses. These bonuses apply to your whole account and all your characters can benefit from them. Each bonus has 15 levels: learning the first 5 levels costs 1 Glory point / level; levels 5-10 will cost 2 Glory points / level, and last 5 levels will cost 3 Glory points / level.</eng>
+					</popup>
+				</upgrades>
+				<page>
+					<combat>
+						<eng>Combat</eng>
+					</combat>
+					<resources>
+						<eng>Resources</eng>
+					</resources>
+					<elementalism>
+						<eng>Elementalism</eng>
+					</elementalism>
+					<survival>
+						<eng>Survival</eng>
+					</survival>
+				</page>
+				<HeroicPoints>
+					<eng>Heroic Points</eng>
+				</HeroicPoints>
+				<HeroicBuffs>
+					<eng>Heroic Boons</eng>
+				</HeroicBuffs>
+				<HeroicDeeds>
+					<eng>Achievements</eng>
+				</HeroicDeeds>
+				<Accept>
+					<Popup>
+						<eng>Accepting the current settings will finalize them and you won't be able to revert them later.</eng>
+					</Popup>
+				</Accept>
+				<Cancel>
+					<Popup>
+						<eng>Clicking on this button will revert all changes you've done in this window.</eng>
+					</Popup>
+				</Cancel>
+			</HeroicDeeds>
+			<HeroicDeedsWindow>
+				<label>
+					<eng>Achievements</eng>
+				</label>
+				<ScenarioXP>
+					<eng>Glory</eng>
+				</ScenarioXP>
+				<ScenarioRank>
+					<eng>Rank</eng>
+				</ScenarioRank>
+				<AvailablePoints>
+					<eng>Available Glory Points</eng>
+				</AvailablePoints>
+				<ScenarioLevelLimitReached>
+					<eng>Glory Limit Reached</eng>
+				</ScenarioLevelLimitReached>
+			</HeroicDeedsWindow>
+			<TradeWindow>
+				<changeincrement>
+					<eng>Change increment</eng>
+				</changeincrement>
+			</TradeWindow>
+			<Journal>
+				<title>
+					<eng>Journal</eng>
+				</title>
+				<Active>
+					<label>
+						<eng>Active Quests</eng>
+					</label>
+				</Active>
+				<Finished>
+					<label>
+						<eng>Completed Quests</eng>
+					</label>
+				</Finished>
+				<Chapter1>
+					<name>
+						<eng>Chapter I - The road to Borgova</eng>
+					</name>
+				</Chapter1>
+				<Chapter2>
+					<name>
+						<eng>Chapter II - City of Monsters and Machines</eng>
+					</name>
+				</Chapter2>
+				<Chapter3>
+					<name>
+						<eng>Chapter III - The Fatal Confrontation</eng>
+					</name>
+				</Chapter3>
+				<Reward>
+					<label>
+						<eng>Rewards:</eng>
+					</label>
+					<Popup>
+						<eng>These are the rewards you will receive for completing this quest.</eng>
+					</Popup>
+					<SkillPoint>
+						<eng>%d Skill Points</eng>
+					</SkillPoint>
+					<SkillPointKatarina>
+						<eng>%d Skill Points for Lady Katarina</eng>
+					</SkillPointKatarina>
+					<AbilityPoint>
+						<eng>%d Ability Points</eng>
+					</AbilityPoint>
+					<RandomArtifact>
+						<eng>%s Artifact</eng>
+					</RandomArtifact>
+					<Artifact_Normal>
+						<eng>Normal</eng>
+					</Artifact_Normal>
+					<Artifact_Magic>
+						<eng>Magic</eng>
+					</Artifact_Magic>
+					<Artifact_Rare>
+						<eng>Rare</eng>
+					</Artifact_Rare>
+					<Artifact_Random>
+						<eng>Random</eng>
+					</Artifact_Random>
+				</Reward>
+				<XP>
+					<label>
+						<eng>XP</eng>
+					</label>
+					<Popup>
+						<eng>The number of Experience Points you will receive for completing this quest.</eng>
+					</Popup>
+				</XP>
+				<Gold>
+					<label>
+						<eng>Gold</eng>
+					</label>
+					<Popup>
+						<eng>The amount of Gold you will receive for completing this quest.</eng>
+					</Popup>
+				</Gold>
+				<QuestCompleted>
+					<eng>Quest Completed!</eng>
+				</QuestCompleted>
+				<QuestFailed>
+					<eng>Quest Failed!</eng>
+				</QuestFailed>
+				<Reward>
+					<RandomArtifactFormatted>
+						<eng>$RARITY$ $TYPE$</eng>
+					</RandomArtifactFormatted>
+				</Reward>
+			</Journal>
+			<Progress>
+				<Identify>
+					<eng>Identifying...</eng>
+				</Identify>
+				<Portal>
+					<eng>Teleporting...</eng>
+				</Portal>
+				<Resurrect>
+					<eng>Resurrecting...</eng>
+				</Resurrect>
+				<Resurrected>
+					<eng>Being resurrected...</eng>
+				</Resurrected>
+			</Progress>
+			<TrainerWindow>
+				<title>
+					<eng>Training</eng>
+				</title>
+				<Auras>
+					<eng>Auras to learn</eng>
+				</Auras>
+				<Buffs>
+					<eng>Tricks to learn</eng>
+				</Buffs>
+			</TrainerWindow>
+			<map>
+				<terep_falu>
+					<name>
+						<eng>Markovna</eng>
+					</name>
+				</terep_falu>
+				<terep_falu_ejjel>
+					<name>
+						<eng>Markovna</eng>
+					</name>
+				</terep_falu_ejjel>
+				<terep>
+					<name>
+						<eng>Gorgon Pass</eng>
+					</name>
+				</terep>
+				<terep_fenyves>
+					<name>
+						<eng>Croakwood</eng>
+					</name>
+				</terep_fenyves>
+				<terep_ink_scarecrow>
+					<name>
+						<eng>Ominous Scarecrow</eng>
+					</name>
+				</terep_ink_scarecrow>
+				<terep_werewolf_odu>
+					<name>
+						<eng>Werewolf Den</eng>
+					</name>
+				</terep_werewolf_odu>
+				<terep_Ink_in_the_Well>
+					<name>
+						<eng>Ink Rift</eng>
+					</name>
+				</terep_Ink_in_the_Well>
+				<terep_nagyerdo>
+					<name>
+						<eng>Gallowsbog</eng>
+					</name>
+				</terep_nagyerdo>
+				<terep_start_priest>
+					<name>
+						<eng>Gorgon Pass</eng>
+					</name>
+				</terep_start_priest>
+				<terep_cave>
+					<name>
+						<eng>Orichalcum Mines</eng>
+					</name>
+				</terep_cave>
+				<terep_cave_boss>
+					<name>
+						<eng>Hauling Station</eng>
+					</name>
+				</terep_cave_boss>
+				<terep_gyarnegyed>
+					<name>
+						<eng>Dreadworks</eng>
+					</name>
+				</terep_gyarnegyed>
+				<terep_lair>
+					<name>
+						<eng>Secret Lair</eng>
+					</name>
+				</terep_lair>
+				<terep_viztisztito_1>
+					<name>
+						<eng>Rookery</eng>
+					</name>
+				</terep_viztisztito_1>
+				<terep_viztisztito_1_ejjel>
+					<name>
+						<eng>Rookery</eng>
+					</name>
+				</terep_viztisztito_1_ejjel>
+				<terep_viztisztito_2>
+					<name>
+						<eng>Sewage Plant</eng>
+					</name>
+				</terep_viztisztito_2>
+				<terep_viztisztito_3>
+					<name>
+						<eng>Industrial Port</eng>
+					</name>
+				</terep_viztisztito_3>
+				<terep_viztisztito_3_ejjel>
+					<name>
+						<eng>Industrial Port</eng>
+					</name>
+				</terep_viztisztito_3_ejjel>
+				<terep_gasmachine>
+					<name>
+						<eng>Old Tunnels</eng>
+					</name>
+				</terep_gasmachine>
+				<terep_ink_monsta>
+					<name>
+						<eng>Lost Place</eng>
+					</name>
+				</terep_ink_monsta>
+				<terep_ink_Beggarking>
+					<name>
+						<eng>The Hideout</eng>
+					</name>
+				</terep_ink_Beggarking>
+				<terep_csatorna_kiserletitelep>
+					<name>
+						<eng>Abandoned Research Station</eng>
+					</name>
+				</terep_csatorna_kiserletitelep>
+				<terep_Belvaros>
+					<name>
+						<eng>The Old Town</eng>
+					</name>
+				</terep_Belvaros>
+				<terep_ink_choice1>
+					<name>
+						<eng>Flickering Lights</eng>
+					</name>
+				</terep_ink_choice1>
+				<terep_ink_choice2>
+					<name>
+						<eng>Great Ones</eng>
+					</name>
+				</terep_ink_choice2>
+				<terep_ink_choice3>
+					<name>
+						<eng>Lost and Found</eng>
+					</name>
+				</terep_ink_choice3>
+				<terep_ink_szobor>
+					<name>
+						<eng>The Statue</eng>
+					</name>
+				</terep_ink_szobor>
+				<terep_csatorna_tudos>
+					<name>
+						<eng>Secret Laboratory</eng>
+					</name>
+				</terep_csatorna_tudos>
+				<terep_ink4>
+					<name>
+						<eng>The Pocket Realm</eng>
+					</name>
+				</terep_ink4>
+				<terep_tetok>
+					<name>
+						<eng>The Gables</eng>
+					</name>
+				</terep_tetok>
+				<terep_tetok2>
+					<name>
+						<eng>Rooftop Mayhem</eng>
+					</name>
+				</terep_tetok2>
+				<terep_final_boss>
+					<name>
+						<eng>Palace of Machines</eng>
+					</name>
+				</terep_final_boss>
+				<scenario_Lair>
+					<name>
+						<eng>Secret Lair</eng>
+					</name>
+				</scenario_Lair>
+				<scenario_nagyerdo>
+					<name>
+						<eng>Gallowsbog</eng>
+					</name>
+					<desc>
+						<eng>All those shambling shadows in the woods! If someone could destroy them without shedding a drop of his blood... then this someone could feast mightily at the gluttonous statue.</eng>
+					</desc>
+				</scenario_nagyerdo>
+				<scenario_cave>
+					<name>
+						<eng>Orichalcum Mines</eng>
+					</name>
+					<desc>
+						<eng>Be the quickest scavenger of the caves. You have 15 minutes to find all the bodies and all the loot: your reward will be a grandiose battle behind a secret door, then something even more material.</eng>
+					</desc>
+				</scenario_cave>
+				<scenario_cave_boss>
+					<name>
+						<eng>Hauling Station</eng>
+					</name>
+				</scenario_cave_boss>
+				<scenario_fenyves>
+					<name>
+						<eng>Croakwood</eng>
+					</name>
+					<desc>
+						<eng>Are you ready to eliminate all the champions and all the puny critters without leaving the halfway mark on the road that leads to death?  If the answer is yes, do it, then hurry to the place where even the birds don’t dare to go.</eng>
+					</desc>
+				</scenario_fenyves>
+				<scenario_ink_scarecrow>
+					<name>
+						<eng>Ominous Scarecrow</eng>
+					</name>
+				</scenario_ink_scarecrow>
+				<scenario_viztisztito_1>
+					<name>
+						<eng>Rookery</eng>
+					</name>
+					<desc>
+						<eng>Destroy all of the nasties, the biggest and the smallest and don’t let your soul slip away from your mortal body, not even once. Wade knee-deep among the critters, find the thing that goes kaboom, put it on the grille, and a door opens to a secret place.</eng>
+					</desc>
+				</scenario_viztisztito_1>
+				<scenario_gasmachine>
+					<name>
+						<eng>Old Tunnels</eng>
+					</name>
+				</scenario_gasmachine>
+				<scenario_gyarnegyed>
+					<name>
+						<eng>Dreadworks</eng>
+					</name>
+					<desc>
+						<eng>Pollution is bad. All those bubbling chemicals seeping into Borgovian soil! A kind soul would blow up everything filled with poison. That will make some mighty minions very angry, though. But sometimes you are rewarded for such heroic deeds.</eng>
+					</desc>
+				</scenario_gyarnegyed>
+				<scenario_ink4>
+					<name>
+						<eng>The Pocket Realm</eng>
+					</name>
+					<desc>
+						<eng>You have eight minutes, hunter, to defeat them all, the biggest and the smallest alike. If you do so, go to the heart of the realm and meet the mysterious lords who will have words with you.</eng>
+					</desc>
+				</scenario_ink4>
+				<battle_royal_fenyves>
+					<name>
+						<eng>Croakwood</eng>
+					</name>
+				</battle_royal_fenyves>
+				<battle_royal_ink4>
+					<name>
+						<eng>The Pocket Realm</eng>
+					</name>
+				</battle_royal_ink4>
+			</map>		
+			<pointofnoreturn>
+				<eng>Once you go through here, you won’t be able to return to this part of the world. You should finish any open quests before you enter. Do you wish to continue?</eng>
+			</pointofnoreturn>
+		</GUI>
+		<GameObject>
+			<Chest>
+				<TreasureChest>
+					<eng>Old Crate</eng>
+				</TreasureChest>
+				<VH_chest_01>
+					<eng>Treasure Chest</eng>
+				</VH_chest_01>
+				<VH_chest_02>
+					<eng>Treasure Chest</eng>
+				</VH_chest_02>
+				<Bandit_Corpse>
+					<eng>Corpse</eng>
+				</Bandit_Corpse>
+				<Dreadknecht_corps>
+					<eng>Dreadknecht Husk</eng>
+				</Dreadknecht_corps>
+				<Dreadknecht_corps_pokos>
+					<eng>Dreadknecht Husk</eng>
+				</Dreadknecht_corps_pokos>
+				<vrikolak_corps>
+					<eng>Vrikolak Corpse</eng>
+				</vrikolak_corps>
+				<rebel_corpse>
+					<eng>Rebel Corpse</eng>
+				</rebel_corpse>
+				<hordo_vasalt_normal1>
+					<eng>Barrel</eng>
+				</hordo_vasalt_normal1>
+				<hordo_vasalt_normal2>
+					<eng>Sturdy Barrel</eng>
+				</hordo_vasalt_normal2>
+				<hordo_vasalatlan_normal1>
+					<eng>Plain Barrel</eng>
+				</hordo_vasalatlan_normal1>
+				<doboz1>
+					<eng>Wooden Box</eng>
+				</doboz1>
+				<doboz2>
+					<eng>Crate</eng>
+				</doboz2>
+				<doboz3>
+					<eng>Large Crate</eng>
+				</doboz3>
+				<contener>
+					<eng>Container</eng>
+				</contener>
+				<vegyszeres_tartaly_kek>
+					<eng>Chemical Tank</eng>
+				</vegyszeres_tartaly_kek>
+				<vegyszeres_tartaly_voros>
+					<eng>Chemical Tank</eng>
+				</vegyszeres_tartaly_voros>
+				<vegyszeres_tartaly_zold>
+					<eng>Chemical Tank</eng>
+				</vegyszeres_tartaly_zold>
+				<rat_corpse>
+					<eng>Rat Corpse</eng>
+				</rat_corpse>
+				<Domovoy_Corpse>
+					<eng>Domovoy Corpse</eng>
+				</Domovoy_Corpse>
+				<BR_chest1>
+					<eng>Locked Treasure Chest</eng>
+				</BR_chest1>
+			</Chest>
+			<Door>
+				<eng>Door</eng>
+				<KeyRequired>
+					<eng>Required Key</eng>
+				</KeyRequired>
+			</Door>
+			<Info>
+				<signpost_start_1>
+					<eng>Markovna\nBorgova</eng>
+				</signpost_start_1>
+				<signpost_fenyves_1>
+					<eng>Markovna\nForest</eng>
+				</signpost_fenyves_1>
+				<signpost_falu_1>
+					<eng>Croakwood\nGallowsbog</eng>
+				</signpost_falu_1>
+				<statue_hidden_treasure>
+					<eng>Lion Statue</eng>
+				</statue_hidden_treasure>
+				<halaskofa_bode>
+					<eng>Fish Stall</eng>
+				</halaskofa_bode>				
+				<hirdetotabla>
+					<eng>Message Board</eng>
+				</hirdetotabla>
+				<excalibur>
+					<eng>Sword in the stone</eng>
+				</excalibur>
+				<WishingWell>
+					<eng>Wishing Well</eng>
+				</WishingWell>
+				<kopjafa>
+					<eng>Werewolf Totem Pole</eng>
+				</kopjafa>
+				<Runestone_1>
+					<eng>Runestone</eng>
+				</Runestone_1>
+				<Runestone_2>
+					<eng>Runestone</eng>
+				</Runestone_2>
+				<Runestone_3>
+					<eng>Runestone</eng>
+				</Runestone_3>
+				<Runestone_4>
+					<eng>Runestone</eng>
+				</Runestone_4>
+				<Runestone_5>
+					<eng>Runestone</eng>
+				</Runestone_5>
+				<Runestone_6>
+					<eng>Runestone</eng>
+				</Runestone_6>
+				<Runestone_7>
+					<eng>Runestone</eng>
+				</Runestone_7>
+				<Runestone_8>
+					<eng>Runestone</eng>
+				</Runestone_8>
+				<Runestone_9>
+					<eng>Runestone</eng>
+				</Runestone_9>
+				<Runestone_10>
+					<eng>Runestone</eng>
+				</Runestone_10>
+				<Runestone_11>
+					<eng>Runestone</eng>
+				</Runestone_11>
+				<Runestone_12>
+					<eng>Runestone</eng>
+				</Runestone_12>
+				<Runestone_13>
+					<eng>Runestone</eng>
+				</Runestone_13>
+				<Runestone_14>
+					<eng>Runestone</eng>
+				</Runestone_14>
+				<Runestone_15>
+					<eng>Runestone</eng>
+				</Runestone_15>
+				<RedButton>
+					<eng>Red Button</eng>
+				</RedButton>
+				<stoneidol>
+					<eng>Great Gluttoner Idol</eng>
+				</stoneidol>
+				<Beka_Nagy>
+					<eng>Giant Frog Statue</eng>
+				</Beka_Nagy>
+				<Beka_1>
+					<eng>Frog statue</eng>
+				</Beka_1>
+				<Beka_2>
+					<eng>Frog statue</eng>
+				</Beka_2>
+				<Beka_3>
+					<eng>Frog statue</eng>
+				</Beka_3>
+				<Beka_4>
+					<eng>Frog statue</eng>
+				</Beka_4>
+				<borislav_alap>
+					<eng>King Borislav</eng>
+				</borislav_alap>
+				<aramtermelo>
+					<eng>Electrostatic Discharge Apparatus</eng>
+				</aramtermelo>
+				<Rusty_bomb_1>
+					<eng>Rusty Bomb</eng>
+				</Rusty_bomb_1>
+				<Rusty_bomb_2>
+					<eng>Rusty Bomb</eng>
+				</Rusty_bomb_2>
+				<Rusty_bomb_3>
+					<eng>Rusty Bomb</eng>
+				</Rusty_bomb_3>
+				<Rusty_bomb_4>
+					<eng>Rusty Bomb</eng>
+				</Rusty_bomb_4>
+				<Rusty_bomb_5>
+					<eng>Rusty Bomb</eng>
+				</Rusty_bomb_5>
+				<Rusty_bomb_explosive_1>
+					<eng>Rusty Bomb</eng>
+				</Rusty_bomb_explosive_1>
+				<Rusty_bomb_explosive_2>
+					<eng>Rusty Bomb</eng>
+				</Rusty_bomb_explosive_2>
+				<Rusty_bomb_explosive_3>
+					<eng>Rusty Bomb</eng>
+				</Rusty_bomb_explosive_3>
+				<Rusty_bomb_explosive_4>
+					<eng>Rusty Bomb</eng>
+				</Rusty_bomb_explosive_4>
+				<Rusty_bomb_explosive_5>
+					<eng>Rusty Bomb</eng>
+				</Rusty_bomb_explosive_5>
+				<terep_falu>
+					<waypoint_falu>
+						<eng>Village Square</eng>
+					</waypoint_falu>
+				</terep_falu>
+				<terep_fenyves>
+					<waypoint_fenyves>
+						<eng>Romany Camp</eng>
+					</waypoint_fenyves>
+				</terep_fenyves>
+				<terep_nagyerdo>
+					<nagyerdo_waypoint_1>
+						<eng>South</eng>
+					</nagyerdo_waypoint_1>
+					<nagyerdo_waypoint_2>
+						<eng>North</eng>
+					</nagyerdo_waypoint_2>
+				</terep_nagyerdo>
+				<terep_cave>
+					<banya_waypoint>
+						<eng>Entrance</eng>
+					</banya_waypoint>
+				</terep_cave>
+				<terep_gyarnegyed>
+					<Waypoint_Dreadworks>
+						<eng>Main Square</eng>
+					</Waypoint_Dreadworks>
+				</terep_gyarnegyed>
+				<terep_lair>
+					<Waypoint_Lair>
+						<eng>Lair</eng>
+					</Waypoint_Lair>
+				</terep_lair>
+				<terep_viztisztito_1>
+					<Waypoint_Viztisztito1>
+						<eng>Lookout</eng>
+					</Waypoint_Viztisztito1>
+				</terep_viztisztito_1>
+				<terep_viztisztito_2>
+					<Waypoint_Viztisztito2_1>
+						<eng>Crooked House</eng>
+					</Waypoint_Viztisztito2_1>
+					<Waypoint_Viztisztito2_2>
+						<eng>Gloom Alley</eng>
+					</Waypoint_Viztisztito2_2>
+				</terep_viztisztito_2>
+				<terep_csatorna_kiserletitelep>
+					<Ink_gate_kt>
+						<eng>Generator Hallway</eng>
+					</Ink_gate_kt>					
+				</terep_csatorna_kiserletitelep>
+				<terep_viztisztito_3>
+					<Waypoint_Viztisztito3>
+						<eng>Pier 13</eng>
+					</Waypoint_Viztisztito3>
+				</terep_viztisztito_3>
+				<terep_viztisztito_3_ejjel>
+					<Waypoint_vizt3_night>
+						<eng>Pier 13</eng>
+					</Waypoint_vizt3_night>
+				</terep_viztisztito_3_ejjel>
+				<terep_Belvaros>
+					<Waypoint_Belvaros_1>
+						<eng>Moat</eng>
+					</Waypoint_Belvaros_1>
+					<Waypoint_Belvaros_2>
+						<eng>Museum</eng>
+					</Waypoint_Belvaros_2>
+				</terep_Belvaros>
+				<terep_tetok>
+					<Waypoint_tetok>
+						<eng>Rooftop Garden</eng>
+					</Waypoint_tetok>
+				</terep_tetok>
+				<terep_tetok2>
+					<Waypoint_tetok2>
+						<eng>Observation Point</eng>
+					</Waypoint_tetok2>
+				</terep_tetok2>
+				<scenario_Lair>
+					<Waypoint_Lair>
+						<eng>Central Hall</eng>
+					</Waypoint_Lair>
+				</scenario_Lair>
+				<scenario_nagyerdo>
+					<nagyerdo_waypoint_1>
+						<eng>Level 32</eng>
+					</nagyerdo_waypoint_1>
+				</scenario_nagyerdo>
+				<scenario_cave>
+					<banya_waypoint>
+						<eng>Level 31</eng>
+					</banya_waypoint>
+				</scenario_cave>
+				<scenario_fenyves>
+					<waypoint_fenyves>
+						<eng>Level 33</eng>
+					</waypoint_fenyves>
+				</scenario_fenyves>
+				<scenario_viztisztito_1>
+					<Waypoint_Viztisztito1>
+						<eng>Level 33</eng>
+					</Waypoint_Viztisztito1>
+				</scenario_viztisztito_1>
+				<scenario_gyarnegyed>
+					<Waypoint_Dreadworks>
+						<eng>Level 33</eng>
+					</Waypoint_Dreadworks>
+				</scenario_gyarnegyed>
+				<scenario_ink4>
+					<waypoint_ink4scenario>
+						<eng>Level 33</eng>
+					</waypoint_ink4scenario>
+				</scenario_ink4>
+				<goat_corps>
+					<eng>Goat Carcass</eng>
+				</goat_corps>
+				<Electric_machine_one>
+					<eng>Generator</eng>
+				</Electric_machine_one>
+				<Electric_machine_two>
+					<eng>Generator</eng>
+				</Electric_machine_two>
+				<Trophy_desk>
+					<eng>Trophy Desk</eng>
+				</Trophy_desk>
+				<Elevator_1>
+					<eng>Elevator</eng>
+				</Elevator_1>
+				<Elevator_2>
+					<eng>Elevator</eng>
+				</Elevator_2>
+				<Elevator_3>
+					<eng>Elevator</eng>
+				</Elevator_3>
+				<Elevator_4>
+					<eng>Elevator</eng>
+				</Elevator_4>
+				<Inventor_lift>
+					<eng>Elevator</eng>
+				</Inventor_lift>
+				<aramfejleszto1>
+					<eng>Charger</eng>
+				</aramfejleszto1>
+				<aramfejleszto2>
+					<eng>Charger</eng>
+				</aramfejleszto2>
+				<aramfejleszto3>
+					<eng>Charger</eng>
+				</aramfejleszto3>
+				<aramfejleszto4>
+					<eng>Charger</eng>
+				</aramfejleszto4>
+				<aramgyujto>
+					<eng>Elyctric Discharger</eng>
+				</aramgyujto>
+				<Eromu>
+					<eng>Generator</eng>
+				</Eromu>
+				<Outflow>
+					<eng>Outflow</eng>
+				</Outflow>
+				<Outflow2>
+					<eng>Outflow</eng>
+				</Outflow2>
+				<Bridge_machine_controller>
+					<eng>Bridge Overcharge Regulator</eng>
+				</Bridge_machine_controller>
+				<Gate_machine_button>
+					<eng>Mysterious Control Panel</eng>
+				</Gate_machine_button>
+				<Telep_controller>
+					<eng>Power Grid Control Panel</eng>
+				</Telep_controller>
+				<teleport>
+					<eng>Ink Portal</eng>
+				</teleport>
+				<secret_teleport>
+					<eng>Secret Door</eng>
+				</secret_teleport>
+				<Signal_controller>
+					<eng>Lighthouse Controls</eng>
+				</Signal_controller>
+				<swampflower>
+					<eng>Swamp Lily</eng>
+				</swampflower>
+				<Lair_map>
+					<eng>Sewers</eng>
+				</Lair_map>
+				<Second_redbutton>
+					<eng>Red Button</eng>
+				</Second_redbutton>
+				<Trap_Treasure>
+					<eng>Treasure Chest</eng>
+				</Trap_Treasure>
+				<Dangerous_generator>
+					<eng>Dangerous Generator</eng>
+				</Dangerous_generator>
+				<Fishing_place>
+					<eng>Fishing Spot</eng>
+				</Fishing_place>
+				<working_list>
+					<eng>Science Work Schedule</eng>
+				</working_list>
+				<Talapzat_2>
+					<eng>King Borislav</eng>
+				</Talapzat_2>
+				<Borislav_statue>
+					<eng>King Borislav</eng>
+				</Borislav_statue>
+				<Guard_statue_1>
+					<eng>Guardian Statue</eng>
+				</Guard_statue_1>
+				<Guard_statue_2>
+					<eng>Guardian Statue</eng>
+				</Guard_statue_2>
+				<Hirdetotabla1>
+					<eng>Advertising Column</eng>
+				</Hirdetotabla1>
+				<Hirdetotabla2>
+					<eng>Advertising Column</eng>
+				</Hirdetotabla2>
+				<Hirdetotabla3>
+					<eng>Advertising Column</eng>
+				</Hirdetotabla3>
+				<Hirdetotabla4>
+					<eng>Advertising Column</eng>
+				</Hirdetotabla4>
+				<Hirdetotabla5>
+					<eng>Advertising Column</eng>
+				</Hirdetotabla5>
+				<Hirdetotabla6>
+					<eng>Advertising Column</eng>
+				</Hirdetotabla6>
+				<Lightning_collector_1>
+					<eng>Lightning Trap</eng>
+				</Lightning_collector_1>
+				<Lightning_collector_2>
+					<eng>Lightning Trap</eng>
+				</Lightning_collector_2>
+				<Lightning_collector_3>
+					<eng>Lightning Trap</eng>
+				</Lightning_collector_3>
+				<Lightning_collector_4>
+					<eng>Lightning Trap</eng>
+				</Lightning_collector_4>
+				<Whisperer_treasure>
+					<eng>Hidden Essence Shipment</eng>
+				</Whisperer_treasure>
+				<Secret_entrance_vissza>
+					<eng></eng>
+				</Secret_entrance_vissza>
+			</Info>
+			<Poi>
+				<falu_szobor>
+					<eng>King Borislav Statue</eng>
+				</falu_szobor>
+				<fenyves_akasztofa>
+					<eng>Gallows</eng>
+				</fenyves_akasztofa>
+				<fenyves_kut>
+					<eng>Wishing Well</eng>
+				</fenyves_kut>
+				<fenyves_madarijeszto>
+					<eng>Ominous Scarecrow</eng>
+				</fenyves_madarijeszto>
+				<fenyves_labnyom>
+					<eng>Giant's Footprint</eng>
+				</fenyves_labnyom>
+				<nagyerdo_runako>
+					<eng>Runestone</eng>
+				</nagyerdo_runako>
+				<nagyedro_leghajo>
+					<eng>Experimental Airship Wreckage</eng>
+				</nagyedro_leghajo>
+				<nagyedro_beka_forg>
+					<eng>Vodyanoy Idol</eng>
+				</nagyedro_beka_forg>
+				<nagyerdo_beka_idezo>
+					<eng>Vodyanoy King Statue</eng>
+				</nagyerdo_beka_idezo>
+				<nagyerdo_beka_szaj>
+					<eng>Great Gluttoner Idol</eng>
+				</nagyerdo_beka_szaj>
+				<nagyerdo_generator>
+					<eng>Electrostatic Discharge Apparatus</eng>
+				</nagyerdo_generator>
+				<electric_fence>
+					<eng>Force Wall</eng>
+				</electric_fence>
+				<vizt1_watertank>
+					<eng>Water Tank</eng>
+				</vizt1_watertank>
+				<vizt1_kikoto>
+					<eng>Portside</eng>
+				</vizt1_kikoto>
+				<gazm_gastank>
+					<eng>Experimental Gas Machine</eng>
+				</gazm_gastank>
+				<lair_generator>
+					<eng>Electrical Generator</eng>
+				</lair_generator>
+				<lift>
+					<eng>Elevator</eng>
+				</lift>
+				<cave_aramfejleszto>
+					<eng>Elyctrical Discharger</eng>
+				</cave_aramfejleszto>
+				<cave_villamveto>
+					<eng>Discharger Control Device</eng>
+				</cave_villamveto>
+			</Poi>
+			<trapbuildingcontroller>
+				<eng>Open Build Menu</eng>
+			</trapbuildingcontroller>
+		</GameObject>
+		<ExitConfirm>
+			<eng>Are you sure you wish to quit?</eng>
+		</ExitConfirm>
+	</Battle>
+	<Common>
+		<previewbuild>
+			<eng>You've reached the end of the Preview build. Thanks for playing.\nYou may Exit now or continue exploring this area.</eng>
+		</previewbuild>
+		<popups>
+			<Damage>
+				<eng>Damage per Hit</eng>
+			</Damage>
+			<DPS>
+				<eng>Damage per second</eng>
+			</DPS>
+		</popups>
+		<labels>
+			<XP>
+				<eng>XP</eng>
+			</XP>
+			<Level>
+				<eng>Level</eng>
+			</Level>
+			<Defense>
+				<eng>Defense</eng>
+			</Defense>
+			<Protection>
+				<eng>Protection</eng>
+			</Protection>
+			<Spellpower>
+				<eng>Spellpower</eng>
+			</Spellpower>
+			<Damage>
+				<eng>DPH</eng>
+			</Damage>
+			<DPS>
+				<eng>DPS</eng>
+			</DPS>
+			<HP>
+				<eng>HP</eng>
+			</HP>
+			<Mana>
+				<eng>Mana</eng>
+			</Mana>
+			<Rage>
+				<eng>Rage</eng>
+			</Rage>
+			<newquest>
+				<eng>New Quest!</eng>
+			</newquest>
+		</labels>
+		<Mouse>
+			<LeftClick>
+				<eng>LeftClick</eng>
+			</LeftClick>
+			<RightClick>
+				<eng>RightClick</eng>
+			</RightClick>
+			<MiddleClick>
+				<eng>MiddleClick</eng>
+			</MiddleClick>
+			<Click4>
+				<eng>MouseButton4</eng>
+			</Click4>
+			<Click5>
+				<eng>MouseButton5</eng>
+			</Click5>
+			<ShiftLeftClick>
+				<eng>Shift+LeftClick</eng>
+			</ShiftLeftClick>
+			<ShiftRightClick>
+				<eng>Shift+RightClick</eng>
+			</ShiftRightClick>
+			<CtrlLeftClick>
+				<eng>Ctrl+LeftClick</eng>
+			</CtrlLeftClick>
+			<CtrlRightClick>
+				<eng>Ctrl+RightClick</eng>
+			</CtrlRightClick>
+			<AltLeftClick>
+				<eng>Alt+LeftClick</eng>
+			</AltLeftClick>
+			<AltRightClick>
+				<eng>Alt+RightClick</eng>
+			</AltRightClick>
+			<DoubleClick>
+				<eng>DoubleClick</eng>
+			</DoubleClick>
+			<HoldShift>
+				<eng>Hold Shift</eng>
+			</HoldShift>
+			<HoldCtrl>
+				<eng>Hold Ctrl</eng>
+			</HoldCtrl>
+			<HoldAlt>
+				<eng>Hold Alt</eng>
+			</HoldAlt>
+		</Mouse>
+		<ControllerKeys>
+			<ThumbLeft>
+				<eng>RS left</eng>
+			</ThumbLeft>
+			<ThumbRight>
+				<eng>RS right</eng>
+			</ThumbRight>
+			<ThumbDown>
+				<eng>RS down</eng>
+			</ThumbDown>
+			<ThumbUp>
+				<eng>RS up</eng>
+			</ThumbUp>
+			<LeftTrigger>
+				<eng>LT</eng>
+			</LeftTrigger>
+			<RightTrigger>
+				<eng>RT</eng>
+			</RightTrigger>
+			<DPADLeft>
+				<eng>D-pad Left</eng>
+			</DPADLeft>
+			<DPADRight>
+				<eng>D-pad Right</eng>
+			</DPADRight>
+			<DPADUp>
+				<eng>D-pad Up</eng>
+			</DPADUp>
+			<DPADDown>
+				<eng>D-pad Down</eng>
+			</DPADDown>
+			<LeftShoulder>
+				<eng>LB</eng>
+			</LeftShoulder>
+			<RightShoulder>
+				<eng>RB</eng>
+			</RightShoulder>
+			<Start>
+				<eng>Start</eng>
+			</Start>
+			<Back>
+				<eng>Back</eng>
+			</Back>
+			<RightThumbPress>
+				<eng>Right stick press</eng>
+			</RightThumbPress>
+			<Y>
+				<eng>Y</eng>
+			</Y>
+			<X>
+				<eng>X</eng>
+			</X>
+			<A>
+				<eng>A</eng>
+			</A>
+			<B>
+				<eng>B</eng>
+			</B>
+		</ControllerKeys>
+		<unassigned>
+			<eng>Unassigned</eng>
+		</unassigned>
+		<SkipLine>
+			<eng>Skip line</eng>
+		</SkipLine>
+		<SkipToNextChoice>
+			<eng>End Conversation / Skip to next choice</eng>
+		</SkipToNextChoice>
+		<SkipCutScene>
+			<eng>Skip Cutscene</eng>
+		</SkipCutScene>
+		<Continue>
+			<eng>Continue</eng>
+		</Continue>
+		<Back>
+			<eng>Back</eng>
+		</Back>
+		<Cancel>
+			<eng>Cancel</eng>
+		</Cancel>
+		<Accept>
+			<eng>Accept</eng>
+		</Accept>
+		<Delete>
+			<eng>Delete</eng>
+		</Delete>
+		<Disabled>
+			<eng>This function is not available in this version.</eng>
+		</Disabled>
+		<go_online>
+			<eng>Go Online!</eng>
+		</go_online>
+		<go_offline>
+			<eng>Go Offline!</eng>
+		</go_offline>
+		<report_bug>
+			<eng>Report a bug</eng>
+		</report_bug>
+		<Exit>
+			<eng>Exit</eng>
+		</Exit>
+		<Agree>
+			<eng>I Agree</eng>
+		</Agree>
+		<Version>
+			<eng>Version: %s</eng>
+		</Version>
+		<Checksum>
+			<eng>Checksum: %X</eng>
+		</Checksum>
+		<Website>
+			<eng>Website</eng>
+		</Website>
+		<Press_assets>
+			<eng>Forum</eng>
+		</Press_assets>
+		<DevBlog>
+			<eng>DevBlog</eng>
+		</DevBlog>
+		<Load>
+			<eng>Load</eng>
+		</Load>
+		<Measure>
+			<Cost>
+				<eng>Cost: %d gold</eng>
+			</Cost>
+			<Meters>
+				<eng>%i meters</eng>
+			</Meters>
+			<Seconds>
+				<eng>%i seconds</eng>
+			</Seconds>
+			<Minutes>
+				<eng>%i minutes</eng>
+			</Minutes>
+			<Turns>
+				<eng>%i turn(s)</eng>
+			</Turns>
+			<secondshort>
+				<eng>s</eng>
+			</secondshort>
+			<minuteshort>
+				<eng>min</eng>
+			</minuteshort>
+			<metershort>
+				<eng>m</eng>
+			</metershort>
+		</Measure>
+		<No>
+			<eng>No</eng>
+		</No>
+		<OK>
+			<eng>OK</eng>
+		</OK>
+		<Done>
+			<eng>Done</eng>
+		</Done>
+		<None>
+			<eng>None</eng>
+		</None>
+		<All>
+			<eng>All</eng>
+		</All>
+		<Info>
+			<eng>Info</eng>
+		</Info>
+		<pick>
+			<eng>Pick</eng>
+		</pick>
+		<Options>
+			<Gameplay>
+				<eng>Gameplay</eng>
+			</Gameplay>
+			<Video>
+				<eng>Video</eng>
+			</Video>
+			<Audio>
+				<eng>Audio</eng>
+			</Audio>
+			<Controls>
+				<eng>Controls</eng>
+			</Controls>
+			<Advancedvideo>
+				<eng>Advanced settings</eng>
+			</Advancedvideo>
+			<Advancedvideoback>
+				<eng>Base settings</eng>
+			</Advancedvideoback>
+			<AffectguiResolution>
+				<eng>Affect GUI Resolution (SLI/CrossFire)</eng>
+			</AffectguiResolution>
+			<WindowedStyle>
+				<eng>Windowed Mode</eng>
+			</WindowedStyle>
+			<Antialiasing>
+				<eng>Antialiasing</eng>
+			</Antialiasing>
+			<Autosave>
+				<eng>Autosave</eng>
+			</Autosave>
+			<Battle>
+				<eng>Battle sounds:</eng>
+			</Battle>
+			<Brightness>
+				<eng>Brightness:</eng>
+			</Brightness>
+			<Characterdetail>
+				<eng>Character detail:</eng>
+			</Characterdetail>
+			<Contrast>
+				<eng>Contrast:</eng>
+			</Contrast>
+
+			<force32bit>
+				<eng>Force 32bit</eng>
+			</force32bit>
+			<Subtitles>
+				<eng>Video Subtitles</eng>
+			</Subtitles>
+			<Banters>
+				<eng>In-Game Subtitles</eng>
+			</Banters>
+			<ControllerEnabled>
+				<eng>Enable Controller</eng>
+			</ControllerEnabled>
+			<hidenews>
+				<eng>Hide news</eng>
+			</hidenews>
+			<Controls>
+				<console>
+					<eng>Console</eng>
+				</console>
+				<escape>
+					<eng>Escape</eng>
+				</escape>
+				<zoom_in>
+					<eng>Zoom Camera In</eng>
+				</zoom_in>
+				<zoom_out>
+					<eng>Zoom Camera Out</eng>
+				</zoom_out>
+				<character_sheet>
+					<eng>Character Window</eng>
+				</character_sheet>
+				<character_sheet_details>
+					<eng>Character Details</eng>
+				</character_sheet_details>
+				<inventory>
+					<eng>Inventory</eng>
+				</inventory>
+				<map>
+					<eng>Map</eng>
+				</map>
+				<switch_skillset>
+					<eng>Switch Skillset</eng>
+				</switch_skillset>
+				<skills>
+					<eng>Skills Window</eng>
+				</skills>
+				<pet_window>
+					<eng>Companion Window</eng>
+				</pet_window>
+				<journal_window>
+					<eng>Journal Window</eng>
+				</journal_window>
+				<active_quest_window>
+					<eng>Active Objectives</eng>
+				</active_quest_window>
+				<heroic_deeds_window>
+					<eng>Achievements Window</eng>
+				</heroic_deeds_window>
+				<glory_window>
+					<eng>Glory Window</eng>
+				</glory_window>
+				<use_item>
+					<eng>Use Special Item</eng>
+				</use_item>
+				<town_portal>
+					<eng>Town Portal</eng>
+				</town_portal>
+				<powerup0>
+					<eng>1. Powerup</eng>
+				</powerup0>
+				<powerup1>
+					<eng>2. Powerup</eng>
+				</powerup1>
+				<powerup2>
+					<eng>3. Powerup</eng>
+				</powerup2>
+				<powerup_clear>
+					<eng>Clear Powerups</eng>
+				</powerup_clear>
+				<powerup_set>
+					<eng>Load Powerup Preset</eng>
+				</powerup_set>
+				<highlight_items>
+					<eng>Highlight Items</eng>
+				</highlight_items>
+				<autoloot_items>
+					<eng>Pick up nearby items</eng>
+				</autoloot_items>
+				<store_action_1>
+					<eng>1. Preset Action</eng>
+				</store_action_1>
+				<store_action_2>
+					<eng>2. Preset Action</eng>
+				</store_action_2>
+				<store_action_3>
+					<eng>3. Preset Action</eng>
+				</store_action_3>
+				<store_action_4>
+					<eng>4. Preset Action</eng>
+				</store_action_4>
+				<store_action_5>
+					<eng>5. Preset Action</eng>
+				</store_action_5>
+				<store_action_6>
+					<eng>6. Preset Action</eng>
+				</store_action_6>
+				<store_action_7>
+					<eng>7. Preset Action</eng>
+				</store_action_7>
+				<store_action_8>
+					<eng>8. Preset Action</eng>
+				</store_action_8>
+				<use_potion_1>
+					<eng>Drink Health Potion</eng>
+				</use_potion_1>
+				<use_potion_2>
+					<eng>Drink Mana Potion</eng>
+				</use_potion_2>
+				<use_buff_1>
+					<eng>Use First Trick</eng>
+				</use_buff_1>
+				<use_buff_2>
+					<eng>Use Second Trick</eng>
+				</use_buff_2>
+				<use_buff_3>
+					<eng>Use Third Trick</eng>
+				</use_buff_3>
+				<use_buff_4>
+					<eng>Use Fourth Trick</eng>
+				</use_buff_4>
+				<use_buff_5>
+					<eng>Use Fifth Trick</eng>
+				</use_buff_5>
+				<use_buff_6>
+					<eng>Use Sixth Trick</eng>
+				</use_buff_6>
+				<open_chat>
+					<eng>Chat Window</eng>
+				</open_chat>
+				<weapon_switch>
+					<eng>Swap Weapon Set</eng>
+				</weapon_switch>
+				<katarina_switch_form>
+					<eng>Switch Katarina's Form</eng>
+				</katarina_switch_form>
+				<pause>
+					<eng>Pause Game</eng>
+				</pause>
+				<forward>
+					<eng>Move Forward</eng>
+				</forward>
+				<backward>
+					<eng>Move Backward</eng>
+				</backward>
+				<strafe_left>
+					<eng>Strafe Left</eng>
+				</strafe_left>
+				<strafe_right>
+					<eng>Strafe Right</eng>
+				</strafe_right>
+				<enchant>
+					<eng>Enchant/Use Laboratory</eng>
+				</enchant>
+				<disenchant>
+					<eng>Disenchant</eng>
+				</disenchant>
+				<hold_position>
+					<eng>Hold position</eng>
+				</hold_position>
+				<scoreboard>
+					<eng>Scoreboard</eng>
+				</scoreboard>
+				<secondary_interaction>
+					<eng>Build Menu</eng>
+				</secondary_interaction>
+				<perk_window>
+					<eng>Perk Window</eng>
+				</perk_window>
+				<intelligent_zoom>
+					<eng>Intelligent Zoom</eng>
+				</intelligent_zoom>
+			</Controls>
+			<Defaultcontrols>
+				<eng>Default</eng>
+			</Defaultcontrols>
+			<DefaultcontrolsMsg>
+				<eng>Are you sure you want to restore the default controls?</eng>
+			</DefaultcontrolsMsg>
+			<ControlsExceptionMsg>
+				<eng>This key is already bound to a different function: %s\nAre you sure you want to use this key?</eng>
+			</ControlsExceptionMsg>
+			<Custom>
+				<eng>Custom</eng>
+			</Custom>
+			<Difficulty>
+				<eng>Difficulty:</eng>
+			</Difficulty>
+			<DynamicFarShadows>
+				<eng>Dynamic Far Shadows</eng>
+			</DynamicFarShadows>
+			<Environmentdetail>
+				<eng>Environment detail:</eng>
+			</Environmentdetail>
+			<Gamma>
+				<eng>Gamma:</eng>
+			</Gamma>
+			<Saturation>
+				<eng>Saturation:</eng>
+			</Saturation>
+			<HDR>
+				<eng>HDR Rendering</eng>
+			</HDR>
+			<HighShaders>
+				<eng>High Shaders</eng>
+			</HighShaders>
+			<High>
+				<eng>High</eng>
+			</High>
+			<HighAudio>
+				<eng>High Quality Audio</eng>
+			</HighAudio>
+			<Low>
+				<eng>Low</eng>
+			</Low>
+			<Medium>
+				<eng>Medium</eng>
+			</Medium>
+			<Motionblur>
+				<eng>Motionblur</eng>
+			</Motionblur>
+			<Msg>
+				<hdrreverted>
+					<eng>HDR reverted</eng>
+				</hdrreverted>
+				<resolutionreverted>
+					<eng>Resolution reverted</eng>
+				</resolutionreverted>
+				<shadowdetailreverted>
+					<eng>Shadow detail reverted</eng>
+				</shadowdetailreverted>
+			</Msg>
+			<ParallaxMapping>
+				<eng>Parallax Mapping</eng>
+			</ParallaxMapping>
+			<Physicsdetail>
+				<eng>Physics detail:</eng>
+			</Physicsdetail>
+			<Popup>
+				<AmbientOcclusion>
+					<eng>Turns diffuse shadows on/off. May cause the game to run slower on systems with lower end GPU-s.</eng>
+				</AmbientOcclusion>
+				<Antialias>
+					<eng>Improves the appearance of polygon edges so they don’t look jagged. If you have a medium-range graphics card (or lower), choosing this option might cause lags.</eng>
+				</Antialias>
+				<Character>
+					<eng>Enhances model details and improves the visuals of the characters. Turning it down could enhance performance on PCs with low-level video cards.</eng>
+				</Character>
+				<Environment>
+					<eng>Lowering this setting can drastically improve performance.</eng>
+				</Environment>
+				<HDRRender>
+					<eng>Enhances all weather effects, but requires substantial video card memory. If you experience lags in the game, it is recommended that you turn this option off.</eng>
+				</HDRRender>
+				<HighShaders>
+					<eng>Enhances texture details, shadows and lightning. This setting will make the game run considerably slower on PCs with mid-level CPUs.</eng>
+				</HighShaders>
+				<DetailedEnvironment>
+					<eng>If you have a processor with low-level performance, it’s recommended to switch this option off: the game will use low-detailed environments only.</eng>
+				</DetailedEnvironment>
+				<HighEffects>
+					<eng>Enables detailed effects and atmospheric particle systems on the map. Switching off this option will significantly enhance game performance.</eng>
+				</HighEffects>
+				<Reflections>
+					<eng>Enables reflection on watery surfaces. Not recommended on PCs with medium-range CPUs or video cards.</eng>
+				</Reflections>
+				<OrganicsPhysics>
+					<eng>Moving units will interact with plants on the maps. Not recommended on PCs with very low-range video cards.</eng>
+				</OrganicsPhysics>
+				<OrganicsAnimation>
+					<eng>Enables the animation of plants and trees. Not recommended on processors with low-level performance.</eng>
+				</OrganicsAnimation>
+				<NoSoftCoronas>
+					<eng>Enables the soft, misty effect on certain maps. Recommended for all configurations.</eng>
+				</NoSoftCoronas>
+				<ForceWaitGPU>
+					<eng>Forces the CPU to wait for the GPU to finish before starting a new frame. Recommended if you experience any unexplained stuttering.</eng>
+				</ForceWaitGPU>
+				<MultiGPU>
+					<eng>This option will optimize rendering processes for SLI/CrossFire configuration. It also degrades visual quality of Organics Physics simulation.</eng>
+				</MultiGPU>
+				<HighAudio>
+					<eng>Uses less system memory if unchecked.</eng>
+				</HighAudio>
+				<MotionBlur>
+					<eng>Creates the illusion of great speed when the camera is moving fast. May cause the game to run slower on systems with low end GPU-s.</eng>
+				</MotionBlur>
+				<Parallax>
+					<eng>Enhances the details of the terrain. Enabling this option could make the game run slower on mid- or low-range video cards.</eng>
+				</Parallax>
+				<Physics>
+					<eng>This option sets the maximum number of units affected by physics simulation in a given area. Minimum requirement: 3 core processor.</eng>
+				</Physics>
+				<ShadowDetail>
+					<eng>Enhances the shadows in the game. Not recommended to set it above medium on PCs with mid- or low-level performance. The highest setting is recommended for premium video cards only.</eng>
+				</ShadowDetail>
+				<SmoothAnimations>
+					<eng>Enhances and improves animations. Not recommended on PCs with very low-range video cards.</eng>
+				</SmoothAnimations>
+				<SmoothShadows>
+					<eng>Improves the shadows in the game. It’s not recommended to turn it on PCs with low-range video cards.</eng>
+				</SmoothShadows>
+				<Texture>
+					<eng>Enhances textures. The higher you set the details, the more beautiful the game will look and requires significantly more graphics card memory.</eng>
+				</Texture>
+				<Tooltip>
+					<eng>Sets the delay at which the detailed unit information is displayed in battles, as well as the province on the Campaign map.</eng>
+				</Tooltip>
+				<VSync>
+					<eng>This option will synchronize the video card refresh rate to the display’s refresh and prevents phase difference. It could, however, slow down the overall performance and occasionally makes the game camera lag.</eng>
+				</VSync>
+				<FPSLimit>
+					<eng>Choose from the list the frame-per-second rate you would like to use.</eng>
+				</FPSLimit>
+				<affectguiresolution>
+					<eng>If this option is on, the user interface will be displayed in the same resolution as the rest of the game. It is recommended to leave this option turned off except if you are using SLI/CrossFire configuration.</eng>
+				</affectguiresolution>
+				<WindowedStyle>
+					<eng>Play the game in a window.</eng>
+				</WindowedStyle>
+				<resolution>
+					<eng>It is recommended to set the resolution to high if you have a strong video card.</eng>
+				</resolution>
+				<autoequip>
+					<eng>Automatically equips new items if there's an empty slot available.</eng>
+				</autoequip>
+				<showenemyhpcsik>
+					<eng>Continuously display the current Hit Points of enemies (only if they are already injured).</eng>
+				</showenemyhpcsik>
+				<showalliedhpcsik>
+					<eng>Continuously display the current Hit Points of allies.</eng>
+				</showalliedhpcsik>
+				<characterspecific>
+					<eng>Character specific options will only affect this particular character. Some of them may not be available for all Difficulty levels. They not available from the Main Menu.</eng>
+				</characterspecific>
+				<autopowerup>
+					<eng>Automatically applies Powerup Combo Set when enough Rage is available for the whole Combo.</eng>
+				</autopowerup>
+				<autopotiondrink>
+					<eng>Van Helsing will automatically drink a Healing Potion when low on HP if possible. (Only available on Casual and Normal difficulty!)</eng>
+				</autopotiondrink>
+				<autoequipchange>
+					<eng>Automatically equips new items if they are better than the current ones.</eng>
+				</autoequipchange>
+				<verboseitemcomparision>
+					<eng>Lists changes without additional enchants and essences along with the current changes in item comparision.</eng>
+				</verboseitemcomparision>
+				<noblood>
+					<eng>Turn off blood effects.</eng>
+				</noblood>
+				<allmessages>
+					<eng>Shows the Chat window for every new message. (When turned off, only messages from multiplayer are shown but messages are still logged.)</eng>
+				</allmessages>
+				<respawn>
+					<eng>Enemies will respawn when you leave the game and return later.</eng>
+				</respawn>
+				<floatingbattletext>
+					<eng>Battle info text will be shown on screen.</eng>
+				</floatingbattletext>
+				<floatingtextsize>
+					<eng>Scales the floating text on the screen.</eng>
+				</floatingtextsize>
+				<generaltextsize>
+					<eng>Scales all text on screen. (Restart required)</eng>
+				</generaltextsize>
+				<hidehelmet>
+					<eng>Hides your character's hat.</eng>
+				</hidehelmet>
+				<hidepets>
+					<eng>Hides your character's pets.</eng>
+				</hidepets>
+				<showtutorial>
+					<eng>Governs whether basic tutorial windows appear in the game.</eng>
+				</showtutorial>
+				<showadvancedtutorial>
+					<eng>Governs whether advanced tutorial windows appear in the game.</eng>
+				</showadvancedtutorial>
+				<showenemyhitpoints>
+					<eng>Shows exact enemy hit points in their health bars.</eng>
+				</showenemyhitpoints>
+				<lootvisibilitytoggle>
+					<eng>If checked, the Alt button will toggle between showing and hiding the names of items on the ground. Otherwise, Alt must be pressed for the names to show.</eng>
+				</lootvisibilitytoggle>				
+				<autolootpotions>
+					<eng>Your character will automatically pick up potions by moving over them.</eng>
+				</autolootpotions>
+				<lootalwaysvisible>
+					<eng>Names for items on the ground are always shown and cannot be hidden by pressing Alt.</eng>
+					<xbox>
+						<eng>Names for items on the ground are always shown.</eng>
+					</xbox>
+				</lootalwaysvisible>
+				<showtutorial_basic>
+					<eng>Check to disable basic tutorials. You can re-enable basic tutorials from Options/Gameplay tab.</eng>
+				</showtutorial_basic>
+				<showtutorial_advanced>
+					<eng>Check to disable advanced tutorials. You can re-enable advanced tutorials from Options/Gameplay tab.</eng>
+				</showtutorial_advanced>
+				<language>
+					<eng>Select the language of the game.</eng>
+				</language>
+				<mapopacity>
+					<eng>Move the slider to set the transparency of the Map overlay.</eng>
+				</mapopacity>
+
+				<force32bit>
+					<eng>Forces the game launcher to run _x86 executable regardless of the current operating system type.</eng>
+				</force32bit>
+				<Subtitles>
+					<eng>Show subtitles during videos</eng>
+				</Subtitles>
+				<Banters>
+					<eng>Show subtitles during in-game conversations</eng>
+				</Banters>
+				<ControllerEnabled>
+					<eng>Enables Controller support. The game needs to be started with a controller plugged in in order to use it!</eng>
+				</ControllerEnabled>
+				<hidenews>
+					<eng>You can hide the news panel with this option</eng>
+				</hidenews>
+			</Popup>
+			<Qualitylevel>
+				<eng>Quality level:</eng>
+			</Qualitylevel>
+			<Resolution>
+				<eng>Resolution:</eng>
+			</Resolution>
+			<FpsLimit>
+				<eng>FPS Limit:</eng>
+				<FPS20>
+					<eng>20 FPS</eng>
+				</FPS20>
+				<FPS24>
+					<eng>24 FPS</eng>
+				</FPS24>
+				<FPS30>
+					<eng>30 FPS</eng>
+				</FPS30>
+				<FPS40>
+					<eng>40 FPS</eng>
+				</FPS40>
+				<FPS50>
+					<eng>50 FPS</eng>
+				</FPS50>
+				<FPS60>
+					<eng>60 FPS</eng>
+				</FPS60>
+				<NOLIMIT>
+					<eng>No Limit</eng>
+				</NOLIMIT>
+			</FpsLimit>
+			<SSAO>
+				<eng>Ambient Occlusion</eng>
+			</SSAO>
+			<Shadowdetail>
+				<eng>Shadow detail:</eng>
+			</Shadowdetail>
+			<Showtutorial>
+				<eng>Show Basic Tutorials</eng>
+			</Showtutorial>
+			<Showadvancedtutorial>
+				<eng>Show Advanced Tutorials</eng>
+			</Showadvancedtutorial>
+			<Showtutorial_advanced>
+				<eng>Show Advanced Tutorials</eng>
+			</Showtutorial_advanced>
+			<floatingbattletext>
+				<eng>Floating Battle Info</eng>
+			</floatingbattletext>
+			<floatingtextsize>
+				<eng>Floating Text Size</eng>
+			</floatingtextsize>
+			<generaltextsize>
+				<eng>General Text Size</eng>
+			</generaltextsize>
+			<hidehelmet>
+				<eng>Hide hat</eng>
+			</hidehelmet>
+			<hidepets>
+				<eng>Hide pets</eng>
+			</hidepets>
+			<autoequip>
+				<eng>Auto-Equip</eng>
+			</autoequip>
+			<showenemyhpcsik>
+				<eng>Enemy HP Bars</eng>
+			</showenemyhpcsik>
+			<showalliedhpcsik>
+				<eng>Allied HP Bars</eng>
+			</showalliedhpcsik>
+			<characterspecific>
+				<eng>Character Specific Options</eng>
+			</characterspecific>
+			<autopowerup>
+				<eng>Auto-Powerup</eng>
+			</autopowerup>
+			<autopotiondrink>
+				<eng>Auto Drink HP Potions</eng>
+			</autopotiondrink>
+			<autoequipchange>
+				<eng>Auto Equip Better Items</eng>
+			</autoequipchange>
+			<verboseitemcomparision>
+				<eng>Verbose Item Comparision</eng>
+			</verboseitemcomparision>
+			<noblood>
+				<eng>No Blood</eng>
+			</noblood>
+			<allmessages>
+				<eng>Show All Messages</eng>
+			</allmessages>
+			<respawn>
+				<eng>Respawn Enemies</eng>
+			</respawn>
+			<lootalwaysvisible>
+				<eng>Highlight Items</eng>
+			</lootalwaysvisible>
+			<autolootpotions>
+				<eng>Auto-Pick Up Potions</eng>
+			</autolootpotions>
+			<showenemyhitpoints>
+				<eng>Enemy Hit Point Numbers</eng>
+			</showenemyhitpoints>
+			<language>
+				<eng>Language</eng>
+			</language>
+			<mapopacity>
+				<eng>Map Opacity</eng>
+			</mapopacity>
+			<SmoothAnimations>
+				<eng>Smooth Animations</eng>
+			</SmoothAnimations>
+			<Reflections>
+				<eng>Reflections</eng>
+			</Reflections>
+			<OrganicsPhysics>
+				<eng>Organics Physics</eng>
+			</OrganicsPhysics>
+			<SmoothShadows>
+				<eng>Smooth Shadows</eng>
+			</SmoothShadows>
+			<Master>
+				<eng>Master:</eng>
+			</Master>
+			<Music>
+				<eng>Music:</eng>
+			</Music>
+			<Sound>
+				<eng>Sound effects:</eng>
+			</Sound>
+			<Speech>
+				<eng>Speech:</eng>
+			</Speech>
+			<Terrainsounds>
+				<eng>Terrain sounds:</eng>
+			</Terrainsounds>
+			<Texturedetail>
+				<eng>Texture detail:</eng>
+			</Texturedetail>
+			<Tooltipdelay>
+				<eng>Tooltip delay:</eng>
+			</Tooltipdelay>
+			<VSync>
+				<eng>V-Sync</eng>
+			</VSync>
+			<MultiGPU>
+				<eng>SLI/CrossFire Optimization</eng>
+			</MultiGPU>
+			<NoSoftCoronas>
+				<eng>No Soft Coronas</eng>
+			</NoSoftCoronas>
+			<ForceWaitGPU>
+				<eng>Sync CPU to GPU</eng>
+			</ForceWaitGPU>
+			<OrganicsAnimation>
+				<eng>Organics Animation</eng>
+			</OrganicsAnimation>
+			<HighEffects>
+				<eng>High Effects</eng>
+			</HighEffects>
+			<DetailedEnvironment>
+				<eng>Detailed Environment</eng>
+			</DetailedEnvironment>
+			<Veryhigh>
+				<eng>Very high</eng>
+			</Veryhigh>
+			<Verylow>
+				<eng>Very low</eng>
+			</Verylow>
+			<dx10>
+				<eng>Direct3D 10</eng>
+			</dx10>
+			<dx11>
+				<eng>Direct3D 11</eng>
+			</dx11>
+			<dx9>
+				<eng>Direct3D 9</eng>
+			</dx9>
+			<gl>
+				<eng>Open GL (32bit)</eng>
+			</gl>
+			<willtakeffectonnextstartmsg>
+				<eng>This change will take effect at the next launch of the game. Are you sure?</eng>
+			</willtakeffectonnextstartmsg>
+			<controlscannotchangetoselected>
+				<eng>The selected key is reserved for a specific purpose and cannot be bound for any other actions. Please choose another key.</eng>
+			</controlscannotchangetoselected>
+			<ControllerVibrationStrength>
+				<eng>Vibration Strength</eng>
+			</ControllerVibrationStrength>
+		</Options>
+		<Restart>
+			<eng>Restart</eng>
+		</Restart>
+		<Resume>
+			<eng>Resume</eng>
+		</Resume>
+		<Save>
+			<eng>Save</eng>
+		</Save>
+		<Start>
+			<eng>Start</eng>
+		</Start>
+		<Szarmazas>
+			<beast>
+				<eng>Beast</eng>
+			</beast>
+			<egyeb>
+				<eng>Human</eng>
+			</egyeb>
+			<mythical>
+				<eng>Mythical</eng>
+			</mythical>
+			<nincs>
+				<eng>Nothing</eng>
+			</nincs>
+			<undead>
+				<eng>Undead</eng>
+			</undead>
+			<mechanic>
+				<eng>Mechanical</eng>
+			</mechanic>
+			<abomination>
+				<eng>Abomination</eng>
+			</abomination>
+			<spider>
+				<eng>Spider</eng>
+			</spider>
+			<rat>
+				<eng>Vermin</eng>
+			</rat>
+			<dd_helper>
+				<eng>Mechanical</eng>
+			</dd_helper>
+			<bunny>
+				<eng>Bunny</eng>
+			</bunny>
+		</Szarmazas>
+		<Win>
+			<eng>You win!</eng>
+		</Win>
+		<Yes>
+			<eng>Yes</eng>
+		</Yes>
+		<close>
+			<eng>Close</eng>
+		</close>
+		<open>
+			<eng>Open</eng>
+		</open>
+		<edit>
+			<eng>Edit</eng>
+		</edit>
+		<lost>
+			<eng>You lost!</eng>
+		</lost>
+		<menu>
+			<eng>Menu</eng>
+		</menu>
+		<options>
+			<eng>Options</eng>
+		</options>
+		<please_press_a_key>
+			<eng>Please press a key!</eng>
+		</please_press_a_key>
+		<remove>
+			<eng>Remove</eng>
+		</remove>
+		<select>
+			<eng>Select</eng>
+		</select>
+		<LevelLimitReached>
+			<eng>Level limit reached</eng>
+		</LevelLimitReached>
+		<msg>
+			<noaudioinitialized>
+				<eng>Sound system initialization failed. Please run dxredist from the game library. If the problem persists, please try updating the audio driver of your sound card as well.</eng>
+			</noaudioinitialized>
+		</msg>
+		<network>
+			<invite_trade>
+				<eng>Do you accept trade?</eng>
+			</invite_trade>
+			<Checksum_error>
+				<eng>Version mismatch!\nYour checksum: %X\nServer's checksum: %X</eng>
+			</Checksum_error>
+			<connection_refused>
+				<eng>Connection refused. The server may not be available or full.</eng>
+			</connection_refused>
+			<requirements_failed>
+				<eng>You do not meet the requirements to enter this server.</eng>
+				<level_low>
+					<eng>Your level is too low.</eng>
+				</level_low>
+				<level_high>
+					<eng>Your level is too high.</eng>
+				</level_high>
+				<hardcore_no>
+					<eng>Hardcore characters can't enter here.</eng>
+				</hardcore_no>
+				<hardcore_yes>
+					<eng>Only hardcore characters can enter.</eng>
+				</hardcore_yes>
+				<normal_campaign>
+					<eng>Veteran characters can't enter normal games.</eng>
+				</normal_campaign>
+				<veteran_campaign>
+					<eng>Only veteran characters can enter this game.</eng>
+				</veteran_campaign>
+				<campaign>
+					<eng>You cannot play in this game mode.</eng>
+				</campaign>
+			</requirements_failed>
+			<disconnected_question>
+				<eng>Do you want to continue the game offline?</eng>
+			</disconnected_question>
+			<disconnected>
+				<eng>You will be returned to the main menu.</eng>
+			</disconnected>
+			<pinging>
+				<eng>Pinging</eng>
+			</pinging>
+			<connecting>
+				<eng>Connecting</eng>
+				<server>
+					<eng>Connecting to resolve server</eng>
+				</server>
+				<resolving>
+					<eng>Resolving</eng>
+				</resolving>
+				<direct>
+					<eng>Resolving Success</eng>
+				</direct>
+			</connecting>
+			<authenticating>
+				<eng>Authenticating</eng>
+			</authenticating>
+			<connected>
+				<eng>Connected</eng>
+			</connected>
+			<map_change_init>
+				<eng>%s has initiated a map change</eng>
+			</map_change_init>
+			<map_change_left>
+				<eng>%d sec remaining</eng>
+			</map_change_left>
+			<map_change_cancel>
+				<eng>%s has cancelled the transport!</eng>
+			</map_change_cancel>
+			<advance_level_too_low>
+				<eng>You can't join this game because your character hasn't reached this point in the story yet.</eng>
+			</advance_level_too_low>
+			<invite_teleport>
+				<eng>You have been invited to teleport to a bossfight.</eng>
+			</invite_teleport>
+			<accept_teleport>
+				<eng>Accept</eng>
+			</accept_teleport>
+			<invite_bossfight>
+				<eng>Do you want to join the bossfight?</eng>
+			</invite_bossfight>
+			<accept_bossfight>
+				<eng>Participate</eng>
+			</accept_bossfight>
+			<bossfight_wait>
+				<eng>Waiting for other players</eng>
+			</bossfight_wait>
+			<teleporting>
+				<eng>You will be teleported after a short time.</eng>
+			</teleporting>
+			<disconnect>
+				<kick>
+					<eng>You have been kicked from the server by the host.</eng>
+				</kick>
+				<user_command>
+					<eng>Server closed the game.</eng>
+				</user_command>
+				<timeout>
+					<eng>Server timed out.</eng>
+				</timeout>
+				<other>
+					<eng>Disconnected from the server.</eng>
+				</other>
+				<could_not_resolve>
+					<eng>Could not resolve server</eng>
+					<target_not_connected>
+						<eng>Target is not connected to the server</eng>
+					</target_not_connected>
+					<target_not_responsive>
+						<eng>Target is not responding</eng>
+					</target_not_responsive>
+					<target_connection_lost>
+						<eng>Connection lost with target</eng>
+					</target_connection_lost>
+					<fail>
+						<eng>Routing failed</eng>
+					</fail>
+					<init_fail>
+						<eng>Could not initialize routing</eng>
+					</init_fail>
+					<no_server>
+						<eng>Could not connect to the server</eng>
+					</no_server>
+				</could_not_resolve>
+				<banned>
+					<eng>You have been banned from this server.</eng>
+				</banned>
+				<vac_banned>
+					<eng>This account is VAC banned.</eng>
+				</vac_banned>
+				<invalid_character>
+					<eng>This character is not valid! You cannot play PVP games with an invalid character!</eng>
+				</invalid_character>
+			</disconnect>
+			<death_respawn>
+				<eng>You will respawn in %d sec</eng>
+			</death_respawn>
+			<user>
+				<entered>
+					<eng>%s has joined the game.</eng>
+				</entered>
+				<connected>
+					<eng>Someone is trying to join the game!</eng>
+				</connected>
+				<disconnected>
+					<eng>%s has left the game.</eng>
+				</disconnected>
+			</user>
+			<restart_steam>
+				<eng>The game was not started from Steam. You won't be able to complete achievements, the DLCs will be disabled and won't be able to see internet game servers. Do you want to restart from Steam?</eng>
+			</restart_steam>
+			<restart_steam_failed>
+				<eng>Could not start from steam. Please make sure that steam is installed properly.</eng>
+			</restart_steam_failed>
+			<character_limit>
+				<eng>Character limit reached</eng>
+			</character_limit>
+		</network>
+		<closedbeta>
+			<eng>Closed Beta</eng>
+		</closedbeta>
+		<demo>
+			<eng>Complete Pack Demo Version</eng>
+			<text>
+				<eng>Restricted Area (Demo version)</eng>
+			</text>
+		</demo>
+		<class>
+			<katarina>
+				<name>
+					<eng>Katarina</eng>
+				</name>
+			</katarina>
+			<helsing>
+				<name>
+					<eng>Hunter</eng>
+				</name>
+				<Desc>
+					<eng>The classic monster hunter armed with blades and firearms as well as a handful of occult powers.</eng>
+				</Desc>
+			</helsing>
+			<magus>
+				<name>
+					<eng>Thaumaturge</eng>
+				</name>
+				<Desc>
+					<eng>An occult specialist wielding powerful offensive spells and manipulative tricks.</eng>
+				</Desc>
+			</magus>
+			<engineer>
+				<name>
+					<eng>Arcane Mechanic</eng>
+				</name>
+				<Desc>
+					<eng>A new generation hunter who fights evil with power of science. Armed with a versatile Hybrid Occult Substance Expulsion Cannon and various gadgets.</eng>
+				</Desc>
+			</engineer>
+		</class>
+		<multiplayer>
+			<eng>Multiplayer</eng>
+		</multiplayer>
+		<Gamepad>
+			<Connect>
+				<eng>There is no current controller, please connect one!</eng>
+			</Connect>
+			<Choose>
+				<eng>There are more than one controllers connected, please choose one and press any button!</eng>
+			</Choose>
+			<Restart>
+				<eng>You have just connected a new controller, and need to restrart the game in order to the changes to take effect!</eng>
+			</Restart>
+		</Gamepad>
+		<xboxone>
+			<user>
+				<welcome>
+					<eng>Welcome %s.</eng>
+				</welcome>
+				<changed>
+					<eng>Good bye %s, your progress will be saved.</eng>
+				</changed>
+				<mustsignin>
+					<eng>You must sign in!</eng>
+				</mustsignin>
+				<ChangeUser>
+					<eng>Change user</eng>
+				</ChangeUser>
+				<NotSignedInPlay>
+					<eng>A signed in user is required to play. You may continue, but your progress will not be saved!</eng>
+				</NotSignedInPlay>
+				<SignInMainMenu>
+					<eng>A signed in user is required to select this option!</eng>
+				</SignInMainMenu>
+				<changednosave>
+					<eng>You have been playing without being signed in, this game progress will be lost...</eng>
+				</changednosave>
+				<mute>
+					<eng>Mute</eng>
+				</mute>
+				<unmute>
+					<eng>Unmute</eng>
+				</unmute>
+			</user>
+			<StreamingInstall>
+				<Progress>
+					<eng>Installing game components, please wait...</eng>
+				</Progress>
+				<Paused>
+					<eng>The installation of this content is paused...</eng>
+				</Paused>
+				<Waiting>
+					<eng>The installation of this content is waiting to be started...</eng>
+				</Waiting>
+				<Error>
+					<eng>An error occured during the installation of game contents!</eng>
+				</Error>
+				<BackToMenu>
+					<eng>Back to main menu</eng>
+				</BackToMenu>
+			</StreamingInstall>
+			<Multiplayer>
+				<Invite>
+					<eng>Invite friend</eng>
+				</Invite>
+				<ShowGamerCard>
+					<eng>Show Gamercard</eng>
+				</ShowGamerCard>
+				<InviteAccepted>
+					<eng>You have accepted a multiplayer request, now you are redirected to the main menu. Your progress will be saved.</eng>
+				</InviteAccepted>
+				<InternetLost>
+					<eng>Internet connectivity has lost...</eng>
+				</InternetLost>
+				<FindMatch>
+					<eng>Find match</eng>
+				</FindMatch>
+				<MatchmakeProgress>
+					<eng>Matchmaking in progress...</eng>
+				</MatchmakeProgress>
+				<MatchNotFound>
+					<eng>Match not found</eng>
+				</MatchNotFound>
+				<JoinFriend>
+					<eng>Join a friend's game</eng>
+				</JoinFriend>
+				<AlreadyJoined>
+					<eng>You are already participating this game!</eng>
+				</AlreadyJoined>
+				<NoFriendGame>
+					<eng>None of your friends are playing this game!</eng>
+				</NoFriendGame>
+				<CantStartMatchmake>
+					<eng>Couldn't initiate matchmaking, please try again later..</eng>
+				</CantStartMatchmake>
+				<OffensiveName>
+					<eng>Your hero's name could be offensive to others, you can not play on-line!</eng>
+				</OffensiveName>
+				<OffensiveNameCreate>
+					<eng>Your hero's name could be offensive to others, you will be banned from on-line play!\nDo you want to create this character anyway?</eng>
+				</OffensiveNameCreate>
+			</Multiplayer>
+			<Artifacts>
+				<AlchemyCapacityShort>
+					<eng>EC: %d</eng>
+				</AlchemyCapacityShort>
+			</Artifacts>
+			<GUI>
+				<CharacterSheet>
+					<XPPercentCompact>
+						<eng>Experience: %d%%</eng>
+					</XPPercentCompact>
+				</CharacterSheet>
+				<Inventory>
+					<SelectCategory>
+						<eng>Category</eng>
+					</SelectCategory>
+					<Compare>
+						<eng>Compare</eng>
+					</Compare>
+				</Inventory>
+				<HeroicDeeds>
+					<GloryReqInfo>
+						<eng>You must reach level %d!</eng>
+					</GloryReqInfo>
+					<ScenarioXPPercentCompact>
+						<eng>Glory: %d%%</eng>
+					</ScenarioXPPercentCompact>
+				</HeroicDeeds>
+				<PerkWindow>
+					<ReputationCompact>
+						<eng>Reputation %d%%</eng>
+					</ReputationCompact>
+				</PerkWindow>
+				<GameChat>
+					<eng>Game chat</eng>
+				</GameChat>
+			</GUI>
+		</xboxone>
+	</Common>
+	<menu>
+		<Introduction>
+			<Title>
+				<eng>PRODUCT LICENSE</eng>
+			</Title>
+			<Desc>
+				<eng>PLEASE READ THIS PRODUCT LICENSE (THE “LICENSE”) CAREFULLY. BY USING THE PROGRAM AND CLICKING ON THE “I AGREE" BUTTON, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD THIS LICENSE AND THAT YOU AGREE TO BE BOUND BY ITS TERMS.\n\n1. COPYRIGHT\nThe copyright of The Incredible Adventures of Van Helsing Closed Beta Build hereinafter referred to as “Product” (meaning this copy of the program and any complementary electronic files and printed materials) and all the elements of the Product are the property of Neocoregames Ltd. hereinafter referred to as “NEOCORE” and/or its suppliers and are protected by copyright law. \n\n2. GRANT OF LICENSE\nNEOCORE hereby grants you (as an individual or a legal entity), the end user, the limited, non-transferable right to use the Product on two computers at most, for your own personal use and enjoyment or for creating and publishing previews in the media, subject to the terms and conditions of this License. This License is proof of your entitlement to exercise the rights granted herein and you must conserve it. NEOCORE may terminate this License immediately if you fail to comply with any of the terms thereof. Furthermore NEOCORE reserves the right of immediate termination of this License in NEOCORE’s sole discretion anytime. \n\n3. RESTRICTIONS\nNEOCORE reserves all rights which have not been expressly granted in this License. Therefore, the Product must be given the same treatment as any other material subject to copyright (for example, a book or a musical recording) with the exception that, as the Product is a computer program, the Product may be transferred to a single hard disk and the original conserved solely for filing purposes or as a backup copy. It is not permitted to copy the written materials which accompany the Product. \nYou may not rent out, lend, sell or transfer the Product nor any element incorporated into it, including images which appear on screen, sounds or accompanying documents, to any third party by any means whatsoever, nor offer it for sale or grant subordinated Licenses, and nor may you permit any other person to use the Product. Moreover, you may not place the Product in any computer system which permits multiple users to access it. You may not transfer your rights (temporarily or permanently) by virtue of this License. \nYou may not copy, modify, adapt, distribute, transmit, decompile, disassemble or try to decipher the source code of all or any part of the Product or any element incorporated into it, nor permit or encourage any third party to do so. \nYou may not offer the Product as payment for playing in a computer system or network which may be accessed by means of rental, nor electronically distribute the Product or part of the Product or any element incorporated into it, including any image shown on screen, sound or accompanying document. \n\nWithout limiting the general nature of the above restrictions you may publish self-captured screenshots and/or videos for previewing purposes and share information about the Product with public audience. \n\n4. NO WARRANTY\nYou expressly acknowledge and agree to use the Product on your own exclusive account and risk. NEOCORE does not guarantee that the Product meets the requirements of the computer system nor that the Product is entirely error- or defect-free nor that the functioning of the Product will be uninterrupted. \nNo dealership, distributor, agent or employee of NEOCORE is authorised to make any modification or addition whatsoever to this warranty. \nNEOCORE does not recognise any other warranties, express, implicit or, insofar as law permits, legal, including any warranty of satisfactory quality, suitability for a specific use and non-infraction of intellectual property rights, in relation to the Product. \n\n NOTHING IN THE CONTENT OF THIS LICENSE AFFECTS YOUR LEGAL RIGHTS AS A PREVIEWER PROTECTED BY AN APPLICABLE LAW. \n\n5. LIMITATION OF LIABILITY\nIn no case shall NEOCORE be liable for any kind of damage (this term includes, though is not restricted to, derived, special, indirect, direct or incidental damage, loss of earnings, interruptions in mercantile activity or other pecuniary loss) deriving from the use of the Product, even when NEOCORE has been notified of the possibility of this damage. \n\n6. GENERAL\nThis License contains the complete agreement between NEOCORE and yourself in relation to the object thereof and replaces all previous negotiations, understandings and agreements, written or oral, between NEOCORE and yourself in relation to the object thereof. This License shall be governed and interpreted in accordance with Swiss law and you specifically agree to submit to the non-exclusive jurisdiction of Swiss law courts. If any term or condition of this License is declared invalid or null and void, all remaining terms and conditions thereof shall remain in full force and effect as if the invalid terms or conditions had been removed from this License. No failure to exercise or enforce, or delay in exercising or enforcing NEOCORE’s rights, remedies and powers by virtue of the present License shall constitute a waiver of said rights, powers or remedies.</eng>
+			</Desc>
+		</Introduction>
+		<Changelog>
+			<title>
+				<eng>Changelog</eng>
+			</title>
+			<unsafe>
+				<eng>This character was created with an earlier version of the game, and may be unstable! Any bugreports with this character will be ignored.\nIt's highly recommended to start a new character instead of using this one.</eng>
+			</unsafe>
+		</Changelog>
+		<GC_Menu>
+			<Start>
+				<eng>Start</eng>
+			</Start>
+			<Join>
+				<eng>Join</eng>
+			</Join>
+		</GC_Menu>
+		<Difficulty>
+			<Casual>
+				<Name>
+					<eng>Casual</eng>
+				</Name>
+				<Popup>
+					<eng>A new hunter in Borgovia! So you know your way around action-RPGS, but you prefer a balance between action and RPG, battles and storytelling? Then this might be a good start for you.\n\nEnemies have -40 % Health and -30% damage\n\n  Maximum Fate Points per day: 10</eng>
+				</Popup>
+			</Casual>
+			<Normal>
+				<Name>
+					<eng>Normal</eng>
+				</Name>
+				<Popup>
+					<eng>Suggested for Action-RPG enthusiasts, who are ready to enter the dangerous world of Van Helsing for the first time.\n\nEnemies have +0 % Health and +0% damage\n\nBenefits:\n  +10% Gold\n  Maximum Fate Points per day: 20</eng>
+				</Popup>
+			</Normal>
+			<Hard>
+				<Name>
+					<eng>Hard</eng>
+				</Name>
+				<Popup>
+					<eng>Recommended for veteran ARPG-players, who have mastered the genre and need new challenges. Enter at your own peril!\n\nEnemies have +60 % Health and +30% damage\n\nBenefits:\n  +40% Gold Find\n  +15% Xp\n  Maximum Fate Points per day: 30</eng>
+				</Popup>
+			</Hard>
+			<Heroic>
+				<Name>
+					<eng>Heroic</eng>
+				</Name>
+				<Popup>
+					<eng>This is for all those hardcore ARPG-fans who think they’ve seen it all: we are ready to show you that Borgovia can offer new challenges even for you!\n\nEnemies have +150 % Health and +70% damage\n\nBenefits:\n  +80% Gold Find\n  +80% Xp\n  Maximum Fate Points per day: 40</eng>
+				</Popup>
+			</Heroic>
+			<Hardcore>
+				<Name>
+					<eng>Hardcore</eng>
+				</Name>
+				<Popup>
+					<eng>You will get more loot than you would for the base difficulty level but if you die in game, your character will be dead forever.</eng>
+				</Popup>
+			</Hardcore>
+		</Difficulty>
+		<GameList>
+			<refresh>
+				<eng>Refresh</eng>
+			</refresh>
+			<refresh_lan>
+				<eng>Refresh LAN</eng>
+			</refresh_lan>
+			<join>
+				<eng>Join</eng>
+			</join>
+			<grid>
+				<name>
+					<eng>Name</eng>
+				</name>
+				<gamemode>
+					<eng>Game Mode</eng>
+				</gamemode>
+				<difficulty>
+					<eng>Difficulty</eng>
+				</difficulty>
+				<players>
+					<eng>Players</eng>
+				</players>
+				<level>
+					<eng>Level</eng>
+				</level>
+				<map>
+					<eng>Map</eng>
+				</map>
+				<safety>
+					<eng>Safety?</eng>
+				</safety>
+				<ping>
+					<eng>Ping</eng>
+				</ping>
+				<region>
+					<eng>Region</eng>
+				</region>
+				<password>
+					<eng></eng>
+				</password>
+			</grid>
+			<friends>
+				<eng>Friends</eng>
+			</friends>
+			<gamelist>
+				<eng>Game List</eng>
+			</gamelist>
+			<filter>
+				<gamemode>
+					<eng>Game Mode:</eng>
+				</gamemode>
+				<difficulty>
+					<eng>Difficulty</eng>
+				</difficulty>
+				<fullrooms>
+					<eng>Show all</eng>
+				</fullrooms>
+				<Name>
+					<eng>Name:</eng>
+				</Name>
+				<pinglimit>
+					<eng>Ping limit:</eng>
+				</pinglimit>
+				<region>
+					<eng>Region:</eng>
+					<close>
+						<eng>Close</eng>
+					</close>
+					<default>
+						<eng>Default</eng>
+					</default>
+					<far>
+						<eng>Far</eng>
+					</far>
+					<world_wide>
+						<eng>World Wide</eng>
+					</world_wide>
+				</region>
+			</filter>
+			<msg_invalid_character>
+				<eng>This character has been determined as invalid. You cannot play PVP game modes with an invalid character. Do you wish to reset the ability and skill points to the valid value? (Warning, this change cannot be reverted!)</eng>
+			</msg_invalid_character>
+		</GameList>
+		<loadsave>
+			<DeleteConfirm>
+				<eng>Are you sure you want to delete this file?</eng>
+			</DeleteConfirm>
+			<NewName>
+				<eng>New Name:</eng>
+			</NewName>
+			<SaveCompleted>
+				<eng>Game saved successfully.</eng>
+			</SaveCompleted>
+			<SaveConfirm>
+				<eng>File already exists. Do you want to overwrite it?</eng>
+			</SaveConfirm>
+			<SaveFailed>
+				<eng>Save game failed!</eng>
+			</SaveFailed>
+			<SortByDate>
+				<eng>By Date</eng>
+			</SortByDate>
+			<SortByName>
+				<eng>By Name</eng>
+			</SortByName>
+			<playtime>
+				<eng>Play Time: %dh %dm</eng>
+			</playtime>
+			<file_too_old>
+				<eng>This file is too old and cannot be loaded</eng>
+			</file_too_old>
+		</loadsave>
+		<main>
+			<select>
+				<eng>Select</eng>
+			</select>
+			<start>
+				<eng>New Game</eng>
+			</start>
+			<credits>
+				<eng>Credits</eng>
+			</credits>
+			<dlc>
+				<eng>DLC</eng>
+			</dlc>
+			<profile>
+				<eng>Profile</eng>
+				<new>
+					<eng>Create</eng>
+				</new>
+				<select>
+					<eng>Select</eng>
+				</select>
+				<rename>
+					<eng>Rename</eng>
+				</rename>
+				<delete>
+					<eng>Delete</eng>
+				</delete>
+				<namelabel>
+					<eng>Name</eng>
+				</namelabel>
+			</profile>
+			<play>
+				<eng>Play</eng>
+			</play>
+			<NewGame>
+				<eng>New Game</eng>
+				<Name>
+					<eng>Name:</eng>
+					<vkeyboard_title>
+						<eng>Name your hero</eng>
+					</vkeyboard_title>
+				</Name>
+			</NewGame>
+			<load>
+				<eng>Load Game</eng>
+			</load>
+			<resume>
+				<eng>Resume</eng>
+				<story>
+					<eng>Resume Story</eng>
+				</story>
+				<new_game_plus>
+					<eng>Resume N. Story</eng>
+				</new_game_plus>
+			</resume>
+			<new_game_plus>
+				<eng>Neverending Story</eng>
+				<noreturn>
+					<eng>After starting the Neverending Story you will no longer be able to play the regular story. Are you sure you are ready to face the new challenges?</eng>
+				</noreturn>
+			</new_game_plus>
+			<new_game_plus_popup>
+				<eng>Restart the story and face extreme challenge with your high level character. The monsters will keep getting stronger while your only way to improve is to play even better. See how far you can get!\n\n- You must finish the Story to unlock this game mode.\n- Enemies drop high level items.</eng>
+			</new_game_plus_popup>
+			<overwrite>
+				<eng>A save already exists for %s. If you create a new character with this name, that save will be automatically overwritten. Are you sure you are ready to face the consequences?</eng>
+			</overwrite>
+			<delete>
+				<eng>Are you sure you wish to delete this character?</eng>
+			</delete>
+			<character>
+				<eng>Select Character</eng>
+				<new>
+					<eng>New</eng>
+				</new>
+				<delete>
+					<eng>Delete</eng>
+				</delete>
+				<level>
+					<eng>Level:</eng>
+				</level>
+				<map>
+					<eng>Current map:</eng>
+				</map>
+				<difficulty>
+					<eng>Difficulty:</eng>
+				</difficulty>
+				<dead>
+					<eng>This character is dead.</eng>
+				</dead>
+				<hardcore>
+					<label>
+						<eng>Hardcore Character</eng>
+					</label>
+					<popup>
+						<eng>Death is final for this character, so be careful!</eng>
+					</popup>
+				</hardcore>
+				<unique_skin>
+					<label>
+						<eng>Veteran Hunter</eng>
+					</label>
+					<popup>
+						<eng>A unique skin available only in the Veteran Pack.</eng>
+					</popup>
+				</unique_skin>
+				<color_intensity>
+					<label>
+						<eng>Color Intensity</eng>
+					</label>
+				</color_intensity>
+			</character>
+			<Character_Cloud>
+				<eng>Online Character</eng>
+			</Character_Cloud>
+			<character_cloudpopup>
+				<eng>Online Characters are only stored on Steam Cloud and can't be manipulated locally. Online Characters can only play Multi-Player with other Online Characters to make sure no one can cheat.</eng>
+			</character_cloudpopup>
+			<select_scenario>
+				<eng>Select Adventure</eng>
+			</select_scenario>
+			<selected_scenario>
+				<eng>Selected Adventure:</eng>
+			</selected_scenario>
+			<join>
+				<eng>Join</eng>
+			</join>
+			<gamemode>
+				<single>
+					<eng>Single Player</eng>
+				</single>
+				<multi>
+					<eng>Multi Player</eng>
+				</multi>
+				<host>
+					<eng>Create Game</eng>
+				</host>
+				<join>
+					<eng>Join Game</eng>
+				</join>
+			</gamemode>
+			<create>
+				<eng>Create</eng>
+			</create>
+			<createcharacter>
+				<label>
+					<eng>Create Character</eng>
+				</label>
+				<dlcrequired>
+					<magus>
+						<eng>Required DLC: Thaumaturge</eng>
+					</magus>
+					<engineer>
+						<eng>Required DLC: Arcane Mechanic</eng>
+					</engineer>
+					<katarina>
+						<eng>Required DLC: Blue Blood</eng>
+					</katarina>
+				</dlcrequired>
+			</createcharacter>
+			<customize>
+				<eng>Customize</eng>
+			</customize>
+			<scenario_popup>
+				<eng>The Adventure mode lets you fight monsters that are above the level 30 threshold on separate maps and collect high-level items.\n\n- Character Level required: 27\n- Epic item drop chance is much higher than normal in this mode.</eng>
+			</scenario_popup>
+		</main>
+		<dlc>
+			<donwloadablecontent>
+				<eng>Downloadable Content</eng>
+			</donwloadablecontent>
+			<info>
+				<eng>Info</eng>
+			</info>
+			<notpurchased>
+				<eng>Not Owned</eng>
+			</notpurchased>
+			<purchased>
+				<eng>Owned</eng>
+			</purchased>
+		</dlc>
+		<character>
+			<start>
+				<eng>Start new game</eng>
+			</start>
+			<join>
+				<eng>Join multiplayer</eng>
+			</join>
+			<new>
+				<eng>Create new character</eng>
+			</new>
+			<delete>
+				<eng>Delete character</eng>
+			</delete>
+		</character>
+		<servercreator>
+			<label>
+				<eng>Create Server</eng>
+			</label>
+			<create>
+				<eng>Create</eng>
+			</create>
+			<server_name>
+				<eng>Server Name:</eng>
+			</server_name>
+			<visibility>
+				<label>
+					<eng>Visibility:</eng>
+				</label>
+				<public>
+					<eng>Public</eng>
+				</public>
+				<private>
+					<eng>Private</eng>
+				</private>
+				<friends_only>
+					<eng>Friends Only</eng>
+				</friends_only>
+			</visibility>
+			<password>
+				<eng>Password</eng>
+			</password>
+			<levellimit>
+				<eng>Level Limit:</eng>
+
+				<min>
+					<vkeyboard_title>
+						<eng>Minimum hero level</eng>
+					</vkeyboard_title>
+				</min>
+				<max>
+					<vkeyboard_title>
+						<eng>maximum hero level</eng>
+					</vkeyboard_title>
+				</max>
+			</levellimit>
+			<to>
+				<eng>to</eng>
+			</to>
+			<safety>
+				<eng>Safety Character</eng>
+			</safety>
+			<game_mode>
+				<title>
+					<eng>Game Mode:</eng>
+				</title>
+				<max_players>
+					<eng>Max Players:</eng>
+				</max_players>
+				<map>
+					<eng>Map:</eng>
+				</map>
+				<time_limit>
+					<eng>Time Limit:</eng>
+				</time_limit>
+				<frag_limit>
+					<eng>Score Limit:</eng>
+				</frag_limit>
+			</game_mode>
+		</servercreator>
+		<news>
+			<scenario>
+				<title>
+					<eng>Adventure mode available!</eng>
+				</title>
+				<text>
+					<eng>The Adventure mode lets you fight monsters that are above the level 30 threshold on separate maps and collect high-level items. You can reach these areas through the Ink Gate in your Secret Lair.</eng>
+				</text>
+			</scenario>
+			<CompletePack>
+				<title>
+					<eng>New content available!</eng>
+				</title>
+				<text>
+					<eng>Have fun with the new Battle Royal PvP mode that pits characters against each other! This update also features Adventure maps with 30+ level enemies and special epic items, monster respawn and the Neverending Story game mode where monsters will keep getting stronger while your only way to improve is to play even better! Not to mention the controller support...</eng>
+				</text>
+			</CompletePack>
+		</news>
+		<wrongpassword>
+			<eng>Wrong Password!</eng>
+		</wrongpassword>
+		<dlc>
+			<freedlc>
+				<eng>Free DLC</eng>
+			</freedlc>
+			<treasure_hunter>
+				<name>
+					<eng>Treasure Hunter Perk</eng>
+				</name>
+				<desc>
+					<eng>This unique gift to all pre-orders grants you a special boost, providing a +50% bonus to the Magic Item Find chance of everyone in your party. Become a true treasure hunter and gather some more loot!</eng>
+				</desc>
+			</treasure_hunter>
+			<extra_multi_skin>
+				<name>
+					<eng>Veteran Multiplayer Skin</eng>
+				</name>
+				<desc>
+					<eng>Do you feel like a battle-hardened hunter and you’d like to look like it? Well, this special gift to all pre-orders gives you the chance to change Van Helsing into a true veteran of many battles.</eng>
+				</desc>
+			</extra_multi_skin>
+			<katarina>
+				<name>
+					<eng>Blue Blood</eng>
+				</name>
+				<desc>
+					<eng>Esteemed ladies and gentlemen, allow us to present Mr. Van Helsing’s charming, beautiful and witty aide: Lady Katarina. Allow her to learn a few new tricks – a blue-blooded ghost never rests.</eng>
+				</desc>
+			</katarina>
+			<magus>
+				<name>
+					<eng>Thaumaturge</eng>
+				</name>
+				<desc>
+					<eng>Van Helsing: Thaumaturge DLC now allows you to play a specialist class that will surely spice up your gaming experience. Forget steel blades and those rude guns, and use purely stunning arcane abilities.</eng>
+				</desc>
+			</magus>
+			<engineer>
+				<name>
+					<eng>Arcane Mechanic</eng>
+				</name>
+				<desc>
+					<eng>Arcane Mechanic DLC now allows you to play a totally different kind of monster hunter, a specialist class. The Arcane Mechanic is the master of weird devices, deadly gadgets and occult machineries.</eng>
+				</desc>
+			</engineer>
+			<scenario>
+				<name>
+					<eng>Adventures</eng>
+				</name>
+				<desc>
+					<eng>The Adventure mode lets you fight monsters that are above the level 30 threshold on separate maps and collect high-level items.</eng>
+				</desc>
+			</scenario>
+			<preorder>
+				<name>
+					<eng>Bonus Kit</eng>
+				</name>
+				<desc>
+					<eng>A small surprise  to all pre-orders! This kit contains a brand new Aura that will definitely improve your chances of survival and a magical hat: a nice fashion accessory and very unique piece of equipment in one!</eng>
+				</desc>
+			</preorder>
+		</dlc>
+		<login>
+			<login>
+				<eng>Login</eng>
+			</login>
+			<logoff>
+				<eng>Log off</eng>
+			</logoff>
+			<offline_mode>
+				<eng>Offline mode</eng>
+			</offline_mode>
+			<logoff>
+				<popup>
+					<eng>Login with a different account or play offline</eng>
+				</popup>
+			</logoff>
+			<signup>
+				<eng>Sign Up</eng>
+			</signup>
+			<createaccount>
+				<eng>Create Account</eng>
+			</createaccount>
+			<email_address>
+				<eng>Enter your e-mail address</eng>
+			</email_address>
+			<password>
+				<eng>Enter your password</eng>
+			</password>
+			<password_confirm>
+				<eng>Confirm your password</eng>
+			</password_confirm>
+			<autologin>
+				<eng>Auto-Login</eng>
+				<popup>
+					<eng>Check this if you want to automatically login with this account every time you start up the game.</eng>
+				</popup>
+			</autologin>
+			<play_offline>
+				<eng>Play Offline</eng>
+				<popup>
+					<eng>You can play offline.\nThis won't require a constant internet connection but you will be excluded from online features: cloud saves, Adventures and online multiplayer.</eng>
+				</popup>
+			</play_offline>
+			<play_offline_e_biztos>
+				<eng>Are you sure you want to play offline? You won't be able to play Adventure events, won't have access to cloud saves and won't be able to play multiplayer with players who play in online mode!</eng>
+			</play_offline_e_biztos>
+			<lost_password>
+				<eng>Forgot your password?</eng>
+				<popup>
+					<eng>If you already have an account but forgot your password, click on this link to have it sent to the given e-mail address!</eng>
+				</popup>
+			</lost_password>
+			<message>
+				<logging_in>
+					<eng>Logging in...</eng>
+				</logging_in>
+				<signing_up>
+					<eng>Signing up...</eng>
+				</signing_up>
+				<email_sent>
+					<eng>E-mail sent!</eng>
+				</email_sent>
+				<invalid_email>
+					<eng>Invalid E-mail!</eng>
+				</invalid_email>
+				<wrong_password>
+					<eng>Wrong e-mail or password!</eng>
+				</wrong_password>
+        <not_verified>
+          <eng>E-mail not verified!</eng>
+        </not_verified>
+        <pass_missmatch>
+					<eng>Password missmatch!</eng>
+				</pass_missmatch>
+				<user_exists>
+					<eng>E-mail already in use!</eng>
+				</user_exists>
+				<network_error>
+					<eng>Network error!</eng>
+				</network_error>
+				<saveloading>
+					<eng>Downloading character...</eng>
+				</saveloading>
+			</message>
+		</login>
+		<networkerror>
+			<error>
+				<message>
+					<eng>Network Error!</eng>
+				</message>
+				<desc>
+					<eng>There was a problem connecting to the server.\n\nCheck your network connection. If you leave the game now, any unsaved progress will be lost.</eng>
+				</desc>
+			</error>
+			<session>
+				<message>
+					<eng>Logged out!</eng>
+				</message>
+				<desc>
+					<eng>Your session has been invalidated. Press reconnect to try to restore the connection. If you leave the game now, any unsaved progress will be lost.</eng>
+				</desc>
+			</session>
+			<reconnecting>
+				<eng>Reconnecting...</eng>
+			</reconnecting>
+			<reconnect>
+			</reconnect>
+		</networkerror>
+		<scenario>
+			<levellow>
+				<eng>Before you jump into the Adventure Map, you may wish to level up your character in Story mode first. Completing at least part of the campaign will better prepare your character for Adventure Map.\n\nContinue?</eng>
+			</levellow>
+		</scenario>
+	</menu>
+	<Conversation>
+		<Common>
+			<Reward>
+				<InNextSeconds>
+					<eng>in next %s seconds</eng>
+				</InNextSeconds>
+				<GetAwayArtType>
+					<eng>%s %s</eng>
+				</GetAwayArtType>
+				<GetAwayArtifact>
+					<eng>Lost artifact:</eng>
+				</GetAwayArtifact>
+				<Gold>
+					<eng>%s gold</eng>
+				</Gold>
+				<HeroDamage>
+					<eng>%s Damage</eng>
+				</HeroDamage>
+				<HeroHP>
+					<eng>%s HP</eng>
+				</HeroHP>
+				<HeroMana>
+					<eng>%s mana</eng>
+				</HeroMana>
+				<HeroSkillpoint>
+					<eng>%s skillpoint(s)</eng>
+				</HeroSkillpoint>
+				<HeroAbilitypoint>
+					<eng>%s ability point(s)</eng>
+				</HeroAbilitypoint>
+				<HeroSpellpower>
+					<eng>%s spellpower</eng>
+				</HeroSpellpower>
+				<SkillToHero>
+					<eng>To the Main Hero:</eng>
+				</SkillToHero>
+				<ToAll>
+					<eng>to all %s</eng>
+				</ToAll>
+				<ToSome>
+					<eng>to %s %s</eng>
+				</ToSome>
+				<XP>
+					<eng>%s XP</eng>
+				</XP>
+			</Reward>
+		</Common>
+	</Conversation>	
+	<Tutorial>
+		<NoMoreTutorials_basic>
+			<eng>No more Basic Tutorials</eng>
+		</NoMoreTutorials_basic>
+		<NoMoreTutorials_advanced>
+			<eng>No more Advanced Tutorials</eng>
+		</NoMoreTutorials_advanced>
+		<switch_weapons>
+			<name>
+				<eng>Switch Weapons</eng>
+			</name>
+			<nameXBox>
+				<eng>Switch Weapons</eng>
+			</nameXBox>
+			<desc>
+				<eng>You can switch between your melee and ranged weapons by pressing these icons or “R”.</eng>
+			</desc>
+			<descXBox>
+				<eng>You can switch between your melee and ranged weapons by pressing the "Left Stick".</eng>
+			</descXBox>
+		</switch_weapons>
+		<companion_combat_states>
+			<name>
+				<eng>Katarina’s Combat stances</eng>
+			</name>
+			<nameXBox>
+				<eng>Katarina’s Combat stances</eng>
+			</nameXBox>
+			<desc>
+				<eng>You can tell you companion whether to use melee or ranged attacks by clicking these icons.</eng>
+			</desc>
+			<descXBox>
+				<eng>You can tell you companion whether to use melee or ranged attacks by clicking these icons.</eng>
+			</descXBox>
+		</companion_combat_states>
+		<new_item>
+			<name>
+				<eng>New Item</eng>
+			</name>
+			<nameXBox>
+				<eng>New Item</eng>
+			</nameXBox>
+			<desc>
+				<eng>You’ve got a new item in your inventory! Press this icon or “I” to access the screen.</eng>
+			</desc>
+			<descXBox>
+				<eng>You’ve got a new item in your inventory! Press the "Back" button to access the screen.</eng>
+			</descXBox>
+			<descXBoxOne>
+				<eng>You’ve got a new item in your inventory! Press the "View" button to access the screen.</eng>
+			</descXBoxOne>
+		</new_item>
+		<equip_item>
+			<name>
+				<eng>Equip items</eng>
+			</name>
+			<nameXBox>
+				<eng>Equip items</eng>
+			</nameXBox>
+			<desc>
+				<eng>You can quickly equip an item by using the right-mouse button on it or simply drag and drop it to the right slot.</eng>
+			</desc>
+			<descXBox>
+				<eng>You can quickly equip an item by pressing the "A" button.</eng>
+			</descXBox>
+		</equip_item>
+		<xbox_equipments>
+			<nameXBox>
+				<eng>Your equipments</eng>
+			</nameXBox>
+			<descXBox>
+				<eng>Use the "Right Stick" to select an equipment section.\nYou can only select sections that contain at least one available item.</eng>
+			</descXBox>
+		</xbox_equipments>
+		<hold_position>
+			<name>
+				<eng>Hold Position</eng>
+			</name>
+			<nameXBox>
+				<eng>Hold Position</eng>
+			</nameXBox>
+			<desc>
+				<eng>If you want to attack without moving, keep SHIFT pressed. This is a great way to ensure you don’t accidentally run up to enemies.</eng>
+			</desc>
+			<descXBox>
+				<eng>If you want to attack without moving, keep SHIFT pressed. This is a great way to ensure you don’t accidentally run up to enemies.</eng>
+			</descXBox>
+		</hold_position>
+		<new_points>
+			<name>
+				<eng>New Points Available</eng>
+			</name>
+			<nameXBox>
+				<eng>New Points Available</eng>
+			</nameXBox>
+			<desc>
+				<eng>Press this icon to open your Skill and Ability windows, where you can upgrade your stats.</eng>
+			</desc>
+			<descXBox>
+				<eng>Press the "Back" button to open your Character windows, where you can upgrade your abilities and skills.</eng>
+			</descXBox>
+			<descXBoxOne>
+				<eng>Press the "View" button to open your Character windows, where you can upgrade your abilities and skills.</eng>
+			</descXBoxOne>
+		</new_points>
+		<ability_points>
+			<name>
+				<eng>Spend Your Ability Points</eng>
+			</name>
+			<nameXBox>
+				<eng>Spend Your Ability Points</eng>
+			</nameXBox>
+			<desc>
+				<eng>You can spend your ability points by clicking the “+” buttons.</eng>
+			</desc>
+			<descXBox>
+				<eng>You can spend your ability points by selecting the ability and pressing the “A” button.</eng>
+			</descXBox>
+		</ability_points>
+		<skill_points>
+			<name>
+				<eng>Spend Your Skill Points</eng>
+			</name>
+			<nameXBox>
+				<eng>Spend Your Skill Points</eng>
+			</nameXBox>
+			<desc>
+				<eng>You can spend your skill points by clicking the “+” buttons or double-clicking a skill icon.</eng>
+			</desc>
+			<descXBox>
+				<eng>You can edit your skills by pressing the “A” button and spend your skill points.</eng>
+			</descXBox>
+		</skill_points>
+		<assigning_skills>
+			<name>
+				<eng>Assigning skills</eng>
+			</name>
+			<nameXBox>
+				<eng>Assigning skills</eng>
+			</nameXBox>
+			<desc>
+				<eng>You can assign a skill for the left and right mouse button by left clicking on these slots and choosing from the list.</eng>
+			</desc>
+			<descXBox>
+				<eng>While editing a skill you can open the link menu ("Y" button) and assign the skill to an action button by pressing the appropriate button.</eng>
+			</descXBox>
+		</assigning_skills>
+		<companion_levelup>
+			<name>
+				<eng>Companion Level Up</eng>
+			</name>
+			<nameXBox>
+				<eng>Companion Level Up</eng>
+			</nameXBox>
+			<desc>
+				<eng>Your companion has gained a level! Click here or press “O” to access her character sheet!</eng>
+			</desc>
+			<descXBox>
+				<eng>Your companion has gained a level! Click the "Back" button to access her character sheet!</eng>
+			</descXBox>
+			<descXBoxOne>
+				<eng>Your companion has gained a level! Click the "View" button to access her character sheet!</eng>
+			</descXBoxOne>
+		</companion_levelup>
+		<companion_ability_points>
+			<name>
+				<eng>Companion Ability Points</eng>
+			</name>
+			<nameXBox>
+				<eng>Companion Ability Points</eng>
+			</nameXBox>
+			<desc>
+				<eng>You can spend Katarina’s ability points by clicking the “+” buttons.</eng>
+			</desc>
+			<descXBox>
+				<eng>You can spend Katarina’s ability points by selecting the ability and pressing the “A” button.</eng>
+			</descXBox>
+		</companion_ability_points>
+		<companion_skill_points>
+			<name>
+				<eng>Companion Skill Points</eng>
+			</name>
+			<nameXBox>
+				<eng>Companion Skill Points</eng>
+			</nameXBox>
+			<desc>
+				<eng>Click on the skills tab, and spend Katarina’s skill points by clicking the “+”buttons or double-clicking a skill icon.</eng>
+			</desc>
+			<descXBox>
+				<eng>You can spend Katarina’s skill points by selecting the skill and pressing the “A” button.</eng>
+			</descXBox>
+		</companion_skill_points>
+		<companion_behaviour>
+			<name>
+				<eng>Behaviors</eng>
+			</name>
+			<nameXBox>
+				<eng>Behaviors</eng>
+			</nameXBox>
+			<desc>
+				<eng>This tab lets you tell your companion when to use potions and how to assist you in fights. Read the tooltips for more info.</eng>
+			</desc>
+			<descXBox>
+				<eng>This tab lets you tell your companion when to use potions and how to assist you in fights. Read the tooltips for more info.</eng>
+			</descXBox>
+		</companion_behaviour>
+		<rage>
+			<name>
+				<eng>Rage Bar</eng>
+			</name>
+			<nameXBox>
+				<eng>Rage Bar</eng>
+			</nameXBox>
+			<desc>
+				<eng>This yellow substance is your Rage resource. It is used to enhance your attacks. Press Space now to use Rage.</eng>
+			</desc>
+			<descXBox>
+				<eng>This yellow substance is your Rage resource. It is used to enhance your attacks. Press the "Left Bumper" to use Rage.</eng>
+			</descXBox>
+		</rage>
+		<powerup>
+			<name>
+				<eng>Powerup Skills</eng>
+			</name>
+			<nameXBox>
+				<eng>Powerup Skills</eng>
+			</nameXBox>
+			<desc>
+				<eng>Each time you use Rage, your next attack will have added effects like slow, stun, extra damage, etc. Use this as often as possible.</eng>
+			</desc>
+			<descXBox>
+				<eng>Each time you use Rage, your next attack will have added effects like slow, stun, extra damage, etc. Use this as often as possible.</eng>
+			</descXBox>
+		</powerup>
+		<powerup_hotkeys>
+			<name>
+				<eng>Powerup Skill Hotkeys</eng>
+			</name>
+			<nameXBox>
+				<eng>Powerup Skill Hotkeys</eng>
+			</nameXBox>
+			<desc>
+				<eng>Multiple clicks make the effect stronger. You can also use hotkeys 1,2,3 instead of clicking.</eng>
+			</desc>
+			<descXBox>
+				<eng>Multiple clicks make the effect stronger. You can also use hotkeys 1,2,3 instead of clicking.</eng>
+			</descXBox>
+		</powerup_hotkeys>
+		<set_combo>
+			<name>
+				<eng>Set Combo</eng>
+			</name>
+			<nameXBox>
+				<eng>Set Combo</eng>
+			</nameXBox>
+			<desc>
+				<eng>You can store one Powerup combo for each skill. Pressing “Space” will recall the combo during play.</eng>
+			</desc>
+			<descXBox>
+				<eng>You can store one Powerup combo for each skill. Press the "Y" button to set up your combo. Pressing "Left Bumper" will recall the combo during play.</eng>
+			</descXBox>
+		</set_combo>
+		<merchant>
+			<name>
+				<eng>Merchants</eng>
+			</name>
+			<nameXBox>
+				<eng>Merchants</eng>
+			</nameXBox>
+			<desc>
+				<eng>You can sell items to the merchant. Right click on items to sell or drag them to the merchant’s inventory.</eng>
+			</desc>
+			<descXBox>
+				<eng>You can sell items to the merchant. Press the "A" button to sell the selected item to the merchant’s inventory.</eng>
+			</descXBox>
+		</merchant>
+		<buyback>
+			<name>
+				<eng>Buyback</eng>
+			</name>
+			<nameXBox>
+				<eng>Buyback</eng>
+			</nameXBox>
+			<desc>
+				<eng>If you accidentally sell items you didn’t want to sell, they will be kept on this tab until you close the shop window.</eng>
+			</desc>
+			<descXBox>
+				<eng>If you accidentally sell items you didn’t want to sell, they will be on the merchant's offer tab until you close the shop window.</eng>
+			</descXBox>
+		</buyback>
+		<inventory_full>
+			<name>
+				<eng>Your Inventory is Full</eng>
+			</name>
+			<nameXBox>
+				<eng>Your Inventory is Full</eng>
+			</nameXBox>
+			<desc>
+				<eng>You can’t carry any more items. You can drop out items you don’t need from the inventory or sell them in town.</eng>
+			</desc>
+			<descXBox>
+				<eng>You can’t carry any more items. You can drop out items you don’t need from the inventory or sell them in town.</eng>
+			</descXBox>
+		</inventory_full>
+		<hp_mana_hotkeys>
+			<name>
+				<eng>Health and Mana hotkeys</eng>
+			</name>
+			<nameXBox>
+				<eng>Health and Mana hotkeys</eng>
+			</nameXBox>
+			<desc>
+				<eng>Use the “Q” and “W” hotkeys to quickly drink health or mana potions. This will keep you in better shape during combat.</eng>
+			</desc>
+			<descXBox>
+				<eng>Use the “DPad Left” and “DPad Right” hotkeys to quickly drink health or mana potions. This will keep you in better shape during combat.</eng>
+			</descXBox>
+		</hp_mana_hotkeys>
+		<map>
+			<name>
+				<eng>Map</eng>
+			</name>
+			<nameXBox>
+				<eng>Map</eng>
+			</nameXBox>
+			<desc>
+				<eng>Bring up the area map with this icon or by pressing “M”! It will help you to better find your way around on larger levels.</eng>
+			</desc>
+			<descXBox>
+				<eng>Bring up the area map by pressing the "DPad Down" button! It will help you to better find your way around on larger levels.</eng>
+			</descXBox>
+		</map>
+		<town_portal>
+			<name>
+				<eng>Town Portal</eng>
+			</name>
+			<nameXBox>
+				<eng>Town Portal</eng>
+			</nameXBox>
+			<desc>
+				<eng>You can return to the town by clicking this icon. You can teleport back using the ink gate in town.</eng>
+			</desc>
+			<descXBox>
+				<eng>You can return to the town by pressing the "DPad Up" button. You can teleport back using the ink gate in town.</eng>
+			</descXBox>
+		</town_portal>
+		<masters>
+			<name>
+				<eng>Masters</eng>
+			</name>
+			<nameXBox>
+				<eng>Masters</eng>
+			</nameXBox>
+			<desc>
+				<eng>There are masters in the game like this person, who can teach you new Tricks and Auras. You require gold to learn them.</eng>
+			</desc>
+			<descXBox>
+				<eng>There are masters in the game like this person, who can teach you new Tricks and Auras. You require gold to learn them.</eng>
+			</descXBox>
+		</masters>
+		<tricks_and_auras>
+			<name>
+				<eng>Auras</eng>
+			</name>
+			<nameXBox>
+				<eng>Auras</eng>
+			</nameXBox>
+			<desc>
+				<eng>You can only have two Auras ready at a time. “Shift+Left or Right Click” on them to assign them to a slot.</eng>
+			</desc>
+			<descXBox>
+				<eng>You can only have two Auras ready at a time. Press the "X" or the "Y" button to assign the selected aura to a slot.</eng>
+			</descXBox>
+		</tricks_and_auras>
+		<perks>
+			<name>
+				<eng>Perks</eng>
+			</name>
+			<nameXBox>
+				<eng>Perks</eng>
+			</nameXBox>
+			<desc>
+				<eng>Perks are special bonuses that are unlocked by meeting certain conditions, such as specific ability levels or skill combinations.</eng>
+			</desc>
+			<descXBox>
+				<eng>Perks are special bonuses that are unlocked by meeting certain conditions, such as specific ability levels or skill combinations.</eng>
+			</descXBox>
+		</perks>
+		<alternate_skill_sets>
+			<name>
+				<eng>Alternate skill set</eng>
+			</name>
+			<nameXBox>
+				<eng>Alternate skill set</eng>
+			</nameXBox>
+			<desc>
+				<eng>You can set up an alternate skill combination. Press Tab to switch to the alternate skill set, and back.</eng>
+			</desc>
+			<descXBox>
+				<eng>You can set up an alternate skill combination. Press Tab to switch to the alternate skill set, and back.</eng>
+			</descXBox>
+		</alternate_skill_sets>
+		<skill_hotkeys>
+			<name>
+				<eng>Skill hotkeys</eng>
+			</name>
+			<nameXBox>
+				<eng>Skill hotkeys</eng>
+			</nameXBox>
+			<desc>
+				<eng>Bind your skills to hotkeys for quicker access. Hover the cursor over a skill in the skill selection list and press “F1-F8”.</eng>
+			</desc>
+			<descXBox>
+				<eng>Bind your skills to hotkeys for quicker access. Hover the cursor over a skill in the skill selection list and press “F1-F8”.</eng>
+			</descXBox>
+		</skill_hotkeys>
+		<mastery_level>
+			<name>
+				<eng>Mastery Level</eng>
+			</name>
+			<nameXBox>
+				<eng>Mastery Level</eng>
+			</nameXBox>
+			<desc>
+				<eng>Besides the percentile bonus, the Mastery Level bestows a special passive ability for every 10% reached.</eng>
+			</desc>
+			<descXBox>
+				<eng>Besides the percentile bonus, the Mastery Level bestows a special passive ability for every 10% reached.</eng>
+			</descXBox>
+		</mastery_level>
+		<expert_skills>
+			<name>
+				<eng>Skill Expertise and Mastery</eng>
+			</name>
+			<nameXBox>
+				<eng>Skill Expertise and Mastery</eng>
+			</nameXBox>
+			<desc>
+				<eng>At 5th level, skills unlock upgrades that can be purchased for 1 skill point. Some skills unlock another upgrade at 10th level.</eng>
+			</desc>
+			<descXBox>
+				<eng>At 5th level, skills unlock upgrades that can be purchased for 1 skill point. Some skills unlock another upgrade at 10th level.</eng>
+			</descXBox>
+		</expert_skills>
+		<new_magic_item>
+			<name>
+				<eng>New Magic Item</eng>
+			</name>
+			<nameXBox>
+				<eng>New Magic Item</eng>
+			</nameXBox>
+			<desc>
+				<eng>You’ve just found a magic item! Open your inventory “I” and check it out!</eng>
+			</desc>
+			<descXBox>
+				<eng>You’ve just found a magic item! Open your inventory “I” and check it out!</eng>
+			</descXBox>
+		</new_magic_item>
+		<storage>
+			<name>
+				<eng>Storage</eng>
+			</name>
+			<nameXBox>
+				<eng>Storage</eng>
+			</nameXBox>
+			<desc>
+				<eng>This is your storage chest. You can store items here that you don’t currently use, but you don’t want to sell either.</eng>
+			</desc>
+			<descXBox>
+				<eng>This is your storage chest. You can store items here that you don’t currently use, but you don’t want to sell either.</eng>
+			</descXBox>
+		</storage>
+		<reputation>
+			<name>
+				<eng>Reputation</eng>
+			</name>
+			<nameXBox>
+				<eng>Reputation</eng>
+			</nameXBox>
+			<desc>
+				<eng>A Perk has become available! Click here to choose a perk for your character.</eng>
+			</desc>
+			<descXBox>
+				<eng>A Perk has become available! Press the "Back" button to choose a perk for your character.</eng>
+			</descXBox>
+			<descXBoxOne>
+				<eng>A Perk has become available! Press the "View" button to choose a perk for your character.</eng>
+			</descXBoxOne>
+		</reputation>
+		<move_attack>
+			<name>
+				<eng>Move/Attack</eng>
+			</name>
+			<nameXBox>
+				<eng>Move/Attack</eng>
+			</nameXBox>
+			<desc>
+				<eng>Left-click to move/attack enemies.</eng>
+			</desc>
+			<descXBox>
+				<eng>Use the "Left Stick" to move and press the "X" button to attack enemies.</eng>
+			</descXBox>
+		</move_attack>
+		<healing_damage>
+			<name>
+				<eng>Healing Damage</eng>
+			</name>
+			<nameXBox>
+				<eng>Healing Damage</eng>
+			</nameXBox>
+			<desc>
+				<eng>Use potions – press “Q” when you need to heal.</eng>
+			</desc>
+			<descXBox>
+				<eng>Use potions – press the “DPad Left” button when you need to heal.</eng>
+			</descXBox>
+		</healing_damage>
+		<secondary_attack>
+			<name>
+				<eng>Secondary Attack</eng>
+			</name>
+			<nameXBox>
+				<eng>Secondary Attack</eng>
+			</nameXBox>
+			<desc>
+				<eng>You now have a secondary attack skill. Right-click on enemies to use it.</eng>
+			</desc>
+			<descXBox>
+				<eng>You now have a secondary attack skill. Use the "A" button to use it.</eng>
+			</descXBox>
+		</secondary_attack>
+		<forge>
+			<name>
+				<eng>Artifact Forging</eng>
+			</name>
+			<nameXBox>
+				<eng>Artifact Forging</eng>
+			</nameXBox>
+			<desc>
+				<eng>Place items on the top three slots and press “Forge” to make a new random item. The source items must be of the same rarity.</eng>
+			</desc>
+			<descXBox>
+				<eng>Place items on the top three slots and press the "Y" button to make a new random item. The source items must be of the same rarity.</eng>
+			</descXBox>
+		</forge>
+		<quest_reminder>
+			<name>
+				<eng>Quest Reminder</eng>
+			</name>
+			<nameXBox>
+				<eng>Quest Reminder</eng>
+			</nameXBox>
+			<desc>
+				<eng>This is a list of your current tasks. Use the map to find your way to the location of the tasks.</eng>
+			</desc>
+			<descXBox>
+				<eng>This is a list of your current tasks. Use the map to find your way to the location of the tasks.</eng>
+			</descXBox>
+		</quest_reminder>
+		<companion_death>
+			<name>
+				<eng>Companion Death</eng>
+			</name>
+			<nameXBox>
+				<eng>Companion Death</eng>
+			</nameXBox>
+			<desc>
+				<eng>When Katarina “dies” she falls in a weakened state for a short time. While weakened her passive skills still provide bonuses.</eng>
+			</desc>
+			<descXBox>
+				<eng>When Katarina “dies” she falls in a weakened state for a short time. While weakened her passive skills still provide bonuses.</eng>
+			</descXBox>
+		</companion_death>
+		<drawn_spell>
+			<name>
+				<eng>New spell type: Drawn spell</eng>
+			</name>
+			<nameXBox>
+				<eng>New spell type: Drawn spell</eng>
+			</nameXBox>
+			<desc>
+				<eng>This spell lets you determine its shape and direction. Please read the spell’s description for details.</eng>
+			</desc>
+			<descXBox>
+				<eng>This spell lets you determine its shape and direction. Please read the spell’s description for details.</eng>
+			</descXBox>
+		</drawn_spell>
+		<chargeable_spell>
+			<name>
+				<eng>New spell type: Chargeable spell</eng>
+			</name>
+			<nameXBox>
+				<eng>New spell type: Chargeable spell</eng>
+			</nameXBox>
+			<desc>
+				<eng>This spell can be overcharged for greater effect. Please read the spell’s description for details.</eng>
+			</desc>
+			<descXBox>
+				<eng>This spell can be overcharged for greater effect. Please read the spell’s description for details.</eng>
+			</descXBox>
+		</chargeable_spell>
+		<channeled_spell>
+			<name>
+				<eng>New spell type: Channeled spell</eng>
+			</name>
+			<nameXBox>
+				<eng>New spell type: Channeled spell</eng>
+			</nameXBox>
+			<desc>
+				<eng>This is a continuously channeled spell. Please read the spell’s description for details.</eng>
+			</desc>
+			<descXBox>
+				<eng>This is a continuously channeled spell. Please read the spell’s description for details.</eng>
+			</descXBox>
+		</channeled_spell>
+		<glory>
+			<name>
+				<eng>Glory</eng>
+			</name>
+			<nameXBox>
+				<eng>Glory</eng>
+			</nameXBox>
+			<desc>
+				<eng>Once you reach the level cap, you start earning Glory Points that you can distribute on the Glory window. Note that Glory bonuses apply to all your characters across your whole account.</eng>
+			</desc>
+			<descXBox>
+				<eng>Once you reach the level cap, you start earning Glory Points that you can distribute on the Glory window. Note that Glory bonuses apply to all your characters across your whole account.</eng>
+			</descXBox>
+		</glory>
+	</Tutorial>
+	<GameMode>
+		<team>
+			<label>
+				<eng>Team</eng>
+			</label>
+			<team1>
+				<eng>Blue</eng>
+			</team1>
+			<team2>
+				<eng>Red</eng>
+			</team2>
+		</team>
+		<Lobby>
+			<Grid>
+				<Players>
+					<eng>Players</eng>
+				</Players>
+				<Level>
+					<eng>Level</eng>
+				</Level>
+				<Team>
+					<eng>Team</eng>
+				</Team>
+				<Latency>
+					<eng>Latency</eng>
+				</Latency>
+			</Grid>
+			<Ready>
+				<eng>Ready</eng>
+			</Ready>
+			<Game_Info>
+				<eng>Game Mode Info</eng>
+			</Game_Info>
+			<Map_Name>
+				<eng>Map</eng>
+			</Map_Name>
+			<GameMode>
+				<eng>Game Mode</eng>
+			</GameMode>
+			<Chat>
+				<eng>Chat</eng>
+			</Chat>
+		</Lobby>
+		<ScoreLimit>
+			<eng>Score Limit</eng>
+		</ScoreLimit>
+		<TimeLimit>
+			<eng>Time Limit</eng>
+		</TimeLimit>
+		<ScoreBoard>
+			<title>
+				<eng>Scoreboard</eng>
+			</title>
+			<Player>
+				<eng>Player</eng>
+			</Player>
+			<Team>
+				<eng>Team</eng>
+			</Team>
+			<Score>
+				<eng>Score</eng>
+			</Score>
+			<Latency>
+				<eng>Latency</eng>
+			</Latency>
+		</ScoreBoard>
+		<GameMode>
+			<coop>
+				<eng>Story</eng>
+				<desc>
+					<eng>Story mode lets you play through the main campaign with your friends.</eng>
+				</desc>
+			</coop>
+			<scenario>
+				<eng>Adventure</eng>
+				<desc>
+					<eng>In Adventure mode you can play the special scenario maps that feature 30+ level enemies and special epic items.</eng>
+				</desc>
+			</scenario>
+			<deathmatch>
+				<eng>Deathmatch</eng>
+			</deathmatch>
+			<team_deathmatch>
+				<eng>Team Deathmatch</eng>
+			</team_deathmatch>
+			<ctf>
+				<eng>Capture the flag</eng>
+			</ctf>
+			<king_of_the_hill>
+				<eng>King of the Hill</eng>
+			</king_of_the_hill>
+			<team_king_of_the_hill>
+				<eng>Team King of the Hill</eng>
+			</team_king_of_the_hill>
+			<moba>
+				<eng>Hunter Games</eng>
+			</moba>
+			<captain>
+				<eng>Captain</eng>
+			</captain>
+			<objective>
+				<eng>objective</eng>
+			</objective>
+			<touchdown>
+				<eng>Touchdown</eng>
+			</touchdown>
+			<battle_royale>
+				<eng>Battle Royal</eng>
+				<desc>
+					<eng>Battle Royal is a PvP mode that pits characters against each other in Free for All style, with a point scoring system. The strongest player is designated as target for the others and killing him is worth extra points. The arena also contains enemies hostile to everyone, guarding special items that can help a player gain the edge over the others.</eng>
+				</desc>
+				<scoreboard>
+					<eng>Battle Royal scoring help:\n- Player kill: 2 points\n- Designated target kill: 10 points\n- Killed by monster: -5 points</eng>
+				</scoreboard>
+				<Target>
+					<eng>Target</eng>
+				</Target>
+			</battle_royale>
+			<last_man_standing>
+				<eng>Last Man Standing</eng>
+			</last_man_standing>
+			<bowling>
+				<eng>Bowling</eng>
+			</bowling>
+			<levelreq>
+				<eng>Level required: %d</eng>
+			</levelreq>
+		</GameMode>
+		<BattleRoyale>
+			<HeroKilled>
+				<eng>Player killed: +%d points</eng>
+			</HeroKilled>
+			<TargetKilled>
+				<eng>Target killed: +%d points</eng>
+			</TargetKilled>
+			<DeathByNeutral>
+				<eng>Killed by monsters: %d points</eng>
+			</DeathByNeutral>
+		</BattleRoyale>
+		<winner>
+			<individual>
+				<eng>%s has won the game!</eng>
+			</individual>
+			<team>
+				<eng>%s team has won the game!</eng>
+			</team>
+			<tie>
+				<eng>It' a tie</eng>
+			</tie>
+		</winner>
+	</GameMode>
+</Root>
+

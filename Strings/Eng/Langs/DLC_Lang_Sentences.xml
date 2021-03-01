@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<SimplifiedConversation>
+		<Banters_classDLC>
+			<Priest>
+				<I_need_the_mystic_gem>
+					<01_Priest>
+						<eng>We have no time to lose! My villagers are swiftly abandoning the faith. I need that bless?d relic to show them the light!</eng>
+					</01_Priest>
+				</I_need_the_mystic_gem>
+			</Priest>
+			<Katarina>
+				<Katarinas_sin>
+					<01_VH>
+						<eng>I know that it was only the gem that made you open up, but should you ever want to discuss... your past, I'm here.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>What are you now, a priest? We should never touch such gems again.</eng>
+					</02_Katarina>								
+				</Katarinas_sin>
+			</Katarina>
+			<guard>
+				<Be_careful_hunter>
+					<01_Guard_falu>
+						<eng>Be careful, hunter! That old battlefield is a dangerous place, even for people like you.</eng>
+					</01_Guard_falu>
+				</Be_careful_hunter>
+			</guard>
+			<Pale_gentleman>
+				<Do_your_job>
+					<01_Pale_gentleman>
+						<eng>I'm getting impatient, hunter! Do what you promised to do, and I'll be grateful.</eng>
+					</01_Pale_gentleman>
+				</Do_your_job>
+				<This_is_mine_sewer1>
+					<01_Pale_gentleman>
+						<eng>This is my territory now, hunter. Leave immediately.</eng>
+					</01_Pale_gentleman>
+				</This_is_mine_sewer1>
+				<This_is_mine_sewer2>
+					<01_Pale_gentleman>
+						<eng>Didn't you see that sign? No hunters allowed.</eng>
+					</01_Pale_gentleman>
+				</This_is_mine_sewer2>
+				<This_is_mine_sewer3>
+					<01_Pale_gentleman>
+						<eng>This secret lair is too small for us, hunter.</eng>
+					</01_Pale_gentleman>
+				</This_is_mine_sewer3>
+				<This_is_mine_sewer4>
+					<01_Pale_gentleman>
+						<eng>You had your chance to work for me. Please, leave now.</eng>
+					</01_Pale_gentleman>
+				</This_is_mine_sewer4>
+			</Pale_gentleman>
+			<Rebel_soldier>
+				<I_dont_go_with_you1>
+					<01_Rebel_soldier>
+						<eng>I'd love to join you, but I took a strange elyctrical projectile in the knee.</eng>
+					</01_Rebel_soldier>
+				</I_dont_go_with_you1>
+				<I_dont_go_with_you2>
+					<01_Rebel_soldier>
+						<eng>Good hunting! I mean, good hunting, sir!</eng>
+					</01_Rebel_soldier>
+				</I_dont_go_with_you2>
+				<I_dont_go_with_you3>
+					<01_Rebel_soldier>
+						<eng>Don't worry, sir, I will guard this strategically important position.</eng>
+					</01_Rebel_soldier>
+				</I_dont_go_with_you3>
+			</Rebel_soldier>
+			<Pale_gentleman_2>
+				<Do_your_job_2>
+					<01_Pale_gentleman_2>
+						<eng>Hurry up, hunter! We can't be late with the ritual.</eng>
+					</01_Pale_gentleman_2>
+				</Do_your_job_2>
+			</Pale_gentleman_2>
+		</Banters_classDLC>
+	</SimplifiedConversation>
+</Root>

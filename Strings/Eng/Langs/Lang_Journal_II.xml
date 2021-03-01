@@ -1,0 +1,782 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Journal>
+		<Misc>
+			<MainQuest>
+				<eng>Main Quest</eng>
+			</MainQuest>
+			<SideQuest>
+				<eng>Side Quest</eng>
+			</SideQuest>
+			<TDQuest>
+				<eng>Tower Defense Quest</eng>
+			</TDQuest>
+			<Chapter>
+				<eng>Chapter %d</eng>
+			</Chapter>
+			<active>
+				<eng>Active</eng>
+			</active>
+			<completed>
+				<eng>Completed</eng>
+			</completed>
+			<failed>
+				<eng>Failed</eng>
+			</failed>
+			<quests>
+				<label>
+					<eng>Quests</eng>
+				</label>
+				<popup>
+					<eng>Current and finished quests</eng>
+				</popup>
+			</quests>
+			<game>
+				<label>
+					<eng>Game</eng>
+				</label>
+				<popup>
+					<eng>Information about the game</eng>
+				</popup>
+			</game>
+			<compendium>
+				<label>
+					<eng>Compendium</eng>
+				</label>
+				<popup>
+					<eng>Information about heroes, monsters and villains</eng>
+				</popup>
+			</compendium>
+			<world>
+				<label>
+					<eng>World</eng>
+				</label>
+				<popup>
+					<eng>Information about the World of Van Helsing and Borgovia in particular</eng>
+				</popup>
+			</world>
+		</Misc>
+		<Tutorial>
+			<title>
+				<eng>Tutorial</eng>
+			</title>
+			<popup>
+				<eng>If you can't remember a crucial piece of information from the tutorial, you can refresh your memory here!</eng>
+			</popup>
+			<Movementandinteraction>
+				<title>
+					<eng>Movement and interaction</eng>
+				</title>				
+				<desc>
+					<eng>Use the Left Mouse Button to move around and interact with the world of Van Helsing 2:\n\n- Left clicking on the ground makes your character walk there.\n- Left clicking on a highlighted item or its name will pick up that item \n- Left clicking on a highlighted object (i.e. a switch) makes your character interact with that object\n- Left clicking on an enemy makes your character attack the enemy with his main skill</eng>
+				</desc>
+			</Movementandinteraction>
+			<Combat>
+				<title>
+					<eng>Combat</eng>
+				</title>				
+				<desc>
+					<eng>To engage enemies activate one of your character’s combat skills, assigned to one of the skill slots. There are a total of 8 skill slots available to you. \n\n- Left and Right click activates the skill assigned to the two main skill slots. \n- Keys 1-6 activate the skills assigned to the secondary skill slots. \n- By pressing TAB, you can switch back and forth between an alternate set of bot main and secondary skill slots. \n- If you play a Hunter class character, you can also press “R” to switch between a melee and a ranged skill set, with separate skill slots.\n\nTips\n- If you press Shift while attacking with the Left Mouse Button, your character will hold his position. \n- By pressing Alt along with the Left Mouse Button you can make sure that your character does NOT attack (i.e you want to escape a crowd of enemies).</eng>
+				</desc>
+			</Combat>
+			<Resources>
+				<title>
+					<eng>Resources</eng>
+				</title>				
+				<desc>
+					<eng>There are three main resources in Van Helsing 2, represented by the colored orb in center bottom of the screen. \n\n - Health (or Hit Points) is shown in red. If it drops to 0 your character dies and will have to respawn. \n- Mana is shown in blue. Most skills require some of this resource to be used. \n- Rage is shown in yellow. It is used to activate Powerups, which add special effects to skills when used. (See Rage and Powerups for more information).\n\n Tips\n- To quickly recharge health or mana, use the hotkeys “Q” and “W” to drink health and mana potions.</eng>
+				</desc>
+			</Resources>
+			<RageandPowerups>
+				<title>
+					<eng>Rage and Powerups</eng>
+				</title>				
+				<desc>
+					<eng>Rage and Powerups are used to enhance attacks with additional effects. Although their use is not absolutely necessary, they can greatly increase your character’s power.\n\n- Rage is gathered by killing enemies and slowly dissipates if not used.\n- Each skill has three associated powerups listed, which must be purchased like regular skills when leveling up.\n- Powerups add their effect to a single attack performed with the associated skill. They must be charged prior to each attack by clicking on their icon or pressing the appropriate hotkey (“A”, “S” or “D”).\n- Powerups can be charged up to three times for increased effect. They can also be used in combination with each other, by distributing the three charges among them.\n\nTips\n- You can create powerup combination presets for each skill with the Set Combo button (left from the main skill slot). The combinations can then be quickly recalled at any time by pressing Space.\n- Some skills benefit from the Rage bar being full. If you don’t want to use powerups, you may wish to purchase these skills instead.</eng>
+				</desc>
+			</RageandPowerups>
+			<LevelingUp>
+				<title>
+					<eng>Leveling Up</eng>
+				</title>				
+				<desc>
+					<eng>Your character gains experience and levels up as he progresses through the story. To benefit from experience, you need to distribute the various points gained at level up.\n\n- Attribute points are distributed in the Character window (accessed by pressing “C”). Attributes increase your character’s resources and give bonuses to skills. They have no upper limit.\n- Skill points are distributed in the Skills window (accessed by pressing “K”). Skills can be upgraded to a maximum level of 10, each level costing 1-3 skill points depending on the skill.\n- You can purchase powerups for skills, each costing 1 skill point.\n- There are also expertise skills that become avaliable when a skill reaches level 5 and 10.\n- Lastly there is the Tab Mastery bar (on the left of the window). This automatically increases as you purchase skills and provides a bonus to all skills on that tab. At level 10, 20, etc. it also provides additional passive bonuses.\n\n - Tips\n- By pressing Ctrl + left click you can spend 5 points of Attribute or Skill points. Shift + left click spends all avaliable points at once.</eng>
+				</desc>
+			</LevelingUp>
+			<ReputationandGlory>
+				<title>
+					<eng>Reputation and Glory</eng>
+				</title>				
+				<desc>
+					<eng>Two additional ways to level up your character are Reputation and Glory. These are handled sepratately from the regular level up.\n\n- You gain Reputation by killing high ranked enemies like champions and bosses. When you gain enough Reputation you are awarded a Perk point with which you can purchase a perk in the perk window (accessed by pressing “L”).\n- Perks are special bonuses that are usually hard to come by otherwise. Some of them can change your character in unique ways.\n- Once your character reaches the level cap, he no longer gains experience but will gain Glory points instead. These can be used to purchase small bonuses in much the same way as Perks.</eng>
+				</desc>
+			</ReputationandGlory>
+			<Inventory>
+				<title>
+					<eng>Inventory</eng>
+				</title>				
+				<desc>
+					<eng>You can access your inventory of items by pressing “I”.\n\n- Drag items with the left mouse button to the appropriate slots or right click on them to equip them.\n- Simply drag items out of the inventory window to drop them on the ground.\n- The item tooltips contain useful hotkeys to move around items in your inventory and that of Katarina’s. </eng>
+				</desc>
+			</Inventory>
+			<CompanionWindow>
+				<title>
+					<eng>Companion Window</eng>
+				</title>				
+				<desc>
+					<eng>You have a permanent companion, Lady Katarina by your side. She can be of great assistance to you in many ways.\n\n- Lady Katarina has three combat shapes available. You can change between these by clicking on the buttons beside her portrait.\n- She has her own character sheet and inventory that you can access by pressing “O”.\n- She gains levels, Attribute and Skill points the same as you. Make sure to spend these.\n- You can influence how she fights and gathers equipment on the Behaviour tab.\n- You can also send her to sell items in her inventory and buy potions with the Go Shopping button on her equipment tab.\n\nTips\n- You can quickly set the treshold at which she uses health potions with the slider next to her portrait. You can also make her drink a potion by clicking on the potion icon there. She must have some potions in her inventory of course.</eng>
+				</desc>
+			</CompanionWindow>						
+		</Tutorial>
+		<Mechanics>
+			<title>
+				<eng>Game Mechanics</eng>
+			</title>
+			<popup>
+				<eng>The Incredible Adventures of Van Helsing™ is a complex game. Don't give up if you don't understand all of the intricate game mechanics right away, check out this list of the most important ones!</eng>
+			</popup>
+			<DefensiveStatistics>
+				<title>
+					<eng>Defensive Statistics</eng>
+				</title>				
+				<desc>
+					<eng>There are 8 defensive values in Van Helsing 2: Defense, Dodge, Block, Damage Reduction, the three Resistances and the Crowd Control Resistance.\n\n- Defense is compared to each attacker attack strength and a percent value is calculated. A random roll then determines whether the attack was avoided.\n- Defense does not protect against magical attacks (like elemental bolts) and most area of effect attacks.\n- Dodge works very similarly to Defense but it protects against all attacks. However, it is much more difficult to attain a high Dodge value. Dodge chance is calculated prior to Defense.\n- Block is only used when wielding melee weapons and is a flat percentage chance that protects against close range attacks. It is calculated between Dodge and Defense.\n\n-If an attack is not deflected by either primary defensive statistics, damage is calculated.\n- The damage is first decreased by the resistance of the appropriate type. Physical damage for example is reduced by the Physical Resistance.\n- The Resistance values are transformed into a percentage value by comparing them to the character’s level. The higher level the character is, the less the same Resistance value is worth.\n- The remaining damage is decreased by the general Damage Reduction, which is a flat percentage value.\n- Lastly, the Crowd Control Resistance is a percentage value which decreases the duration of debilitating effects (slow, stun, etc.) on your character.</eng>
+				</desc>
+			</DefensiveStatistics>
+			<Items>
+				<title>
+					<eng>Items</eng>
+				</title>				
+				<desc>
+					<eng>Besides attributes and skills, equipment is the most crucial factor in deciding your character’s power. Items come in many different types and quality.\n\n- There are five quality categories in Van Helsing 2. From the weakest to the most powerful: Normal (White), Magic (Blue), Rare (Yellow), Epic (Orange), and Legendary (Red).\n- Set items (Green) are a special quality category. These items are more powerful if worn together with other items of the same set.\n- Starting with magic items, each item has one or more enchantments on it. In case of Magic and Rare items these are chosen randomly, while Epic, Set, and Legendary items have fixed enchantments.\n- The maximum number of base enchantments an item can have (with a few rare exceptions) is seven.</eng>
+				</desc>
+			</Items>
+			<Enchanter>
+				<title>
+					<eng>Enchanter</eng>
+				</title>				
+				<desc>
+					<eng>Items can be further enhanced by placing additional enchantments on them at the Enchanter. Most items can hold one extra enchantment, but some can hold two. You can access this feature at the Lair, at the NPC called Saffi.\n\n- You can apply the extra enchantment(s) on the Enchant tab of the enchanter window. The new enchantment will be chosen randomly.\n- An item cannot have multiple enchantments of the same type and certain types of items cannot bear certain types of enchantments. Weapons for example cannot have a Defense enchantment.\n- You can replace individual enchantments on the Replace tab. You can replace any enchantments here, not just the extra one(s). The new enchantment will also be randomly chosen.\n- The Reroll tab allows for changing the strength of individual enchantments, without changing the type. The value will be changed randomly within a certain interval.\n- The enchanter also lets you change the cosmetic appearance of your item to that of another item. You can even give your favourite items a name if you want.</eng>
+				</desc>
+			</Enchanter>
+			<Alchemy>
+				<title>
+					<eng>Alchemy</eng>
+				</title>				
+				<desc>
+					<eng>Another way to increase your equipment’s strength is infusing them with essences. Alchemical enchantments occupy separate slots and the usual enchantment limitations do not apply to them. You can access this feature at the Lair, at the NPC called Dr. Dampf.\n\n- To infuse an item with essences, the item must have enough Essence Capacity (indicated by a purple stripe). The maximum possible essence capacity is 50.\n- Capacitive Essences can be used to increase an item’s Essence Capacity, but by no more than 20 and the maximum limit cannot be exceeded either.\n- To infuse an item, simply drag it onto the Enchant item tab of the alchemy window along with an essence.\n- You can reverse the process on the Dismantle item tab. Note that you can also separate merged essences here.\n- On the Enhance Essence tab, you can merge an essence into another essence to increase its potency. The enchancer essences are lost in the process, so if you later decide to break down the merged essence, you wil get copies of the improved one.\n- Certain essences can be combined with each other on the Combine essence tab, resulting in a new essence type. Not all combinations yield results however, so you may need to experiment.\n\nTips\n- If you infuse an item with multiple essences of the same type, those essences will be merged together, as if they were merged on the Enhance Essence tab. This may increase the items level requirement so be careful.</eng>
+				</desc>
+			</Alchemy>
+			<ArtifactForging>
+				<title>
+					<eng>Artifact Forging</eng>
+				</title>				
+				<desc>
+					<eng>You can try to combine enchantments on different items by molding them together in the Artifact Forge. You can access this feature at the Lair, at the NPC called the Inventor.\n\n- Select an item that has some enchantments you like and others you may want to change to something else. Drag this item into the Forged Item slot in the Artifact Forge window.\n- Choose one or more items that have enchantments you would like to transfer to the forged item. Drag these into the Source slots.\n- Upon forging, the Source items will be destroyed, and half of their enchantments – chosen randomly – will be transferred to the Forged item.\n- The Forged item loses half of its enchantments – also chosen randomly – and receives the new enchantments from the Source items.\n- For each Source item destroyed, there is a chance that the Forged item becomes stronger and gains an extra enchantment.\n- If multiple enchantments of the same type are transferred from the Source items, the resulting enchantment on the Forged item will be stronger.</eng>
+				</desc>
+			</ArtifactForging>
+			<Runecrafting>
+				<title>
+					<eng>Runecrafting</eng>
+				</title>				
+				<desc>
+					<eng>The third way to customize items is to craft them from scratch. Runecrafting allows you to do just that. You can access this feature at the Lair, at the NPC called Vasily Mechanov.\n\n- Runecrafting requires a base item, master runes and enchantment runes.\n- Runes are made from Rune fragments that can be gained by breaking down on the Dismantle tab of tha Runecrafting window.\n- Each item is broken down to one Master Rune fragment of the same quality that the item had, as well as one Enchantment fragment for each enchantment on the item. The tooltips of the fragment slots on the tab list these when you place an item in the Source item slot.\n- Once you have 5 fragments of the same type (Master or a specific enchantment), you can create a rune from them on the Craft Rune tab.\n\n- You can do the actual crafting on the Create Item tab by dragging a base item (any Normal, Magic or Rare item) into the appropriate slot.\n- The base item loses all of its existing enchantments in the crafting process, only retaining its type and base values (i.e. Damage, Attack Rate, etc.)\n- The new item will have three random enchantments that you cannot influence in any way. However, you can influence how many more enchantments the item will have as well as the type of those.\n- By placing a Master Rune into an “Empty Enchantment” row you add one more random enchantment to the item. By placing an Enchantment Rune next to the Master Rune, you can determine the type of enchantment.\n- If you wish the new item to have an Essence Capacity, you can place Master Runes into the slots at the bottom of the window, adding 10 Essence Capacity per rune.\n\nTips\n- At minimum, you need to place one Magic Master Rune into the first “Empty Enchantment” row to be able to create a new item.\n- Runecrafted items can receive extra enchantments and essences the same as any item. By combining Runecrafted items with the other crafting methods, you can create powerful items completely customized to your liking.</eng>
+				</desc>
+			</Runecrafting>
+			<ResistanceManagement>
+				<title>
+					<eng>Resistance Management</eng>
+				</title>				
+				<desc>
+					<eng>As leader of the Resistance you can manage the elite troops of the cause. This is an optional task but how the Resistance elite fares may slightly influence the story. This feature can be accessed in the Lair at the Command Post.\n\n- Various missions will become available from time to time and your job is to send contingents to complete them.\n- Each contingent is led by a captain. Captains have a list of attributes that define how good they are in various situations that can occur during missions. When you choose a captain for a mission, you need to take these attributes into account.\n- The other main factor that decides the outcome of missions is the overall Army Strength. It indicates how strong your army is compared to the maximum possible strength at any given time. The number of soldiers, the equipment and the number of relics you have all contribute to this value.\n- For each mission, the commander will describe the situation giving you clues on what attributes will be needed. You can then click on the captains who will each give you an approach to the mission. Your job is to decide who’s approach has the best chance to succeed.\n- Missions take a set amount of time to finish. Once that time has elapsed you can read the mission outcome by clicking on the mission in the finished missions list. If the mission is a failure, the captain may become wounded and unavailable for a while.</eng>
+				</desc>
+			</ResistanceManagement>
+			<TheChimera>
+				<title>
+					<eng>The Chimera</eng>
+				</title>				
+				<desc>
+					<eng>The Chimera is a creature made of the material of the Ink, a clever, swift and strong being. According to legend, the very first Chimera was originally created by Koschei the Deathless, the greatest wizard of all time. He designed his experiment to be bodyguards and hunters in the Ink. The Ink slowly distorts them, though, so the older specimens end up as devious beasts.\n\nThe Chimera's body is made of raw Ink-material, and a creature of pure magic won’t consume ordinary food. They live on magical essences that they smell from miles away.\n\nThe Chimera’s body can be influenced by arcane means. The master must place magic candles in the summoning ring to grant the creature strength, faster movement, thicker hide, resistance to magic or advanced fighting skills.\n\nIn order to turn the Chimera into a loyal Guardian, a prospective master must defeat it in a special Circle of Combat.  If he or she fails, the creature is set free.</eng>
+				</desc>
+			</TheChimera>			
+		</Mechanics>
+		<Modes>
+			<title>
+				<eng>Game Modes</eng>
+			</title>
+			<popup>
+				<eng>There's so much to do in The Incredible Adventures of Van Helsing™! Explore the multitude of game modes here!</eng>
+			</popup>
+			<Scenarios>
+				<title>
+					<eng>Adventures</eng>
+				</title>				
+				<desc>
+					<eng>Once you’ve completed the main campaign, the Adventure levels become available to you. These are designed to give you some additional challenge as well as high quality loot.\n\n- You can access the Adventure mode from the main menu, with a sufficiently high level character.\n- There are six Adventure levels, shown in the Adventure window. When you first open the window, a Special Rule is randomly chosen for each level which defines how you must complete them.\n- Five Special Conditions are also randomly selected which increase each level’s difficulty along with modifiers for item drop rate and other rewards. You control how many of these are active when you play the level. The more conditions, the harder the game but the better the rewards.\n\n- Three randomly chosen levels are stringed together into a Adventure Campaign, which means they must be completed in a specific order. At the end of this campaign a very strong boss enemy appears with very high quality loot.\n\n- You can select the difficulty level for the Adventure playthroughs and you can also Reroll to randomly replace the Special Rules and Special Conditions for the levels.\n\n- The Lair and all of its functions are still available to you in this mode, and you can reach the Adventure levels themselves through the Ink Gate.</eng>
+				</desc>				
+			</Scenarios>
+			<NeverendingStoryCampaign>
+				<title>
+					<eng>Neverending Story</eng>
+				</title>				
+				<desc>
+					<eng>Upon completing the main campaign you can restart it in Neverending Story mode. Enemies will be leveled up to level 60 and beyond.\n\n- You no longer gain experience in Neverending Story mode, but you do gain Glory.\n- Item drop rate will be higher than normal and high quality loot can be found.\n- Neverending Story mode is designed to be impossible to finish. The goal is to get as far as you can. That said, if you somehow do manage to complete the campaign... well, then you really do deserve a round of applause!</eng>
+				</desc>				
+			</NeverendingStoryCampaign>
+			<BattleRoyale>
+				<title>
+					<eng>Battle Royale</eng>
+				</title>				
+				<desc>
+					<eng>Battle Royale is a free for all Player versus Player mode with special rules.\n\n- The game mode is played for points that are accumulated by killing other players. The first player to reach a set number of points wins the match.\n- Whenever a player becomes the score leader, he is designated as the Target. Killing the Target is worth more points than a regular kill. At the same time, kills committed by the Target are worth no points.\n- There are groups of neutral monsters scattered in the arena, guarding treasure chests. Killing these monsters may yield keys that can be used to open the chests, which may reward scrolls.\n- Scrolls are temporary boosts that give the user a significant edge for a short time.\n\nTips\n- It is possible to transfer the Target status through a scroll, even as the score leader.\n- Some skills – like Sphere of Timelessness – are not available in this game mode, as they would upset the game balance. You may need to build a character specifically for this game mode.</eng>
+				</desc>				
+			</BattleRoyale>
+			<HunterGames>
+				<title>
+					<eng>Hunter Games</eng>
+				</title>				
+				<desc>
+					<eng>Hunter Games is a team based Player versus Player game mode. Two teams face off in a war of attrition, each trying to reach tho other team’s base.\n\n - The objective of the game is to reach and destroy the opposing team’s base building.\n- Both teams have a steady stream of AI controlled allies marching towards the enemy base in several attack lanes.\n- There are also towers along the lanes which can be turned into defensive buildings by the players.\n\n- Unlike other multiplayer modes, you don’t start with a fully developed character with equipment. Instead, your character is reverted to level 1 and given basic starting equipment (these are temporary changes for the duration of the match).\n- As the match progresses, your character will slowly gain back his levels and skills. You will also be able to buy equipment, including some of your original items.\n- Experience and gold is earned by killing enemy creatures and players, although a smaller amount of gold is awarded with the passing of time.\n- The third resource – Machine Parts – is used for building and upgrading defensive buildings.\n\n- There are groups of neutral monsters scattered in the arena, guarding treasure chests. Killing these monsters may yield keys that can be used to open the chests, which may reward scrolls.\n- Scrolls are temporary boosts that give the user a significant edge for a short time.\n- There are also neutral locations which can be captured for an additional stream of resources.</eng>
+				</desc>				
+			</HunterGames>
+		</Modes>
+		<World>
+			<title>
+				<eng>World</eng>
+			</title>
+			<popup>
+				<eng>Some additional information about the World of The Incredible Adventures of Van Helsing™.</eng>
+			</popup>
+			<AftertheFall>
+				<title>
+					<eng>After the Fall</eng>
+				</title>
+				<misc>
+					<eng>A Series of Unfortunate Events</eng>
+				</misc>
+				<quote>
+					<eng>"Things are getting bad. Real bad, and I thought that living in a twisted town ruled by mad scientists was bad enough."</eng>
+				</quote>
+				<desc>
+					<eng>After some grand adventures Van Helsing finally defeated mad Profesors Fulmigati and his Doomsday Automaton in the glorious Palace of Machines. However, the gothic metropolis of weird science is now on the brink of destruction as chaos rules the streets. The fall of Fulimgati left a vacuum that needs to be filled as soon as possible. The city needs a leader, and now the battle begins for the rule.</eng>
+				</desc>
+			</AftertheFall>
+			<TheInk>
+				<title>
+					<eng>The Ink</eng>
+				</title>
+				<misc>
+					<eng>A realm of possibilities</eng>
+				</misc>
+				<quote>
+					<eng>"And then you can travel below or behind this world and appear at certain places. That’s the Inkwalk."</eng>
+				</quote>
+				<desc>
+					<eng>The Ink is the dark material of creation and dreams, which is bubbling under the skin of the world. Legends say that it was used to write the world into being at the dawn of time. In the western parts of the continents it’s considered as a myth, but in Borgovia it is reality: this is the only place where the Ink leaks through the cracks of the world.</eng>
+				</desc>
+			</TheInk>
+			<RealmsoftheInk>
+				<title>
+					<eng>The Realms of the Ink</eng>
+				</title>
+				<misc>
+					<eng>Places of Pure Imagination</eng>
+				</misc>
+				<desc>
+					<eng>The Ink is vast, and according to most theories it contains small realms that exist in the hidden pockets of the churning blackness. Some of these tiny realms are only open to dreamers and to the creatures of the Ink. There are forlorn islands in the Ink where strange ruins tell the tale of a lost civilization, and careless wanderers can find the beating, black heart of the Ink itself. There is a place for ghosts who left their haunted castles to keep everlasting vigil over piles of cursed treasure. When mad scientists dream of the Deep Flux, they always wake up with strange ideas sizzling in their brains. And experts on the Ink whisper about a land of emptiness and illusion, where creatures live in the dusk and the walls you touch melt away under your fingertips.</eng>
+				</desc>
+			</RealmsoftheInk>
+		</World>
+		<Borgovia>
+			<title>
+				<eng>Borgovia</eng>
+			</title>
+			<popup>
+				<eng>Background information about Borgovia.</eng>
+			</popup>
+			<Borgovia>
+				<title>
+					<eng>Borgovia</eng>
+				</title>
+				<misc>
+					<eng>Kingdom in the Shadows</eng>
+				</misc>
+				<quote>
+					<eng>"A long time ago the vampire lords ruled this place. Now they are hunted down by the scientific nightmares."</eng>
+				</quote>
+				<desc>
+					<eng>Borgovia is the easternmost country of the continent, a small, but dangerous land behind the colossal Thunderhead Mountains. Borgovia was always shrouded in mystery: those who knew about its existence were only familiar with the frightening tales of terror; stories of cold castles and haunted forests, ghosts and ghouls, vampires and werewolves and terrified locals suffering under the rule of the monsters. The secrecy remained even after Van Helsing Senior defeated the monsters: the Phlogiston Society didn’t want the outside world to know how the wonders of Weird Science saved Borgovians from the dark medieval past.</eng>
+				</desc>
+			</Borgovia>
+			<Borgova>
+				<title>
+					<eng>Borgova</eng>
+				</title>
+				<misc>
+					<eng>Gothic City</eng>
+				</misc>
+				<quote>
+					<eng>"But it used to be such a nice, gloomy, crooked town!"</eng>
+				</quote>
+				<desc>
+					<eng>The capital of Borgovia, the former seat of the vampire kings (current population consists of mortals, undead beings and the Created). A sprawling metropolis on the plain below the mountains, on the banks of the Lugosi River. From the hillside palaces to the crooked dark alleys, from the cobblestone streets of the Old Town to the parks of the castle district, Borgova has everything a curious traveler would like to see: wonders to experience, sights to see, strange food to taste (and sometimes even grave danger).</eng>
+				</desc>
+			</Borgova>
+			<WeirdScience>
+				<title>
+					<eng>The Phlogiston Society</eng>
+				</title>
+				<misc>
+					<eng>Mad Dreams Becoming Reality</eng>
+				</misc>
+				<quote>
+					<eng>"The place was full of spinning, crackling, throbbing and mostly deadly devices, dreamt up by the mad scientists."</eng>
+				</quote>
+				<desc>
+					<eng>The former allies of Van Helsing Senior, the gathering of the bright scientists of Borgova helped the monster hunter to rebel against the dark tyranny of the vampire princes. After the liberation of Borgova they founded the Phlogiston Society, also known as The Venerable Gathering of the Scientific-Minded Individuals Dedicated to the Exploration of the Unknown. The group was planned to be their joint platform for sharing experience and research to usher the land into the new age of science.</eng>
+				</desc>
+			</WeirdScience>
+			<TheLair>
+				<title>
+					<eng>The Lair</eng>
+				</title>
+				<misc>
+					<eng>Hideout</eng>
+				</misc>
+				<quote>
+					<eng>"I was just thinking that some nice carpets could do wonders with the place."</eng>
+				</quote>
+				<desc>
+					<eng>In the dark ages of Borgovia, before the reign of King Borislav the Just, Borgova was a buzzing hive of sects and cults, worshipping strange gods and dark entities. Since the official religion strictly forbade such obscenities, these sects built their secret temples below the alleys, deep in the heart of the mysterious tunnel system. Most of these hidden sanctuaries were never found and they are still down there somewhere, behind walled-up alcoves.</eng>
+				</desc>
+			</TheLair>
+		</Borgovia>
+		<Monsters>
+			<title>
+				<eng>Monsters</eng>
+			</title>
+			<popup>
+				<eng>The abominations and monstrous creatures that roam the lands of Borgovia.</eng>
+			</popup>
+			<Vh2Trophy1>
+				<title>
+					<eng>Shocktroopers</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>Most Borgovians are not aware that General Harker spent his exile as the commandant of the Brimstone Penal Colony in the desolate regions of the Thunderhead Mountains, where prisoners spent their days mining orichalcum under the constant surveillance of trained guards. When Harker returned to the city to restore the order, he brought with him the elite forces of the garrison, the Shocktroopers, clad in their special armor which was capable of withstanding the terrible environment of those desolate peaks.</eng>
+				</desc>
+			</Vh2Trophy1>
+			<Vh2Trophy2>
+				<title>
+					<eng>Bedlam Behemoth</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>When the Borgovian mad scientists captured the first giants in the wilderness, they had very specific plans in mind concerning their employment in the industrial sector, soon turning these unfortunate creatures into living machines before sending them to slave away in their factories. But they forgot something very important: what would happen if such a colossal creature goes raving mad after long years of vile treatment?</eng>
+				</desc>
+			</Vh2Trophy2>
+			<Vh2Trophy3>
+				<title>
+					<eng>Grimdeer</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>The Grimdeer is a mythical beast from the forests of the Thunderhead Mountains. These rare beasts were the prey of choice for every hunter who wanted to prove his worth, since tracking them down was almost as difficult as killing them. Which is not a surprise, considering that the Grimdeer population lives and breeds in the forbidden regions of the vast wilderness, where powerful magic tainted the land.</eng>
+				</desc>
+			</Vh2Trophy3>
+			<Vh2Trophy4>
+				<title>
+					<eng>Shattenbiest</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>These creatures live and spawn in the oldest, untouched regions of the Giantwoods, where the ancient and colossal trees block out the sunlight almost entirely. They were supposedly once noble clansmen who had defied the wishes of Koschei the Deathless, who exiled them to the darkest reaches of Borgovia, where they slowly turned into something else. They feed on things lurking in the musty darkness but sometimes they emerge from their labyrinth-like dwellings in the hillsides and strike fear into the hearts of the mountainfolk with their ghastly appearance and brutality.</eng>
+				</desc>
+			</Vh2Trophy4>
+			<Vh2Trophy5>
+				<title>
+					<eng>Hill Giant</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>Tribes of Hill Giants lived in the secluded and barren valleys of the Thunderhead Mountains. At least they did, in the past, but this is slowly changing: with the rapid industrialization of Borgovia and the appearance of the annoying mining companies from the big city some of the tribes have had to leave their tribal lands where the newcomers and their armored escorts had begun to dig for rare minerals – not to mention the hunting expeditions that captured giants and took them to Borgova.  The surviving giants have been trying to find new lands since then, with meager results, which has made most of these hulking brutes angry and aggressive.</eng>
+				</desc>
+			</Vh2Trophy5>
+			<Vh2Trophy6>
+				<title>
+					<eng>White Vrikolak</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>The Vrikolak tribes of the mountains have a very peculiar way of dealing with their rare albino offspring. They banish them into the wilderness as soon as they can walk. If these albinos return to their tribe – and it happens more often than not – they usually look different in some way: stronger, more somber and wiser, they usually become the leaders or spirit-chasers or champions of the tribe. They will never talk about what happened to them out in the open, though. Never.</eng>
+				</desc>
+			</Vh2Trophy6>
+			<Vh2Trophy7>
+				<title>
+					<eng>The Kobold King</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>The mountains of Borgovia are riddled with caves, both natural and man-made. Some of these caverns were used by various mining operations, but with the chaos in city the workers and the overseers left, and the native creatures of the deep levels slowly occupied the abandoned tunnels. The kobold tribes came first, led by their king, who is a truly a giant among his people. The Kobold King is also a cunning and untrustworthy creature with a gruesome reputation that is mostly derived from his ability to communicate with the Slithering Things Below.</eng>
+				</desc>
+			</Vh2Trophy7>
+			<Vh2Trophy8>
+				<title>
+					<eng>Dreadtrooper</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>Their rubber and iron masks hide their faces. When they speak, they hiss and growl, when they walk or fight, their movements are as precise as clockwork. The Dreadtroopers can be deployed in extreme situations where normal soldiers wouldn’t last a second. The only question that is yet to be answered is simple: what is exactly behind those masks?</eng>
+				</desc>
+			</Vh2Trophy8>
+			<Vh2Trophy9>
+				<title>
+					<eng>Cerebralus</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>When General Harker returned from his exile and began to reorganize his army, he personally hand-picked several Fulmigati-projects for his future plans. The Cerabralus was among these efforts: the Hunter-Killer Canine Prototype with an enhanced brain and improved musculature. The original inventors only wanted to devise a faithful dog-like creature that could find and save people who got lost on the treacherous slopes of the Thunderhead Mountains, but the General had other plans for it.</eng>
+				</desc>
+			</Vh2Trophy9>
+			<Vh2Trophy10>
+				<title>
+					<eng>Shredder</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>Shredders are among the most terrifying participants in General Harker's great crusade: even their comrades keep their distance from them, and not just to avoid the sharp killing mechanism fused to their bones. Imagine having to serve with someone who recently emerged from a mad scientist's laboratory, twisted and mutilated until he became a living weapon, seething with rage.</eng>
+				</desc>
+			</Vh2Trophy10>
+			<Vh2Trophy11>
+				<title>
+					<eng>Octopod Annihilator</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>The Annihilator was one of the unfinished projects of the late, mad Professor Fulmigati. Based on the original blueprints of his Doomsday Automaton, the Octopod Annihilator was intended to fix one of the possible flaws of the machine, namely that it only had two legs, thus in theory it could have been pushed over too easily. Harker loved the new designs and had some of these Annihilators manufactured as quickly as possible.</eng>
+				</desc>
+			</Vh2Trophy11>
+			<Vh2Trophy12>
+				<title>
+					<eng>Fulguromancer</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>Fulguromancers are respected specialists in General Harker’s army. They play with fire, literally: thanks to their uniquely crafted equipment that channels and enhances the magical flames they conjure they can easily burn through enemy lines. Fulguromancers are devoted to their cause, and their dedication almost borders on fanaticism. They will bring peace to Borgova (even if they must destroy half of the city to achieve it). For some strange reason they are always in dire need of new recruits.</eng>
+				</desc>
+			</Vh2Trophy12>
+			<Vh2Trophy13>
+				<title>
+					<eng>Pistonbeast</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>When the Phlogiston Society turned Borgova into the steaming, sizzling, clanking – and yet the only –  capital of weird science, the pace of this miraculous transformation was accelerating so quickly day by day that the factories could hardly keep up with the demands of the continuously expanding industry. The Pistonbeasts were created to offer a very Borgovian solution to the problem: they are terribly strong and not too bright hill giants fused with engines and machines. The Hill Giant population is limited, though, which soon put a stop to this endeavor.</eng>
+				</desc>
+			</Vh2Trophy13>
+			<Vh2Trophy14>
+				<title>
+					<eng>Dirigiblusa</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>This experimental creature from the secret laboratories of the Fulmigati is a strange kind of cross between a medusa and a small airship. It was the pet project of a dedicated scientist who wanted to map the whole country with a vehicle that could soar above the peaks and move underwater if needed. Unfortunately General Harker realized that the flying Dirigiblusa can also discharge lethal bolts of elyctricity, so the scientist was moved to another division and this nasty creature became a classified army project.</eng>
+				</desc>
+			</Vh2Trophy14>
+			<Vh2Trophy15>
+				<title>
+					<eng>Inkripper</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>With their strange, incredibly sharp knives they slash wounds into the curtains of reality that separate Borgovia from the Ink. They cross between worlds whenever and wherever they want. Are they magicians or the hereto unknown inhabitants of the Ink? No one seems to know for sure. Inkrippers have only recently appeared in Borgova, and some scientists think that their sudden visits might have something to do with the latest disturbances in the Ink. These creatures have an unnatural appetite for violence and cruel games.</eng>
+				</desc>
+			</Vh2Trophy15>
+			<Vh2Trophy16>
+				<title>
+					<eng>Gargoyles</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>Gargoyles are among the native inhabitants of Borgovia. These grotesque living stone statues have been there since the vampire nobles built the first of their dreadful castles (with plenty of comfortable ledges and arches). Gargoyles spend most of their days in a slumber-like state, clinging to the rooftops high above the streets. With the heavy industrialization of the city they are drifting closer to extinction every day, which has made them furious.</eng>
+				</desc>
+			</Vh2Trophy16>
+			<Vh2Trophy17>
+				<title>
+					<eng>Shredderbeast</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>Shredderbeasts are nocturnal creatures usually found lurking in the Great Necropolis of Borgova, hunting among the colossal tombs, shredding skeletons to pieces with their steel claws. No one knows where they came from, but there is a theory that they might have inspired the mad scientist responsible for designing some of the more vicious automatons.</eng>
+				</desc>
+			</Vh2Trophy17>
+			<Vh2Trophy18>
+				<title>
+					<eng>Baron Von Schreck</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>The vampire Von Schreck was an esteemed member of Borgovian undead society, a very famous noble from a very ancient bloodline with a particular dislike for everything modern and new. After Van Helsing Senior defeated the vampire lords and brought the new age of enlightenment to Borgova, Von Schreck disappeared for a long time, only to return when Count Vlados began to organize the Resistance. Von Shcreck dislikes mortals but hates the Phlogiston Society even more.</eng>
+				</desc>
+			</Vh2Trophy18>
+			<Vh2Trophy19>
+				<title>
+					<eng>Crowned Gargantula</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>Countless scientists devoted their careers in Borgova to researching venomous spiders, since the local wilderness – most particularly the endless cave systems – gave ample opportunities to study these many-legged creatures. The Gargantula family is rather a dangerous research subject, due to their colossal size and lethal venom, and there hasn’t been a single scientist tough enough to get close to a Crowned Gargantula.</eng>
+				</desc>
+			</Vh2Trophy19>
+			<Vh2Trophy20>
+				<title>
+					<eng>Dryad</eng>
+				</title>
+				<misc>
+					<eng>Majestic Foe</eng>
+				</misc>
+				<desc>
+					<eng>Dryads are tree spirits, but those rare individuals who have the the chance to see them with their own eyes describe them as walking, talking trees. Dryads tend to be slow and peaceful, spending years on their chosen glades, but should they lose their temper, they can be dangerous or even lethal.</eng>
+				</desc>
+			</Vh2Trophy20>
+		</Monsters>
+		<Heroes>
+			<title>
+				<eng>Heroes</eng>
+			</title>
+			<popup>
+				<eng>The brave individuals who face the tides of madness in this gothic world.</eng>
+			</popup>
+			<VanHelsing>
+				<title>
+					<eng>Van Helsing</eng>
+				</title>
+				<misc>
+					<eng>Protagonist</eng>
+				</misc>
+				<quote>
+					<eng>"Mysterious stranger, monster hunter extraordinaire?  Yes, that must be him."</eng>
+				</quote>
+				<desc>
+					<eng>Van Helsing is the son of the world’s greatest monster hunter – an excellent hunter in his own right as well. As an expert on the supernatural, he had already investigated strange cases in the western half of the continent, but the most incredible adventure of his life began when a strange twist of fate brought him to the shadowy, eastern kingdom of Borgovia, where his father had defeated the vampire lords a long time ago.\n\nIt all started with a letter that came from the suppressed monsters who found themselves threatened by a menace even more frightening than they ever could have been. Van Helsing took the case and  travelled to Borgovia to fight the scientific nightmares, created by Professor Fulmigati, a mad scientist who intended to give birth to a new age of enlightenment.</eng>
+				</desc>
+			</VanHelsing>
+			<Katarina>
+				<title>
+					<eng>Lady Katarina</eng>
+				</title>
+				<misc>
+					<eng>Companion</eng>
+				</misc>
+				<quote>
+					<eng>"No! Please, don't make her angry! I'm begging you!"</eng>
+				</quote>
+				<desc>
+					<eng>Lady Katarina is Van Helsing’s constant companion. She is a witty, beautiful and snappy damsel from a noble Borgovian family – who also happens to be a ghost. She’s been dead for about 100 years (for reasons she keeps for herself), but she died young and her undead age makes her a very young ghost among the incorporeal aristocracy of Borgova as well. Not that she had spent much time in the country: her soul has been bound to obedience by Van Helsing Senior, so she must aid the members of the Van Helsing family during their quests. Regardless of how often Katarina complains about her servitude, she really likes the thrill of the adventure.\n\nShe is a charming soul, but she also has a darker side that usually manifests in a terrifying transformation into a vengeful ghost.</eng>
+				</desc>
+			</Katarina>
+			<AbrahamVanHelsing>
+				<title>
+					<eng>Abraham Van Helsing</eng>
+				</title>
+				<misc>
+					<eng>Legendary Hunter</eng>
+				</misc>
+				<quote>
+					<eng>"The man is a legend. And legends tend to cast long shadows."</eng>
+				</quote>
+				<desc>
+					<eng>The father of young Van Helsing, the legendary monster hunter who dedicated his life to battle all kinds of supernatural threat. He spent long years in the mysterious land of Borgovia fighting the dark rule of the monsters who kept the kingdom in eternal darkness and servitude. Finally he teamed up with a group of young genius scientist who built their first weird machines and together defeat they defeated the vampire lords. Van Helsing crafted the Pact between mortals and monsters,  then he left the country in the able hands of his allies, the scientists who planned to bring  a new age of Enlightenment  to Borgova.</eng>
+				</desc>
+			</AbrahamVanHelsing>
+		</Heroes>
+		<Villains>
+			<title>
+				<eng>Villains</eng>
+			</title>
+			<popup>
+				<eng>The evil individuals who do their best to make this gothic world as gothic as possible.</eng>
+			</popup>
+			<GeneralHarker>
+				<title>
+					<eng>General Harker</eng>
+				</title>
+				<misc>
+					<eng>Antagonist</eng>
+				</misc>
+				<quote>
+					<eng>"This man never knew an opponent he couldn't or didn't want to defeat."</eng>
+				</quote>
+				<desc>
+					<eng>General Harker is a tough soldier and a well-respected leader of the Borgovian army. He is a gruff and unfriendly man with a fearsome reputation, but he always cared for the best interests of Borgovia. That was the very reason why he refused to obey Fulmigati’s orders after the professor went mad; in return the General was sent to a remote outpost in the mountains. Now, after the fall of the Professor, this charismatic military leader has returned to Borgova. He’s ready to bring peace to the tortured city. At all costs.\n\nHarker spent his younger days fighting the vampire lords – for some time he even followed the rebels of Van Helsing Senior – and he hates the noble monsters ferociously. During the pacification of Borgovia he almost sacrificed his life for the city, and only the wonders and contraptions of Weird Science saved his life.</eng>
+				</desc>
+			</GeneralHarker>
+			<ProfessorFulmigati>
+				<title>
+					<eng>Professor Fulmigati</eng>
+				</title>
+				<misc>
+					<eng>Ex-Villain</eng>
+				</misc>
+				<quote>
+					<eng>"My plan is... sheer simplicity in its elegance!"</eng>
+				</quote>
+				<desc>
+					<eng>Professor Fulmigati used to be the closest ally of Van Helsing Senior during the years of the uprising against the vampire lords.\n\nFulmigati was a genius inventor, excellent chemist, a true expert on all sorts of gaseous materials. As the elected chairman of the Phlogiston Society he orchestrated the transformation of Borgova into a modern metropolis, but somewhere along the way he must have became truly insane. After the mysterious disappearance of his fellow scientists, he continued to use the research of his esteemed colleagues, like the creatures from the laboratories of Le Docteur and the mechanical wonders of Von Sturm.</eng>
+				</desc>
+			</ProfessorFulmigati>
+			<ExtractionRig>
+				<title>
+					<eng>Animated Extraction Rig</eng>
+				</title>
+				<misc>
+					<eng>Improved Machine of Desctruction</eng>
+				</misc>
+				<quote>
+					<eng>“Who said that it was not a doomsday device?”</eng>
+				</quote>
+				<desc>
+					<eng>The late Professor Fulmigati had hundreds of groundbreaking and majestic plans that others (in Fulmigati’s own words: the FOOLS!) would have considered pure madness. One of his unfinished projects was to build a colossal mining apparatus that could simply hollow out entire mountain peaks to reach the valuable minerals buried underground, then move to a new locations after the treasures of the earth were depleted. His untimely death prevented the construction of the colossus, but General Harker realized that this mechanical behemoth could be used for tactical purposes.</eng>
+				</desc>
+			</ExtractionRig>
+			<TheDryadQueen>
+				<title>
+					<eng>Dryad Queen</eng>
+				</title>
+				<misc>
+					<eng>Antagonist</eng>
+				</misc>
+				<quote>
+					<eng>"The forest was alive, and deep among the thorns something moved. Something noticed me."</eng>
+				</quote>
+				<desc>
+					<eng>She has many names. The great Tree-Mother, the Silent Goddess, the Briar Queen: but each name refers to the same entity living in the middle the sacred grove. The Queen is an ancient creature who has been watching history unfolding in Borgovia for a very long time. Legends say that centuries ago King Borislav made a pact with the Dryad Queen and entrusted her with the safe-keeping of his most dangerous arcane items, and later it became a tradition for the powers-to-be in of Borgovia, mortals and monsters alike.\n\nThe Queen is a dangerous enemy and protects his sacred glade at all costs. And if she has become just as mad and corrupted as the landscape around her realm suggests, she poses lethal danger to anyone who enters the glade, friend or foe alike.</eng>
+				</desc>
+			</TheDryadQueen>
+		</Villains>
+		<Characters>
+			<title>
+				<eng>Notable Characters</eng>
+			</title>
+			<popup>
+				<eng>Neutral characters that are still involved in the battle between good and evil.</eng>
+			</popup>
+			<PrisonerSeven>
+				<title>
+					<eng>Prisoner Seven</eng>
+				</title>
+				<misc>
+					<eng>Mysterious Ally</eng>
+				</misc>
+				<quote>
+					<eng>"Look at him! If he lived under the Opera House and played the organ, you’d be the first to hunt him down."</eng>
+				</quote>
+				<desc>
+					<eng>There is another mysterious stranger in Borgova. A man behind a mask, a twisted and tortured test subject with uncanny abilities, fighting against the masters of Borgova.\n\nThe stranger, or “Prisoner Seven”, as the Resistance fighters tend to call him, undeniably possesses occult powers. He has an uncanny connection with the obscure, otherworldly material the commoners refer to as “the Ink”, but the exact details are yet unknown.</eng>
+				</desc>
+			</PrisonerSeven>
+			<Chimera>
+				<title>
+					<eng>The Chimera</eng>
+				</title>
+				<misc>
+					<eng>Ally</eng>
+				</misc>
+				<quote>
+					<eng>“I want to call it Fluffy!”</eng>
+				</quote>
+				<desc>
+					<eng>The Chimera is a creature made of the material of the Ink, a clever, swift and strong being. According to the legends, the very first Chimera was originally created by Koschei the Deathless, the greatest wizard of all times. He designed his experiment to be bodyguards and hunters in the Ink. The Ink  slowly distorts them, though, so the older specimen end up as devious beasts.\nThe Chimera's body is raw Ink-material, and a creature of pure magic won’t consume ordinary food. They live on magical essences that they smell from miles apart.\nThe Chimera’s body can be influenced by arcane means. The master must place magic candles in the summoning ring to grant the creature strength, faster movement, thicker hide, resistance to magic, advanced fighting skills.\nIn order to turn the Chimera into a loyal Guardian, the prospective master must defeat it in a special Circle of Combat. If he or she fails, the creature is set free.</eng>
+				</desc>
+			</Chimera>
+			<Vlados>
+				<title>
+					<eng>Count Vlados</eng>
+				</title>
+				<misc>
+					<eng>Ally</eng>
+				</misc>
+				<quote>
+					<eng>“I am a connoisseur, a man with a taste for the remarkable… like yourself, if I may be so bold to add.”</eng>
+				</quote>
+				<desc>
+					<eng>Count Vlados is a less significant member of the vampire aristocracy in Borgovia, a really nice fellow, very different from the bloodthirsty monsters of legend. He is a polite, although somewhat extravagant man, an expert on fine arts, etiquette, literature and women (he just loves courting the beautiful ladies). He is a dandy who tries to keep in touch with the modern times. He often inserts short pauses and large words into his sentences to sound more impressive.</eng>
+				</desc>
+			</Vlados>
+			<Deathless>
+				<title>
+					<eng>The Legend of the Deathless</eng>
+				</title>
+				<misc>
+					<eng>Ancient Lore</eng>
+				</misc>
+				<quote>
+					<eng>"The Deathless was just a Borgovian fairy tale to scare young vampires into eating their prey."</eng>
+				</quote>
+				<desc>
+					<eng>The legend of Koschei the Deathless is almost as old as Borgovia. According to the stories, he was an evil wizard and also the mighty king of the land at the dawn of time, but his life is shrouded in mystery to the extent that nowadays most Borgovians consider the Deathless a dark fairy tale.\n\nKoschei was not only a great magician and a mighty king, he was also immortal who couldn’t be killed with standard weapons. He separated his death (or his soul, depending on the sources) from his body and concealed it somewhere. Only one day somebody close to the evil magician betrayed him, so his enemies finally obtained of his death and killed Koschei with it.\n\nAt least that’s how the legend goes. However, one thing is for sure: his alleged realm, the secluded region of the Thunderhead Mountains is a place is still bursting with dark magic. Whatever entity ruled here a long time ago, it left poison in the soil and the air smells of the taint of evil long gone.</eng>
+				</desc>
+			</Deathless>
+		</Characters>
+		<active_quest>
+			<title>
+				<eng>Active Quests</eng>
+			</title>
+			<popup>
+				<eng>A list of currently ongoing quests.</eng>
+			</popup>
+		</active_quest>
+		<chapter_1>
+			<title>
+				<eng>Chapter %s</eng>
+			</title>
+			<popup>
+				<eng>Finished quests from Chapter %s.</eng>
+			</popup>
+		</chapter_1>
+	</Journal>
+</Root>

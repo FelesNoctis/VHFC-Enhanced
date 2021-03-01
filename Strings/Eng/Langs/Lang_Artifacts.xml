@@ -1,0 +1,8138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Artifacts>
+		<ComponentDesc>
+			<eng>Can be inserted into any item with an Essence Capacity at a Laboratory.</eng>
+		</ComponentDesc>
+		<AvailableTypesForEnchant>
+			<eng>Usable in the following items:</eng>
+		</AvailableTypesForEnchant>
+		<SetName>
+			<gallowsbog_collection>
+				<eng>Gallowsbog Collection</eng>
+			</gallowsbog_collection>
+			<the_gorgoniad>
+				<eng>The Gorgoniad Set</eng>
+			</the_gorgoniad>
+			<dawnbreaker_collection>
+				<eng>Dawnbreaker Collection</eng>
+			</dawnbreaker_collection>
+			<manticore_treasures>
+				<eng>Manticore Treasures Set</eng>
+			</manticore_treasures>
+			<Nephilim>
+				<eng>Nephilim Set</eng>
+			</Nephilim>
+			<Baskerville_Antiques>
+				<eng>Baskerville Antiques Set</eng>
+			</Baskerville_Antiques>
+			<Duskdale_Collection>
+				<eng>Duskdale Set</eng>
+			</Duskdale_Collection>
+			<The_Avenger_Set>
+				<eng>The Avenger Set</eng>
+			</The_Avenger_Set>
+			<Borislav_Heritage>
+				<eng>Borislav Heritage Set</eng>
+			</Borislav_Heritage>
+			<The_Twilight_Treasures>
+				<eng>The Twilight Treasures Set</eng>
+			</The_Twilight_Treasures>
+			<Ravenscar_Artifacts>
+				<eng>Ravenscar Artifacts Set</eng>
+			</Ravenscar_Artifacts>
+			<ancestral>
+				<eng>Ancestral Set</eng>
+			</ancestral>
+			<incantatus>
+				<eng>Incantatus Set</eng>
+			</incantatus>
+			<Conjurer>
+				<eng>Conjurer Set</eng>
+			</Conjurer>
+			<Hazardist_Knight>
+				<eng>Apocryphus Mechanicus Set</eng>
+			</Hazardist_Knight>
+			<Apocryphus_Mechanicus>
+				<eng>Machine Knight Set</eng>
+			</Apocryphus_Mechanicus>
+			<Exterminator>
+				<eng>Exterminator Set</eng>
+			</Exterminator>
+			<expurgator>
+				<eng>Expurgator Set</eng>
+			</expurgator>
+			<Dungeonkeeper>
+				<eng>Dungeonkeeper Set</eng>
+			</Dungeonkeeper>
+			<contraptor>
+				<eng>Contraptor Set</eng>
+			</contraptor>
+			<vh2set1>
+				<eng>Honoriad Set</eng>
+			</vh2set1>
+			<ink_vh2set1>
+				<eng>Inkfested Honoriad Set</eng>
+			</ink_vh2set1>
+			<vh2set2>
+				<eng>Outlaw Set</eng>
+			</vh2set2>
+			<ink_vh2set2>
+				<eng>Inkfested Outlaw Set</eng>
+			</ink_vh2set2>
+			<vh2set3>
+				<eng>Vorpal Set</eng>
+			</vh2set3>
+			<ink_vh2set3>
+				<eng>Inkfested Vorpal Set</eng>
+			</ink_vh2set3>
+			<vh2set4>
+				<eng>Storm Gunner Set</eng>
+			</vh2set4>
+			<ink_vh2set4>
+				<eng>Inkfested Storm Gunner Set</eng>
+			</ink_vh2set4>
+			<vh2set5>
+				<eng>Gnarlwood Ranger Set</eng>
+			</vh2set5>
+			<ink_vh2set5>
+				<eng>Inkfested Gnarlwood Ranger Set</eng>
+			</ink_vh2set5>
+			<vh2set6>
+				<eng>Pyromathurge Set</eng>
+			</vh2set6>
+			<ink_vh2set6>
+				<eng>Inkfested Pyromathurge Set</eng>
+			</ink_vh2set6>
+			<vh2set7>
+				<eng>Inkrunner Corps Set</eng>
+			</vh2set7>
+			<ink_vh2set7>
+				<eng>Inkfested Inkrunner Corps Set</eng>
+			</ink_vh2set7>
+			<vh2set8>
+				<eng>Behemoth Hunter Set</eng>
+			</vh2set8>
+			<ink_vh2set8>
+				<eng>Inkfested Behemoth Hunter Set</eng>
+			</ink_vh2set8>
+			<vh2set9>
+				<eng>Primal Hunter Set</eng>
+			</vh2set9>
+			<ink_vh2set9>
+				<eng>Inkfested Primal Hunter Set</eng>
+			</ink_vh2set9>
+			<vh2set10>
+				<eng>Soulbound Set</eng>
+			</vh2set10>
+			<ink_vh2set10>
+				<eng>Inkfested Soulbound Set</eng>
+			</ink_vh2set10>
+			<vh2set11>
+				<eng>Jihad Set</eng>
+			</vh2set11>
+			<ink_vh2set11>
+				<eng>Inkfested Jihad Set</eng>
+			</ink_vh2set11>
+			<vh2set12>
+				<eng>Son of Ramat Set</eng>
+			</vh2set12>
+			<ink_vh2set12>
+				<eng>Inkfested Son of Ramat Set</eng>
+			</ink_vh2set12>
+			<vh2set13>
+				<eng>Immaculatus Set</eng>
+			</vh2set13>
+			<ink_vh2set13>
+				<eng>Inkfested Immaculatus Set</eng>
+			</ink_vh2set13>
+			<vh2set14>
+				<eng>Runic Set</eng>
+			</vh2set14>
+			<ink_vh2set14>
+				<eng>Inkfested Runic Set</eng>
+			</ink_vh2set14>
+			<vh2set15>
+				<eng>Forsaken Set</eng>
+			</vh2set15>
+			<ink_vh2set15>
+				<eng>Inkfested Forsaken Set</eng>
+			</ink_vh2set15>
+			<vh2set16>
+				<eng>Chrometrooper Set</eng>
+			</vh2set16>
+			<ink_vh2set16>
+				<eng>Inkfested Chrometrooper Set</eng>
+			</ink_vh2set16>
+			<Prodigy>
+				<eng>Prodigy Set</eng>
+			</Prodigy>
+			<Graceful_Hunter>
+				<eng>Graceful Hunter Set</eng>
+			</Graceful_Hunter>
+			<Seeker_Savant>
+				<eng>Seeker Savant Set</eng>
+			</Seeker_Savant>
+			<Minotaur_Slayer>
+				<eng>Minotaur Slayer Set</eng>
+			</Minotaur_Slayer>
+			<Sharps_Armoury>
+				<eng>Sharps Armoury Set</eng>
+			</Sharps_Armoury>
+			<Sunguard>
+				<eng>Sunguard Set</eng>
+			</Sunguard>
+			<Hexer>
+				<eng>Hexer Set</eng>
+			</Hexer>
+			<Unseen_Slayer>
+				<eng>Unseen Slayer Set</eng>
+			</Unseen_Slayer>
+			<Dreadnought>
+				<eng>Dreadnought Set</eng>
+			</Dreadnought>
+			<Gadget_Master>
+				<eng>Gadget Master Set</eng>
+			</Gadget_Master>
+			<crimson_terror>
+				<eng>Crimson Terror Set</eng>
+			</crimson_terror>
+			<enh_masters>
+				<eng>Master Hunter's Relics</eng>
+			</enh_masters>
+			<enh_forgotten>
+				<eng>Forgotten Artifacts</eng>
+			</enh_forgotten>
+		</SetName>
+		<Popup>
+			<Equipped>
+				<eng>EQUIPPED</eng>
+			</Equipped>
+			<Damage>
+				<eng>Damage</eng>
+			</Damage>
+			<ArmourPiercing>
+				<eng>Armor Piercing</eng>
+			</ArmourPiercing>
+			<Defense>
+				<eng>Defense</eng>
+			</Defense>
+			<Parry>
+				<eng>Deflect</eng>
+			</Parry>
+			<SpellEnchantment>
+				<eng>Base Spellpower</eng>
+			</SpellEnchantment>
+			<AttackRate>
+				<eng>Attack Speed</eng>
+			</AttackRate>
+			<Cooldown>
+				<eng>Cooldown</eng>
+			</Cooldown>
+			<Ego>
+				<eng>Pool</eng>
+			</Ego>
+			<Value>
+				<eng>Value</eng>
+			</Value>
+			<StackCount>
+				<eng>Amount</eng>
+			</StackCount>
+			<OneHanded>
+				<eng>One-Handed</eng>
+			</OneHanded>
+			<TwoHanded>
+				<eng>Two-Handed</eng>
+			</TwoHanded>
+			<HealingPotions>
+				<eng>Number of Healing Potions</eng>
+			</HealingPotions>
+			<ManaPotions>
+				<eng>Number of Mana Potions</eng>
+			</ManaPotions>
+			<Requirements>
+				<eng>Requirements</eng>
+			</Requirements>
+			<LevelRequirement>
+				<eng>Required level</eng>
+			</LevelRequirement>
+			<Class>
+				<eng>only</eng>
+			</Class>
+			<ClassException>
+				<eng>Not usable by</eng>
+			</ClassException>
+			<InactiveEnchantment>
+				<eng>Inactive</eng>
+			</InactiveEnchantment>
+			<Alchemy>
+				<Enchantment_slot_1>
+					<eng>Weapon</eng>
+				</Enchantment_slot_1>
+				<Enchantment_slot_2>
+					<eng>Armor</eng>
+				</Enchantment_slot_2>
+				<Enchantment_slot_3>
+					<eng>Accessory</eng>
+				</Enchantment_slot_3>
+			</Alchemy>
+			<Strength>
+				<eng>Strength</eng>
+			</Strength>
+			<ConsumableEffects>
+				<eng>Mystic Effect</eng>
+			</ConsumableEffects>
+			<FuelDamage>
+				<eng>Base Weapon Damage</eng>
+			</FuelDamage>
+			<AccountBound>
+				<eng>Account Bound</eng>
+			</AccountBound>
+			<AllResist>
+				<eng>All Resistances</eng>
+			</AllResist>
+			<CCResistBonus>
+				<eng>Crowd Control Resistance</eng>
+			</CCResistBonus>
+			<PhysicalResistBonus>
+				<eng>Physical Resistance</eng>
+			</PhysicalResistBonus>
+			<ElementalResistBonus>
+				<eng>Elemental Resistance</eng>
+			</ElementalResistBonus>
+			<PoisonResistBonus>
+				<eng>Poison Resistance</eng>
+			</PoisonResistBonus>
+			<StatBonus>
+				<eng>All Attributes</eng>
+			</StatBonus>
+			<already_used>
+				<eng>Already Used</eng>
+			</already_used>
+			<InkImbound>
+				<eng>Inkfested Item</eng>
+			</InkImbound>
+			<unabletouse>
+				<eng>Unable to use</eng>
+			</unabletouse>
+			<hpbonus>
+				<eng>Hitpoints bonus</eng>
+			</hpbonus>
+			<manabonus>
+				<eng>Mana bonus</eng>
+			</manabonus>
+			<CritDamageBonus>
+				<eng>Critical Damage</eng>
+			</CritDamageBonus>
+			<MinionHpBonus>
+				<eng>Minion HP</eng>
+			</MinionHpBonus>
+			<MinionDPSBonus>
+				<eng>Minion DPS</eng>
+			</MinionDPSBonus>
+			<ShieldBonus>
+				<eng>Shield Bonus</eng>
+			</ShieldBonus>
+		</Popup>
+		<Types>
+			<notset>
+				<eng>Any artifact</eng>
+			</notset>
+			<weapon>
+				<eng>Weapon</eng>
+			</weapon>
+			<armor>
+				<eng>Armor</eng>
+			</armor>
+			<amulet>
+				<eng>Amulet</eng>
+			</amulet>
+			<ring>
+				<eng>Ring</eng>
+			</ring>
+			<RingM>
+				<eng>Myhthical Ring</eng>
+			</RingM>
+			<gem>
+				<eng>Gem</eng>
+			</gem>
+			<potion>
+				<eng>Potion</eng>
+			</potion>
+			<questitem>
+				<eng>Quest item</eng>
+			</questitem>
+			<essence>
+				<eng>Essence</eng>
+			</essence>
+			<trophy>
+				<eng>Trophy</eng>
+			</trophy>
+			<consumable>
+				<eng>Consumable</eng>
+			</consumable>
+			<Gamemode_Specific>
+				<eng>Scroll</eng>
+			</Gamemode_Specific>
+		</Types>
+		<Quality>
+			<Cracked>
+				<eng>Cracked</eng>
+			</Cracked>
+			<Masterwork>
+				<eng>Masterwork</eng>
+			</Masterwork>
+		</Quality>
+		<Rarity>
+			<Normal>
+				<eng>Normal</eng>
+			</Normal>
+			<Magic>
+				<eng>Magic</eng>
+			</Magic>
+			<Rare>
+				<eng>Rare</eng>
+			</Rare>
+			<Epic>
+				<eng>Epic</eng>
+			</Epic>
+			<Set>
+				<eng>Set</eng>
+			</Set>
+			<Godlike>
+				<eng>Godlike</eng>
+			</Godlike>
+			<Mythical>
+				<eng>Mythical</eng>
+			</Mythical>
+		</Rarity>
+		<Unidentified>
+			<Type>
+				<eng>Unidentified %s</eng>
+			</Type>
+			<Label>
+				<eng>Unidentified</eng>
+			</Label>
+		</Unidentified>
+		<ChangesOnEquip>
+			<Label>
+				<eng>Changes if Equipped:</eng>
+			</Label>
+			<base>
+				<eng>Base changes:</eng>
+			</base>
+			<actual>
+				<eng>Actual changes:</eng>
+			</actual>
+		</ChangesOnEquip>
+		<Alchemy_capacity>
+			<eng>Essence Capacity: %s</eng>
+		</Alchemy_capacity>
+		<Alchemy_capacity_component>
+			<eng>Essence cost: %d</eng>
+		</Alchemy_capacity_component>
+		<SubTypes>
+			<Sword>
+				<eng>Sword</eng>
+			</Sword>
+			<TwoHandedSword>
+				<eng>2hd Sword</eng>
+			</TwoHandedSword>
+			<Pistol>
+				<eng>Pistol</eng>
+			</Pistol>
+			<Rifle>
+				<eng>Rifle</eng>
+			</Rifle>
+			<Armor>
+				<eng>Armor</eng>
+			</Armor>
+			<Helmet>
+				<eng>Helmet</eng>
+			</Helmet>
+			<Gloves>
+				<eng>Gloves</eng>
+			</Gloves>
+			<Boots>
+				<eng>Boots</eng>
+			</Boots>
+			<Belt>
+				<eng>Belt</eng>
+			</Belt>
+			<Cape>
+				<eng>Cape</eng>
+			</Cape>
+			<Trophy>
+				<eng>Trophy</eng>
+			</Trophy>
+			<Amulet>
+				<eng>Amulet</eng>
+			</Amulet>
+			<Ring>
+				<eng>Ring</eng>
+			</Ring>
+			<RingM>
+				<eng>Mythical Ring</eng>
+			</RingM>
+			<HealthPotion>
+				<eng>Healing Potion</eng>
+			</HealthPotion>
+			<ManaPotion>
+				<eng>Mana Potion</eng>
+			</ManaPotion>
+			<QuestItem>
+				<eng>Quest Item</eng>
+			</QuestItem>
+			<Key>
+				<eng>Key</eng>
+			</Key>
+			<Scroll>
+				<eng>Scroll</eng>
+			</Scroll>
+			<essence>
+				<eng>Essence</eng>
+			</essence>
+			<Consumable>
+				<eng>Consumable</eng>
+			</Consumable>
+			<Mask>
+				<eng>Occult Mask</eng>
+			</Mask>
+			<MageCape>
+				<eng>Runecloak</eng>
+			</MageCape>
+			<Focus>
+				<eng>Spellcuffs</eng>
+			</Focus>
+			<EngineerHelmet>
+				<eng>Headgear</eng>
+			</EngineerHelmet>
+			<Backpack>
+				<eng>Chargerpack</eng>
+			</Backpack>
+			<Cannon>
+				<eng>Discharger</eng>
+			</Cannon>
+			<HelmetGeneric>
+				<eng>Helmet</eng>
+			</HelmetGeneric>
+			<Gamemode_Consumable>
+				<eng>Scroll</eng>
+			</Gamemode_Consumable>
+			<Gamemode_Key>
+				<eng>Key</eng>
+			</Gamemode_Key>
+			<Crossbow>
+				<eng>Crossbow</eng>
+			</Crossbow>
+			<Hammer>
+				<eng>Polearm</eng>
+			</Hammer>
+			<Staff>
+				<eng>Staff</eng>
+			</Staff>
+			<Axe>
+				<eng>Clash Weapon</eng>
+			</Axe>
+			<EnchantFragment>
+				<eng>Rune Fragment</eng>
+			</EnchantFragment>
+			<EnchantRune>
+				<eng>Rune</eng>
+			</EnchantRune>
+			<BaseFragment>
+				<eng>Master Rune Fragment</eng>
+			</BaseFragment>
+			<BaseRune>
+				<eng>Master Rune</eng>
+			</BaseRune>
+			<candle>
+				<eng>Magic Candle</eng>
+			</candle>
+			<ResistanceItem>
+				<eng>Resistance Item</eng>
+			</ResistanceItem>
+			<Engine>
+				<eng>Engine</eng>
+			</Engine>
+			<Exoskeleton>
+				<eng>Exoskeleton</eng>
+			</Exoskeleton>
+			<HeavyDischarger>
+				<eng>Heavy Discharger</eng>
+			</HeavyDischarger>
+			<katarinamelee>
+				<eng>Wraithclaw</eng>
+			</katarinamelee>
+			<KatarinaRanged>
+				<eng>Wraithmark</eng>
+			</KatarinaRanged>
+			<KatarinaArmor>
+				<eng>Wraithcloak</eng>
+			</KatarinaArmor>
+			<LightArmor>
+				<eng>Light Armor</eng>
+			</LightArmor>
+			<Dagger>
+				<eng>Dagger</eng>
+			</Dagger>
+			<SpiritHarness>
+				<eng>Spirit Harness</eng>
+			</SpiritHarness>
+			<SpiritHood>
+				<eng>Spirit Hood</eng>
+			</SpiritHood>
+			<Visor>
+				<eng>Hat</eng>
+			</Visor>
+			<HeavyArmor>
+				<eng>Heavy Armor</eng>
+			</HeavyArmor>
+			<Garb>
+				<eng>Garb</eng>
+			</Garb>
+			<EngineerSuit>
+				<eng>Engineer Suit</eng>
+			</EngineerSuit>
+			<Shield>
+				<eng>Shield</eng>
+			</Shield>
+			<Talisman>
+				<eng>Talisman</eng>
+			</Talisman>
+			<ArmorVest>
+				<eng>Armor Vest</eng>
+			</ArmorVest>
+		</SubTypes>
+		<Conditions>
+			<Permanent>
+				<eng>Permanent: %s</eng>
+			</Permanent>
+			<Set>
+				<eng>Set: %d</eng>
+			</Set>
+			<kill_soldier>
+				<eng>Enemies killed: %d/%d</eng>
+			</kill_soldier>
+			<damage_done>
+				<eng>Damage dealt: %d/%d</eng>
+			</damage_done>
+			<use_mana>
+				<eng>Mana used: %d/%d</eng>
+			</use_mana>
+			<successful_defense>
+				<eng>Attacks defended: %d/%d</eng>
+			</successful_defense>
+			<successful_parry>
+				<eng>Blows deflected: %d/%d</eng>
+			</successful_parry>
+			<distance_walked>
+				<eng>Distance walked: %d/%d</eng>
+			</distance_walked>
+			<critical_hit>
+				<eng>Criticals delivered: %d/%d</eng>
+			</critical_hit>
+			<powerup_use>
+				<eng>Powerups used: %d/%d</eng>
+			</powerup_use>
+			<gold_spent>
+				<eng>Gold spent: %d/%d</eng>
+			</gold_spent>
+			<enchant_count>
+				<eng>Times enchanted: %d/%d</eng>
+			</enchant_count>
+			<death>
+				<eng>Deaths: %d/%d</eng>
+			</death>
+			<potion_drunk>
+				<eng>Potions drunk: %d/%d</eng>
+			</potion_drunk>
+			<kill_special_soldier>
+				<eng>Tough enemies killed: %d/%d</eng>
+			</kill_special_soldier>
+			<damage_received>
+				<eng>Damage received: %d/%d</eng>
+			</damage_received>
+			<near_death>
+				<eng>Near deaths: %d/%d</eng>
+			</near_death>
+			<max_rage_count>
+				<eng>Times fully enraged: %d/%d</eng>
+			</max_rage_count>
+			<charge>
+				<eng>Charges: %d/%d</eng>
+			</charge>
+		</Conditions>
+		<Items>
+			<ring_of_fire>
+				<Name>
+					<eng>Narrya</eng>
+				</Name>
+			</ring_of_fire>
+			<life_amulet>
+				<Name>
+					<eng>Vitae Pendant</eng>
+				</Name>
+			</life_amulet>
+			<Old_Rune>
+				<Name>
+					<eng>Old rune</eng>
+				</Name>
+			</Old_Rune>
+			<Orichalcum_ore_1>
+				<Name>
+					<eng>Orichalcum ore</eng>
+				</Name>
+			</Orichalcum_ore_1>
+			<Orichalcum_ore_2>
+				<Name>
+					<eng>Orichalcum ore</eng>
+				</Name>
+			</Orichalcum_ore_2>
+			<Superegg_Rat>
+				<Name>
+					<eng>Glowing Rat Liver</eng>
+				</Name>
+				<Desc>
+					<eng>This is the liver of a famed Miniature Giant Ink Rat. A coveted delicacy among hunters that is said to bestow untold powers on those brave enough to consume it.</eng>
+				</Desc>
+				<ConsumeEffect>
+					<eng>+10 to Hitpoints permanently</eng>
+				</ConsumeEffect>
+			</Superegg_Rat>
+			<galaxis_utikalauz>
+				<Name>
+					<eng>Wisphunter's Guide to the Ink</eng>
+				</Name>
+				<Desc>
+					<eng>It has the words "Don't panic!" in large friendly letters written on it.</eng>
+				</Desc>
+				<ConsumeEffect>
+					<eng>+10 Mana gained permanently</eng>
+				</ConsumeEffect>
+			</galaxis_utikalauz>
+			<Alchemist_poisonup>
+				<ConsumeEffect>
+					<eng>+50 Poison Resistance permanently</eng>
+				</ConsumeEffect>
+			</Alchemist_poisonup>
+			<Alchemist_poisondown>
+				<ConsumeEffect>
+					<eng>-20 Poison Resistance permanently</eng>
+				</ConsumeEffect>
+			</Alchemist_poisondown>
+			<gocsortos_kard>
+				<Name>
+					<eng>Crooked Blade</eng>
+				</Name>
+				<Desc>
+					<eng>This weapon might seem ugly and clumsy, but it is still the memento of your first attempt to forge a proper sword.</eng>
+				</Desc>
+			</gocsortos_kard>
+			<Capacitive_Essence>
+				<Name>
+					<eng>Capacitive Essence</eng>
+				</Name>
+				<desc>
+					<eng>Can be inserted into any item to increase its Essence Capacity by a maximum of 20.</eng>
+				</desc>
+			</Capacitive_Essence>
+			<Extra_Capacitive_Essence>
+				<Name>
+					<eng>Greater Capacitive Essence</eng>
+				</Name>
+				<desc>
+					<eng>Can be inserted into any item to increase its Essence Capacity by a maximum of 24.</eng>
+				</desc>
+			</Extra_Capacitive_Essence>
+			<Diamond_Essence>
+				<Name>
+					<eng>Diamond Essence</eng>
+				</Name>
+			</Diamond_Essence>
+			<Essence_of_electricity>
+				<Name>
+					<eng>Essence of electricity</eng>
+				</Name>
+			</Essence_of_electricity>
+			<Essence_of_electricity_quest>
+				<Name>
+					<eng>Essence of electricity</eng>
+				</Name>
+				<desc>
+					<eng>A mysterious essence containing strong electricity. Now I understand why does the blacksmith want it so bad.</eng>
+				</desc>
+			</Essence_of_electricity_quest>
+			<Irrational_Essence>
+				<Name>
+					<eng>Irrational Essence</eng>
+				</Name>
+			</Irrational_Essence>
+			<tainted_essence>
+				<Name>
+					<eng>Tainted Essence</eng>
+				</Name>
+			</tainted_essence>
+			<Poison_Essence>
+				<Name>
+					<eng>Poison Essence</eng>
+				</Name>
+			</Poison_Essence>
+			<Ink_Essence>
+				<Name>
+					<eng>Ink Essence</eng>
+				</Name>
+			</Ink_Essence>
+			<Fifth_element>
+				<Name>
+					<eng>Fifth element</eng>
+				</Name>
+			</Fifth_element>
+			<Domovoys_sword>
+				<Name>
+					<eng>Domovoy's Sword</eng>
+				</Name>
+			</Domovoys_sword>
+			<The_One_ring>
+				<Name>
+					<eng>A Certain Magical Ring</eng>
+				</Name>
+			</The_One_ring>
+			<Predators_Gift>
+				<Name>
+					<eng>Predator's Gift</eng>
+				</Name>
+			</Predators_Gift>
+			<Zorros_Hat>
+				<Name>
+					<eng>Hat of the Fox</eng>
+				</Name>
+			</Zorros_Hat>
+			<Primordial_Essence>
+				<Name>
+					<eng>Primordial Essence</eng>
+				</Name>
+			</Primordial_Essence>
+			<Vigorous_Essence>
+				<Name>
+					<eng>Vigorous Essence</eng>
+				</Name>
+			</Vigorous_Essence>
+			<Mercurial_Essence>
+				<Name>
+					<eng>Mercurial Essence</eng>
+				</Name>
+			</Mercurial_Essence>
+			<Ethereal_Essence>
+				<Name>
+					<eng>Ethereal Essence</eng>
+				</Name>
+			</Ethereal_Essence>
+			<Corporeal_Essence>
+				<Name>
+					<eng>Corporeal Essence</eng>
+				</Name>
+			</Corporeal_Essence>
+			<Essence_of_Foritude>
+				<Name>
+					<eng>Essence of Fortitude</eng>
+				</Name>
+			</Essence_of_Foritude>
+			<Vaporous_Essence>
+				<Name>
+					<eng>Vaporous Essence</eng>
+				</Name>
+			</Vaporous_Essence>
+			<Material_Essence>
+				<Name>
+					<eng>Material Essence</eng>
+				</Name>
+			</Material_Essence>
+			<Quintessence>
+				<Name>
+					<eng>Quintessence</eng>
+				</Name>
+			</Quintessence>
+			<Ferocious_Essence>
+				<Name>
+					<eng>Ferocious Essence</eng>
+				</Name>
+			</Ferocious_Essence>
+			<Profane_Essence>
+				<Name>
+					<eng>Profane Essence</eng>
+				</Name>
+			</Profane_Essence>
+			<Essence_of_Vitality>
+				<Name>
+					<eng>Essence of Vitality</eng>
+				</Name>
+			</Essence_of_Vitality>
+			<Absorbent_Essence>
+				<Name>
+					<eng>Absorbent Essence</eng>
+				</Name>
+			</Absorbent_Essence>
+			<Ancient_coin>
+				<Name>
+					<eng>Ancient Coin</eng>
+				</Name>
+				<Desc>
+					<eng>A relic of the legendary past when heroes and demigods walked Borgovia and wonders were real.</eng>
+				</Desc>
+			</Ancient_coin>
+			<weapon_oil>
+				<Name>
+					<eng>Weapon Oil</eng>
+				</Name>
+				<Desc>
+					<eng>A very useful, slippery substance. Now you only need the required weapon to smear it on.</eng>
+				</Desc>
+			</weapon_oil>
+			<StatueGem>
+				<Name>
+					<eng>Mysterious Gemstone</eng>
+				</Name>
+				<Desc>
+					<eng>A gemstone cut into a peculiar shape. But where could it fit?</eng>
+				</Desc>
+			</StatueGem>
+			<StatueKey>
+				<Name>
+					<eng>Mysterious Key</eng>
+				</Name>
+				<Desc>
+					<eng>A ancient key hidden behind three locks? There must be a mystery behind this.</eng>
+				</Desc>
+			</StatueKey>
+			<BagOfTrash>
+				<Name>
+					<eng>The Alchemist's Bag</eng>
+				</Name>
+				<Desc>
+					<eng>The village alchemist fled Borgova with his bag of valuable components. Not that any of these knickknacks look valuable at all.</eng>
+				</Desc>
+			</BagOfTrash>
+			<Bone_Relic>
+				<Name>
+					<eng>Bone Relic</eng>
+				</Name>
+				<Desc>
+					<eng>Ancient vodyanoy customs required to feed their ever-hungry gods with tasty limbs. When they realized that they will run out of body parts, eventually, they crafted hands from bone: the gods never complained.</eng>
+				</Desc>
+			</Bone_Relic>
+			<Rusty_bomb>
+				<Name>
+					<eng>Rusty Bomb</eng>
+				</Name>
+				<Desc>
+					<eng>When those weird Borgovian scientists built their first fighting machines, they sent them into the woods to hunt down monsters. Most of these man-machines used bombs, and while they had rusted away, the explosives remained.</eng>
+				</Desc>
+			</Rusty_bomb>
+			<Rusty_bomb2>
+				<Name>
+					<eng>Arkady's Bomb</eng>
+				</Name>
+				<Desc>
+					<eng>A suspicious, weathered but apparently functional explosive device. It seems perfectly suited to blow up an outflow.</eng>
+				</Desc>
+			</Rusty_bomb2>
+			<Electric_Coil>
+				<Name>
+					<eng>Electric Coil</eng>
+				</Name>
+				<Desc>
+					<eng>The humming, sparkling, wheezing mechanism that they call the Electric Generator requires these coils to function properly.</eng>
+				</Desc>
+			</Electric_Coil>
+			<Electric_transformer_prototype>
+				<Name>
+					<eng>Elyctric Transformer Prototype</eng>
+				</Name>
+				<Desc>
+					<eng>It might look exactly the same as an electric coil to you, but a professional knows the difference. Just ask the engineer.</eng>
+				</Desc>
+			</Electric_transformer_prototype>
+			<Machine_part>
+				<Name>
+					<eng>Machine Part</eng>
+				</Name>
+				<Desc>
+					<eng>The secret lair is full of spinning, crackling, throbbing and mostly deadly devices, dreamt up by the engineers of the Resistance who tapped into the vast knowledge of the mad scientists of Borgovia.</eng>
+				</Desc>
+			</Machine_part>
+			<Rat_bone>
+				<Name>
+					<eng>Rat bone</eng>
+				</Name>
+				<Desc>
+					<eng>A pile of filthy rat bones. Looks like something a witch could use.</eng>
+				</Desc>
+			</Rat_bone>
+			<Swamp_flower>
+				<Name>
+					<eng>Swamp Lily</eng>
+				</Name>
+				<Desc>
+					<eng>An ugly little flower that lives near swamps. And heavily polluted rivers.</eng>
+				</Desc>
+			</Swamp_flower>
+			<Werewolf_note_1>
+				<Name>
+					<eng>Werewolf note</eng>
+				</Name>
+				<Desc>
+					<eng>One half of a torn diary, filled with incomprehensible scribblings about some outlandish experiments. A mere glance at it makes you want to burst into maniac laughter.</eng>
+				</Desc>
+			</Werewolf_note_1>
+			<Werewolf_note_2>
+				<Name>
+					<eng>Werewolf note</eng>
+				</Name>
+				<Desc>
+					<eng>One half of a torn diary, filled with incomprehensible scribblings about some outlandish experiments. A mere glance at it makes you want to burst into maniac laughter.</eng>
+				</Desc>
+			</Werewolf_note_2>
+			<Generator_plan>
+				<Name>
+					<eng>Generator Plan</eng>
+				</Name>
+			</Generator_plan>
+			<Mutant_bait>
+				<Name>
+					<eng>Mutant Bait</eng>
+				</Name>
+				<Desc>
+					<eng>A menacing bait worm that looks like it can catch a tiger shark. With its teeth.</eng>
+				</Desc>
+			</Mutant_bait>
+			<Mutant_fish>
+				<Name>
+					<eng>Mutant Fish</eng>
+				</Name>
+				<Desc>
+					<eng>Looking at this fish(?) you suddenly feel sorry for any bait worm.</eng>
+				</Desc>
+				<ConsumeEffect>
+					<eng>-10 HP permanently</eng>
+				</ConsumeEffect>
+			</Mutant_fish>
+			<Junk_item>
+				<Name>
+					<eng>Ragged Boots</eng>
+				</Name>
+				<Desc>
+					<eng>The faded letters inside say W*RTH.</eng>
+				</Desc>
+			</Junk_item>
+			<Trap_plan>
+				<Name>
+					<eng>Trap Plan</eng>
+				</Name>
+			</Trap_plan>
+			<Borislavs_Scepter>
+				<Name>
+					<eng>King Borislav's Scepter</eng>
+				</Name>
+			</Borislavs_Scepter>
+			<BR_Curse>
+				<Name>
+					<eng>Curse</eng>
+				</Name>
+				<Desc>
+					<eng>-50% to the target's Damage Reduce Aura for 30 seconds</eng>
+				</Desc>
+			</BR_Curse>
+			<BR_Invisibility>
+				<Name>
+					<eng>Invisibility</eng>
+				</Name>
+				<Desc>
+					<eng>You become invisible for 40 seconds both for monsters and other players. If you use any skill, the invisibility is over. Area effects still work on you.</eng>
+				</Desc>
+			</BR_Invisibility>
+			<BR_Untouchable>
+				<Name>
+					<eng>Untouchable</eng>
+				</Name>
+				<Desc>
+					<eng>You'll be invulnerable for 10 seconds.</eng>
+				</Desc>
+			</BR_Untouchable>
+			<BR_Bullseye>
+				<Name>
+					<eng>Bullseye</eng>
+				</Name>
+				<Desc>
+					<eng>The target will be the Battle Royal Target until his next death.</eng>
+				</Desc>
+			</BR_Bullseye>
+			<BR_MonsterBait>
+				<Name>
+					<eng>Monster Bait</eng>
+				</Name>
+				<Desc>
+					<eng>Neutral monsters automatically attack the target from double range and they follow him until the duration of the effect (2 minutes).</eng>
+				</Desc>
+			</BR_MonsterBait>
+			<BR_Surge>
+				<Name>
+					<eng>Surge</eng>
+				</Name>
+				<Desc>
+					<eng>+400% Damage for 25 seconds.</eng>
+				</Desc>
+			</BR_Surge>
+			<BR_Critical>
+				<Name>
+					<eng>Critical</eng>
+				</Name>
+				<Desc>
+					<eng>100% chance to Critical Hit for 30 seconds.</eng>
+				</Desc>
+			</BR_Critical>
+			<BR_Slouch>
+				<Name>
+					<eng>Slouch</eng>
+				</Name>
+				<Desc>
+					<eng>-50% to the target's movement speed for 20 seconds.</eng>
+				</Desc>
+			</BR_Slouch>
+			<BR_Cleptomania>
+				<Name>
+					<eng>Cleptomania</eng>
+				</Name>
+				<Desc>
+					<eng>One of the items on the target's Battle Royal Inventory is transferred to you. The target will know who stole from him.</eng>
+				</Desc>
+			</BR_Cleptomania>
+			<BR_Dispel>
+				<Name>
+					<eng>Dispel</eng>
+				</Name>
+				<Desc>
+					<eng>Target will loose all active Battle Royal effects.</eng>
+				</Desc>
+			</BR_Dispel>
+			<BR_Haste>
+				<Name>
+					<eng>Haste</eng>
+				</Name>
+				<Desc>
+					<eng>+30% movement speed for 30 seconds.</eng>
+				</Desc>
+			</BR_Haste>
+			<BR_Key>
+				<Name>
+					<eng>Key</eng>
+				</Name>
+				<Desc>
+					<eng>Use it to open special chests. Disappears after using.</eng>
+				</Desc>
+			</BR_Key>
+			<Demagnetiser>
+				<Name>
+					<eng>Demagnetiser</eng>
+				</Name>
+			</Demagnetiser>
+			<Necronomicon>
+				<Name>
+					<eng>Necronomicon</eng>
+				</Name>
+			</Necronomicon>
+			<Daedalus_Manuscript>
+				<Name>
+					<eng>Daedalus Manuscript</eng>
+				</Name>
+			</Daedalus_Manuscript>
+			<Dark_Force_Cloak>
+				<Name>
+					<eng>Dark Force Cloak</eng>
+				</Name>
+			</Dark_Force_Cloak>
+			<diamond_earring>
+				<Name>
+					<eng>Diamond Earring</eng>
+				</Name>
+			</diamond_earring>
+			<VH2_t95_chip>
+				<Name>
+					<eng>T95 Chip</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+10 Hitpoints gained permanently</eng>
+				</ConsumeEffect>
+			</VH2_t95_chip>
+			<Rune_book>
+				<Name>
+					<eng>Manual of Practical Runes</eng>
+				</Name>
+			</Rune_book>
+			<Altar_amulet_low>
+				<Name>
+					<eng>Heart's Tear Amulet</eng>
+				</Name>
+			</Altar_amulet_low>
+			<Altar_amulet_high>
+				<Name>
+					<eng>Heart's Tear Amulet</eng>
+				</Name>
+			</Altar_amulet_high>
+			<Appleshooter_Bow>
+				<Name>
+					<eng>Tell's Appleshooter Bow</eng>
+				</Name>
+				<Desc>
+					<eng>The deadly crossbow of the famous swiss marksman.</eng>
+				</Desc>
+			</Appleshooter_Bow>
+			<Don_Quijote_Spear>
+				<Name>
+					<eng>Don Quijote's Lance</eng>
+				</Name>
+				<Desc>
+					<eng>This spear was crafted to defeat giant, moving, hostile mills, but it should work against all sorts of monsters as well.</eng>
+				</Desc>
+			</Don_Quijote_Spear>
+			<Resistance_equipment>
+				<Name>
+					<eng>Military Equipment</eng>
+				</Name>
+				<Desc>
+					<eng>The various pieces of valuable equipment for the Resistance fighters.</eng>
+				</Desc>
+			</Resistance_equipment>
+			<Rare_ore_fragments>
+				<Name>
+					<eng>Mysterious Splinters</eng>
+				</Name>
+				<Desc>
+					<eng>Sparkling fragments of a myterious ore. A blacksmith may know what it is and whether it can be of any use.</eng>
+				</Desc>
+			</Rare_ore_fragments>
+			<glass_key>
+				<Name>
+					<eng>Blue Crystal Key</eng>
+				</Name>
+			</glass_key>
+			<glass_key01>
+				<Name>
+					<eng>Green Crystal Key</eng>
+				</Name>
+			</glass_key01>
+			<glass_key02>
+				<Name>
+					<eng>Red Crystal Key</eng>
+				</Name>
+			</glass_key02>
+			<Lair_Loot_Key_copper>
+				<Name>
+					<eng>Copper Chest Key</eng>
+				</Name>
+			</Lair_Loot_Key_copper>
+			<Lair_Loot_Key_silver>
+				<Name>
+					<eng>Silver Chest Key</eng>
+				</Name>
+			</Lair_Loot_Key_silver>
+			<Lair_Loot_Key_gold>
+				<Name>
+					<eng>Gold Chest Key</eng>
+				</Name>
+			</Lair_Loot_Key_gold>
+			<Emerald_lantern>
+				<Name>
+					<eng>Emerald Lantern</eng>
+				</Name>
+				<Desc>
+					<eng>An artifact with unknown origins. It radiates arcane energies and for some reason it glows when monsters are near.</eng>
+				</Desc>
+			</Emerald_lantern>
+			<Ring_of_message>
+				<Name>
+					<eng>Ring of Guidance</eng>
+				</Name>
+			</Ring_of_message>
+			<Giant_Fifth_element>
+				<Name>
+					<eng>Fifth element</eng>
+				</Name>
+			</Giant_Fifth_element>
+			<Giant_Electric_coil>
+				<Name>
+					<eng>Electric coil</eng>
+				</Name>
+			</Giant_Electric_coil>
+			<Giant_Machine_part>
+				<Name>
+					<eng>Machine part</eng>
+				</Name>
+			</Giant_Machine_part>
+			<Giant_Orichalcum_ore>
+				<Name>
+					<eng>Orichalcum ore</eng>
+				</Name>
+			</Giant_Orichalcum_ore>
+			<Giant_Rusty_Bomb>
+				<Name>
+					<eng>Rusty Bomb</eng>
+				</Name>
+			</Giant_Rusty_Bomb>
+			<Giant_Swamp_lily>
+				<Name>
+					<eng>Swamp lily</eng>
+				</Name>
+			</Giant_Swamp_lily>
+			<Jade_Rothar_figure>
+				<Name>
+					<eng>Jade Dobryna figurine</eng>
+				</Name>
+				<Desc>
+					<eng>"Standing at Anika's tombstone, Ivan cast off Dobryna and he pushed him away three times. And then Dobryna felt great wrath in his heart and rushed at Ivan in terrible anger."</eng>
+				</Desc>
+			</Jade_Rothar_figure>
+			<Big_Iron_key>
+				<Name>
+					<eng>Engraved Iron Key</eng>
+				</Name>
+			</Big_Iron_key>
+			<Borgovian_guide>
+				<Name>
+					<eng>Gloomy Planet Guidebook</eng>
+				</Name>
+			</Borgovian_guide>
+			<Big_bronz_key>
+				<Name>
+					<eng>Engraved Bronze Key</eng>
+				</Name>
+			</Big_bronz_key>
+			<Mushroom_diploma>
+				<Name>
+					<eng>Mushroom Expert Certificate</eng>
+				</Name>
+			</Mushroom_diploma>
+			<gold_fish>
+				<Name>
+					<eng>Frozen Goldfish</eng>
+				</Name>
+				<Desc>
+					<eng>If you believe the folk tales, this small fish might grant you a wish. If you don't, you found something for dinner.</eng>
+				</Desc>
+			</gold_fish>
+			<Key_fragments>
+				<Name>
+					<eng>Key Fragments</eng>
+				</Name>
+				<Desc>
+					<eng>They only key that could lead you out of this strange place has been shattered in an act of madness and fury. Find the pieces and get out.</eng>
+				</Desc>
+			</Key_fragments>
+			<Elevator_key>
+				<Name>
+					<eng>Elevator Key</eng>
+				</Name>
+			</Elevator_key>
+			<Rune_stone_of_carcas_pit>
+				<Name>
+					<eng>Runestone</eng>
+				</Name>
+				<Desc>
+					<eng>A broken slab stone from an ancient and terrifying well in the forest.</eng>
+				</Desc>
+			</Rune_stone_of_carcas_pit>
+			<Spiritwalker_bone_relic>
+				<Name>
+					<eng>Spiritwalker Idol</eng>
+				</Name>
+				<Desc>
+					<eng>The sacred item that belongs to the spiritual guardians of the Thunderhead Mountains: the Spiritwalkers.</eng>
+				</Desc>
+			</Spiritwalker_bone_relic>
+			<Saffis_amulet_high>
+				<Name>
+					<eng>Saffi's Improved Medallion</eng>
+				</Name>
+			</Saffis_amulet_high>
+			<Saffis_amulet_low>
+				<Name>
+					<eng>Saffi's Enchanted Medallion</eng>
+				</Name>
+			</Saffis_amulet_low>
+			<Ancient_clock>
+				<Name>
+					<eng>Old clockwork</eng>
+				</Name>
+				<Desc>
+					<eng>An ancient clock, one of the first experiments in the amalgamation of weird science and powerful magic.</eng>
+				</Desc>
+			</Ancient_clock>
+			<Enginier_toolkit>
+				<Name>
+					<eng>Automated Toolbox</eng>
+				</Name>
+				<Desc>
+					<eng>A handy-dandy mechanized utensil rigged to cause an overload.</eng>
+				</Desc>
+			</Enginier_toolkit>
+			<cell_key>
+				<Name>
+					<eng>Bronze Cell Key</eng>
+				</Name>
+			</cell_key>
+			<cell_key_II>
+				<Name>
+					<eng>Iron Cell Key</eng>
+				</Name>
+			</cell_key_II>
+			<Moonstone1>
+				<Name>
+					<eng>Moonstone</eng>
+				</Name>
+			</Moonstone1>
+			<Moonstone2>
+				<Name>
+					<eng>Moonstone</eng>
+				</Name>
+			</Moonstone2>
+			<Giant_moonstone>
+				<Name>
+					<eng>Giant moonstone</eng>
+				</Name>
+				<Desc>
+					<eng>This rare artifact belonged to Koschei, the mythical sorcerer of Borgovia. Some say that even his tears were magical and turned instantly to moonstones.</eng>
+				</Desc>
+			</Giant_moonstone>
+			<vh2_Koscsej_tear>
+				<Name>
+					<eng>Koschei's Tear</eng>
+				</Name>
+			</vh2_Koscsej_tear>
+			<Bone_Relic_of_spiritwalker>
+				<Name>
+					<eng>Spiritwalker Idol</eng>
+				</Name>
+				<Desc>
+					<eng>The sacred item that belongs to the spiritual guardians of the Thunderhead Mountains: the Spiritwalkers.</eng>
+				</Desc>
+			</Bone_Relic_of_spiritwalker>
+			<Bone_Relic_of_spiritwalker_low>
+				<Name>
+					<eng>Spiritwalker Idol</eng>
+				</Name>
+				<Desc>
+					<eng>The sacred item that belongs to the spiritual guardians of the Thunderhead Mountains: the Spiritwalkers.</eng>
+				</Desc>
+			</Bone_Relic_of_spiritwalker_low>
+			<vh2_expurgator_armor>
+				<Name>
+					<eng>Expurgator Armor</eng>
+				</Name>
+			</vh2_expurgator_armor>
+			<vh2_expurgator_ring>
+				<Name>
+					<eng>Expurgator Ring</eng>
+				</Name>
+			</vh2_expurgator_ring>
+			<Dungeonkeeper_armor>
+				<Name>
+					<eng>Dungeonkeeper Armor</eng>
+				</Name>
+			</Dungeonkeeper_armor>
+			<Dungeonkeeper_armor_low>
+				<Name>
+					<eng>Dungeonkeeper Armor</eng>
+				</Name>
+			</Dungeonkeeper_armor_low>
+			<Dungeonkeeper_gloves>
+				<Name>
+					<eng>Dungeonkeeper Gloves</eng>
+				</Name>
+			</Dungeonkeeper_gloves>
+			<Dungeonkeeper_gloves_low>
+				<Name>
+					<eng>Dungeonkeeper Gloves</eng>
+				</Name>
+			</Dungeonkeeper_gloves_low>
+			<Dungeonkeeper_trophy>
+				<Name>
+					<eng>Dungeonkeeper Trophy</eng>
+				</Name>
+			</Dungeonkeeper_trophy>
+			<Dungeonkeeper_trophy_low>
+				<Name>
+					<eng>Dungeonkeeper Trophy</eng>
+				</Name>
+			</Dungeonkeeper_trophy_low>
+			<Dungeonkeeper_amulet>
+				<Name>
+					<eng>Dungeonkeeper Amulet</eng>
+				</Name>
+			</Dungeonkeeper_amulet>
+			<Dungeonkeeper_amulet_low>
+				<Name>
+					<eng>Dungeonkeeper Amulet</eng>
+				</Name>
+			</Dungeonkeeper_amulet_low>
+			<kajli_armor>
+				<Name>
+					<eng>Wonderfully Botched Amulet</eng>
+				</Name>
+			</kajli_armor>
+			<Deadhunter_ring>
+				<Name>
+					<eng>Dead Hunter's Ring</eng>
+				</Name>
+			</Deadhunter_ring>
+			<vh2_preorder_helmet_magic>
+				<Name>
+					<eng>Predominator Helmet</eng>
+				</Name>
+			</vh2_preorder_helmet_magic>
+			<vh2_preorder_helmet_rare>
+				<Name>
+					<eng>Mephistron Helmet</eng>
+				</Name>
+			</vh2_preorder_helmet_rare>
+			<vh2_preorder_helmet_epic>
+				<Name>
+					<eng>Xenofiend</eng>
+				</Name>
+			</vh2_preorder_helmet_epic>
+			<vh2_preorder_helmet_legendary>
+				<Name>
+					<eng>Debominator Helmet</eng>
+				</Name>
+			</vh2_preorder_helmet_legendary>
+			<VH2_gandalfstaff>
+				<Name>
+					<eng>Wizard Staff</eng>
+				</Name>
+			</VH2_gandalfstaff>
+			<VH2_gandalf_low>
+				<Name>
+					<eng>Wizard Staff</eng>
+				</Name>
+			</VH2_gandalf_low>
+			<Vh2_gandalfsword>
+				<Name>
+					<eng>Glamdring</eng>
+				</Name>
+			</Vh2_gandalfsword>
+			<Vh2_gandalfsword_low>
+				<Name>
+					<eng>Glamdring</eng>
+				</Name>
+			</Vh2_gandalfsword_low>
+			<silver_tongue>
+				<Name>
+					<eng>Silver Tongue</eng>
+				</Name>
+			</silver_tongue>
+			<seraphim_justice>
+				<Name>
+					<eng>Seraphim Justice</eng>
+				</Name>
+			</seraphim_justice>
+			<netherstar>
+				<Name>
+					<eng>Netherstar</eng>
+				</Name>
+			</netherstar>
+			<ember_soul>
+				<Name>
+					<eng>Ember Soul</eng>
+				</Name>
+			</ember_soul>
+			<ekunda>
+				<Name>
+					<eng>Ekunda</eng>
+				</Name>
+			</ekunda>
+			<Vh2YoungVHSword>
+				<Name>
+					<eng>Sword of the Youngster</eng>
+				</Name>
+			</Vh2YoungVHSword>
+			<Kanes_Badge>
+				<Name>
+					<eng>Kane's Badge</eng>
+				</Name>
+			</Kanes_Badge>
+			<BatuKhans_Horn>
+				<Name>
+					<eng>Batu Khan's Horn</eng>
+				</Name>
+			</BatuKhans_Horn>
+			<Serum_X>
+				<Name>
+					<eng>Serum X</eng>
+				</Name>
+			</Serum_X>
+			<Laurels_Pontifex>
+				<Name>
+					<eng>Laurels of the Pontifex</eng>
+				</Name>
+			</Laurels_Pontifex>
+			<Golden_Spyglass>
+				<Name>
+					<eng>Golden Spyglass</eng>
+				</Name>
+			</Golden_Spyglass>
+			<GHWells_Manuscript>
+				<Name>
+					<eng>G.H. Wells Manuscript</eng>
+				</Name>
+			</GHWells_Manuscript>
+			<Orichalcum_Chesspiece>
+				<Name>
+					<eng>Orichalcum Chesspiece</eng>
+				</Name>
+			</Orichalcum_Chesspiece>
+			<Forbidden_Apocryphs>
+				<Name>
+					<eng>Forbidden Apocryphs</eng>
+				</Name>
+			</Forbidden_Apocryphs>
+			<Mendeleevs_Journals>
+				<Name>
+					<eng>Mendeleev's Journals</eng>
+				</Name>
+			</Mendeleevs_Journals>
+			<Jackmans_Crossbow>
+				<Name>
+					<eng>The Jack-man's Crossbow</eng>
+				</Name>
+			</Jackmans_Crossbow>
+			<Valorean_Steel_Blade>
+				<Name>
+					<eng>Valorean Steel Blade</eng>
+				</Name>
+			</Valorean_Steel_Blade>
+			<Saints_Tears>
+				<Name>
+					<eng>The Saint's Tears</eng>
+				</Name>
+			</Saints_Tears>
+			<Beard_Essence>
+				<Name>
+					<eng>Beard Grease Essence</eng>
+				</Name>
+			</Beard_Essence>
+			<Gnome_Bomb>
+				<Name>
+					<eng>Gnome bomb</eng>
+				</Name>
+			</Gnome_Bomb>
+			<Loot_Key_copper>
+				<Name>
+					<eng>Copper Key</eng>
+				</Name>
+			</Loot_Key_copper>
+			<Vlados_cell_key>
+				<Name>
+					<eng>Cell Key</eng>
+				</Name>
+			</Vlados_cell_key>
+			<Woodsman_bones>
+				<Name>
+					<eng>Woodsman Remains</eng>
+				</Name>
+			</Woodsman_bones>
+			<Ghost_Capacitor>
+				<Name>
+					<eng>Ghost Capacitor</eng>
+				</Name>
+			</Ghost_Capacitor>
+			<hag_necklace>
+				<Name>
+					<eng>Hag's Necklace</eng>
+				</Name>
+			</hag_necklace>
+			<Meat_cleaver>
+				<Name>
+					<eng>Meat Cleaver</eng>
+				</Name>
+			</Meat_cleaver>
+			<Dreamer_artifact>
+				<Name>
+					<eng>Dreamer Artifact</eng>
+				</Name>
+			</Dreamer_artifact>
+			<Dreamer_inert_artifact>
+				<Name>
+					<eng>Dreamer Inert Artifact</eng>
+				</Name>
+			</Dreamer_inert_artifact>
+			<Skrimbeast_innards>
+				<Name>
+					<eng>Skrimbeast Innards</eng>
+				</Name>
+			</Skrimbeast_innards>
+			<Skrimbeast_potion>
+				<Name>
+					<eng>Skrimbeast Potion</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+10 Mana gained permanently</eng>
+				</ConsumeEffect>
+			</Skrimbeast_potion>
+			<Xeno_acid>
+				<Name>
+					<eng>Xeno-Acid</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>5 Poison Resistance gained permanently</eng>
+				</ConsumeEffect>
+			</Xeno_acid>
+			<food_sack>
+				<Name>
+					<eng>Food Sack</eng>
+				</Name>
+			</food_sack>
+			<Rust_fragment>
+				<Name>
+					<eng>Rust Fragment</eng>
+				</Name>
+			</Rust_fragment>
+			<Soul_sceptre>
+				<Name>
+					<eng>Soul Sceptre</eng>
+				</Name>
+			</Soul_sceptre>
+			<Master_engineer_key>
+				<Name>
+					<eng>Master Engineer Key</eng>
+				</Name>
+			</Master_engineer_key>
+			<Man_from_atlantis_book>
+				<Name>
+					<eng>The Man From Atlantis</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+10 Hitpoints gained permanently</eng>
+				</ConsumeEffect>
+			</Man_from_atlantis_book>
+			<Hell_Koscheideath_fragment>
+				<Name>
+					<eng>Fragment of Koschei's Death</eng>
+				</Name>
+			</Hell_Koscheideath_fragment>
+			<Titan_flesh_chunk2>
+				<Name>
+					<eng>Titan Flesh Chunk</eng>
+				</Name>
+			</Titan_flesh_chunk2>
+			<Titan_flesh_chunk>
+				<Name>
+					<eng>Titan Flesh Chunk</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+10 Hitpoints gained permanently</eng>
+				</ConsumeEffect>
+			</Titan_flesh_chunk>
+			<Hell_titan_recipebook>
+				<Name>
+					<eng>The Real Hell's Kitchen Cookbook</eng>
+				</Name>
+			</Hell_titan_recipebook>
+			<Hell_guidebook>
+				<Name>
+					<eng>Guidebook to Hell (by Dante A.)</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+10 Hitpoints gained permanently</eng>
+				</ConsumeEffect>
+			</Hell_guidebook>
+			<inkvizicios_bolter>
+				<Name>
+					<eng>Inquisitor Bolter</eng>
+				</Name>
+				<Desc>
+					<eng>[ffff0000]Inquisitor Only[/ffff0000]</eng>
+				</Desc>
+			</inkvizicios_bolter>
+			<vh3imported>
+				<Name>
+					<eng>From Two to Three</eng>
+				</Name>
+			</vh3imported>
+			<dreamer_artifact_useful>
+				<Name>
+					<eng>Prismatic Ring</eng>
+				</Name>
+			</dreamer_artifact_useful>
+			<Gravimetric_Gun>
+				<Name>
+					<eng>Gravimetric Gun</eng>
+				</Name>
+			</Gravimetric_Gun>
+			<Gravimetric_Gun_Low>
+				<Name>
+					<eng>Gravimetric Gun</eng>
+				</Name>
+			</Gravimetric_Gun_Low>
+			<annihhilator_trophy>
+				<Name>
+					<eng>Elyctromagnetic Spindle</eng>
+				</Name>
+			</annihhilator_trophy>
+			<koboldking_trophy>
+				<Name>
+					<eng>Ivory Crown</eng>
+				</Name>
+			</koboldking_trophy>
+			<Trophy_Werewolf_Spiritstone>
+				<Name>
+					<eng>Werewolf Spiritstone</eng>
+				</Name>
+			</Trophy_Werewolf_Spiritstone>
+			<Hannibal_mask>
+				<Name>
+					<eng>Mask of the Cannibal</eng>
+				</Name>
+			</Hannibal_mask>
+			<Hannibal_mask_low>
+				<Name>
+					<eng>Mask of the Cannibal</eng>
+				</Name>
+			</Hannibal_mask_low>
+			<Blood_Candle>
+				<Name>
+					<eng>Blood Candle</eng>
+				</Name>
+			</Blood_Candle>
+			<Hunter_Candle>
+				<Name>
+					<eng>Hunter Candle</eng>
+				</Name>
+			</Hunter_Candle>
+			<Ink_Candle>
+				<Name>
+					<eng>Ink Candle</eng>
+				</Name>
+			</Ink_Candle>
+			<Jade_Candle>
+				<Name>
+					<eng>Jade Candle</eng>
+				</Name>
+			</Jade_Candle>
+			<Obsidian_Candle>
+				<Name>
+					<eng>Obsidian Candle</eng>
+				</Name>
+			</Obsidian_Candle>
+			<Poison_Candle>
+				<Name>
+					<eng>Poison Candle</eng>
+				</Name>
+			</Poison_Candle>
+			<Rainbow_Candle>
+				<Name>
+					<eng>Rainbow Candle</eng>
+				</Name>
+			</Rainbow_Candle>
+			<Shadow_Candle>
+				<Name>
+					<eng>Shadow Candle</eng>
+				</Name>
+			</Shadow_Candle>
+			<Spirit_Candle>
+				<Name>
+					<eng>Spirit Candle</eng>
+				</Name>
+			</Spirit_Candle>
+			<Tiamat_Candle>
+				<Name>
+					<eng>Tiamat Candle</eng>
+				</Name>
+			</Tiamat_Candle>
+			<altairsword>
+				<Name>
+					<eng>Borgovian Siegeblade</eng>
+				</Name>
+			</altairsword>
+			<Lightsabre_crystal>
+				<Name>
+					<eng>Photon Blade Essence</eng>
+				</Name>
+			</Lightsabre_crystal>
+			<Lightsabre_crystal_low>
+				<Name>
+					<eng>Photon Blade Essence</eng>
+				</Name>
+			</Lightsabre_crystal_low>
+			<veteran_meele_Sword>
+				<Name>
+					<eng>Mandeluzian Blade</eng>
+				</Name>
+			</veteran_meele_Sword>
+			<veteran_mage1_Focus>
+				<Name>
+					<eng>Ethersurge Spellcuffs</eng>
+				</Name>
+			</veteran_mage1_Focus>
+			<veteran_mage2_Focus>
+				<Name>
+					<eng>Riftbound Spellcuffs</eng>
+				</Name>
+			</veteran_mage2_Focus>
+			<veteran_Engineer1_EngineerCannon>
+				<Name>
+					<eng>Military Discharger</eng>
+				</Name>
+			</veteran_Engineer1_EngineerCannon>
+			<veteran_Engineer2_EngineerCannon>
+				<Name>
+					<eng>Dragonhead Discharger</eng>
+				</Name>
+			</veteran_Engineer2_EngineerCannon>
+			<veteran_ranged_Rifle18>
+				<Name>
+					<eng>Ramatolian Assault Musket</eng>
+				</Name>
+			</veteran_ranged_Rifle18>
+			<veteran_Engineer1_LightPlate>
+				<Name>
+					<eng>Brigandine</eng>
+				</Name>
+			</veteran_Engineer1_LightPlate>
+			<veteran_Engineer2_LightPlate>
+				<Name>
+					<eng>Chain Mail</eng>
+				</Name>
+			</veteran_Engineer2_LightPlate>
+			<veteran_mage1_armor>
+				<Name>
+					<eng>Reinforced Vest</eng>
+				</Name>
+			</veteran_mage1_armor>
+			<veteran_mage2_armor>
+				<Name>
+					<eng>Hard Leather Armor</eng>
+				</Name>
+			</veteran_mage2_armor>
+			<veteran_melee_LightPlate>
+				<Name>
+					<eng>Trellised Armor</eng>
+				</Name>
+			</veteran_melee_LightPlate>
+			<veteran_ranged_LightPlate>
+				<Name>
+					<eng>Ring Mail</eng>
+				</Name>
+			</veteran_ranged_LightPlate>
+			<veteran_melee_Helmet>
+				<Name>
+					<eng>Wide-brimmed Leather Hat</eng>
+				</Name>
+			</veteran_melee_Helmet>
+			<veteran_ranged_Helmet>
+				<Name>
+					<eng>Panama Hat</eng>
+				</Name>
+			</veteran_ranged_Helmet>
+			<veteran_mage1_mask>
+				<Name>
+					<eng>Spiritseeker Mask</eng>
+				</Name>
+			</veteran_mage1_mask>
+			<veteran_mage2_mask>
+				<Name>
+					<eng>Broken Fang Mask</eng>
+				</Name>
+			</veteran_mage2_mask>
+			<veteran_Engineer1_EnginerHelm>
+				<Name>
+					<eng>Expeditionary Visor</eng>
+				</Name>
+			</veteran_Engineer1_EnginerHelm>
+			<veteran_Engineer2_EnginerHelm>
+				<Name>
+					<eng>Shock Trooper Helmet</eng>
+				</Name>
+			</veteran_Engineer2_EnginerHelm>
+			<veteran_Engineer1_Gloves>
+				<Name>
+					<eng>Heavy Gloves</eng>
+				</Name>
+			</veteran_Engineer1_Gloves>
+			<veteran_Engineer2_Gloves>
+				<Name>
+					<eng>Orichalcum Laced Gloves</eng>
+				</Name>
+			</veteran_Engineer2_Gloves>
+			<veteran_mage1_gloves>
+				<Name>
+					<eng>Rune Gloves</eng>
+				</Name>
+			</veteran_mage1_gloves>
+			<veteran_mage2_gloves>
+				<Name>
+					<eng>Orichalcum Laced Gloves</eng>
+				</Name>
+			</veteran_mage2_gloves>
+			<veteran_melee_Gloves>
+				<Name>
+					<eng>Orichalcum Laced Gloves</eng>
+				</Name>
+			</veteran_melee_Gloves>
+			<veteran_ranged_Gloves>
+				<Name>
+					<eng>Gauntlets</eng>
+				</Name>
+			</veteran_ranged_Gloves>
+			<veteran_Engineer1_Boots>
+				<Name>
+					<eng>Patented Boots</eng>
+				</Name>
+			</veteran_Engineer1_Boots>
+			<veteran_Engineer2_Boots>
+				<Name>
+					<eng>Patented Boots</eng>
+				</Name>
+			</veteran_Engineer2_Boots>
+			<veteran_mage1_boots>
+				<Name>
+					<eng>Orichalcum Plated Boots</eng>
+				</Name>
+			</veteran_mage1_boots>
+			<veteran_mage2_boots>
+				<Name>
+					<eng>Orichalcum Plated Boots</eng>
+				</Name>
+			</veteran_mage2_boots>
+			<veteran_melee_Boots>
+				<Name>
+					<eng>Dreadworks Army Boots</eng>
+				</Name>
+			</veteran_melee_Boots>
+			<veteran_ranged_Boots>
+				<Name>
+					<eng>Dreadworks Army Boots</eng>
+				</Name>
+			</veteran_ranged_Boots>
+			<veteran_melee_Cloak>
+				<Name>
+					<eng>Silk Mantle</eng>
+				</Name>
+			</veteran_melee_Cloak>
+			<veteran_ranged_Cloak>
+				<Name>
+					<eng>Velvet Cloak</eng>
+				</Name>
+			</veteran_ranged_Cloak>
+			<veteran_mage1_cape>
+				<Name>
+					<eng>Timestreamer Mantle</eng>
+				</Name>
+			</veteran_mage1_cape>
+			<veteran_mage2_cape>
+				<Name>
+					<eng>Glyph Guardian Cloak</eng>
+				</Name>
+			</veteran_mage2_cape>
+			<veteran_Engineer1_Backpack>
+				<Name>
+					<eng>Hydrogencell Pack</eng>
+				</Name>
+			</veteran_Engineer1_Backpack>
+			<veteran_Engineer2_Backpack>
+				<Name>
+					<eng>Condensator Pack</eng>
+				</Name>
+			</veteran_Engineer2_Backpack>
+			<BastardSwordTutorial>
+				<Name>
+					<eng>Bastard Sword</eng>
+				</Name>
+			</BastardSwordTutorial>
+			<Focus1Tutorial>
+				<Name>
+					<eng>Ironbound Spellcuffs</eng>
+				</Name>
+			</Focus1Tutorial>
+			<EngineerCannon1Tutorial>
+				<Name>
+					<eng>Ironpipe Discharger</eng>
+				</Name>
+			</EngineerCannon1Tutorial>
+			<LightCloakTutorial>
+				<Name>
+					<eng>Light Cloak</eng>
+				</Name>
+			</LightCloakTutorial>
+			<MageCloak1Tutorial>
+				<Name>
+					<eng>Rogue Thaumaturge Cape</eng>
+				</Name>
+			</MageCloak1Tutorial>
+			<Backpack1Tutorial>
+				<Name>
+					<eng>Old Industrial Pack</eng>
+				</Name>
+			</Backpack1Tutorial>
+			<Helmet1Tutorial>
+				<Name>
+					<eng>Wide-brimmed Leather Hat</eng>
+				</Name>
+			</Helmet1Tutorial>
+			<MageMask1Tutorial>
+				<Name>
+					<eng>Venetian Mask</eng>
+				</Name>
+			</MageMask1Tutorial>
+			<EnginerHelm1Tutorial>
+				<Name>
+					<eng>Protective Facemask</eng>
+				</Name>
+			</EnginerHelm1Tutorial>
+			<QualitedArmorTutorial>
+				<Name>
+					<eng>Quality Armor</eng>
+				</Name>
+			</QualitedArmorTutorial>
+			<LeatherBootsTutorial>
+				<Name>
+					<eng>Leather Boots</eng>
+				</Name>
+			</LeatherBootsTutorial>
+			<utility_belt>
+				<Name>
+					<eng>Utility Belt</eng>
+				</Name>
+			</utility_belt>
+			<machine_skull>
+				<Name>
+					<eng>Machine Skull</eng>
+				</Name>
+			</machine_skull>
+			<woody_snack>
+				<Name>
+					<eng>Woody Snack</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+10 Mana gained permanently</eng>
+				</ConsumeEffect>
+			</woody_snack>
+			<Dr_Jekyl_tincture>
+				<Name>
+					<eng>Dr. Jekyll's Tincture</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+10 HitPoints gained permanently</eng>
+				</ConsumeEffect>
+			</Dr_Jekyl_tincture>
+			<TD1_hidden_reward>
+				<Name>
+					<eng>Elixir of Fortitude</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+10 to Defense</eng>
+				</ConsumeEffect>
+			</TD1_hidden_reward>
+			<TD2_hidden_reward>
+				<Name>
+					<eng>Elixir of Wizardry</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+10 to Mana</eng>
+				</ConsumeEffect>
+			</TD2_hidden_reward>
+			<Da_Vinci_note>
+				<Name>
+					<eng>Da Vinci's Master Plan</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+5 to Willpower</eng>
+				</ConsumeEffect>
+			</Da_Vinci_note>
+			<chicken_egg>
+				<Name>
+					<eng>Griffon Egg</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+10 Hitpoints gained permanently</eng>
+				</ConsumeEffect>
+			</chicken_egg>
+			<Giant_Weapon_oil>
+				<Name>
+					<eng>Zacapa Rum</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+10 Hitpoints gained permanently</eng>
+				</ConsumeEffect>
+			</Giant_Weapon_oil>
+			<domovoy_steak>
+				<Name>
+					<eng>Domovoy Steak</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+10 Hitpoints gained permanently</eng>
+				</ConsumeEffect>
+			</domovoy_steak>
+			<vrikolak_pie>
+				<Name>
+					<eng>Vrikolak Pie</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+10 Hitpoints gained permanently</eng>
+				</ConsumeEffect>
+			</vrikolak_pie>
+			<Happiness_mushrooms>
+				<Name>
+					<eng>Suspicious Mushroom</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+10 Hitpoints gained permanently</eng>
+				</ConsumeEffect>
+			</Happiness_mushrooms>
+			<Superegg>
+				<Name>
+					<eng>Easter Egg</eng>
+				</Name>
+				<Desc>
+					<eng>A miraculous egg that contains all the minerals that you might require while hunting down monsters.</eng>
+				</Desc>
+				<ConsumeEffect>
+					<eng>+10 Hitpoints gained permanently</eng>
+				</ConsumeEffect>
+			</Superegg>
+			<vhgold_pistol26>
+				<Name>
+					<eng>SRP107 Commando</eng>
+				</Name>
+			</vhgold_pistol26>
+			<vhgold_pistol27>
+				<Name>
+					<eng>Mondragon M1898</eng>
+				</Name>
+			</vhgold_pistol27>
+			<vhgold_pistol29>
+				<Name>
+					<eng>Ramatolian Hand Mortar</eng>
+				</Name>
+			</vhgold_pistol29>
+			<vhgold_pistol31>
+				<Name>
+					<eng>Tropp-841 Gyroblaster</eng>
+				</Name>
+			</vhgold_pistol31>
+			<vhgold_pistol33>
+				<Name>
+					<eng>FRX Marksman Mini</eng>
+				</Name>
+			</vhgold_pistol33>
+			<vhgold_rifle07>
+				<Name>
+					<eng>Maxwell Impact Rifle</eng>
+				</Name>
+			</vhgold_rifle07>
+			<vhgold_rifle11>
+				<Name>
+					<eng>Ramatolian Long Musket</eng>
+				</Name>
+			</vhgold_rifle11>
+			<vhgold_rifle13>
+				<Name>
+					<eng>Phlogiston Rifle</eng>
+				</Name>
+			</vhgold_rifle13>
+			<vhgold_rifle14>
+				<Name>
+					<eng>Sparkwheel Musketon</eng>
+				</Name>
+			</vhgold_rifle14>
+			<vhgold_rifle16>
+				<Name>
+					<eng>Mondragon MkII Rifle</eng>
+				</Name>
+			</vhgold_rifle16>
+			<vhgold_rifle17>
+				<Name>
+					<eng>L59 Attack Carbine</eng>
+				</Name>
+			</vhgold_rifle17>
+			<vhgold_rifle22>
+				<Name>
+					<eng>L73 Spark Rifle</eng>
+				</Name>
+			</vhgold_rifle22>
+			<vhgold_rifle23>
+				<Name>
+					<eng>Yarps Siege Rifle</eng>
+				</Name>
+			</vhgold_rifle23>
+			<vhgold_rifle27>
+				<Name>
+					<eng>L88 Thud Gun</eng>
+				</Name>
+			</vhgold_rifle27>
+			<vhgold_rifle28>
+				<Name>
+					<eng>Ramatolian Field Rifle</eng>
+				</Name>
+			</vhgold_rifle28>
+			<vhgold_rifle29>
+				<Name>
+					<eng>Yarps Shock Carbine</eng>
+				</Name>
+			</vhgold_rifle29>
+			<vhgold_rifle32>
+				<Name>
+					<eng>L94 Compact Rifle</eng>
+				</Name>
+			</vhgold_rifle32>
+			<vhgold_rifle33>
+				<Name>
+					<eng>K1909 Blast Rifle</eng>
+				</Name>
+			</vhgold_rifle33>
+			<vhgold_armorvest09>
+				<Name>
+					<eng>Fine Armor Vest</eng>
+				</Name>
+			</vhgold_armorvest09>
+			<vhgold_armorvest12>
+				<Name>
+					<eng>Officer Armor Vest</eng>
+				</Name>
+			</vhgold_armorvest12>
+			<vhgold_armorvest19>
+				<Name>
+					<eng>Enchanted Armor Vest</eng>
+				</Name>
+			</vhgold_armorvest19>
+			<vhgold_armorvest21>
+				<Name>
+					<eng>Steel-Clad Armor Vest</eng>
+				</Name>
+			</vhgold_armorvest21>
+			<vhgold_armorvest22>
+				<Name>
+					<eng>Spellguard Armor Vest</eng>
+				</Name>
+			</vhgold_armorvest22>
+			<vhgold_armorvest23>
+				<Name>
+					<eng>Gianthide Armor Vest</eng>
+				</Name>
+			</vhgold_armorvest23>
+			<vhgold_armorvest25>
+				<Name>
+					<eng>Nightstalker Armor Vest</eng>
+				</Name>
+			</vhgold_armorvest25>
+			<vhgold_armorvest26>
+				<Name>
+					<eng>Blessed Steel Vest</eng>
+				</Name>
+			</vhgold_armorvest26>
+			<vhgold_armorvest27>
+				<Name>
+					<eng>Fey-Forged Vest</eng>
+				</Name>
+			</vhgold_armorvest27>
+			<vhgold_armorvest28>
+				<Name>
+					<eng>Royal Armor Vest</eng>
+				</Name>
+			</vhgold_armorvest28>
+			<vhgold_armorvest29>
+				<Name>
+					<eng>Sanctified Armor Vest</eng>
+				</Name>
+			</vhgold_armorvest29>
+			<vhgold_armorvest30>
+				<Name>
+					<eng>Spiritguard Amror Vest</eng>
+				</Name>
+			</vhgold_armorvest30>
+			<vhgold_armorvest31>
+				<Name>
+					<eng>Angeltear Armor Vest</eng>
+				</Name>
+			</vhgold_armorvest31>
+			<vhgold_armorvest32>
+				<Name>
+					<eng>Devilhide Armor Vest</eng>
+				</Name>
+			</vhgold_armorvest32>
+			<vhgold_armorvest33>
+				<Name>
+					<eng>Voidsteel Armor Vest</eng>
+				</Name>
+			</vhgold_armorvest33>
+			<vhgold_backpack21>
+				<Name>
+					<eng>Parasystem Pack</eng>
+				</Name>
+			</vhgold_backpack21>
+			<vhgold_backpack28>
+				<Name>
+					<eng>Energopiston Pack</eng>
+				</Name>
+			</vhgold_backpack28>
+			<vhgold_engineerhelmet30>
+				<Name>
+					<eng>Robotic Helmet</eng>
+				</Name>
+			</vhgold_engineerhelmet30>
+			<vhgold_engineerhelmet31>
+				<Name>
+					<eng>Advanced Combat Helmet</eng>
+				</Name>
+			</vhgold_engineerhelmet31>
+			<vhgold_engineerhelmet33>
+				<Name>
+					<eng>R2 Mechanized Head</eng>
+				</Name>
+			</vhgold_engineerhelmet33>
+			<vhgold_engineersuit01>
+				<Name>
+					<eng>Laminated Work Suit</eng>
+				</Name>
+			</vhgold_engineersuit01>
+			<vhgold_engineersuit02>
+				<Name>
+					<eng>Galvanized Work Suit</eng>
+				</Name>
+			</vhgold_engineersuit02>
+			<vhgold_engineersuit03>
+				<Name>
+					<eng>Polarized Suit</eng>
+				</Name>
+			</vhgold_engineersuit03>
+			<vhgold_engineersuit04>
+				<Name>
+					<eng>Industrial Suit</eng>
+				</Name>
+			</vhgold_engineersuit04>
+			<vhgold_engineersuit05>
+				<Name>
+					<eng>Enviromental Suit</eng>
+				</Name>
+			</vhgold_engineersuit05>
+			<vhgold_engineersuit06>
+				<Name>
+					<eng>Elyctro-Conductor Suit</eng>
+				</Name>
+			</vhgold_engineersuit06>
+			<vhgold_engineersuit07>
+				<Name>
+					<eng>Heavy Duty Suit</eng>
+				</Name>
+			</vhgold_engineersuit07>
+			<vhgold_engineersuit09>
+				<Name>
+					<eng>Inverse-Conductor Suit</eng>
+				</Name>
+			</vhgold_engineersuit09>
+			<vhgold_engineersuit10>
+				<Name>
+					<eng>Basic Hazard Suit</eng>
+				</Name>
+			</vhgold_engineersuit10>
+			<vhgold_engineersuit11>
+				<Name>
+					<eng>Patented Suit</eng>
+				</Name>
+			</vhgold_engineersuit11>
+			<vhgold_engineersuit12>
+				<Name>
+					<eng>Shock-Absorbent Suit</eng>
+				</Name>
+			</vhgold_engineersuit12>
+			<vhgold_engineersuit13>
+				<Name>
+					<eng>Flexicord Suit</eng>
+				</Name>
+			</vhgold_engineersuit13>
+			<vhgold_engineersuit16>
+				<Name>
+					<eng>Ampermax Suit</eng>
+				</Name>
+			</vhgold_engineersuit16>
+			<vhgold_engineersuit17>
+				<Name>
+					<eng>Decontaminator Suit</eng>
+				</Name>
+			</vhgold_engineersuit17>
+			<vhgold_engineersuit20>
+				<Name>
+					<eng>Retrocharged Suit</eng>
+				</Name>
+			</vhgold_engineersuit20>
+			<vhgold_engineersuit21>
+				<Name>
+					<eng>Mechanovest Suit</eng>
+				</Name>
+			</vhgold_engineersuit21>
+			<vhgold_engineersuit24>
+				<Name>
+					<eng>Futuron Suit</eng>
+				</Name>
+			</vhgold_engineersuit24>
+			<vhgold_engineersuit25>
+				<Name>
+					<eng>Metasbestos Suit</eng>
+				</Name>
+			</vhgold_engineersuit25>
+			<vhgold_engineersuit26>
+				<Name>
+					<eng>Kryptonized Suit</eng>
+				</Name>
+			</vhgold_engineersuit26>
+			<vhgold_engineersuit27>
+				<Name>
+					<eng>Essence Boiler Suit</eng>
+				</Name>
+			</vhgold_engineersuit27>
+			<vhgold_engineersuit28>
+				<Name>
+					<eng>Protolythic Suit</eng>
+				</Name>
+			</vhgold_engineersuit28>
+			<vhgold_engineersuit29>
+				<Name>
+					<eng>Polyplated Suit</eng>
+				</Name>
+			</vhgold_engineersuit29>
+			<vhgold_engineersuit30>
+				<Name>
+					<eng>Vulcanized Suit</eng>
+				</Name>
+			</vhgold_engineersuit30>
+			<vhgold_engineersuit31>
+				<Name>
+					<eng>Versatility Suit</eng>
+				</Name>
+			</vhgold_engineersuit31>
+			<vhgold_engineersuit32>
+				<Name>
+					<eng>Macro-Alloy Suit</eng>
+				</Name>
+			</vhgold_engineersuit32>
+			<vhgold_engineersuit33>
+				<Name>
+					<eng>Ceramite Plated Suit</eng>
+				</Name>
+			</vhgold_engineersuit33>
+			<vhgold_focus28>
+				<Name>
+					<eng>Retributor Spellcuffs</eng>
+				</Name>
+			</vhgold_focus28>
+			<vhgold_focus29>
+				<Name>
+					<eng>Clairvoyant Spellcuffs</eng>
+				</Name>
+			</vhgold_focus29>
+			<vhgold_mask24>
+				<Name>
+					<eng>Fiendcracker Mask</eng>
+				</Name>
+			</vhgold_mask24>
+			<vhgold_amulet01>
+				<Name>
+					<eng>Silver medalion</eng>
+				</Name>
+			</vhgold_amulet01>
+			<vhgold_amulet19>
+				<Name>
+					<eng>Amethyst Pendant</eng>
+				</Name>
+			</vhgold_amulet19>
+			<vhgold_trophy17>
+				<Name>
+					<eng>Electromagnetic Spindle</eng>
+				</Name>
+			</vhgold_trophy17>
+			<vhgold_trophy19>
+				<Name>
+					<eng>Poison Sack</eng>
+				</Name>
+			</vhgold_trophy19>
+			<vhgold_trophy21>
+				<Name>
+					<eng>Fiery Substance</eng>
+				</Name>
+			</vhgold_trophy21>
+			<vhgold_trophy25>
+				<Name>
+					<eng>Fang Claw</eng>
+				</Name>
+			</vhgold_trophy25>
+			<vhgold_belt32>
+				<Name>
+					<eng>Dreadlord Belt</eng>
+				</Name>
+			</vhgold_belt32>
+			<vhgold_belt33>
+				<Name>
+					<eng>Royal Champion Belt</eng>
+				</Name>
+			</vhgold_belt33>
+			<vhgold_garb01>
+				<Name>
+					<eng>Acolytus Garb</eng>
+				</Name>
+			</vhgold_garb01>
+			<vhgold_garb02>
+				<Name>
+					<eng>Rogue Elementalist Garb</eng>
+				</Name>
+			</vhgold_garb02>
+			<vhgold_garb03>
+				<Name>
+					<eng>Enchanted Garb</eng>
+				</Name>
+			</vhgold_garb03>
+			<vhgold_garb04>
+				<Name>
+					<eng>Ornate Garb</eng>
+				</Name>
+			</vhgold_garb04>
+			<vhgold_garb05>
+				<Name>
+					<eng>Invoker Garb</eng>
+				</Name>
+			</vhgold_garb05>
+			<vhgold_garb06>
+				<Name>
+					<eng>Eastern Druid Garb</eng>
+				</Name>
+			</vhgold_garb06>
+			<vhgold_garb07>
+				<Name>
+					<eng>Hunter Shaman garb</eng>
+				</Name>
+			</vhgold_garb07>
+			<vhgold_garb09>
+				<Name>
+					<eng>Lorekeeper Garb</eng>
+				</Name>
+			</vhgold_garb09>
+			<vhgold_garb11>
+				<Name>
+					<eng>Draconicus Garb</eng>
+				</Name>
+			</vhgold_garb11>
+			<vhgold_garb12>
+				<Name>
+					<eng>Scarlet Serpent garb</eng>
+				</Name>
+			</vhgold_garb12>
+			<vhgold_garb13>
+				<Name>
+					<eng>Maegister Garb</eng>
+				</Name>
+			</vhgold_garb13>
+			<vhgold_garb15>
+				<Name>
+					<eng>Mystic Knight Garb</eng>
+				</Name>
+			</vhgold_garb15>
+			<vhgold_garb17>
+				<Name>
+					<eng>Thaumaturge Garb</eng>
+				</Name>
+			</vhgold_garb17>
+			<vhgold_garb18>
+				<Name>
+					<eng>Emerald Order Garb</eng>
+				</Name>
+			</vhgold_garb18>
+			<vhgold_garb20>
+				<Name>
+					<eng>Shadowbinder Garb</eng>
+				</Name>
+			</vhgold_garb20>
+			<vhgold_garb21>
+				<Name>
+					<eng>Phoenix Order Garb</eng>
+				</Name>
+			</vhgold_garb21>
+			<vhgold_garb22>
+				<Name>
+					<eng>Royal Mystic Garb</eng>
+				</Name>
+			</vhgold_garb22>
+			<vhgold_garb24>
+				<Name>
+					<eng>Elysian Garb</eng>
+				</Name>
+			</vhgold_garb24>
+			<vhgold_garb25>
+				<Name>
+					<eng>Glyphbound Garb</eng>
+				</Name>
+			</vhgold_garb25>
+			<vhgold_garb27>
+				<Name>
+					<eng>Veilmaster Garb</eng>
+				</Name>
+			</vhgold_garb27>
+			<vhgold_garb28>
+				<Name>
+					<eng>Etherstrider Garb</eng>
+				</Name>
+			</vhgold_garb28>
+			<vhgold_garb29>
+				<Name>
+					<eng>Ordo Auspex Garb</eng>
+				</Name>
+			</vhgold_garb29>
+			<vhgold_garb30>
+				<Name>
+					<eng>Eldritch Knight Garb</eng>
+				</Name>
+			</vhgold_garb30>
+			<vhgold_garb32>
+				<Name>
+					<eng>Soulhunter Garb</eng>
+				</Name>
+			</vhgold_garb32>
+			<vhgold_garb33>
+				<Name>
+					<eng>Grand Exorcist Garb</eng>
+				</Name>
+			</vhgold_garb33>
+			<vhgold_boots29>
+				<Name>
+					<eng>Runed  Boots</eng>
+				</Name>
+			</vhgold_boots29>
+			<vhgold_boots30>
+				<Name>
+					<eng>Glacierstrider Boots</eng>
+				</Name>
+			</vhgold_boots30>
+			<vhgold_boots31>
+				<Name>
+					<eng>Imp Leather Boots</eng>
+				</Name>
+			</vhgold_boots31>
+			<vhgold_shield10>
+				<Name>
+					<eng>Krakassian Tower Shield</eng>
+				</Name>
+			</vhgold_shield10>
+			<vhgold_shield11>
+				<Name>
+					<eng>Iron Heart Shield</eng>
+				</Name>
+			</vhgold_shield11>
+			<vhgold_shield12>
+				<Name>
+					<eng>Holy Guardian Shield</eng>
+				</Name>
+			</vhgold_shield12>
+			<vhgold_shield13>
+				<Name>
+					<eng>Enchanted Shield</eng>
+				</Name>
+			</vhgold_shield13>
+			<vhgold_shield14>
+				<Name>
+					<eng>Sylvanian Shield</eng>
+				</Name>
+			</vhgold_shield14>
+			<vhgold_shield15>
+				<Name>
+					<eng>Borgovian Shield</eng>
+				</Name>
+			</vhgold_shield15>
+			<vhgold_shield16>
+				<Name>
+					<eng>Silver Heart Shield</eng>
+				</Name>
+			</vhgold_shield16>
+			<vhgold_shield17>
+				<Name>
+					<eng>Machine Forged Shield</eng>
+				</Name>
+			</vhgold_shield17>
+			<vhgold_shield18>
+				<Name>
+					<eng>Sun Warrior Shield</eng>
+				</Name>
+			</vhgold_shield18>
+			<vhgold_shield19>
+				<Name>
+					<eng>Wolf Clan Shield</eng>
+				</Name>
+			</vhgold_shield19>
+			<vhgold_shield20>
+				<Name>
+					<eng>Mithicusian Shield</eng>
+				</Name>
+			</vhgold_shield20>
+			<vhgold_shield22>
+				<Name>
+					<eng>Shadowguard Shield</eng>
+				</Name>
+			</vhgold_shield22>
+			<vhgold_shield23>
+				<Name>
+					<eng>Ancient Round Shield</eng>
+				</Name>
+			</vhgold_shield23>
+			<vhgold_shield24>
+				<Name>
+					<eng>Deephunter Shield</eng>
+				</Name>
+			</vhgold_shield24>
+			<vhgold_shield25>
+				<Name>
+					<eng>Seraphim Shield</eng>
+				</Name>
+			</vhgold_shield25>
+			<vhgold_shield26>
+				<Name>
+					<eng>Golden Scarab Shield</eng>
+				</Name>
+			</vhgold_shield26>
+			<vhgold_shield27>
+				<Name>
+					<eng>Spirit Custodian Shield</eng>
+				</Name>
+			</vhgold_shield27>
+			<vhgold_shield28>
+				<Name>
+					<eng>Devilsbane Shield</eng>
+				</Name>
+			</vhgold_shield28>
+			<vhgold_shield29>
+				<Name>
+					<eng>Wyrmslayer Shield</eng>
+				</Name>
+			</vhgold_shield29>
+			<vhgold_shield30>
+				<Name>
+					<eng>Spirit Wolf Shield</eng>
+				</Name>
+			</vhgold_shield30>
+			<vhgold_shield31>
+				<Name>
+					<eng>Lion Sergeant Shield</eng>
+				</Name>
+			</vhgold_shield31>
+			<vhgold_shield32>
+				<Name>
+					<eng>Demonscourge Shield</eng>
+				</Name>
+			</vhgold_shield32>
+			<vhgold_shield33>
+				<Name>
+					<eng>Eldritch Protector Shield</eng>
+				</Name>
+			</vhgold_shield33>
+			<vhgold_shield_epic01>
+				<Name>
+					<eng>Shield of Faith</eng>
+				</Name>
+			</vhgold_shield_epic01>
+			<vhgold_shield_epic02>
+				<Name>
+					<eng>Knight Protector Shield</eng>
+				</Name>
+			</vhgold_shield_epic02>
+			<vhgold_shield_epic03>
+				<Name>
+					<eng>Mechanus Corps Shield</eng>
+				</Name>
+			</vhgold_shield_epic03>
+			<vhgold_shield_epic04>
+				<Name>
+					<eng>Pearl Wall</eng>
+				</Name>
+			</vhgold_shield_epic04>
+			<vhgold_shield_epic05>
+				<Name>
+					<eng>Inkbark</eng>
+				</Name>
+			</vhgold_shield_epic05>
+			<vhgold_shield_epic06>
+				<Name>
+					<eng>Dire Wolf Shield</eng>
+				</Name>
+			</vhgold_shield_epic06>
+			<vhgold_shield_epic07>
+				<Name>
+					<eng>Roesepetal</eng>
+				</Name>
+			</vhgold_shield_epic07>
+			<vhgold_shield_epic08>
+				<Name>
+					<eng>Ancient Champion Shield</eng>
+				</Name>
+			</vhgold_shield_epic08>
+			<vhgold_shield_epic09>
+				<Name>
+					<eng>Silver Wing</eng>
+				</Name>
+			</vhgold_shield_epic09>
+			<vhgold_shield_epic10>
+				<Name>
+					<eng>Sylvan Seeker Shield</eng>
+				</Name>
+			</vhgold_shield_epic10>
+			<vhgold_shield_epic11>
+				<Name>
+					<eng>Scarlet Templar Shield</eng>
+				</Name>
+			</vhgold_shield_epic11>
+			<vhgold_shield_epic12>
+				<Name>
+					<eng>Gilded Aegis</eng>
+				</Name>
+			</vhgold_shield_epic12>
+			<vhgold_shield_epic13>
+				<Name>
+					<eng>Runewall</eng>
+				</Name>
+			</vhgold_shield_epic13>
+			<vhgold_shield_epic14>
+				<Name>
+					<eng>Hellgazer Shield</eng>
+				</Name>
+			</vhgold_shield_epic14>
+			<vhgold_shield_epic15>
+				<Name>
+					<eng>Etherwall</eng>
+				</Name>
+			</vhgold_shield_epic15>
+			<vhgold_amulet_epic06>
+				<Name>
+					<eng>Pyrith Stone Necklace</eng>
+				</Name>
+			</vhgold_amulet_epic06>
+			<vhgold_armorvest_epic10>
+				<Name>
+					<eng>Nightfall Vest</eng>
+				</Name>
+			</vhgold_armorvest_epic10>
+			<vhgold_armorvest_epic12>
+				<Name>
+					<eng>Duskweave Armorvest</eng>
+				</Name>
+			</vhgold_armorvest_epic12>
+			<vhgold_armorvest_epic13>
+				<Name>
+					<eng>All-Resistant Vest</eng>
+				</Name>
+			</vhgold_armorvest_epic13>
+			<vhgold_armorvest_epic14>
+				<Name>
+					<eng>Drakehide Vest</eng>
+				</Name>
+			</vhgold_armorvest_epic14>
+			<vhgold_armorvest_epic15>
+				<Name>
+					<eng>Voidsteel Skin</eng>
+				</Name>
+			</vhgold_armorvest_epic15>
+			<vhgold_axe_epic08>
+				<Name>
+					<eng>Sigilbound Axe</eng>
+				</Name>
+			</vhgold_axe_epic08>
+			<vhgold_axe_epic09>
+				<Name>
+					<eng>Earthshaker</eng>
+				</Name>
+			</vhgold_axe_epic09>
+			<vhgold_axe_epic10>
+				<Name>
+					<eng>Midnight</eng>
+				</Name>
+			</vhgold_axe_epic10>
+			<vhgold_axe_epic14>
+				<Name>
+					<eng>Hatchet of Truth</eng>
+				</Name>
+			</vhgold_axe_epic14>
+			<vhgold_crossbow_epic11>
+				<Name>
+					<eng>Fade Hunter Crossbow</eng>
+				</Name>
+			</vhgold_crossbow_epic11>
+			<vhgold_crossbow_epic12>
+				<Name>
+					<eng>Dusksting</eng>
+				</Name>
+			</vhgold_crossbow_epic12>
+			<vhgold_crossbow_epic13>
+				<Name>
+					<eng>Steelstorm</eng>
+				</Name>
+			</vhgold_crossbow_epic13>
+			<vhgold_crossbow_epic14>
+				<Name>
+					<eng>Pincushion</eng>
+				</Name>
+			</vhgold_crossbow_epic14>
+			<vhgold_crossbow_epic15>
+				<Name>
+					<eng>Simplicity</eng>
+				</Name>
+			</vhgold_crossbow_epic15>
+			<vhgold_pistol_epic08>
+				<Name>
+					<eng>Black Marble</eng>
+				</Name>
+			</vhgold_pistol_epic08>
+			<vhgold_rifle_epic13>
+				<Name>
+					<eng>Yarps Commando</eng>
+				</Name>
+			</vhgold_rifle_epic13>
+			<vhgold_rifle_epic14>
+				<Name>
+					<eng>Tuff-Tuff</eng>
+				</Name>
+			</vhgold_rifle_epic14>
+			<vhgold_rifle_epic15>
+				<Name>
+					<eng>Ancient Dread Musket</eng>
+				</Name>
+			</vhgold_rifle_epic15>
+			<vhgold_backpack_epic15>
+				<Name>
+					<eng>Galaxion Pack</eng>
+				</Name>
+			</vhgold_backpack_epic15>
+			<vhgold_belt_epic15>
+				<Name>
+					<eng>Void Hunter belt</eng>
+				</Name>
+			</vhgold_belt_epic15>
+			<vhgold_cape_epic14>
+				<Name>
+					<eng>Blood Pact Cloak</eng>
+				</Name>
+			</vhgold_cape_epic14>
+			<vhgold_cape_epic15>
+				<Name>
+					<eng>Sacred Justicar Cloak</eng>
+				</Name>
+			</vhgold_cape_epic15>
+			<vhgold_engineerhelmet_epic12>
+				<Name>
+					<eng>Chromesight</eng>
+				</Name>
+			</vhgold_engineerhelmet_epic12>
+			<vhgold_engineerhelmet_epic13>
+				<Name>
+					<eng>Megapol Helmet</eng>
+				</Name>
+			</vhgold_engineerhelmet_epic13>
+			<vhgold_engineerhelmet_epic14>
+				<Name>
+					<eng>Lunaris Helmet</eng>
+				</Name>
+			</vhgold_engineerhelmet_epic14>
+			<vhgold_engineerhelmet_epic15>
+				<Name>
+					<eng>Byziclop Helmet</eng>
+				</Name>
+			</vhgold_engineerhelmet_epic15>
+			<vhgold_focus_epic12>
+				<Name>
+					<eng>Entropy</eng>
+				</Name>
+			</vhgold_focus_epic12>
+			<vhgold_focus_epic13>
+				<Name>
+					<eng>Sapphire Mantra</eng>
+				</Name>
+			</vhgold_focus_epic13>
+			<vhgold_focus_epic14>
+				<Name>
+					<eng>Void Mirror</eng>
+				</Name>
+			</vhgold_focus_epic14>
+			<vhgold_focus_epic15>
+				<Name>
+					<eng>Dark Scion Spellcuffs</eng>
+				</Name>
+			</vhgold_focus_epic15>
+			<vhgold_magecape_epic12>
+				<Name>
+					<eng>Cracked Soul</eng>
+				</Name>
+			</vhgold_magecape_epic12>
+			<vhgold_magecape_epic13>
+				<Name>
+					<eng>Specter Lord Cloak</eng>
+				</Name>
+			</vhgold_magecape_epic13>
+			<vhgold_magecape_epic14>
+				<Name>
+					<eng>Dreadmeister Cloak</eng>
+				</Name>
+			</vhgold_magecape_epic14>
+			<vhgold_magecape_epic15>
+				<Name>
+					<eng>Seraphim Cloak</eng>
+				</Name>
+			</vhgold_magecape_epic15>
+			<vhgold_mask_epic12>
+				<Name>
+					<eng>Serkermage Mask</eng>
+				</Name>
+			</vhgold_mask_epic12>
+			<vhgold_mask_epic13>
+				<Name>
+					<eng>Devilseye Mask</eng>
+				</Name>
+			</vhgold_mask_epic13>
+			<vhgold_mask_epic14>
+				<Name>
+					<eng>Enlightenment</eng>
+				</Name>
+			</vhgold_mask_epic14>
+			<vhgold_mask_epic15>
+				<Name>
+					<eng>Doomherald Mask</eng>
+				</Name>
+			</vhgold_mask_epic15>
+			<vhgold_helmet03>
+				<Name>
+					<eng>Ancient Helmet</eng>
+				</Name>
+			</vhgold_helmet03>
+			<vhgold_helmet08>
+				<Name>
+					<eng>Honor Helmet</eng>
+				</Name>
+			</vhgold_helmet08>
+			<vhgold_helmet10>
+				<Name>
+					<eng>Praetorian Helmet</eng>
+				</Name>
+			</vhgold_helmet10>
+			<vhgold_helmet11>
+				<Name>
+					<eng>Tribal Helmet</eng>
+				</Name>
+			</vhgold_helmet11>
+			<vhgold_helmet12>
+				<Name>
+					<eng>Half-closed Helmet</eng>
+				</Name>
+			</vhgold_helmet12>
+			<vhgold_helmet13>
+				<Name>
+					<eng>Winged Helmet</eng>
+				</Name>
+			</vhgold_helmet13>
+			<vhgold_helmet14>
+				<Name>
+					<eng>Footman Helmet</eng>
+				</Name>
+			</vhgold_helmet14>
+			<vhgold_helmet15>
+				<Name>
+					<eng>Heavy Protector Helm</eng>
+				</Name>
+			</vhgold_helmet15>
+			<vhgold_helmet16>
+				<Name>
+					<eng>Vozniak Helmet</eng>
+				</Name>
+			</vhgold_helmet16>
+			<vhgold_helmet17>
+				<Name>
+					<eng>Rampager Helmet</eng>
+				</Name>
+			</vhgold_helmet17>
+			<vhgold_helmet19>
+				<Name>
+					<eng>Bull Helmet</eng>
+				</Name>
+			</vhgold_helmet19>
+			<vhgold_helmet20>
+				<Name>
+					<eng>Carapace Battlehelm</eng>
+				</Name>
+			</vhgold_helmet20>
+			<vhgold_helmet21>
+				<Name>
+					<eng>Beaked helmet</eng>
+				</Name>
+			</vhgold_helmet21>
+			<vhgold_helmet22>
+				<Name>
+					<eng>Nordic helmet</eng>
+				</Name>
+			</vhgold_helmet22>
+			<vhgold_helmet23>
+				<Name>
+					<eng>Antlered helmet</eng>
+				</Name>
+			</vhgold_helmet23>
+			<vhgold_helmet24>
+				<Name>
+					<eng>Steel Plate helm</eng>
+				</Name>
+			</vhgold_helmet24>
+			<vhgold_helmet25>
+				<Name>
+					<eng>Protector Captain Helm</eng>
+				</Name>
+			</vhgold_helmet25>
+			<vhgold_helmet26>
+				<Name>
+					<eng>Fury Kinght Helmet</eng>
+				</Name>
+			</vhgold_helmet26>
+			<vhgold_helmet27>
+				<Name>
+					<eng>Doomguard Helmet</eng>
+				</Name>
+			</vhgold_helmet27>
+			<vhgold_helmet28>
+				<Name>
+					<eng>Sylvan Charger Helm</eng>
+				</Name>
+			</vhgold_helmet28>
+			<vhgold_helmet29>
+				<Name>
+					<eng>Mitico Helm</eng>
+				</Name>
+			</vhgold_helmet29>
+			<vhgold_helmet30>
+				<Name>
+					<eng>Intimidiator Helmet</eng>
+				</Name>
+			</vhgold_helmet30>
+			<vhgold_helmet31>
+				<Name>
+					<eng>Oxen Helmet</eng>
+				</Name>
+			</vhgold_helmet31>
+			<vhgold_helmet33>
+				<Name>
+					<eng>Mithicusian Helmet</eng>
+				</Name>
+			</vhgold_helmet33>
+			<vhgold_engineersuit_epic01>
+				<Name>
+					<eng>Phlogiston Battery Suit</eng>
+				</Name>
+			</vhgold_engineersuit_epic01>
+			<vhgold_engineersuit_epic05>
+				<Name>
+					<eng>Polymerized Suit</eng>
+				</Name>
+			</vhgold_engineersuit_epic05>
+			<vhgold_engineersuit_epic06>
+				<Name>
+					<eng>Ultrahazard Suit</eng>
+				</Name>
+			</vhgold_engineersuit_epic06>
+			<vhgold_engineersuit_epic07>
+				<Name>
+					<eng>Ganymede Pattern Suit</eng>
+				</Name>
+			</vhgold_engineersuit_epic07>
+			<vhgold_engineersuit_epic08>
+				<Name>
+					<eng>Darklite Suit</eng>
+				</Name>
+			</vhgold_engineersuit_epic08>
+			<vhgold_engineersuit_epic09>
+				<Name>
+					<eng>Internal Combustion Suit</eng>
+				</Name>
+			</vhgold_engineersuit_epic09>
+			<vhgold_engineersuit_epic10>
+				<Name>
+					<eng>Optiron Suit</eng>
+				</Name>
+			</vhgold_engineersuit_epic10>
+			<vhgold_engineersuit_epic11>
+				<Name>
+					<eng>Ink-Proofed Suit</eng>
+				</Name>
+			</vhgold_engineersuit_epic11>
+			<vhgold_engineersuit_epic12>
+				<Name>
+					<eng>Sanctomatic Suit</eng>
+				</Name>
+			</vhgold_engineersuit_epic12>
+			<vhgold_engineersuit_epic13>
+				<Name>
+					<eng>Energothread Suit</eng>
+				</Name>
+			</vhgold_engineersuit_epic13>
+			<vhgold_engineersuit_epic14>
+				<Name>
+					<eng>Gangrene Goblin Suit</eng>
+				</Name>
+			</vhgold_engineersuit_epic14>
+			<vhgold_engineersuit_epic15>
+				<Name>
+					<eng>Synthetic Skin</eng>
+				</Name>
+			</vhgold_engineersuit_epic15>
+			<vhgold_garb_epic03>
+				<Name>
+					<eng>Spellbark</eng>
+				</Name>
+			</vhgold_garb_epic03>
+			<vhgold_garb_epic05>
+				<Name>
+					<eng>Vatican Purgator Garb</eng>
+				</Name>
+			</vhgold_garb_epic05>
+			<vhgold_garb_epic07>
+				<Name>
+					<eng>Sun Shaman Garb</eng>
+				</Name>
+			</vhgold_garb_epic07>
+			<vhgold_garb_epic08>
+				<Name>
+					<eng>Hyperion Garb</eng>
+				</Name>
+			</vhgold_garb_epic08>
+			<vhgold_garb_epic09>
+				<Name>
+					<eng>Veneratus Garb</eng>
+				</Name>
+			</vhgold_garb_epic09>
+			<vhgold_garb_epic10>
+				<Name>
+					<eng>Auspex Meister Garb</eng>
+				</Name>
+			</vhgold_garb_epic10>
+			<vhgold_garb_epic11>
+				<Name>
+					<eng>Sky Doctor Garb</eng>
+				</Name>
+			</vhgold_garb_epic11>
+			<vhgold_garb_epic12>
+				<Name>
+					<eng>Dragon Spirit</eng>
+				</Name>
+			</vhgold_garb_epic12>
+			<vhgold_garb_epic13>
+				<Name>
+					<eng>Artifex Maximus Garb</eng>
+				</Name>
+			</vhgold_garb_epic13>
+			<vhgold_garb_epic14>
+				<Name>
+					<eng>Inktrotter Garb</eng>
+				</Name>
+			</vhgold_garb_epic14>
+			<vhgold_garb_epic15>
+				<Name>
+					<eng>Heart of the Void</eng>
+				</Name>
+			</vhgold_garb_epic15>
+			<vhgold_dagger21>
+				<Name>
+					<eng>Spiritstalker Dagger</eng>
+				</Name>
+			</vhgold_dagger21>
+			<vhgold_dagger22>
+				<Name>
+					<eng>Xekhram Dagger</eng>
+				</Name>
+			</vhgold_dagger22>
+			<vhgold_dagger23>
+				<Name>
+					<eng>Khyoran Dagger</eng>
+				</Name>
+			</vhgold_dagger23>
+			<vhgold_dagger24>
+				<Name>
+					<eng>Ancient Shadow Dagger</eng>
+				</Name>
+			</vhgold_dagger24>
+			<vhgold_dagger25>
+				<Name>
+					<eng>Umbraforged Dagger</eng>
+				</Name>
+			</vhgold_dagger25>
+			<vhgold_dagger26>
+				<Name>
+					<eng>Tainted Soul Dagger</eng>
+				</Name>
+			</vhgold_dagger26>
+			<vhgold_dagger27>
+				<Name>
+					<eng>Devilbone Dagger</eng>
+				</Name>
+			</vhgold_dagger27>
+			<vhgold_dagger28>
+				<Name>
+					<eng>Spectral Stiletto</eng>
+				</Name>
+			</vhgold_dagger28>
+			<vhgold_dagger29>
+				<Name>
+					<eng>Wraithtooth Dagger</eng>
+				</Name>
+			</vhgold_dagger29>
+			<vhgold_dagger30>
+				<Name>
+					<eng>Phantom Shotblade</eng>
+				</Name>
+			</vhgold_dagger30>
+			<vhgold_dagger31>
+				<Name>
+					<eng>Antediluvian Dagger</eng>
+				</Name>
+			</vhgold_dagger31>
+			<vhgold_dagger32>
+				<Name>
+					<eng>Eon Slayer Dagger</eng>
+				</Name>
+			</vhgold_dagger32>
+			<vhgold_dagger33>
+				<Name>
+					<eng>Abyssal Dagger</eng>
+				</Name>
+			</vhgold_dagger33>
+			<vhgold_dagger_epic05>
+				<Name>
+					<eng>Throatslash</eng>
+				</Name>
+			</vhgold_dagger_epic05>
+			<vhgold_dagger_epic06>
+				<Name>
+					<eng>Shadow Slicer</eng>
+				</Name>
+			</vhgold_dagger_epic06>
+			<vhgold_dagger_epic07>
+				<Name>
+					<eng>Gilded Doom</eng>
+				</Name>
+			</vhgold_dagger_epic07>
+			<vhgold_dagger_epic08>
+				<Name>
+					<eng>Lethal Oath</eng>
+				</Name>
+			</vhgold_dagger_epic08>
+			<vhgold_dagger_epic09>
+				<Name>
+					<eng>Sunslayer Dagger</eng>
+				</Name>
+			</vhgold_dagger_epic09>
+			<vhgold_dagger_epic10>
+				<Name>
+					<eng>Dire Assassin Dagger</eng>
+				</Name>
+			</vhgold_dagger_epic10>
+			<vhgold_dagger_epic11>
+				<Name>
+					<eng>Shadow Jester Dagger</eng>
+				</Name>
+			</vhgold_dagger_epic11>
+			<vhgold_dagger_epic12>
+				<Name>
+					<eng>Fury of Hades</eng>
+				</Name>
+			</vhgold_dagger_epic12>
+			<vhgold_dagger_epic13>
+				<Name>
+					<eng>Cabalist Dagger</eng>
+				</Name>
+			</vhgold_dagger_epic13>
+			<vhgold_dagger_epic14>
+				<Name>
+					<eng>Macabre Justice</eng>
+				</Name>
+			</vhgold_dagger_epic14>
+			<vhgold_dagger_epic15>
+				<Name>
+					<eng>Final Moment</eng>
+				</Name>
+			</vhgold_dagger_epic15>
+			<vhgold_helmet_epic01>
+				<Name>
+					<eng>Azure Guardian</eng>
+				</Name>
+			</vhgold_helmet_epic01>
+			<vhgold_helmet_epic02>
+				<Name>
+					<eng>Crimson Guardian</eng>
+				</Name>
+			</vhgold_helmet_epic02>
+			<vhgold_helmet_epic04>
+				<Name>
+					<eng>Arena Champion Helmet</eng>
+				</Name>
+			</vhgold_helmet_epic04>
+			<vhgold_helmet_epic07>
+				<Name>
+					<eng>Drakerider Helmet</eng>
+				</Name>
+			</vhgold_helmet_epic07>
+			<vhgold_helmet_epic12>
+				<Name>
+					<eng>Doom Herald Helm</eng>
+				</Name>
+			</vhgold_helmet_epic12>
+			<vhgold_helmet_epic13>
+				<Name>
+					<eng>Rex Rubycon</eng>
+				</Name>
+			</vhgold_helmet_epic13>
+			<vhgold_helmet_epic14>
+				<Name>
+					<eng>Blind Faith</eng>
+				</Name>
+			</vhgold_helmet_epic14>
+			<vhgold_heavyarmor_epic01>
+				<Name>
+					<eng>Heartwarden</eng>
+				</Name>
+			</vhgold_heavyarmor_epic01>
+			<vhgold_heavyarmor08>
+				<Name>
+					<eng>Ink Warrior Armor</eng>
+				</Name>
+			</vhgold_heavyarmor08>
+			<vhgold_heavyarmor_epic02>
+				<Name>
+					<eng>Gilded Plate Armor</eng>
+				</Name>
+			</vhgold_heavyarmor_epic02>
+			<vhgold_heavyarmor_epic04>
+				<Name>
+					<eng>Darkshroud</eng>
+				</Name>
+			</vhgold_heavyarmor_epic04>
+			<vhgold_sword07>
+				<Name>
+					<eng>Krakassian Sentinel Sword</eng>
+				</Name>
+			</vhgold_sword07>
+			<vhgold_sword20>
+				<Name>
+					<eng>Magmaforged Espada</eng>
+				</Name>
+			</vhgold_sword20>
+			<vhgold_sword21>
+				<Name>
+					<eng>Mandeluzian Duel Sword</eng>
+				</Name>
+			</vhgold_sword21>
+			<vhgold_sword22>
+				<Name>
+					<eng>Borgovian Messor</eng>
+				</Name>
+			</vhgold_sword22>
+			<vhgold_sword30>
+				<Name>
+					<eng>Darksteel Gladius</eng>
+				</Name>
+			</vhgold_sword30>
+			<vhgold_sword_epic05>
+				<Name>
+					<eng>Xavion</eng>
+				</Name>
+			</vhgold_sword_epic05>
+			<vhgold_sword_epic07>
+				<Name>
+					<eng>Barbed Fury</eng>
+				</Name>
+			</vhgold_sword_epic07>
+			<vhgold_axe21>
+				<Name>
+					<eng>Orichalcum Waraxe</eng>
+				</Name>
+			</vhgold_axe21>
+			<vhgold_axe24>
+				<Name>
+					<eng>Northerner Hackblade</eng>
+				</Name>
+			</vhgold_axe24>
+			<vhgold_axe25>
+				<Name>
+					<eng>Darksteel Waraxe</eng>
+				</Name>
+			</vhgold_axe25>
+			<vhgold_axe26>
+				<Name>
+					<eng>Sylvanian Reaver Axe</eng>
+				</Name>
+			</vhgold_axe26>
+			<vhgold_axe27>
+				<Name>
+					<eng>Ramatolian Battle Hatchet</eng>
+				</Name>
+			</vhgold_axe27>
+			<vhgold_axe28>
+				<Name>
+					<eng>Khyoran Short Axe</eng>
+				</Name>
+			</vhgold_axe28>
+			<vhgold_axe29>
+				<Name>
+					<eng>Nether Waraxe</eng>
+				</Name>
+			</vhgold_axe29>
+			<vhgold_axe30>
+				<Name>
+					<eng>Ancient Broadaxe</eng>
+				</Name>
+			</vhgold_axe30>
+			<vhgold_axe31>
+				<Name>
+					<eng>Serrated Battleaxe</eng>
+				</Name>
+			</vhgold_axe31>
+			<vhgold_axe33>
+				<Name>
+					<eng>Orichalcum Flambard</eng>
+				</Name>
+			</vhgold_axe33>
+			<vhgold_spiritharness11>
+				<Name>
+					<eng>Trickster Harness</eng>
+				</Name>
+			</vhgold_spiritharness11>
+			<vhgold_spiritharness12>
+				<Name>
+					<eng>Obscure Harness</eng>
+				</Name>
+			</vhgold_spiritharness12>
+			<vhgold_spiritharness13>
+				<Name>
+					<eng>Somber Harness</eng>
+				</Name>
+			</vhgold_spiritharness13>
+			<vhgold_spiritharness14>
+				<Name>
+					<eng>Unfading Harness</eng>
+				</Name>
+			</vhgold_spiritharness14>
+			<vhgold_spiritharness15>
+				<Name>
+					<eng>Inkhopper Harness</eng>
+				</Name>
+			</vhgold_spiritharness15>
+			<vhgold_spiritharness16>
+				<Name>
+					<eng>Stalker Harness</eng>
+				</Name>
+			</vhgold_spiritharness16>
+			<vhgold_spiritharness17>
+				<Name>
+					<eng>Tainted Harness</eng>
+				</Name>
+			</vhgold_spiritharness17>
+			<vhgold_spiritharness18>
+				<Name>
+					<eng>Primal Harness</eng>
+				</Name>
+			</vhgold_spiritharness18>
+			<vhgold_spiritharness19>
+				<Name>
+					<eng>Ominous Harness</eng>
+				</Name>
+			</vhgold_spiritharness19>
+			<vhgold_spiritharness20>
+				<Name>
+					<eng>Nether Harness</eng>
+				</Name>
+			</vhgold_spiritharness20>
+			<vhgold_spiritharness21>
+				<Name>
+					<eng>Hexed Harness</eng>
+				</Name>
+			</vhgold_spiritharness21>
+			<vhgold_spiritharness22>
+				<Name>
+					<eng>Reaver Harness</eng>
+				</Name>
+			</vhgold_spiritharness22>
+			<vhgold_spiritharness23>
+				<Name>
+					<eng>Sinister Harness</eng>
+				</Name>
+			</vhgold_spiritharness23>
+			<vhgold_spiritharness24>
+				<Name>
+					<eng>Ageless Harness</eng>
+				</Name>
+			</vhgold_spiritharness24>
+			<vhgold_spiritharness25>
+				<Name>
+					<eng>Wraithtail Harness</eng>
+				</Name>
+			</vhgold_spiritharness25>
+			<vhgold_spiritharness26>
+				<Name>
+					<eng>Veiled Harness</eng>
+				</Name>
+			</vhgold_spiritharness26>
+			<vhgold_spiritharness27>
+				<Name>
+					<eng>Prodigy Harness</eng>
+				</Name>
+			</vhgold_spiritharness27>
+			<vhgold_spiritharness28>
+				<Name>
+					<eng>Spiritweave Harness</eng>
+				</Name>
+			</vhgold_spiritharness28>
+			<vhgold_spiritharness29>
+				<Name>
+					<eng>Ouroboros Harness</eng>
+				</Name>
+			</vhgold_spiritharness29>
+			<vhgold_spiritharness30>
+				<Name>
+					<eng>Shadowborn Harness</eng>
+				</Name>
+			</vhgold_spiritharness30>
+			<vhgold_spiritharness31>
+				<Name>
+					<eng>Transcendental Harness</eng>
+				</Name>
+			</vhgold_spiritharness31>
+			<vhgold_spiritharness32>
+				<Name>
+					<eng>Soul Echo Harness</eng>
+				</Name>
+			</vhgold_spiritharness32>
+			<vhgold_spiritharness33>
+				<Name>
+					<eng>Infinity Harness</eng>
+				</Name>
+			</vhgold_spiritharness33>
+			<vhgold_spirithood_epic01>
+				<Name>
+					<eng>Crimson Vengeance</eng>
+				</Name>
+			</vhgold_spirithood_epic01>
+			<vhgold_spirithood_epic02>
+				<Name>
+					<eng>Mortis Initiate Hood</eng>
+				</Name>
+			</vhgold_spirithood_epic02>
+			<vhgold_spirithood_epic03>
+				<Name>
+					<eng>Shadowflame Hood</eng>
+				</Name>
+			</vhgold_spirithood_epic03>
+			<vhgold_spirithood_epic06>
+				<Name>
+					<eng>Obsidian Order Hood</eng>
+				</Name>
+			</vhgold_spirithood_epic06>
+			<vhgold_spirithood_epic07>
+				<Name>
+					<eng>Dire Myrmidon Hood</eng>
+				</Name>
+			</vhgold_spirithood_epic07>
+			<vhgold_spirithood_epic08>
+				<Name>
+					<eng>Broken Promise</eng>
+				</Name>
+			</vhgold_spirithood_epic08>
+			<vhgold_spirithood_epic09>
+				<Name>
+					<eng>Withermind</eng>
+				</Name>
+			</vhgold_spirithood_epic09>
+			<vhgold_spirithood_epic10>
+				<Name>
+					<eng>Moribund Hope</eng>
+				</Name>
+			</vhgold_spirithood_epic10>
+			<vhgold_spirithood_epic11>
+				<Name>
+					<eng>Frozen Smile</eng>
+				</Name>
+			</vhgold_spirithood_epic11>
+			<vhgold_spirithood_epic12>
+				<Name>
+					<eng>Phantom Martyr Hood</eng>
+				</Name>
+			</vhgold_spirithood_epic12>
+			<vhgold_spirithood_epic13>
+				<Name>
+					<eng>Shadow Prophet Hood</eng>
+				</Name>
+			</vhgold_spirithood_epic13>
+			<vhgold_spirithood_epic14>
+				<Name>
+					<eng>Planetouched Hood</eng>
+				</Name>
+			</vhgold_spirithood_epic14>
+			<vhgold_spirithood_epic15>
+				<Name>
+					<eng>Golden Terror</eng>
+				</Name>
+			</vhgold_spirithood_epic15>
+			<vhgold_spiritharness_epic04>
+				<Name>
+					<eng>Ignorance</eng>
+				</Name>
+			</vhgold_spiritharness_epic04>
+			<vhgold_spiritharness_epic05>
+				<Name>
+					<eng>Dark Virtuoso Harness</eng>
+				</Name>
+			</vhgold_spiritharness_epic05>
+			<vhgold_spiritharness_epic07>
+				<Name>
+					<eng>Lightshroud</eng>
+				</Name>
+			</vhgold_spiritharness_epic07>
+			<vhgold_spiritharness_epic08>
+				<Name>
+					<eng>Skeletal Harness</eng>
+				</Name>
+			</vhgold_spiritharness_epic08>
+			<vhgold_spiritharness_epic09>
+				<Name>
+					<eng>Starspine</eng>
+				</Name>
+			</vhgold_spiritharness_epic09>
+			<vhgold_spiritharness_epic10>
+				<Name>
+					<eng>Wraithbone Spineguard</eng>
+				</Name>
+			</vhgold_spiritharness_epic10>
+			<vhgold_spiritharness_epic11>
+				<Name>
+					<eng>Golden Bond</eng>
+				</Name>
+			</vhgold_spiritharness_epic11>
+			<vhgold_spiritharness_epic12>
+				<Name>
+					<eng>Scarlet Cord</eng>
+				</Name>
+			</vhgold_spiritharness_epic12>
+			<vhgold_spiritharness_epic13>
+				<Name>
+					<eng>Blurvoyant Harness</eng>
+				</Name>
+			</vhgold_spiritharness_epic13>
+			<vhgold_spiritharness_epic14>
+				<Name>
+					<eng>Immortal Harness</eng>
+				</Name>
+			</vhgold_spiritharness_epic14>
+			<vhgold_spiritharness_epic15>
+				<Name>
+					<eng>Annulled Harness</eng>
+				</Name>
+			</vhgold_spiritharness_epic15>
+			<vhgold_spirithood01>
+				<Name>
+					<eng>Creepstalker Hood</eng>
+				</Name>
+			</vhgold_spirithood01>
+			<vhgold_spirithood02>
+				<Name>
+					<eng>Pale Dancer Hood</eng>
+				</Name>
+			</vhgold_spirithood02>
+			<vhgold_spirithood03>
+				<Name>
+					<eng>Shroudwalker Hood</eng>
+				</Name>
+			</vhgold_spirithood03>
+			<vhgold_spirithood04>
+				<Name>
+					<eng>Infiltrator Hood</eng>
+				</Name>
+			</vhgold_spirithood04>
+			<vhgold_spirithood06>
+				<Name>
+					<eng>Serpent Sage hood</eng>
+				</Name>
+			</vhgold_spirithood06>
+			<vhgold_spirithood07>
+				<Name>
+					<eng>Dark Myrmidon Hood</eng>
+				</Name>
+			</vhgold_spirithood07>
+			<vhgold_spirithood08>
+				<Name>
+					<eng>Phantom Seeker Hood</eng>
+				</Name>
+			</vhgold_spirithood08>
+			<vhgold_spirithood09>
+				<Name>
+					<eng>Dantean Hood</eng>
+				</Name>
+			</vhgold_spirithood09>
+			<vhgold_spirithood10>
+				<Name>
+					<eng>Ember Spirit Hood</eng>
+				</Name>
+			</vhgold_spirithood10>
+			<vhgold_spirithood21>
+				<Name>
+					<eng>Fateseer Hood</eng>
+				</Name>
+			</vhgold_spirithood21>
+			<vhgold_spirithood22>
+				<Name>
+					<eng>Shadow Slayer Hood</eng>
+				</Name>
+			</vhgold_spirithood22>
+			<vhgold_spirithood23>
+				<Name>
+					<eng>Maledictor Hood</eng>
+				</Name>
+			</vhgold_spirithood23>
+			<vhgold_spirithood24>
+				<Name>
+					<eng>Spirit Eater Hood</eng>
+				</Name>
+			</vhgold_spirithood24>
+			<vhgold_spirithood25>
+				<Name>
+					<eng>Blight Meister Hood</eng>
+				</Name>
+			</vhgold_spirithood25>
+			<vhgold_spirithood26>
+				<Name>
+					<eng>Soul Visage Hood</eng>
+				</Name>
+			</vhgold_spirithood26>
+			<vhgold_spirithood27>
+				<Name>
+					<eng>Ghost Sigil Hood</eng>
+				</Name>
+			</vhgold_spirithood27>
+			<vhgold_spirithood28>
+				<Name>
+					<eng>Dak Archon Hood</eng>
+				</Name>
+			</vhgold_spirithood28>
+			<vhgold_spirithood29>
+				<Name>
+					<eng>Blind Slayer Hood</eng>
+				</Name>
+			</vhgold_spirithood29>
+			<vhgold_spirithood30>
+				<Name>
+					<eng>Black Harbinger Hood</eng>
+				</Name>
+			</vhgold_spirithood30>
+			<vhgold_spirithood31>
+				<Name>
+					<eng>Adamantium Scale Hood</eng>
+				</Name>
+			</vhgold_spirithood31>
+			<vhgold_spirithood33>
+				<Name>
+					<eng>Mindslayer Hood</eng>
+				</Name>
+			</vhgold_spirithood33>
+			<vhgold_spirithood32>
+				<Name>
+					<eng>Doom Sect Hood</eng>
+				</Name>
+			</vhgold_spirithood32>
+			<vhgold_lightarmor01>
+				<Name>
+					<eng>Darkened Chestplate</eng>
+				</Name>
+			</vhgold_lightarmor01>
+			<vhgold_lightarmor02>
+				<Name>
+					<eng>Ornate Chestplate</eng>
+				</Name>
+			</vhgold_lightarmor02>
+			<vhgold_lightarmor04>
+				<Name>
+					<eng>Crystal Studded Armor</eng>
+				</Name>
+			</vhgold_lightarmor04>
+			<vhgold_lightarmor06>
+				<Name>
+					<eng>Ritualistic Armor</eng>
+				</Name>
+			</vhgold_lightarmor06>
+			<vhgold_lightarmor07>
+				<Name>
+					<eng>Owl Scout Armor</eng>
+				</Name>
+			</vhgold_lightarmor07>
+			<vhgold_lightarmor08>
+				<Name>
+					<eng>Neverlight Armor</eng>
+				</Name>
+			</vhgold_lightarmor08>
+			<vhgold_lightarmor09>
+				<Name>
+					<eng>Shadow Eagle Armor</eng>
+				</Name>
+			</vhgold_lightarmor09>
+			<vhgold_lightarmor10>
+				<Name>
+					<eng>Spellbound Brigandine</eng>
+				</Name>
+			</vhgold_lightarmor10>
+			<vhgold_lightarmor17>
+				<Name>
+					<eng>Deepwoods Armor</eng>
+				</Name>
+			</vhgold_lightarmor17>
+			<vhgold_lightarmor19>
+				<Name>
+					<eng>Shadow Envoy Armor</eng>
+				</Name>
+			</vhgold_lightarmor19>
+			<vhgold_lightarmor20>
+				<Name>
+					<eng>Specterstalker Armor</eng>
+				</Name>
+			</vhgold_lightarmor20>
+			<vhgold_lightarmor22>
+				<Name>
+					<eng>Fiendwatch Armor</eng>
+				</Name>
+			</vhgold_lightarmor22>
+			<vhgold_lightarmor23>
+				<Name>
+					<eng>Gilded Executioner Armor</eng>
+				</Name>
+			</vhgold_lightarmor23>
+			<vhgold_lightarmor25>
+				<Name>
+					<eng>Blight Resistant Armor</eng>
+				</Name>
+			</vhgold_lightarmor25>
+			<vhgold_lightarmor26>
+				<Name>
+					<eng>Ink Imbued Armor</eng>
+				</Name>
+			</vhgold_lightarmor26>
+			<vhgold_lightarmor27>
+				<Name>
+					<eng>Ghostwatch Armor</eng>
+				</Name>
+			</vhgold_lightarmor27>
+			<vhgold_lightarmor28>
+				<Name>
+					<eng>Spirit Prince Armor</eng>
+				</Name>
+			</vhgold_lightarmor28>
+			<vhgold_lightarmor29>
+				<Name>
+					<eng>Duskstealer Armor</eng>
+				</Name>
+			</vhgold_lightarmor29>
+			<vhgold_lightarmor30>
+				<Name>
+					<eng>Phantom Eagle Armor</eng>
+				</Name>
+			</vhgold_lightarmor30>
+			<vhgold_lightarmor31>
+				<Name>
+					<eng>Doomswatch Armor</eng>
+				</Name>
+			</vhgold_lightarmor31>
+			<vhgold_lightarmor32>
+				<Name>
+					<eng>Sylvan Ghost Armor</eng>
+				</Name>
+			</vhgold_lightarmor32>
+			<vhgold_lightarmor33>
+				<Name>
+					<eng>Voidforged Armor</eng>
+				</Name>
+			</vhgold_lightarmor33>
+			<vhgold_lightarmor_epic01>
+				<Name>
+					<eng>Scorched Soul</eng>
+				</Name>
+			</vhgold_lightarmor_epic01>
+			<vhgold_lightarmor_epic02>
+				<Name>
+					<eng>Skeletal Slayer Armor</eng>
+				</Name>
+			</vhgold_lightarmor_epic02>
+			<vhgold_lightarmor_epic03>
+				<Name>
+					<eng>Black Primarch Armor</eng>
+				</Name>
+			</vhgold_lightarmor_epic03>
+			<vhgold_lightarmor_epic04>
+				<Name>
+					<eng>Silver Brigand</eng>
+				</Name>
+			</vhgold_lightarmor_epic04>
+			<vhgold_lightarmor_epic05>
+				<Name>
+					<eng>Armor of Perdition</eng>
+				</Name>
+			</vhgold_lightarmor_epic05>
+			<vhgold_lightarmor_epic06>
+				<Name>
+					<eng>Shadow Hawk Armor</eng>
+				</Name>
+			</vhgold_lightarmor_epic06>
+			<vhgold_lightarmor_epic07>
+				<Name>
+					<eng>Shadow Husk</eng>
+				</Name>
+			</vhgold_lightarmor_epic07>
+			<vhgold_lightarmor_epic08>
+				<Name>
+					<eng>Crow Clan Armor</eng>
+				</Name>
+			</vhgold_lightarmor_epic08>
+			<vhgold_lightarmor_epic09>
+				<Name>
+					<eng>Imp Slayer Armor</eng>
+				</Name>
+			</vhgold_lightarmor_epic09>
+			<vhgold_lightarmor_epic10>
+				<Name>
+					<eng>Mesmero</eng>
+				</Name>
+			</vhgold_lightarmor_epic10>
+			<vhgold_lightarmor_epic11>
+				<Name>
+					<eng>Dusk Prince Armor</eng>
+				</Name>
+			</vhgold_lightarmor_epic11>
+			<vhgold_lightarmor_epic12>
+				<Name>
+					<eng>Fiendbreaker Armor</eng>
+				</Name>
+			</vhgold_lightarmor_epic12>
+			<vhgold_lightarmor_epic13>
+				<Name>
+					<eng>Heart of the Night</eng>
+				</Name>
+			</vhgold_lightarmor_epic13>
+			<vhgold_lightarmor_epic14>
+				<Name>
+					<eng>Waking Nightmare</eng>
+				</Name>
+			</vhgold_lightarmor_epic14>
+			<vhgold_lightarmor_epic15>
+				<Name>
+					<eng>Nether Crust</eng>
+				</Name>
+			</vhgold_lightarmor_epic15>
+			<vhgold_visor_epic01>
+				<Name>
+					<eng>Gang Chief Hat</eng>
+				</Name>
+			</vhgold_visor_epic01>
+			<vhgold_visor_epic02>
+				<Name>
+					<eng>Birdwatcher Hat</eng>
+				</Name>
+			</vhgold_visor_epic02>
+			<vhgold_visor_epic04>
+				<Name>
+					<eng>Constable Hat</eng>
+				</Name>
+			</vhgold_visor_epic04>
+			<vhgold_visor_epic05>
+				<Name>
+					<eng>Forest Ranger Hat</eng>
+				</Name>
+			</vhgold_visor_epic05>
+			<vhgold_visor_epic08>
+				<Name>
+					<eng>True Bounty</eng>
+				</Name>
+			</vhgold_visor_epic08>
+			<vhgold_visor_epic09>
+				<Name>
+					<eng>White Bear</eng>
+				</Name>
+			</vhgold_visor_epic09>
+			<vhgold_visor_epic14>
+				<Name>
+					<eng>Mechanized Cav Visor</eng>
+				</Name>
+			</vhgold_visor_epic14>
+			<vhgold_visor_epic15>
+				<Name>
+					<eng>Bad Boy</eng>
+				</Name>
+			</vhgold_visor_epic15>
+			<vhgold_visor32>
+				<Name>
+					<eng>Experimental Visor</eng>
+				</Name>
+			</vhgold_visor32>
+			<vhgold_visor33>
+				<Name>
+					<eng>Ultra_Spectrum Visor</eng>
+				</Name>
+			</vhgold_visor33>
+			<vhgold_engine01>
+				<Name>
+					<eng>Rudimentary Engine</eng>
+				</Name>
+			</vhgold_engine01>
+			<vhgold_engine02>
+				<Name>
+					<eng>First Generation Engine</eng>
+				</Name>
+			</vhgold_engine02>
+			<vhgold_engine03>
+				<Name>
+					<eng>Custom Engine</eng>
+				</Name>
+			</vhgold_engine03>
+			<vhgold_engine04>
+				<Name>
+					<eng>Coal Powered Engine</eng>
+				</Name>
+			</vhgold_engine04>
+			<vhgold_engine05>
+				<Name>
+					<eng>Oilpump Engine</eng>
+				</Name>
+			</vhgold_engine05>
+			<vhgold_engine06>
+				<Name>
+					<eng>Steam Piston Engine</eng>
+				</Name>
+			</vhgold_engine06>
+			<vhgold_engine07>
+				<Name>
+					<eng>Multi-Chamber Engine</eng>
+				</Name>
+			</vhgold_engine07>
+			<vhgold_engine08>
+				<Name>
+					<eng>Resonator Engine</eng>
+				</Name>
+			</vhgold_engine08>
+			<vhgold_engine09>
+				<Name>
+					<eng>Artificer Engine</eng>
+				</Name>
+			</vhgold_engine09>
+			<vhgold_engine18>
+				<Name>
+					<eng>Transversal Engine</eng>
+				</Name>
+			</vhgold_engine18>
+			<vhgold_engine21>
+				<Name>
+					<eng>Magentobaric Engine</eng>
+				</Name>
+			</vhgold_engine21>
+			<vhgold_engine22>
+				<Name>
+					<eng>Polyvalve Engine</eng>
+				</Name>
+			</vhgold_engine22>
+			<vhgold_engine23>
+				<Name>
+					<eng>Elyctrodynamic Engine</eng>
+				</Name>
+			</vhgold_engine23>
+			<vhgold_engine24>
+				<Name>
+					<eng>Gas Conversion Engine</eng>
+				</Name>
+			</vhgold_engine24>
+			<vhgold_engine25>
+				<Name>
+					<eng>Blastchamber Engine </eng>
+				</Name>
+			</vhgold_engine25>
+			<vhgold_engine26>
+				<Name>
+					<eng>Catalythron Engine</eng>
+				</Name>
+			</vhgold_engine26>
+			<vhgold_engine27>
+				<Name>
+					<eng>Galvanic Engine</eng>
+				</Name>
+			</vhgold_engine27>
+			<vhgold_engine28>
+				<Name>
+					<eng>Multiaxial Engine</eng>
+				</Name>
+			</vhgold_engine28>
+			<vhgold_engine29>
+				<Name>
+					<eng>Compact Engine</eng>
+				</Name>
+			</vhgold_engine29>
+			<vhgold_engine30>
+				<Name>
+					<eng>Piezzofulgurite Engine</eng>
+				</Name>
+			</vhgold_engine30>
+			<vhgold_engine31>
+				<Name>
+					<eng>Pyrothermic Engine</eng>
+				</Name>
+			</vhgold_engine31>
+			<vhgold_engine32>
+				<Name>
+					<eng>Macrospark Engine</eng>
+				</Name>
+			</vhgold_engine32>
+			<vhgold_engine33>
+				<Name>
+					<eng>Advanced Gyroengine</eng>
+				</Name>
+			</vhgold_engine33>
+			<vhgold_engine_epic04>
+				<Name>
+					<eng>Hammerite Engine</eng>
+				</Name>
+			</vhgold_engine_epic04>
+			<vhgold_engine_epic05>
+				<Name>
+					<eng>Machine Step</eng>
+				</Name>
+			</vhgold_engine_epic05>
+			<vhgold_engine_epic06>
+				<Name>
+					<eng>Full Steam</eng>
+				</Name>
+			</vhgold_engine_epic06>
+			<vhgold_engine_epic07>
+				<Name>
+					<eng>Synchronized Engine</eng>
+				</Name>
+			</vhgold_engine_epic07>
+			<vhgold_engine_epic08>
+				<Name>
+					<eng>Magnetpump Engine</eng>
+				</Name>
+			</vhgold_engine_epic08>
+			<vhgold_engine_epic09>
+				<Name>
+					<eng>EBS Engine</eng>
+				</Name>
+			</vhgold_engine_epic09>
+			<vhgold_engine_epic11>
+				<Name>
+					<eng>Smokebelcher</eng>
+				</Name>
+			</vhgold_engine_epic11>
+			<vhgold_engine_epic12>
+				<Name>
+					<eng>Ink Battery Engine</eng>
+				</Name>
+			</vhgold_engine_epic12>
+			<vhgold_engine_epic13>
+				<Name>
+					<eng>Supercharged Engine</eng>
+				</Name>
+			</vhgold_engine_epic13>
+			<vhgold_engine_epic14>
+				<Name>
+					<eng>Robotic Grace</eng>
+				</Name>
+			</vhgold_engine_epic14>
+			<vhgold_engine_epic15>
+				<Name>
+					<eng>Experimental Engine</eng>
+				</Name>
+			</vhgold_engine_epic15>
+			<vhgold_gloves10>
+				<Name>
+					<eng>Industrial Gauntlets</eng>
+				</Name>
+			</vhgold_gloves10>
+			<vhgold_gloves12>
+				<Name>
+					<eng>Ringed Gauntlets</eng>
+				</Name>
+			</vhgold_gloves12>
+			<vhgold_gloves13>
+				<Name>
+					<eng>Pantherskin Gauntlets</eng>
+				</Name>
+			</vhgold_gloves13>
+			<vhgold_gloves24>
+				<Name>
+					<eng>Watcher Gauntlets</eng>
+				</Name>
+			</vhgold_gloves24>
+			<vhgold_gloves32>
+				<Name>
+					<eng>High Adventurer Gloves</eng>
+				</Name>
+			</vhgold_gloves32>
+			<vhgold_heavyarmor13>
+				<Name>
+					<eng>Officer Brigandine</eng>
+				</Name>
+			</vhgold_heavyarmor13>
+			<vhgold_heavyarmor14>
+				<Name>
+					<eng>Borgpvian Heavy Armor</eng>
+				</Name>
+			</vhgold_heavyarmor14>
+			<vhgold_heavyarmor15>
+				<Name>
+					<eng>Mountaneer Scout Armor</eng>
+				</Name>
+			</vhgold_heavyarmor15>
+			<vhgold_heavyarmor16>
+				<Name>
+					<eng>Berserker Armor</eng>
+				</Name>
+			</vhgold_heavyarmor16>
+			<vhgold_heavyarmor17>
+				<Name>
+					<eng>Palace Guardian Armor</eng>
+				</Name>
+			</vhgold_heavyarmor17>
+			<vhgold_heavyarmor18>
+				<Name>
+					<eng>Assault Guardian Armor</eng>
+				</Name>
+			</vhgold_heavyarmor18>
+			<vhgold_heavyarmor19>
+				<Name>
+					<eng>Mystic Armor</eng>
+				</Name>
+			</vhgold_heavyarmor19>
+			<vhgold_heavyarmor20>
+				<Name>
+					<eng>Autumn Scout Armor</eng>
+				</Name>
+			</vhgold_heavyarmor20>
+			<vhgold_heavyarmor21>
+				<Name>
+					<eng>Full Plate Armor</eng>
+				</Name>
+			</vhgold_heavyarmor21>
+			<vhgold_heavyarmor22>
+				<Name>
+					<eng>Ink Legion Armor</eng>
+				</Name>
+			</vhgold_heavyarmor22>
+			<vhgold_heavyarmor23>
+				<Name>
+					<eng>Krakassian Champion Plate</eng>
+				</Name>
+			</vhgold_heavyarmor23>
+			<vhgold_heavyarmor24>
+				<Name>
+					<eng>Autumn Knight Armor</eng>
+				</Name>
+			</vhgold_heavyarmor24>
+			<vhgold_heavyarmor26>
+				<Name>
+					<eng>Lion Squire Armor</eng>
+				</Name>
+			</vhgold_heavyarmor26>
+			<vhgold_heavyarmor27>
+				<Name>
+					<eng>Rift Protector Plate</eng>
+				</Name>
+			</vhgold_heavyarmor27>
+			<vhgold_heavyarmor28>
+				<Name>
+					<eng>Lion Knight Armor</eng>
+				</Name>
+			</vhgold_heavyarmor28>
+			<vhgold_heavyarmor29>
+				<Name>
+					<eng>Enchanted Brute Plate</eng>
+				</Name>
+			</vhgold_heavyarmor29>
+			<vhgold_heavyarmor30>
+				<Name>
+					<eng>Doomsmith Armor</eng>
+				</Name>
+			</vhgold_heavyarmor30>
+			<vhgold_heavyarmor31>
+				<Name>
+					<eng>Sylvan Wrecker Armor</eng>
+				</Name>
+			</vhgold_heavyarmor31>
+			<vhgold_heavyarmor32>
+				<Name>
+					<eng>Praetorian Full Plate</eng>
+				</Name>
+			</vhgold_heavyarmor32>
+			<vhgold_heavyarmor33>
+				<Name>
+					<eng>Soulforged Armor</eng>
+				</Name>
+			</vhgold_heavyarmor33>
+			<vhgold_heavyarmor_epic06>
+				<Name>
+					<eng>Sage Knight Armor</eng>
+				</Name>
+			</vhgold_heavyarmor_epic06>
+			<vhgold_heavyarmor_epic07>
+				<Name>
+					<eng>Deathshroud</eng>
+				</Name>
+			</vhgold_heavyarmor_epic07>
+			<vhgold_heavyarmor_epic09>
+				<Name>
+					<eng>Glyph Guardian Plate</eng>
+				</Name>
+			</vhgold_heavyarmor_epic09>
+			<vhgold_heavyarmor_epic10>
+				<Name>
+					<eng>Oathbound Armor</eng>
+				</Name>
+			</vhgold_heavyarmor_epic10>
+			<vhgold_heavyarmor_epic12>
+				<Name>
+					<eng>Conqueror Armor</eng>
+				</Name>
+			</vhgold_heavyarmor_epic12>
+			<vhgold_heavyarmor_epic13>
+				<Name>
+					<eng>Dead Soul</eng>
+				</Name>
+			</vhgold_heavyarmor_epic13>
+			<vhgold_heavyarmor_epic14>
+				<Name>
+					<eng>Carbuncle Heart</eng>
+				</Name>
+			</vhgold_heavyarmor_epic14>
+			<vhgold_heavyarmor_epic15>
+				<Name>
+					<eng>Runebeard</eng>
+				</Name>
+			</vhgold_heavyarmor_epic15>
+			<vhgold_staff18>
+				<Name>
+					<eng>Necromancer Staff</eng>
+				</Name>
+			</vhgold_staff18>
+			<vhgold_staff20>
+				<Name>
+					<eng>Spellbreaker Staff</eng>
+				</Name>
+			</vhgold_staff20>
+			<vhgold_staff21>
+				<Name>
+					<eng>Fulgurite Staff</eng>
+				</Name>
+			</vhgold_staff21>
+			<vhgold_staff27>
+				<Name>
+					<eng>Demonpurger Staff</eng>
+				</Name>
+			</vhgold_staff27>
+			<vhgold_staff28>
+				<Name>
+					<eng>Stargazer Staff</eng>
+				</Name>
+			</vhgold_staff28>
+			<vhgold_staff29>
+				<Name>
+					<eng>Artifex Maegister Staff</eng>
+				</Name>
+			</vhgold_staff29>
+			<vhgold_staff30>
+				<Name>
+					<eng>Spectral Staff</eng>
+				</Name>
+			</vhgold_staff30>
+			<vhgold_staff31>
+				<Name>
+					<eng>Etherweaver Staff</eng>
+				</Name>
+			</vhgold_staff31>
+			<vhgold_staff32>
+				<Name>
+					<eng>Golemite Seeker Staff</eng>
+				</Name>
+			</vhgold_staff32>
+			<vhgold_staff_epic05>
+				<Name>
+					<eng>Volcanos</eng>
+				</Name>
+			</vhgold_staff_epic05>
+			<vhgold_staff_epic07>
+				<Name>
+					<eng>Skytower</eng>
+				</Name>
+			</vhgold_staff_epic07>
+			<vhgold_staff_epic08>
+				<Name>
+					<eng>Ortholic Preacher Staff</eng>
+				</Name>
+			</vhgold_staff_epic08>
+			<vhgold_staff_epic09>
+				<Name>
+					<eng>Spellblade</eng>
+				</Name>
+			</vhgold_staff_epic09>
+			<vhgold_staff_epic10>
+				<Name>
+					<eng>Serpentos</eng>
+				</Name>
+			</vhgold_staff_epic10>
+			<vhgold_staff_epic11>
+				<Name>
+					<eng>Astral Master Staff</eng>
+				</Name>
+			</vhgold_staff_epic11>
+			<vhgold_staff_epic12>
+				<Name>
+					<eng>Dire Shaman Staff</eng>
+				</Name>
+			</vhgold_staff_epic12>
+			<vhgold_staff_epic13>
+				<Name>
+					<eng>Royal Wizard Staff</eng>
+				</Name>
+			</vhgold_staff_epic13>
+			<vhgold_staff_epic14>
+				<Name>
+					<eng>Carnagos</eng>
+				</Name>
+			</vhgold_staff_epic14>
+			<vhgold_katarinamelee01>
+				<Name>
+					<eng>Primal Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee01>
+			<vhgold_katarinamelee02>
+				<Name>
+					<eng>Wretched Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee02>
+			<vhgold_katarinamelee03>
+				<Name>
+					<eng>Wicked Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee03>
+			<vhgold_katarinamelee05>
+				<Name>
+					<eng>Cruel Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee05>
+			<vhgold_katarinamelee06>
+				<Name>
+					<eng>Rending Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee06>
+			<vhgold_katarinamelee10>
+				<Name>
+					<eng>Foul Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee10>
+			<vhgold_katarinamelee14>
+				<Name>
+					<eng>Maiming Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee14>
+			<vhgold_katarinamelee15>
+				<Name>
+					<eng>Fiendish Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee15>
+			<vhgold_katarinamelee16>
+				<Name>
+					<eng>Savage Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee16>
+			<vhgold_katarinamelee17>
+				<Name>
+					<eng>Twisted Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee17>
+			<vhgold_katarinamelee18>
+				<Name>
+					<eng>Bizarre Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee18>
+			<vhgold_katarinamelee20>
+				<Name>
+					<eng>Numbing Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee20>
+			<vhgold_katarinamelee21>
+				<Name>
+					<eng>Glowing Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee21>
+			<vhgold_katarinamelee22>
+				<Name>
+					<eng>Baleful Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee22>
+			<vhgold_katarinamelee23>
+				<Name>
+					<eng>Incubus Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee23>
+			<vhgold_katarinamelee24>
+				<Name>
+					<eng>Monstruous Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee24>
+			<vhgold_katarinamelee26>
+				<Name>
+					<eng>Abhorrent Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee26>
+			<vhgold_katarinamelee27>
+				<Name>
+					<eng>Unholy Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee27>
+			<vhgold_katarinamelee28>
+				<Name>
+					<eng>Pestiferous Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee28>
+			<vhgold_katarinamelee29>
+				<Name>
+					<eng>Macabre Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee29>
+			<vhgold_katarinamelee30>
+				<Name>
+					<eng>Nether Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee30>
+			<vhgold_katarinamelee31>
+				<Name>
+					<eng>Profane Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee31>
+			<vhgold_katarinamelee32>
+				<Name>
+					<eng>Demonic Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee32>
+			<vhgold_katarinamelee33>
+				<Name>
+					<eng>Infernal Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee33>
+			<vhgold_katarinaranged01>
+				<Name>
+					<eng>Faint Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged01>
+			<vhgold_katarinaranged02>
+				<Name>
+					<eng>Minor Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged02>
+			<vhgold_katarinaranged03>
+				<Name>
+					<eng>Plain Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged03>
+			<vhgold_katarinaranged04>
+				<Name>
+					<eng>Scorched Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged04>
+			<vhgold_katarinaranged05>
+				<Name>
+					<eng>Otherworldly Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged05>
+			<vhgold_katarinaranged06>
+				<Name>
+					<eng>Sickly Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged06>
+			<vhgold_katarinaranged07>
+				<Name>
+					<eng>Pale Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged07>
+			<vhgold_katarinaranged08>
+				<Name>
+					<eng>Intense Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged08>
+			<vhgold_katarinaranged09>
+				<Name>
+					<eng>Stirring Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged09>
+			<vhgold_katarinaranged10>
+				<Name>
+					<eng>Sacriligious Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged10>
+			<vhgold_katarinaranged17>
+				<Name>
+					<eng>Arcane Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged17>
+			<vhgold_katarinaranged19>
+				<Name>
+					<eng>Uncanny Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged19>
+			<vhgold_katarinaranged20>
+				<Name>
+					<eng>Esoteric Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged20>
+			<vhgold_katarinaranged21>
+				<Name>
+					<eng>Cabbalistic Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged21>
+			<vhgold_katarinaranged22>
+				<Name>
+					<eng>Nebulous Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged22>
+			<vhgold_katarinaranged23>
+				<Name>
+					<eng>Scintillating Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged23>
+			<vhgold_katarinaranged24>
+				<Name>
+					<eng>Malignant Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged24>
+			<vhgold_katarinaranged25>
+				<Name>
+					<eng>Sanguinary Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged25>
+			<vhgold_katarinaranged26>
+				<Name>
+					<eng>Radiant Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged26>
+			<vhgold_katarinaranged27>
+				<Name>
+					<eng>Cryptic Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged27>
+			<vhgold_katarinaranged28>
+				<Name>
+					<eng>Temporal Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged28>
+			<vhgold_katarinaranged29>
+				<Name>
+					<eng>Searing Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged29>
+			<vhgold_katarinaranged30>
+				<Name>
+					<eng>Hellish Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged30>
+			<vhgold_katarinaranged32>
+				<Name>
+					<eng>Ageless Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged32>
+			<vhgold_katarinaarmor01>
+				<Name>
+					<eng>Grey Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor01>
+			<vhgold_katarinaarmor02>
+				<Name>
+					<eng>Transparent Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor02>
+			<vhgold_katarinaarmor03>
+				<Name>
+					<eng>Bleak Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor03>
+			<vhgold_katarinaarmor04>
+				<Name>
+					<eng>Blemished Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor04>
+			<vhgold_katarinaarmor13>
+				<Name>
+					<eng>Shadowy Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor13>
+			<vhgold_katarinaarmor15>
+				<Name>
+					<eng>Grim Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor15>
+			<vhgold_katarinaarmor16>
+				<Name>
+					<eng>Frightful Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor16>
+			<vhgold_katarinaarmor17>
+				<Name>
+					<eng>Tarnished Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor17>
+			<vhgold_katarinaarmor18>
+				<Name>
+					<eng>Foreboding Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor18>
+			<vhgold_katarinaarmor19>
+				<Name>
+					<eng>Blackened Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor19>
+			<vhgold_katarinaarmor20>
+				<Name>
+					<eng>Dismal Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor20>
+			<vhgold_katarinaarmor21>
+				<Name>
+					<eng>Ashen Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor21>
+			<vhgold_katarinaarmor22>
+				<Name>
+					<eng>Embroidered Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor22>
+			<vhgold_katarinaarmor23>
+				<Name>
+					<eng>Smoldering Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor23>
+			<vhgold_katarinaarmor24>
+				<Name>
+					<eng>Harrowing Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor24>
+			<vhgold_katarinaarmor25>
+				<Name>
+					<eng>Twisted Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor25>
+			<vhgold_katarinaarmor26>
+				<Name>
+					<eng>Pallid Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor26>
+			<vhgold_katarinaarmor27>
+				<Name>
+					<eng>Delicate Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor27>
+			<vhgold_katarinaarmor28>
+				<Name>
+					<eng>Unearthly Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor28>
+			<vhgold_katarinaarmor29>
+				<Name>
+					<eng>Grotesque Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor29>
+			<vhgold_katarinaarmor30>
+				<Name>
+					<eng>Appalling Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor30>
+			<vhgold_katarinaarmor31>
+				<Name>
+					<eng>Maleficent Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor31>
+			<vhgold_katarinaarmor32>
+				<Name>
+					<eng>Astral Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor32>
+			<vhgold_katarinaarmor33>
+				<Name>
+					<eng>Intangible Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor33>
+			<vhgold_katarinamelee_epic05>
+				<Name>
+					<eng>Perdition</eng>
+				</Name>
+			</vhgold_katarinamelee_epic05>
+			<vhgold_katarinamelee_epic04>
+				<Name>
+					<eng>Wilting Touch</eng>
+				</Name>
+			</vhgold_katarinamelee_epic04>
+			<vhgold_katarinamelee_epic06>
+				<Name>
+					<eng>Caress of the Veil</eng>
+				</Name>
+			</vhgold_katarinamelee_epic06>
+			<vhgold_katarinamelee_epic01>
+				<Name>
+					<eng>Greater Shadow Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee_epic01>
+			<vhgold_katarinamelee_epic02>
+				<Name>
+					<eng>Draining Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee_epic02>
+			<vhgold_katarinamelee_epic08>
+				<Name>
+					<eng>Soulfrost</eng>
+				</Name>
+			</vhgold_katarinamelee_epic08>
+			<vhgold_katarinamelee_epic03>
+				<Name>
+					<eng>Chilling Grasp</eng>
+				</Name>
+			</vhgold_katarinamelee_epic03>
+			<vhgold_katarinamelee_epic07>
+				<Name>
+					<eng>Immaterial Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee_epic07>
+			<vhgold_katarinamelee_epic09>
+				<Name>
+					<eng>Fingers of Death</eng>
+				</Name>
+			</vhgold_katarinamelee_epic09>
+			<vhgold_katarinamelee_epic10>
+				<Name>
+					<eng>Gentle Doom</eng>
+				</Name>
+			</vhgold_katarinamelee_epic10>
+			<vhgold_katarinaarmor_epic05>
+				<Name>
+					<eng>Banshee Cloak</eng>
+				</Name>
+			</vhgold_katarinaarmor_epic05>
+			<vhgold_katarinaarmor_epic08>
+				<Name>
+					<eng>Screaming Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor_epic08>
+			<vhgold_katarinaarmor_epic01>
+				<Name>
+					<eng>White Widow Cloak</eng>
+				</Name>
+			</vhgold_katarinaarmor_epic01>
+			<vhgold_katarinaarmor_epic10>
+				<Name>
+					<eng>Immaterial Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor_epic10>
+			<vhgold_katarinaarmor_epic02>
+				<Name>
+					<eng>Graceful Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor_epic02>
+			<vhgold_katarinaarmor_epic03>
+				<Name>
+					<eng>Enigmatic Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor_epic03>
+			<vhgold_katarinaarmor_epic04>
+				<Name>
+					<eng>Wraith Tsarina Cloak</eng>
+				</Name>
+			</vhgold_katarinaarmor_epic04>
+			<vhgold_katarinaarmor_epic06>
+				<Name>
+					<eng>Sordid Beauty</eng>
+				</Name>
+			</vhgold_katarinaarmor_epic06>
+			<vhgold_katarinaarmor_epic07>
+				<Name>
+					<eng>Evanascent Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor_epic07>
+			<vhgold_katarinaarmor_epic09>
+				<Name>
+					<eng>Abstract Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor_epic09>
+			<vhgold_katarinaranged_epic01>
+				<Name>
+					<eng>Primaris Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged_epic01>
+			<vhgold_katarinaranged_epic02>
+				<Name>
+					<eng>Spectral Bracelet</eng>
+				</Name>
+			</vhgold_katarinaranged_epic02>
+			<vhgold_katarinaranged_epic03>
+				<Name>
+					<eng>Dark Blessing</eng>
+				</Name>
+			</vhgold_katarinaranged_epic03>
+			<vhgold_katarinaranged_epic04>
+				<Name>
+					<eng>Specterward Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged_epic04>
+			<vhgold_katarinaranged_epic05>
+				<Name>
+					<eng>Iconoclast Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged_epic05>
+			<vhgold_katarinaranged_epic06>
+				<Name>
+					<eng>Blasphemy</eng>
+				</Name>
+			</vhgold_katarinaranged_epic06>
+			<vhgold_katarinaranged_epic07>
+				<Name>
+					<eng>True Name</eng>
+				</Name>
+			</vhgold_katarinaranged_epic07>
+			<vhgold_katarinaranged_epic08>
+				<Name>
+					<eng>Word of Power</eng>
+				</Name>
+			</vhgold_katarinaranged_epic08>
+			<vhgold_katarinaranged_epic09>
+				<Name>
+					<eng>Incomprehensible Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged_epic09>
+			<vhgold_katarinaranged_epic10>
+				<Name>
+					<eng>Taboo</eng>
+				</Name>
+			</vhgold_katarinaranged_epic10>
+			<vhgold_heavydischarger01>
+				<Name>
+					<eng>Basic Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger01>
+			<vhgold_heavydischarger02>
+				<Name>
+					<eng>Vaporchamber Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger02>
+			<vhgold_heavydischarger03>
+				<Name>
+					<eng>Bunsen Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger03>
+			<vhgold_heavydischarger04>
+				<Name>
+					<eng>Abernathy Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger04>
+			<vhgold_heavydischarger05>
+				<Name>
+					<eng>Auto-Ejector Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger05>
+			<vhgold_heavydischarger06>
+				<Name>
+					<eng>Analog Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger06>
+			<vhgold_heavydischarger07>
+				<Name>
+					<eng>Phase-Emission Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger07>
+			<vhgold_heavydischarger08>
+				<Name>
+					<eng>Ignition Ray Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger08>
+			<vhgold_heavydischarger09>
+				<Name>
+					<eng>Incadescent Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger09>
+			<vhgold_heavydischarger10>
+				<Name>
+					<eng>Elyctrographic Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger10>
+			<vhgold_heavydischarger11>
+				<Name>
+					<eng>Hydrostream Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger11>
+			<vhgold_heavydischarger12>
+				<Name>
+					<eng>Nebulator X-9 Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger12>
+			<vhgold_heavydischarger13>
+				<Name>
+					<eng>Cascade Feedback Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger13>
+			<vhgold_heavydischarger14>
+				<Name>
+					<eng>Xahlmann Tube Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger14>
+			<vhgold_heavydischarger15>
+				<Name>
+					<eng>Holocryonic Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger15>
+			<vhgold_heavydischarger16>
+				<Name>
+					<eng>Tescomatic Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger16>
+			<vhgold_heavydischarger17>
+				<Name>
+					<eng>Superpulsor Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger17>
+			<vhgold_heavydischarger18>
+				<Name>
+					<eng>Exogyroscopic Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger18>
+			<vhgold_heavydischarger19>
+				<Name>
+					<eng>Macrostream Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger19>
+			<vhgold_heavydischarger20>
+				<Name>
+					<eng>BFG-512 Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger20>
+			<vhgold_heavydischarger21>
+				<Name>
+					<eng>Pterodynamic Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger21>
+			<vhgold_heavydischarger22>
+				<Name>
+					<eng>Magnetoaxial Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger22>
+			<vhgold_heavydischarger23>
+				<Name>
+					<eng>Intersparser Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger23>
+			<vhgold_heavydischarger24>
+				<Name>
+					<eng>Hyperoscillator Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger24>
+			<vhgold_heavydischarger25>
+				<Name>
+					<eng>Turbodisk Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger25>
+			<vhgold_heavydischarger26>
+				<Name>
+					<eng>Monotorrent Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger26>
+			<vhgold_heavydischarger27>
+				<Name>
+					<eng>Vacuumjet Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger27>
+			<vhgold_heavydischarger28>
+				<Name>
+					<eng>Antiphlogiston Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger28>
+			<vhgold_heavydischarger29>
+				<Name>
+					<eng>Protosynchron Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger29>
+			<vhgold_heavydischarger30>
+				<Name>
+					<eng>Mycropurgator Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger30>
+			<vhgold_heavydischarger31>
+				<Name>
+					<eng>Epsylon-6 Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger31>
+			<vhgold_heavydischarger32>
+				<Name>
+					<eng>Demodulator Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger32>
+			<vhgold_heavydischarger33>
+				<Name>
+					<eng>Thermofluctor Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger33>
+			<vhgold_heavydischarger_epic08>
+				<Name>
+					<eng>Dislocator Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger_epic08>
+			<vhgold_heavydischarger_epic09>
+				<Name>
+					<eng>Spectrum Array Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger_epic09>
+			<vhgold_heavydischarger_epic10>
+				<Name>
+					<eng>Neurocrack Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger_epic10>
+			<vhgold_heavydischarger_epic11>
+				<Name>
+					<eng>Radicotron-1800</eng>
+				</Name>
+			</vhgold_heavydischarger_epic11>
+			<vhgold_heavydischarger_epic12>
+				<Name>
+					<eng>Blast Symmetry Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger_epic12>
+			<vhgold_heavydischarger_epic13>
+				<Name>
+					<eng>Resomagnetic Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger_epic13>
+			<vhgold_heavydischarger_epic14>
+				<Name>
+					<eng>Hyperimpulsion Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger_epic14>
+			<vhgold_heavydischarger_epic15>
+				<Name>
+					<eng>Alpha Contaminator X-5</eng>
+				</Name>
+			</vhgold_heavydischarger_epic15>
+			<vhgold_katarinaarmor_set01>
+				<Name>
+					<eng>Ancestral Wraithcloak</eng>
+				</Name>
+			</vhgold_katarinaarmor_set01>
+			<vhgold_katarinamelee_set01>
+				<Name>
+					<eng>Ancestral Wraithclaw</eng>
+				</Name>
+			</vhgold_katarinamelee_set01>
+			<vhgold_katarinaranged_set01>
+				<Name>
+					<eng>Ancestral Wraithmark</eng>
+				</Name>
+			</vhgold_katarinaranged_set01>
+			<vhgold_cape_set03>
+				<Name>
+					<eng>Baskerville Cloak</eng>
+				</Name>
+			</vhgold_cape_set03>
+			<vhgold_visor_set03>
+				<Name>
+					<eng>Baskerville Hat</eng>
+				</Name>
+			</vhgold_visor_set03>
+			<vhgold_armorvest_set03>
+				<Name>
+					<eng>Baskerville Armor Vest</eng>
+				</Name>
+			</vhgold_armorvest_set03>
+			<vhgold_gloves_set03>
+				<Name>
+					<eng>Baskerville Gauntlets</eng>
+				</Name>
+			</vhgold_gloves_set03>
+			<vhgold_boots_set04>
+				<Name>
+					<eng>Gallowsbog Boots</eng>
+				</Name>
+			</vhgold_boots_set04>
+			<vhgold_visor_set04>
+				<Name>
+					<eng>Gallowsbog Hat</eng>
+				</Name>
+			</vhgold_visor_set04>
+			<vhgold_armorvest_set04>
+				<Name>
+					<eng>Gallowsbog Armor Vest</eng>
+				</Name>
+			</vhgold_armorvest_set04>
+			<vhgold_axe_set05>
+				<Name>
+					<eng>Dawnbreaker Axe</eng>
+				</Name>
+			</vhgold_axe_set05>
+			<vhgold_helmet_set05>
+				<Name>
+					<eng>Dawnbreaker Helmet</eng>
+				</Name>
+			</vhgold_helmet_set05>
+			<vhgold_heavyarmor_set05>
+				<Name>
+					<eng>Dawnbreaker Armor</eng>
+				</Name>
+			</vhgold_heavyarmor_set05>
+			<vhgold_shield_set05>
+				<Name>
+					<eng>Dawnbreaker Shield</eng>
+				</Name>
+			</vhgold_shield_set05>
+			<vhgold_amulet_set05>
+				<Name>
+					<eng>Dawnbreaker Amulet</eng>
+				</Name>
+			</vhgold_amulet_set05>
+			<vhgold_amulet_set02>
+				<Name>
+					<eng>Crimson Terror Amulet</eng>
+				</Name>
+			</vhgold_amulet_set02>
+			<vhgold_ring_set06>
+				<Name>
+					<eng>Gorgoniad Ring</eng>
+				</Name>
+			</vhgold_ring_set06>
+			<vhgold_trophy_set06>
+				<Name>
+					<eng>Gorgoniad Trophy</eng>
+				</Name>
+			</vhgold_trophy_set06>
+			<vhgold_helmet_set06>
+				<Name>
+					<eng>Gorgoniad Helmet</eng>
+				</Name>
+			</vhgold_helmet_set06>
+			<vhgold_amulet_set06>
+				<Name>
+					<eng>Gorgoniad Amulet</eng>
+				</Name>
+			</vhgold_amulet_set06>
+			<vhgold_ring_set07>
+				<Name>
+					<eng>Incantatus Ring</eng>
+				</Name>
+			</vhgold_ring_set07>
+			<vhgold_staff_set07>
+				<Name>
+					<eng>Incantatus Staff</eng>
+				</Name>
+			</vhgold_staff_set07>
+			<vhgold_garb_set07>
+				<Name>
+					<eng>Incantatus Garb</eng>
+				</Name>
+			</vhgold_garb_set07>
+			<vhgold_amulet_set07>
+				<Name>
+					<eng>Incantatus Amulet</eng>
+				</Name>
+			</vhgold_amulet_set07>
+			<vhgold_garb_set08>
+				<Name>
+					<eng>Conjurer Garb</eng>
+				</Name>
+			</vhgold_garb_set08>
+			<vhgold_gloves_set08>
+				<Name>
+					<eng>Conjurer Gloves</eng>
+				</Name>
+			</vhgold_gloves_set08>
+			<vhgold_dagger_set09>
+				<Name>
+					<eng>Twilight Dagger</eng>
+				</Name>
+			</vhgold_dagger_set09>
+			<vhgold_spiritharness_set09>
+				<Name>
+					<eng>Twilight Harness</eng>
+				</Name>
+			</vhgold_spiritharness_set09>
+			<vhgold_spirithood_set09>
+				<Name>
+					<eng>Twilight Hood</eng>
+				</Name>
+			</vhgold_spirithood_set09>
+			<vhgold_lightarmor_set09>
+				<Name>
+					<eng>Twilight Armor</eng>
+				</Name>
+			</vhgold_lightarmor_set09>
+			<vhgold_spiritharness_set10>
+				<Name>
+					<eng>Duskdale Harness</eng>
+				</Name>
+			</vhgold_spiritharness_set10>
+			<vhgold_spirithood_set10>
+				<Name>
+					<eng>Duskdale Hood</eng>
+				</Name>
+			</vhgold_spirithood_set10>
+			<vhgold_lightarmor_set10>
+				<Name>
+					<eng>Duskdale Armor</eng>
+				</Name>
+			</vhgold_lightarmor_set10>
+			<vhgold_gloves_set10>
+				<Name>
+					<eng>Duskdale Gloves</eng>
+				</Name>
+			</vhgold_gloves_set10>
+			<vhgold_heavydischarger_set11>
+				<Name>
+					<eng>Exterminator Discharger</eng>
+				</Name>
+			</vhgold_heavydischarger_set11>
+			<vhgold_engine_set11>
+				<Name>
+					<eng>Exterminator Engine</eng>
+				</Name>
+			</vhgold_engine_set11>
+			<vhgold_exoskeleton_set11>
+				<Name>
+					<eng>Exterminator Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton_set11>
+			<vhgold_gloves_set11>
+				<Name>
+					<eng>Exterminator Gloves</eng>
+				</Name>
+			</vhgold_gloves_set11>
+			<vhgold_belt_set12>
+				<Name>
+					<eng>Dreadnought Belt</eng>
+				</Name>
+			</vhgold_belt_set12>
+			<vhgold_engineerhelmet_set12>
+				<Name>
+					<eng>Dreadnought Helmet</eng>
+				</Name>
+			</vhgold_engineerhelmet_set12>
+			<vhgold_exoskeleton_set12>
+				<Name>
+					<eng>Dreadnought Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton_set12>
+			<vhgold_gloves_set12>
+				<Name>
+					<eng>Dreadnought Gloves</eng>
+				</Name>
+			</vhgold_gloves_set12>
+			<vhgold_engineercannon_set13>
+				<Name>
+					<eng>Apocryphus Mechanicus Cannon</eng>
+				</Name>
+			</vhgold_engineercannon_set13>
+			<vhgold_engineerhelmet_set13>
+				<Name>
+					<eng>Apocryphus Mechanicus Helm</eng>
+				</Name>
+			</vhgold_engineerhelmet_set13>
+			<vhgold_engineersuit_set13>
+				<Name>
+					<eng>Apocryphus Mechanicus Suit</eng>
+				</Name>
+			</vhgold_engineersuit_set13>
+			<vhgold_gloves_set13>
+				<Name>
+					<eng>Apocryphus Mechanicus Gauntlets</eng>
+				</Name>
+			</vhgold_gloves_set13>
+			<vhgold_belt_set14>
+				<Name>
+					<eng>Machine Knight Belt</eng>
+				</Name>
+			</vhgold_belt_set14>
+			<vhgold_boots_set14>
+				<Name>
+					<eng>Machine Knight Boots</eng>
+				</Name>
+			</vhgold_boots_set14>
+			<vhgold_engineerhelmet_set14>
+				<Name>
+					<eng>Machine Knight Helmet</eng>
+				</Name>
+			</vhgold_engineerhelmet_set14>
+			<vhgold_engineersuit_set14>
+				<Name>
+					<eng>Machine Knight Suit</eng>
+				</Name>
+			</vhgold_engineersuit_set14>
+			<vhgold_belt_set15>
+				<Name>
+					<eng>Manticore Belt</eng>
+				</Name>
+			</vhgold_belt_set15>
+			<vhgold_boots_set15>
+				<Name>
+					<eng>Manticore Boots</eng>
+				</Name>
+			</vhgold_boots_set15>
+			<vhgold_trophy_set15>
+				<Name>
+					<eng>Manticore Trophy</eng>
+				</Name>
+			</vhgold_trophy_set15>
+			<vhgold_belt_set16>
+				<Name>
+					<eng>Sunguard Belt</eng>
+				</Name>
+			</vhgold_belt_set16>
+			<vhgold_ring_set16>
+				<Name>
+					<eng>Sunguard Ring</eng>
+				</Name>
+			</vhgold_ring_set16>
+			<vhgold_gloves_set16>
+				<Name>
+					<eng>Sunguard Gloves</eng>
+				</Name>
+			</vhgold_gloves_set16>
+			<vhgold_ring_set17a>
+				<Name>
+					<eng>Arcane Prodigy Ring</eng>
+				</Name>
+			</vhgold_ring_set17a>
+			<vhgold_ring_set17b>
+				<Name>
+					<eng>Warrior Prodigy Ring</eng>
+				</Name>
+			</vhgold_ring_set17b>
+			<vhgold_belt_set18>
+				<Name>
+					<eng>Son of Ramat Belt</eng>
+				</Name>
+			</vhgold_belt_set18>
+			<vhgold_boots_set18>
+				<Name>
+					<eng>Son of Ramat Boots</eng>
+				</Name>
+			</vhgold_boots_set18>
+			<vhgold_amulet_set18>
+				<Name>
+					<eng>Son of Ramat Amulet</eng>
+				</Name>
+			</vhgold_amulet_set18>
+			<vhgold_trophy_set19>
+				<Name>
+					<eng>Behemoth Hunter Trophy</eng>
+				</Name>
+			</vhgold_trophy_set19>
+			<vhgold_visor_set19>
+				<Name>
+					<eng>Behemoth Hunter Hat</eng>
+				</Name>
+			</vhgold_visor_set19>
+			<vhgold_armorvest_set19>
+				<Name>
+					<eng>Behemoth Hunter Vest</eng>
+				</Name>
+			</vhgold_armorvest_set19>
+			<vhgold_helmet_set19>
+				<Name>
+					<eng>Behemoth Hunter Helmet</eng>
+				</Name>
+			</vhgold_helmet_set19>
+			<vhgold_heavyarmor_set19>
+				<Name>
+					<eng>Behemoth Hunter Armor</eng>
+				</Name>
+			</vhgold_heavyarmor_set19>
+			<vhgold_mask_set19>
+				<Name>
+					<eng>Behemoth Hunter Mask</eng>
+				</Name>
+			</vhgold_mask_set19>
+			<vhgold_garb_set19>
+				<Name>
+					<eng>Behemoth Hunter Garb</eng>
+				</Name>
+			</vhgold_garb_set19>
+			<vhgold_spirithood_set19>
+				<Name>
+					<eng>Behemoth Hunter Hood</eng>
+				</Name>
+			</vhgold_spirithood_set19>
+			<vhgold_lightarmor_set19>
+				<Name>
+					<eng>Behemoth Hunter Armor</eng>
+				</Name>
+			</vhgold_lightarmor_set19>
+			<vhgold_engineerhelmet_set19>
+				<Name>
+					<eng>Behemoth Hunter Helmet</eng>
+				</Name>
+			</vhgold_engineerhelmet_set19>
+			<vhgold_exoskeleton_set19>
+				<Name>
+					<eng>Behemoth Hunter Frame</eng>
+				</Name>
+			</vhgold_exoskeleton_set19>
+			<vhgold_engineersuit_set19>
+				<Name>
+					<eng>Behemoth Hunter Suit</eng>
+				</Name>
+			</vhgold_engineersuit_set19>
+			<vhgold_boots_set20>
+				<Name>
+					<eng>Ravenscar Boots</eng>
+				</Name>
+			</vhgold_boots_set20>
+			<vhgold_trophy_set20>
+				<Name>
+					<eng>Ravenscar Trophy</eng>
+				</Name>
+			</vhgold_trophy_set20>
+			<vhgold_amulet_set20>
+				<Name>
+					<eng>Ravenscar Amulet</eng>
+				</Name>
+			</vhgold_amulet_set20>
+			<vhgold_ring_set21a>
+				<Name>
+					<eng>Runic Soul Ring</eng>
+				</Name>
+			</vhgold_ring_set21a>
+			<vhgold_ring_set21b>
+				<Name>
+					<eng>Runic Spirit Ring</eng>
+				</Name>
+			</vhgold_ring_set21b>
+			<vhgold_gloves_set21>
+				<Name>
+					<eng>Runic Gloves</eng>
+				</Name>
+			</vhgold_gloves_set21>
+			<vhgold_belt_set22>
+				<Name>
+					<eng>Hexer Belt</eng>
+				</Name>
+			</vhgold_belt_set22>
+			<vhgold_boots_set22>
+				<Name>
+					<eng>Hexer Boots</eng>
+				</Name>
+			</vhgold_boots_set22>
+			<vhgold_gloves_set22>
+				<Name>
+					<eng>Hexer Gloves</eng>
+				</Name>
+			</vhgold_gloves_set22>
+			<vhgold_amulet_set22>
+				<Name>
+					<eng>Hexer Amulet</eng>
+				</Name>
+			</vhgold_amulet_set22>
+			<vhgold_belt_set23>
+				<Name>
+					<eng>Avenger Belt</eng>
+				</Name>
+			</vhgold_belt_set23>
+			<vhgold_trophy_set23>
+				<Name>
+					<eng>Avenger Trophy</eng>
+				</Name>
+			</vhgold_trophy_set23>
+			<vhgold_gloves_set23>
+				<Name>
+					<eng>Avenger Gauntlets</eng>
+				</Name>
+			</vhgold_gloves_set23>
+			<vhgold_lightarmor_set23>
+				<Name>
+					<eng>Avenger Armor</eng>
+				</Name>
+			</vhgold_lightarmor_set23>
+			<vhgold_exoskeleton_set23>
+				<Name>
+					<eng>Avenger Frame</eng>
+				</Name>
+			</vhgold_exoskeleton_set23>
+			<vhgold_engineersuit_set23>
+				<Name>
+					<eng>Avenger Suit</eng>
+				</Name>
+			</vhgold_engineersuit_set23>
+			<vhgold_armorvest_set24>
+				<Name>
+					<eng>Soulbound Armor Vest</eng>
+				</Name>
+			</vhgold_armorvest_set24>
+			<vhgold_heavyarmor_set24>
+				<Name>
+					<eng>Soulbound Armor</eng>
+				</Name>
+			</vhgold_heavyarmor_set24>
+			<vhgold_garb_set24>
+				<Name>
+					<eng>Soulbound Garb</eng>
+				</Name>
+			</vhgold_garb_set24>
+			<vhgold_boots_set25>
+				<Name>
+					<eng>Nephilim Boots</eng>
+				</Name>
+			</vhgold_boots_set25>
+			<vhgold_visor_set25>
+				<Name>
+					<eng>Nephilim Hat</eng>
+				</Name>
+			</vhgold_visor_set25>
+			<vhgold_helmet_set25>
+				<Name>
+					<eng>Nephilim Helmet</eng>
+				</Name>
+			</vhgold_helmet_set25>
+			<vhgold_mask_set25>
+				<Name>
+					<eng>Nephilim Mask</eng>
+				</Name>
+			</vhgold_mask_set25>
+			<vhgold_spirithood_set25>
+				<Name>
+					<eng>Nephilim Hood</eng>
+				</Name>
+			</vhgold_spirithood_set25>
+			<vhgold_engineerhelmet_set25>
+				<Name>
+					<eng>Nephilim Helmet</eng>
+				</Name>
+			</vhgold_engineerhelmet_set25>
+			<vhgold_pistol_set26>
+				<Name>
+					<eng>Storm Gunner Pistols</eng>
+				</Name>
+			</vhgold_pistol_set26>
+			<vhgold_cape_set26>
+				<Name>
+					<eng>Storm Gunner Cape</eng>
+				</Name>
+			</vhgold_cape_set26>
+			<vhgold_visor_set26>
+				<Name>
+					<eng>Storm Gunner Visor</eng>
+				</Name>
+			</vhgold_visor_set26>
+			<vhgold_armorvest_set26>
+				<Name>
+					<eng>Storm Gunner Vest</eng>
+				</Name>
+			</vhgold_armorvest_set26>
+			<vhgold_gloves_set26>
+				<Name>
+					<eng>Storm Gunner Gloves</eng>
+				</Name>
+			</vhgold_gloves_set26>
+			<vhgold_helmet_set27>
+				<Name>
+					<eng>Honoriad Helmet</eng>
+				</Name>
+			</vhgold_helmet_set27>
+			<vhgold_shield_set27>
+				<Name>
+					<eng>Honoriad Shield</eng>
+				</Name>
+			</vhgold_shield_set27>
+			<vhgold_amulet_set27>
+				<Name>
+					<eng>Honoriad Amulet</eng>
+				</Name>
+			</vhgold_amulet_set27>
+			<vhgold_focus_set28>
+				<Name>
+					<eng>Immaculatus Spellcuffs</eng>
+				</Name>
+			</vhgold_focus_set28>
+			<vhgold_magecape_set28>
+				<Name>
+					<eng>Immaculatus Cloak</eng>
+				</Name>
+			</vhgold_magecape_set28>
+			<vhgold_mask_set28>
+				<Name>
+					<eng>Immaculatus Mask</eng>
+				</Name>
+			</vhgold_mask_set28>
+			<vhgold_garb_set28>
+				<Name>
+					<eng>Immaculatus Garb</eng>
+				</Name>
+			</vhgold_garb_set28>
+			<vhgold_dagger_set29>
+				<Name>
+					<eng>Vorpal Dagger</eng>
+				</Name>
+			</vhgold_dagger_set29>
+			<vhgold_spiritharness_set29>
+				<Name>
+					<eng>Vorpal Harness</eng>
+				</Name>
+			</vhgold_spiritharness_set29>
+			<vhgold_spirithood_set29>
+				<Name>
+					<eng>Vorpal Hood</eng>
+				</Name>
+			</vhgold_spirithood_set29>
+			<vhgold_gloves_set29>
+				<Name>
+					<eng>Vorpal Gauntlets</eng>
+				</Name>
+			</vhgold_gloves_set29>
+			<vhgold_heavydischarger_set30>
+				<Name>
+					<eng>Chrometrooper Cannon</eng>
+				</Name>
+			</vhgold_heavydischarger_set30>
+			<vhgold_engine_set30>
+				<Name>
+					<eng>Chrometrooper Engine</eng>
+				</Name>
+			</vhgold_engine_set30>
+			<vhgold_exoskeleton_set30>
+				<Name>
+					<eng>Chrometrooper Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton_set30>
+			<vhgold_gloves_set30>
+				<Name>
+					<eng>Chrometrooper Gauntlets</eng>
+				</Name>
+			</vhgold_gloves_set30>
+			<vhgold_engineerhelmet_set31>
+				<Name>
+					<eng>Gadget Master Helmet</eng>
+				</Name>
+			</vhgold_engineerhelmet_set31>
+			<vhgold_amulet_set31>
+				<Name>
+					<eng>Gadget Master Amulet</eng>
+				</Name>
+			</vhgold_amulet_set31>
+			<vhgold_exoskeleton01>
+				<Name>
+					<eng>Primitive Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton01>
+			<vhgold_exoskeleton02>
+				<Name>
+					<eng>Iron Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton02>
+			<vhgold_exoskeleton03>
+				<Name>
+					<eng>Lightweight Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton03>
+			<vhgold_exoskeleton04>
+				<Name>
+					<eng>Reinforced Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton04>
+			<vhgold_exoskeleton05>
+				<Name>
+					<eng>Industrial Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton05>
+			<vhgold_exoskeleton06>
+				<Name>
+					<eng>Pneumatic Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton06>
+			<vhgold_exoskeleton07>
+				<Name>
+					<eng>Steel Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton07>
+			<vhgold_exoskeleton08>
+				<Name>
+					<eng>Magnetized Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton08>
+			<vhgold_exoskeleton09>
+				<Name>
+					<eng>Steam-Assisted Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton09>
+			<vhgold_exoskeleton10>
+				<Name>
+					<eng>Security Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton10>
+			<vhgold_exoskeleton21>
+				<Name>
+					<eng>Galvanized Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton21>
+			<vhgold_exoskeleton22>
+				<Name>
+					<eng>Velocytron Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton22>
+			<vhgold_exoskeleton23>
+				<Name>
+					<eng>Ruffimaton Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton23>
+			<vhgold_exoskeleton24>
+				<Name>
+					<eng>Radicomat Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton24>
+			<vhgold_exoskeleton25>
+				<Name>
+					<eng>Assault Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton25>
+			<vhgold_exoskeleton26>
+				<Name>
+					<eng>Armored Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton26>
+			<vhgold_exoskeleton27>
+				<Name>
+					<eng>Multi-Purpose Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton27>
+			<vhgold_exoskeleton28>
+				<Name>
+					<eng>Versalite Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton28>
+			<vhgold_exoskeleton29>
+				<Name>
+					<eng>Tactical Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton29>
+			<vhgold_exoskeleton30>
+				<Name>
+					<eng>Shock_Resistant Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton30>
+			<vhgold_exoskeleton31>
+				<Name>
+					<eng>Vanguard Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton31>
+			<vhgold_exoskeleton32>
+				<Name>
+					<eng>Battle Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton32>
+			<vhgold_exoskeleton33>
+				<Name>
+					<eng>Revolutech Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton33>
+			<vhgold_exoskeleton_epic01>
+				<Name>
+					<eng>Strider F-5</eng>
+				</Name>
+			</vhgold_exoskeleton_epic01>
+			<vhgold_exoskeleton_epic02>
+				<Name>
+					<eng>Iron Bear</eng>
+				</Name>
+			</vhgold_exoskeleton_epic02>
+			<vhgold_exoskeleton_epic03>
+				<Name>
+					<eng>Mechanocop Exoskeleton</eng>
+				</Name>
+			</vhgold_exoskeleton_epic03>
+			<vhgold_exoskeleton_epic04>
+				<Name>
+					<eng>Bomb Defusal Frame</eng>
+				</Name>
+			</vhgold_exoskeleton_epic04>
+			<vhgold_exoskeleton_epic05>
+				<Name>
+					<eng>Carbo-Lock Z7</eng>
+				</Name>
+			</vhgold_exoskeleton_epic05>
+			<vhgold_exoskeleton_epic10>
+				<Name>
+					<eng>Mechanized Marauder</eng>
+				</Name>
+			</vhgold_exoskeleton_epic10>
+			<vhgold_exoskeleton_epic11>
+				<Name>
+					<eng>Steel Embrace</eng>
+				</Name>
+			</vhgold_exoskeleton_epic11>
+			<vhgold_exoskeleton_epic12>
+				<Name>
+					<eng>Advanced Power Walker</eng>
+				</Name>
+			</vhgold_exoskeleton_epic12>
+			<vhgold_exoskeleton_epic13>
+				<Name>
+					<eng>Clawed Crawler</eng>
+				</Name>
+			</vhgold_exoskeleton_epic13>
+			<vhgold_exoskeleton_epic14>
+				<Name>
+					<eng>Wreckmaker PZ130</eng>
+				</Name>
+			</vhgold_exoskeleton_epic14>
+			<vhgold_exoskeleton_epic15>
+				<Name>
+					<eng>Decimator Warframe</eng>
+				</Name>
+			</vhgold_exoskeleton_epic15>
+			<enh_godlike_belt01>
+				<Name>
+					<eng>Waistband Of The Old Gods</eng>
+				</Name>
+			</enh_godlike_belt01>
+			<enh_godlike_belt02>
+				<Name>
+					<eng>Destroyer's Buckle</eng>
+				</Name>
+			</enh_godlike_belt02>
+			<enh_godlike_amulet01>
+				<Name>
+					<eng>Pendant Of The Old Gods</eng>
+				</Name>
+			</enh_godlike_amulet01>
+			<enh_godlike_amulet02>
+				<Name>
+					<eng>Ancient Phylactory</eng>
+				</Name>
+			</enh_godlike_amulet02>
+			<enh_godlike_trophy01>
+				<Name>
+					<eng>Fragment Of The Old Gods</eng>
+				</Name>
+			</enh_godlike_trophy01>
+			<enh_godlike_trophy02>
+				<Name>
+					<eng>Ancient Prize</eng>
+				</Name>
+			</enh_godlike_trophy02>
+			<enh_godlike_gloves01>
+				<Name>
+					<eng>Handguards Of The Old Gods</eng>
+				</Name>
+			</enh_godlike_gloves01>
+			<enh_godlike_gloves02>
+				<Name>
+					<eng>Parasitic Grasp</eng>
+				</Name>
+			</enh_godlike_gloves02>
+			<enh_godlike_ring01>
+				<Name>
+					<eng>Jewel Of The Old Gods</eng>
+				</Name>
+			</enh_godlike_ring01>
+			<enh_godlike_ring02>
+				<Name>
+					<eng>Conjuring Amplifier (Minion Upgrades)</eng>
+				</Name>
+			</enh_godlike_ring02>
+			<enh_godlike_boots01>
+				<Name>
+					<eng>Footpads Of The Old Gods</eng>
+				</Name>
+			</enh_godlike_boots01>
+			<enh_godlike_rifle01>
+				<Name>
+					<eng>Ancient Combustor</eng>
+				</Name>
+			</enh_godlike_rifle01>
+			<enh_godlike_sword01>
+				<Name>
+					<eng>Blade Of Heavens</eng>
+				</Name>
+			</enh_godlike_sword01>
+			<enh_godlike_discharger01>
+				<Name>
+					<eng>Repurposed Tank Cannon</eng>
+				</Name>
+			</enh_godlike_discharger01>
+			<enh_godlike_cannon01>
+				<Name>
+					<eng>Gizmotic Part Distributor</eng>
+				</Name>
+			</enh_godlike_cannon01>
+			<enh_godlike_staff01>
+				<Name>
+					<eng>Rod Of God</eng>
+				</Name>
+			</enh_godlike_staff01>
+			<enh_godlike_dagger01>
+				<Name>
+					<eng>Bloodied Whispers</eng>
+				</Name>
+			</enh_godlike_dagger01>
+			<enh_ring_epic01>
+				<Name>
+					<eng>Void Battery</eng>
+				</Name>
+			</enh_ring_epic01>
+			<enh_ring_epic02>
+				<Name>
+					<eng>Aetherpool</eng>
+				</Name>
+			</enh_ring_epic02>
+			<enh_ring_epic03>
+				<Name>
+					<eng>Cursed Ring</eng>
+				</Name>
+			</enh_ring_epic03>
+			<enh_ring_epic04>
+				<Name>
+					<eng>Anihime's Initiative</eng>
+				</Name>
+			</enh_ring_epic04>
+			<enh_belt_epic01>
+				<Name>
+					<eng>Girdle of The Mountain</eng>
+				</Name>
+			</enh_belt_epic01>
+			<enh_belt_epic02>
+				<Name>
+					<eng>Cursed Buckle</eng>
+				</Name>
+			</enh_belt_epic02>
+			<enh_belt_epic03>
+				<Name>
+					<eng>Adder's Waistwrap</eng>
+				</Name>
+			</enh_belt_epic03>
+			<enh_belt_epic04>
+				<Name>
+					<eng>Furious Breaker</eng>
+				</Name>
+			</enh_belt_epic04>
+			<enh_amulet_epic01>
+				<Name>
+					<eng>Frozen Sapphire</eng>
+				</Name>
+			</enh_amulet_epic01>
+			<enh_amulet_epic02>
+				<Name>
+					<eng>Chronolocked Timepiece</eng>
+				</Name>
+			</enh_amulet_epic02>
+			<enh_amulet_epic03>
+				<Name>
+					<eng>Bog Witches' Favorite</eng>
+				</Name>
+			</enh_amulet_epic03>
+			<enh_amulet_epic04>
+				<Name>
+					<eng>Malefice Charm</eng>
+				</Name>
+			</enh_amulet_epic04>
+			<enh_focus_epic01>
+				<Name>
+					<eng>Normalizers</eng>
+				</Name>
+			</enh_focus_epic01>
+			<enh_focus_epic02>
+				<Name>
+					<eng>Blank Spellbinders</eng>
+				</Name>
+			</enh_focus_epic02>
+			<enh_boots_epic01>
+				<Name>
+					<eng>Enchanted Leather Sprinters</eng>
+				</Name>
+			</enh_boots_epic01>
+			<enh_boots_epic02>
+				<Name>
+					<eng>Behemoth Greaves</eng>
+				</Name>
+			</enh_boots_epic02>
+			<enh_boots_epic03>
+				<Name>
+					<eng>Greaves of The Hare</eng>
+				</Name>
+			</enh_boots_epic03>
+			<enh_boots_epic04>
+				<Name>
+					<eng>Treasure Seekers</eng>
+				</Name>
+			</enh_boots_epic04>
+			<enh_boots_epic05>
+				<Name>
+					<eng>Rainbowstrut</eng>
+				</Name>
+			</enh_boots_epic05>
+			<enh_armorvest_epic01>
+				<Name>
+					<eng>Ravager's Suit</eng>
+				</Name>
+			</enh_armorvest_epic01>
+			<enh_armorvest_epic02>
+				<Name>
+					<eng>Kevlayer Vest</eng>
+				</Name>
+			</enh_armorvest_epic02>
+			<enh_axe_epic01>
+				<Name>
+					<eng>Blood Drinker</eng>
+				</Name>
+			</enh_axe_epic01>
+			<enh_backpack_epic01>
+				<Name>
+					<eng>Combat Engineer's Pack</eng>
+				</Name>
+			</enh_backpack_epic01>
+			<enh_backpack_epic02>
+				<Name>
+					<eng>Resilience Resonator</eng>
+				</Name>
+			</enh_backpack_epic02>
+			<enh_cape_epic01>
+				<Name>
+					<eng>Cape Of Defiance</eng>
+				</Name>
+			</enh_cape_epic01>
+			<enh_cape_epic02>
+				<Name>
+					<eng>Frostcloak</eng>
+				</Name>
+			</enh_cape_epic02>
+			<enh_sword_epic01>
+				<Name>
+					<eng>Flamelash</eng>
+				</Name>
+			</enh_sword_epic01>
+			<enh_sword_epic02>
+				<Name>
+					<eng>Clean Cut</eng>
+				</Name>
+			</enh_sword_epic02>
+			<enh_katarinaarmor_epic01>
+				<Name>
+					<eng>Nightmare Raiment</eng>
+				</Name>
+			</enh_katarinaarmor_epic01>
+			<enh_katarinaarmor_epic02>
+				<Name>
+					<eng>Shredded Garment</eng>
+				</Name>
+			</enh_katarinaarmor_epic02>
+			<enh_spirithood_epic01>
+				<Name>
+					<eng>Thoughtband</eng>
+				</Name>
+			</enh_spirithood_epic01>
+			<enh_spirithood_epic02>
+				<Name>
+					<eng>Enra Vitalis</eng>
+				</Name>
+			</enh_spirithood_epic02>
+			<enh_heavyarmor_epic01>
+				<Name>
+					<eng>Opus Magnus</eng>
+				</Name>
+			</enh_heavyarmor_epic01>
+			<enh_heavyarmor_epic02>
+				<Name>
+					<eng>Emberheart</eng>
+				</Name>
+			</enh_heavyarmor_epic02>
+			<enh_heavyarmor_epic03>
+				<Name>
+					<eng>Blademaster's Cuirass</eng>
+				</Name>
+			</enh_heavyarmor_epic03>
+			<enh_spiritharness_epic01>
+				<Name>
+					<eng>Liac Vitalis</eng>
+				</Name>
+			</enh_spiritharness_epic01>
+			<enh_spiritharness_epic02>
+				<Name>
+					<eng>Punishment</eng>
+				</Name>
+			</enh_spiritharness_epic02>
+			<enh_engineercannon_epic01>
+				<Name>
+					<eng>Masocannon</eng>
+				</Name>
+			</enh_engineercannon_epic01>
+			<enh_engineercannon_epic02>
+				<Name>
+					<eng>Grounded Discharger</eng>
+				</Name>
+			</enh_engineercannon_epic02>
+			<enh_engineercannon_epic03>
+				<Name>
+					<eng>Kingsguard Assembler</eng>
+				</Name>
+			</enh_engineercannon_epic03>
+			<enh_katarinamelee_epic01>
+				<Name>
+					<eng>Spectre's Touch</eng>
+				</Name>
+			</enh_katarinamelee_epic01>
+			<enh_katarinamelee_epic02>
+				<Name>
+					<eng>Fleshrender</eng>
+				</Name>
+			</enh_katarinamelee_epic02>
+			<enh_shield_epic01>
+				<Name>
+					<eng>Iron Cover</eng>
+				</Name>
+			</enh_shield_epic01>
+			<enh_shield_epic02>
+				<Name>
+					<eng>Lionheart</eng>
+				</Name>
+			</enh_shield_epic02>
+			<enh_shield_epic03>
+				<Name>
+					<eng>Bloodpact</eng>
+				</Name>
+			</enh_shield_epic03>
+			<enh_exoskeleton_epic01>
+				<Name>
+					<eng>Rollcage</eng>
+				</Name>
+			</enh_exoskeleton_epic01>
+			<enh_exoskeleton_epic02>
+				<Name>
+					<eng>Strategic Armor</eng>
+				</Name>
+			</enh_exoskeleton_epic02>
+			<enh_engineersuit_epic01>
+				<Name>
+					<eng>Solo-Suit 2.1</eng>
+				</Name>
+			</enh_engineersuit_epic01>
+			<enh_engineersuit_epic02>
+				<Name>
+					<eng>Rage-Amplifying Leathers</eng>
+				</Name>
+			</enh_engineersuit_epic02>
+			<enh_engineersuit_epic03>
+				<Name>
+					<eng>Modular Vest</eng>
+				</Name>
+			</enh_engineersuit_epic03>
+			<enh_lightarmor_epic01>
+				<Name>
+					<eng>Breaker's Chest</eng>
+				</Name>
+			</enh_lightarmor_epic01>
+			<enh_lightarmor_epic02>
+				<Name>
+					<eng>Daredevil's Gear</eng>
+				</Name>
+			</enh_lightarmor_epic02>
+			<enh_heavydischarger_epic01>
+				<Name>
+					<eng>Shield Resonator</eng>
+				</Name>
+			</enh_heavydischarger_epic01>
+			<enh_heavydischarger_epic02>
+				<Name>
+					<eng>Yori's Assimilator</eng>
+				</Name>
+			</enh_heavydischarger_epic02>
+			<enh_heavydischarger_epic03>
+				<Name>
+					<eng>Graviton Crusher</eng>
+				</Name>
+			</enh_heavydischarger_epic03>
+			<enh_staff_epic01>
+				<Name>
+					<eng>Concentrus</eng>
+				</Name>
+			</enh_staff_epic01>
+			<enh_helmet_epic01>
+				<Name>
+					<eng>Crest of The Hyena</eng>
+				</Name>
+			</enh_helmet_epic01>
+			<enh_helmet_epic02>
+				<Name>
+					<eng>Earthmother's Gaze</eng>
+				</Name>
+			</enh_helmet_epic02>
+			<enh_magecape_epic01>
+				<Name>
+					<eng>Glass Reprise</eng>
+				</Name>
+			</enh_magecape_epic01>
+			<enh_magecape_epic02>
+				<Name>
+					<eng>Accelerant Cloak</eng>
+				</Name>
+			</enh_magecape_epic02>
+			<enh_engineerhelmet_epic01>
+				<Name>
+					<eng>Cranial Capacitor</eng>
+				</Name>
+			</enh_engineerhelmet_epic01>
+			<enh_engineerhelmet_epic02>
+				<Name>
+					<eng>Machinist's Rage</eng>
+				</Name>
+			</enh_engineerhelmet_epic02>
+			<enh_engine_epic01>
+				<Name>
+					<eng>Graviton Generator</eng>
+				</Name>
+			</enh_engine_epic01>
+			<enh_dagger_epic01>
+				<Name>
+					<eng>Cobra's Quick Strike</eng>
+				</Name>
+			</enh_dagger_epic01>
+			<enh_ring_epic05>
+				<Name>
+					<eng>Enchantress' Band</eng>
+				</Name>
+			</enh_ring_epic05>
+			<enh_rifle_epic01>
+				<Name>
+					<eng>Brimstone Blaster</eng>
+				</Name>
+			</enh_rifle_epic01>
+			<enh_gloves_set_masters01>
+				<Name>
+					<eng>Master's Breakers</eng>
+				</Name>
+			</enh_gloves_set_masters01>
+			<enh_gloves_set_masters02>
+				<Name>
+					<eng>Master's Channelers</eng>
+				</Name>
+			</enh_gloves_set_masters02>
+			<enh_gloves_set_manticore01>
+				<Name>
+					<eng>Manticore Handguards</eng>
+				</Name>
+			</enh_gloves_set_manticore01>
+			<enh_belt_set_masters01>
+				<Name>
+					<eng>Master's Girdle</eng>
+				</Name>
+			</enh_belt_set_masters01>
+			<enh_belt_set_masters02>
+				<Name>
+					<eng>Master's Fury</eng>
+				</Name>
+			</enh_belt_set_masters02>
+			<enh_engineercannon_set01>
+				<Name>
+					<eng>Machine Knight's Discharger</eng>
+				</Name>
+			</enh_engineercannon_set01>
+			<enh_gloves_set_ramat01>
+				<Name>
+					<eng>Son of Ramat Gloves</eng>
+				</Name>
+			</enh_gloves_set_ramat01>
+			<enh_trophy_set_ramat01>
+				<Name>
+					<eng>Son of Ramat Trophy</eng>
+				</Name>
+			</enh_trohpy_set_ramat01>
+			<enh_heavyarmor_set_sunguard01>
+				<Name>
+					<eng>Sunguard Plate</eng>
+				</Name>
+			</enh_heavyarmor_set_sunguard01>
+			<enh_boots_set_gorgoniad01>
+				<Name>
+					<eng>Gorgoniad Bootstraps</eng>
+				</Name>
+			</enh_boots_set_gorgoniad01>
+			<enh_gloves_set_gorgoniad01>
+				<Name>
+					<eng>Gorgoniad Graspers</eng>
+				</Name>
+			</enh_gloves_set_gorgoniad01>
+			<enh_gloves_set_forgotten01>
+				<Name>
+					<eng>Forgotten Handguards</eng>
+				</Name>
+			</enh_gloves_set_forgotten01>
+			<enh_trophy_set_forgotten01>
+				<Name>
+					<eng>Forgotten Artifact</eng>
+				</Name>
+			</enh_trohpy_set_forgotten01>
+			<enh_belt_set_forgotten01>
+				<Name>
+					<eng>Forgotten Waistband</eng>
+				</Name>
+			</enh_belt_set_forgotten01>
+			<enh_amulet_set_forgotten01>
+				<Name>
+					<eng>Forgotten Neckpiece</eng>
+				</Name>
+			</enh_amulet_set_forgotten01>
+			<enh_ring_set_forgotten01>
+				<Name>
+					<eng>Forgotten Jewelry</eng>
+				</Name>
+			</enh_ring_set_forgotten01>
+			<enh_boots_set_forgotten01>
+				<Name>
+					<eng>Forgotten Footguards</eng>
+				</Name>
+			</enh_boots_set_forgotten01>
+			<gandalfstaff>
+				<Name>
+					<eng>Wizard Staff</eng>
+				</Name>
+			</gandalfstaff>
+		</Items>
+		<EnchantFragmentFormatting>
+			<eng>$ENCHANT$ $TYPE$</eng>
+		</EnchantFragmentFormatting>
+		<Enchantment>
+			<CrushingBlow>
+				<desc>
+					<eng>Bonus Damage: $VALUE$% of the target's max HP</eng>
+				</desc>
+			</CrushingBlow>
+			<Enh_Parry_Unique>
+				<desc>
+					<eng>+$VALUE$% Block Chance</eng>
+				</desc>
+			</Enh_Parry_Unique>
+			<SlowAura>
+				<desc>
+					<eng>Speed of surrounding enemies is halved</eng>
+				</desc>
+			</SlowAura>
+			<FireballAtDeath>
+				<desc>
+					<eng>Casts a Flaming Sphere upon death</eng>
+				</desc>
+			</FireballAtDeath>
+			<VendorPrice>
+				<desc>
+					<eng>$VALUE$% discount on shop prices</eng>
+				</desc>
+			</VendorPrice>
+			<HealReduction>
+				<desc>
+					<eng>Prevents enemy from healing</eng>
+				</desc>
+			</HealReduction>
+			<SpellLevelToAll>
+				<desc>
+					<eng>All Skills are considered $VALUE$ level higher</eng>
+				</desc>
+			</SpellLevelToAll>
+			<SpellLevelToMelee>
+				<desc>
+					<eng>All Melee Skills are considered $VALUE$ level higher</eng>
+				</desc>
+			</SpellLevelToMelee>
+			<SpellLevelToRanged>
+				<desc>
+					<eng>All Ranged Skills are considered $VALUE$ level higher</eng>
+				</desc>
+			</SpellLevelToRanged>
+			<SpellLevelToMagic>
+				<desc>
+					<eng>All Magic Spells are considered $VALUE$ level higher</eng>
+				</desc>
+			</SpellLevelToMagic>
+			<SpellLevelToFireball>
+				<desc>
+					<eng>$VALUE$ bonus level to Flaming Sphere</eng>
+				</desc>
+			</SpellLevelToFireball>
+			<SpellLevelToEtherealEvasion>
+				<desc>
+					<eng>$VALUE$ bonus level to Ethereal Evasion</eng>
+				</desc>
+			</SpellLevelToEtherealEvasion>
+			<SpellLevelToArcaneHealing>
+				<desc>
+					<eng>$VALUE$ bonus level to Arcane Healing</eng>
+				</desc>
+			</SpellLevelToArcaneHealing>
+			<SpellLevelToRage>
+				<desc>
+					<eng>$VALUE$ bonus level to Rage</eng>
+				</desc>
+			</SpellLevelToRage>
+			<SpellLevelToTreasureHunter>
+				<desc>
+					<eng>$VALUE$ bonus level to Treasure Hunter</eng>
+				</desc>
+			</SpellLevelToTreasureHunter>
+			<SpellLevelToClearShot>
+				<desc>
+					<eng>$VALUE$ bonus level to Clear Shot</eng>
+				</desc>
+			</SpellLevelToClearShot>
+			<SpellLevelToElementalDamage>
+				<desc>
+					<eng>$VALUE$ bonus level to Elemental Damage</eng>
+				</desc>
+			</SpellLevelToElementalDamage>
+			<Viaszosvaszon>
+				<desc>
+					<eng>Great resistance from rain</eng>
+				</desc>
+			</Viaszosvaszon>
+			<SpellLevelToPoisonedshot>
+				<desc>
+					<eng>$VALUE$ bonus level to Poisoned Shot</eng>
+				</desc>
+			</SpellLevelToPoisonedshot>
+			<SpellLevelToScattershot>
+				<desc>
+					<eng>$VALUE$ bonus level to Scatter Shot</eng>
+				</desc>
+			</SpellLevelToScattershot>
+			<CannotBeFrozen>
+				<desc>
+					<eng>Prevents freezing</eng>
+				</desc>
+			</CannotBeFrozen>
+			<DamageAgainstAbomination>
+				<desc>
+					<eng>$SIGN$$VALUE$% Weapon Damage against Abominations</eng>
+				</desc>
+			</DamageAgainstAbomination>
+			<DamageAgainstUndead>
+				<desc>
+					<eng>$SIGN$$VALUE$% Weapon Damage against the Undead</eng>
+				</desc>
+			</DamageAgainstUndead>
+			<DamageAgainstBeasts>
+				<desc>
+					<eng>$SIGN$$VALUE$% Weapon Damage against Beasts</eng>
+				</desc>
+			</DamageAgainstBeasts>
+			<DamageAgainstMechanic>
+				<desc>
+					<eng>$SIGN$$VALUE$% Weapon Damage against Machines</eng>
+				</desc>
+			</DamageAgainstMechanic>
+			<DamageAgainstMythical>
+				<desc>
+					<eng>$SIGN$$VALUE$% Weapon Damage against Mythical Monsters</eng>
+				</desc>
+			</DamageAgainstMythical>
+			<AttackAgainstBeasts>
+				<desc>
+					<eng>$SIGN$$VALUE$% Attack against Beasts</eng>
+				</desc>
+			</AttackAgainstBeasts>
+			<DamageAgainstBunny>
+				<desc>
+					<eng>Extreme Damage against Bunnies</eng>
+				</desc>
+			</DamageAgainstBunny>
+			<HPLeech>
+				<desc>
+					<eng>$SIGN$$VALUE$ HP stolen per hit</eng>
+				</desc>
+			</HPLeech>
+			<DamageOverTime>
+				<desc>
+					<eng>$VALUE$ Poison Damage over 5 seconds</eng>
+				</desc>
+			</DamageOverTime>
+			<ResistReduction>
+				<desc>
+					<eng>$SIGN$$VALUE$ from all Resistances with each hit</eng>
+				</desc>
+			</ResistReduction>
+			<SpellLevelToIceShot>
+				<desc>
+					<eng>$VALUE$ bonus level to Ice Shot</eng>
+				</desc>
+			</SpellLevelToIceShot>
+			<SpellLevelToBash>
+				<desc>
+					<eng>$VALUE$ bonus level to Bash</eng>
+				</desc>
+			</SpellLevelToBash>
+			<SpellLevelToFury>
+				<desc>
+					<eng>$VALUE$ bonus level to Fury</eng>
+				</desc>
+			</SpellLevelToFury>
+			<TrophyLuck>
+				<desc>
+					<eng>$SIGN$$VALUE$ Luck for all Allies</eng>
+				</desc>
+			</TrophyLuck>
+			<TrophyBody>
+				<desc>
+					<eng>$SIGN$$VALUE$ $STAT$ for all Allies</eng>
+				</desc>
+			</TrophyBody>
+			<TrophyDexterity>
+				<desc>
+					<eng>$SIGN$$VALUE$ $STAT$ for all Allies</eng>
+				</desc>
+			</TrophyDexterity>
+			<TrophyWillpower>
+				<desc>
+					<eng>$SIGN$$VALUE$ $STAT$ for all Allies</eng>
+				</desc>
+			</TrophyWillpower>
+			<TrophyMagicItemFind>
+				<desc>
+					<eng>$SIGN$$VALUE$% more magic items for all Allies</eng>
+				</desc>
+			</TrophyMagicItemFind>
+			<TrophyGoldFind>
+				<desc>
+					<eng>$SIGN$$VALUE$% more gold for all Allies</eng>
+				</desc>
+			</TrophyGoldFind>
+			<TrophyXP>
+				<desc>
+					<eng>$SIGN$$VALUE$% XP for all Allies</eng>
+				</desc>
+			</TrophyXP>
+			<TrophyRage>
+				<desc>
+					<eng>$SIGN$$VALUE$ Rage for all Allies</eng>
+				</desc>
+			</TrophyRage>
+			<TrophyHP>
+				<desc>
+					<eng>$SIGN$$VALUE$% HP for all Allies</eng>
+				</desc>
+			</TrophyHP>
+			<TrophyMana>
+				<desc>
+					<eng>$SIGN$$VALUE$% Mana for all Allies</eng>
+				</desc>
+			</TrophyMana>
+			<TrophyMeleeDamage>
+				<desc>
+					<eng>$SIGN$$VALUE$% Melee Damage for all Allies</eng>
+				</desc>
+			</TrophyMeleeDamage>
+			<TrophyRangedDamage>
+				<desc>
+					<eng>$SIGN$$VALUE$% Ranged Damage for all Allies</eng>
+				</desc>
+			</TrophyRangedDamage>
+			<TrophySpellpower>
+				<desc>
+					<eng>$SIGN$$VALUE$% Spellpower for all Allies</eng>
+				</desc>
+			</TrophySpellpower>
+			<TrophyAllResistance>
+				<desc>
+					<eng>$SIGN$$VALUE$ to all Resistances for all Allies</eng>
+				</desc>
+			</TrophyAllResistance>
+			<TrophyEnemyAttackBonus>
+				<desc>
+					<eng>$SIGN$$VALUE$% Attack for all Enemies</eng>
+				</desc>
+			</TrophyEnemyAttackBonus>
+			<TrophyEnemyHPBonus>
+				<desc>
+					<eng>$SIGN$$VALUE$% HP for all Enemies</eng>
+				</desc>
+			</TrophyEnemyHPBonus>
+			<TrophyEnemyDefenseBonus>
+				<desc>
+					<eng>$SIGN$$VALUE$% Attack for all Enemies</eng>
+				</desc>
+			</TrophyEnemyDefenseBonus>
+			<TrophyAllyAttackPenalty>
+				<desc>
+					<eng>$SIGN$$VALUE$% Attack for all Allies</eng>
+				</desc>
+			</TrophyAllyAttackPenalty>
+			<TrophyEnemyDamageBonus>
+				<desc>
+					<eng>$SIGN$$VALUE$% Damage for all Enemies</eng>
+				</desc>
+			</TrophyEnemyDamageBonus>
+			<Command>
+				<desc>
+					<eng>Touch the Idol on the Crystal Workshop</eng>
+				</desc>
+			</Command>
+			<Spiderweb>
+				<desc>
+					<eng>Walk to the altar in the Testing Facility.</eng>
+				</desc>
+			</Spiderweb>
+			<Throwring>
+				<desc>
+					<eng>Throw this ring to the ground; then take it back.</eng>
+				</desc>
+			</Throwring>
+			<Finddemons>
+				<desc>
+					<eng>Find the wraiths in the Wormwood Chasm.</eng>
+				</desc>
+			</Finddemons>
+			<Killdemons>
+				<desc>
+					<eng>Kill the wraiths but spare the leader.</eng>
+				</desc>
+			</Killdemons>
+			<Lair_Skill_Paralyze>
+				<desc>
+					<eng>Chimera Skill: Paralyze</eng>
+				</desc>
+			</Lair_Skill_Paralyze>
+			<Lair_Skill_Knockback>
+				<desc>
+					<eng>Chimera Skill: Knockback</eng>
+				</desc>
+			</Lair_Skill_Knockback>
+			<Lair_Skill_Cleave>
+				<desc>
+					<eng>Chimera Skill: Cleave</eng>
+				</desc>
+			</Lair_Skill_Cleave>
+			<VH_Instakill>
+				<Desc>
+					<eng>On Single Target Hit: $VALUE$% chance to kill</eng>
+				</Desc>
+			</VH_Instakill>
+			<VH_Knockback_on_hit>
+				<Desc>
+					<eng>On Single Target Hit: $VALUE$% chance to knock back</eng>
+				</Desc>
+			</VH_Knockback_on_hit>
+			<VH_Movement_Slow_on_hit>
+				<Desc>
+					<eng>On Single Target Hit: $VALUE$% chance to slow</eng>
+				</Desc>
+			</VH_Movement_Slow_on_hit>
+			<VH_Stun_on_hit>
+				<Desc>
+					<eng>On Hit: 15% chance to stun enemy for 2 sec</eng>
+				</Desc>
+			</VH_Stun_on_hit>
+			<VH2_heal_on_strucknorm>
+				<Desc>
+					<eng>$VALUE$% chance to heal for 4% of your maximum life when hit</eng>
+				</Desc>
+			</VH2_heal_on_strucknorm>
+			<VH2_Bonus_damage_on_frozennorm>
+				<Desc>
+					<eng>$VALUE$% increased Weapon Damage to frozen enemies</eng>
+				</Desc>
+			</VH2_Bonus_damage_on_frozennorm>
+			<VH2_Bonus_damage_on_burningnorm>
+				<Desc>
+					<eng>$VALUE$% increased Weapon Damage to burning enemies</eng>
+				</Desc>
+			</VH2_Bonus_damage_on_burningnorm>
+			<VH2_Bonus_damage_on_poisonednorm>
+				<Desc>
+					<eng>$VALUE$% increased Weapon Damage to poisoned enemies</eng>
+				</Desc>
+			</VH2_Bonus_damage_on_poisonednorm>
+			<VH2_Bonus_damage_on_slowednorm>
+				<Desc>
+					<eng>$VALUE$% increased Weapon Damage to slowed enemies</eng>
+				</Desc>
+			</VH2_Bonus_damage_on_slowednorm>
+			<VH_Freeze_on_hit>
+				<Desc>
+					<eng>On Hit: 10% chance to freeze for 3 sec</eng>
+				</Desc>
+			</VH_Freeze_on_hit>
+			<VH2_Freeze_on_hitnorm>
+				<Desc>
+					<eng>On Hit: 5% chance to freeze for 2 sec</eng>
+				</Desc>
+			</VH2_Freeze_on_hitnorm>
+			<VH2_Stun_on_hitnorm>
+				<Desc>
+					<eng>On Hit: 10% chance to stun for 1 sec</eng>
+				</Desc>
+			</VH2_Stun_on_hitnorm>
+			<Enh_First_Strike>
+				<Desc>
+					<eng>On Hit: First Strike</eng>
+				</Desc>
+			</Enh_First_Strike>
+			<Enh_First_Strike_Rare>
+				<Desc>
+					<eng>On Hit: Enhanced First Strike</eng>
+				</Desc>
+			</Enh_First_Strike_Rare>
+			<Enh_Instakill>
+				<Desc>
+					<eng>On Hit: 1% chance of Instant Kill</eng>
+				</Desc>
+			</Enh_Instakill>
+			<Enh_Arcane_Explosion>
+				<Desc>
+					<eng>On Hit: 3% chance of Arcane Explosion</eng>
+				</Desc>
+			</Enh_Arcane_Explosion>
+			<Enh_Enchanted_Strike>
+				<Desc>
+					<eng>On Hit: 7.5% chance of Enchanted Strike</eng>
+				</Desc>
+			</Enh_Enchanted_Strike>
+			<Enh_Envenom>
+				<Desc>
+					<eng>On Hit: 7.5% chance of Envenom</eng>
+				</Desc>
+			</Enh_Envenom>
+			<Enh_Ignite>
+				<Desc>
+					<eng>On Hit: 7.5% chance of Ignite</eng>
+				</Desc>
+			</Enh_Ignite>
+			<Enh_Ignite_Rare>
+				<Desc>
+					<eng>On Hit: 7.5% chance of Enhanced Ignite</eng>
+				</Desc>
+			</Enh_Ignite_Rare>
+			<Enh_Sunder>
+				<Desc>
+					<eng>On Hit: 20% chance of Sunder</eng>
+				</Desc>
+			</Enh_Sunder>
+			<Enh_Sunder_Rare>
+				<Desc>
+					<eng>On Hit: 20% chance of Enhanced Sunder</eng>
+				</Desc>
+			</Enh_Sunder_Rare>
+			<Enh_Armor_Piercing>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Armor Piercing</eng>
+				</Desc>
+			</Enh_Armor_Piercing>
+			<Enh_Spot_Weakness>
+				<Desc>
+					<eng>On Hit: 5% chance of Spot Weakness</eng>
+				</Desc>
+			</Enh_Spot_Weakness>
+			<Enh_Shred_Resistance>
+				<Desc>
+					<eng>On Hit: 5% chance of Shred Resistance</eng>
+				</Desc>
+			</Enh_Shred_Resistance>
+			<Enh_Spirit_Arc>
+				<Desc>
+					<eng>On Hit: 5% chance of Spirit Arc</eng>
+				</Desc>
+			</Enh_Spirit_Arc>
+			<DamageReductionPercent>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Damage Reduction</eng>
+				</Desc>
+			</DamageReductionPercent>
+			<NoSetBonuses>
+				<Desc>
+					<eng>No Set Bonuses</eng>
+				</Desc>
+			</NoSetBonuses>
+			<DamageReductionPercentNorm>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Damage Reduction</eng>
+				</Desc>
+			</DamageReductionPercentNorm>
+			<mana_reservation_reduction_1>
+				<Desc>
+					<eng>1.5% less mana reserved</eng>
+				</Desc>
+			</mana_reservation_reduction_1>
+			<mana_reservation_reduction_2>
+				<Desc>
+					<eng>2.5% less mana reserved</eng>
+				</Desc>
+			</mana_reservation_reduction_2>
+			<mana_reservation_reduction_3>
+				<Desc>
+					<eng>4% less mana reserved</eng>
+				</Desc>
+			</mana_reservation_reduction_3>
+			<mana_reservation_reduction_4>
+				<Desc>
+					<eng>5% less mana reserved</eng>
+				</Desc>
+			</mana_reservation_reduction_4>
+			<mana_reservation_reduction_5>
+				<Desc>
+					<eng>7.5% less mana reserved</eng>
+				</Desc>
+			</mana_reservation_reduction_5>
+			<DotDamagenorm>
+				<Desc>
+					<eng>$VALUE$% increased DoT damage</eng>
+				</Desc>
+			</DotDamagenorm>
+			<DotDurationnorm>
+				<Desc>
+					<eng>$VALUE$% increased DoT duration</eng>
+				</Desc>
+			</DotDurationnorm>
+			<VH_Fully_heal_on_kill>
+				<Desc>
+					<eng>$VALUE$% chance to fully heal on killing an enemy</eng>
+				</Desc>
+			</VH_Fully_heal_on_kill>
+			<VH_physical_damage_reduction>
+				<Desc>
+					<eng>$VALUE$% Physical Damage Reduction</eng>
+				</Desc>
+			</VH_physical_damage_reduction>
+			<VH_elemental_damage_reduction>
+				<Desc>
+					<eng>$VALUE$% Elemental Damage Reduction</eng>
+				</Desc>
+			</VH_elemental_damage_reduction>
+			<VH_poison_damage_reduction>
+				<Desc>
+					<eng>$VALUE$% Poison Damage Reduction</eng>
+				</Desc>
+			</VH_poison_damage_reduction>
+			<VH_All_resistance>
+				<Desc>
+					<eng>$SIGN$$VALUE$ Bonus to all resistances</eng>
+				</Desc>
+			</VH_All_resistance>
+			<VH_CCResist>
+				<Desc>
+					<eng>$SIGN$$VALUE$ Crowd Control Resistance</eng>
+				</Desc>
+			</VH_CCResist>
+			<VH_CCResist_UNIQUE>
+				<Desc>
+					<eng>$SIGN$$VALUE$ Crowd Control Resistance</eng>
+				</Desc>
+			</VH_CCResist_UNIQUE>
+			<VH_CCIgnore>
+				<Desc>
+					<eng>$VALUE$% Chance to ignore Crowd Control spells casted on you</eng>
+				</Desc>
+			</VH_CCIgnore>
+			<VH_Minions_Duration>
+				<Desc>
+					<eng>Raise duration of all summoned allies by $VALUE$%</eng>
+				</Desc>
+			</VH_Minions_Duration>
+			<VH_Minion_damage>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Damage for all summoned allies</eng>
+				</Desc>
+			</VH_Minion_damage>
+			<VH_Minion_defense>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Defense for all summoned allies</eng>
+				</Desc>
+			</VH_Minion_defense>
+			<VH_Minion_resistances>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Resistances for all summoned allies</eng>
+				</Desc>
+			</VH_Minion_resistances>
+			<VH_Minion_hp>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Hit points for all summoned allies</eng>
+				</Desc>
+			</VH_Minion_hp>
+			<VH_potion_efficiency>
+				<Desc>
+					<eng>Potion effectiveness increased by $VALUE$%</eng>
+				</Desc>
+			</VH_potion_efficiency>
+			<VH_HP_percent>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Hit Points</eng>
+				</Desc>
+			</VH_HP_percent>
+			<VH_damage>
+				<Desc>
+					<eng>$SIGN$$VALUE$ to all Skills' Weapon Damage</eng>
+				</Desc>
+			</VH_damage>
+			<VH_LowHP_CritDam>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Critical Hit Damage if under 15% HP</eng>
+				</Desc>
+			</VH_LowHP_CritDam>
+			<VH_LowHP_movementspeed>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Movement speed if under 20% HP</eng>
+				</Desc>
+			</VH_LowHP_movementspeed>
+			<VH_teleport_on_struck>
+				<Desc>
+					<eng>$VALUE$% Chance to teleport randomly on getting hit</eng>
+				</Desc>
+			</VH_teleport_on_struck>
+			<VH_heal_on_struck>
+				<Desc>
+					<eng>$VALUE$% Chance to heal 10% HP on getting hit</eng>
+				</Desc>
+			</VH_heal_on_struck>
+			<VH_Fear_on_struck>
+				<Desc>
+					<eng>$VALUE$% Chance to cause fear on getting hit</eng>
+				</Desc>
+			</VH_Fear_on_struck>
+			<VH_Toppantas_on_struck>
+				<Desc>
+					<eng>$VALUE$% Chance to cast Angry Stomp on getting hit</eng>
+				</Desc>
+			</VH_Toppantas_on_struck>
+			<VH_No_enemies_within_X_radius>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Bonus Weapon Damage if no enemies within 15m</eng>
+				</Desc>
+			</VH_No_enemies_within_X_radius>
+			<VH_Bonus_damage_on_frozen>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Bonus Weapon damage on frozen</eng>
+				</Desc>
+			</VH_Bonus_damage_on_frozen>
+			<VH_Bonus_damage_on_burning>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Bonus Weapon damage on burning</eng>
+				</Desc>
+			</VH_Bonus_damage_on_burning>
+			<VH_Bonus_damage_on_poisoned>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Bonus Weapon damage on poisoned</eng>
+				</Desc>
+			</VH_Bonus_damage_on_poisoned>
+			<VH_Bonus_damage_on_slowed>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Bonus Weapon damage on slowed enemies</eng>
+				</Desc>
+			</VH_Bonus_damage_on_slowed>
+			<VH_Bonus_damage_on_shocked>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Bonus Weapon Damage on shocked enemies</eng>
+				</Desc>
+			</VH_Bonus_damage_on_shocked>
+			<damage_reflect_ranged>
+				<Desc>
+					<eng>$VALUE$% Ranged Damage is reflected</eng>
+				</Desc>
+			</damage_reflect_ranged>
+			<knockdown_on_cast>
+				<Desc>
+					<eng>Knockdown on hit</eng>
+				</Desc>
+			</knockdown_on_cast>
+			<freez_on_cast>
+				<Desc>
+					<eng>Freeze on hit</eng>
+				</Desc>
+			</freez_on_cast>
+			<area_freeze_on_cast>
+				<Desc>
+					<eng>Freeze Blast on hit</eng>
+				</Desc>
+			</area_freeze_on_cast>
+			<area_damage_on_cast>
+				<Desc>
+					<eng>Blast on hit</eng>
+				</Desc>
+			</area_damage_on_cast>
+			<control_on_cast>
+				<Desc>
+					<eng>Confuse on hit</eng>
+				</Desc>
+			</control_on_cast>
+			<hpleech_on_cast>
+				<Desc>
+					<eng>$VALUE$ HP gained per hit</eng>
+				</Desc>
+			</hpleech_on_cast>
+			<manaleech_on_cast>
+				<Desc>
+					<eng>$VALUE$ Mana gained per hit</eng>
+				</Desc>
+			</manaleech_on_cast>
+			<slow_on_cast>
+				<Desc>
+					<eng>Slow on hit</eng>
+				</Desc>
+			</slow_on_cast>
+			<vulnerability_on_cast>
+				<Desc>
+					<eng>35% Vulenrability on hit</eng>
+				</Desc>
+			</vulnerability_on_cast>
+			<Perm_item_20_to_elemental_resistance>
+				<Desc>
+					<eng>20 Elemental Resistance gained permanently</eng>
+				</Desc>
+			</Perm_item_20_to_elemental_resistance>
+			<Perm_item_30_to_elemental_resistance>
+				<Desc>
+					<eng>30 Elemental Resistance gained permanently</eng>
+				</Desc>
+			</Perm_item_30_to_elemental_resistance>
+			<Perm_item_20_to_physical_resistance>
+				<Desc>
+					<eng>20 Physical Resistance gained permanently</eng>
+				</Desc>
+			</Perm_item_20_to_physical_resistance>
+			<Perm_item_30_to_physical_resistance>
+				<Desc>
+					<eng>30 Physical Resistance gained permanently</eng>
+				</Desc>
+			</Perm_item_30_to_physical_resistance>
+			<Perm_item_20_to_poison_resistance>
+				<Desc>
+					<eng>20 Poison Resistance gained permanently</eng>
+				</Desc>
+			</Perm_item_20_to_poison_resistance>
+			<Perm_item_30_to_poison_resistance>
+				<Desc>
+					<eng>30 Poison Resistance gained permanently</eng>
+				</Desc>
+			</Perm_item_30_to_poison_resistance>
+			<Perm_item_20_to_defense>
+				<Desc>
+					<eng>20 Defense gained permanently</eng>
+				</Desc>
+			</Perm_item_20_to_defense>
+			<Perm_item_30_to_defense>
+				<Desc>
+					<eng>30 Defense gained permanently</eng>
+				</Desc>
+			</Perm_item_30_to_defense>
+			<Perm_item_20_to_Mana>
+				<Desc>
+					<eng>20 Mana gained permanently</eng>
+				</Desc>
+			</Perm_item_20_to_Mana>
+			<Perm_item_30_to_Mana>
+				<Desc>
+					<eng>30 Mana gained permanently</eng>
+				</Desc>
+			</Perm_item_30_to_Mana>
+			<Perm_item_20_to_hitpoints>
+				<Desc>
+					<eng>20 Hit Points gained permanently</eng>
+				</Desc>
+			</Perm_item_20_to_hitpoints>
+			<Perm_item_30_to_hitpoints>
+				<Desc>
+					<eng>30 Hit Points gained permanently</eng>
+				</Desc>
+			</Perm_item_30_to_hitpoints>
+			<Perm_item_5_to_body>
+				<Desc>
+					<eng>5 Body gained permanently</eng>
+				</Desc>
+			</Perm_item_5_to_body>
+			<Perm_item_10_to_body>
+				<Desc>
+					<eng>10 Body gained permanently</eng>
+				</Desc>
+			</Perm_item_10_to_body>
+			<Perm_item_5_to_dexterity>
+				<Desc>
+					<eng>5 Dexterity gained permanently</eng>
+				</Desc>
+			</Perm_item_5_to_dexterity>
+			<Perm_item_10_to_dexterity>
+				<Desc>
+					<eng>10 Dexterity gained permanently</eng>
+				</Desc>
+			</Perm_item_10_to_dexterity>
+			<Perm_item_5_to_willpower>
+				<Desc>
+					<eng>5 Willpower gained permanently</eng>
+				</Desc>
+			</Perm_item_5_to_willpower>
+			<Perm_item_10_to_willpower>
+				<Desc>
+					<eng>10 Willpower gained permanently</eng>
+				</Desc>
+			</Perm_item_10_to_willpower>
+			<Perm_item_5_to_luck>
+				<Desc>
+					<eng>5 Luck gained permanently</eng>
+				</Desc>
+			</Perm_item_5_to_luck>
+			<Perm_item_10_to_luck>
+				<Desc>
+					<eng>10 Luck gained permanently</eng>
+				</Desc>
+			</Perm_item_10_to_luck>
+			<vh_kill_on_hit>
+				<Desc>
+					<eng>On Hit: $VALUE$% chance to instantly kill</eng>
+				</Desc>
+			</vh_kill_on_hit>
+			<SpellLevelTofirewall>
+				<desc>
+					<eng>$VALUE$ bonus level to Firewall</eng>
+				</desc>
+			</SpellLevelTofirewall>
+			<SpellLevelToWallOfIce>
+				<desc>
+					<eng>$VALUE$ bonus level to Wall of Ice</eng>
+				</desc>
+			</SpellLevelToWallOfIce>
+			<SpellLevelToForceArmor>
+				<desc>
+					<eng>$VALUE$ bonus level to Force Armor</eng>
+				</desc>
+			</SpellLevelToForceArmor>
+			<SpellLevelToStaticDefenseField>
+				<desc>
+					<eng>$VALUE$ bonus level to Static Defense Field</eng>
+				</desc>
+			</SpellLevelToStaticDefenseField>
+			<SpellLevelToBarrier>
+				<desc>
+					<eng>$VALUE$ bonus level to Barrier</eng>
+				</desc>
+			</SpellLevelToBarrier>
+			<SpellLevelToSpringHeeledJump>
+				<desc>
+					<eng>$VALUE$ bonus level to Spring Heeled Jump</eng>
+				</desc>
+			</SpellLevelToSpringHeeledJump>
+			<IncreaseAllDamage>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Increased Weapon Damage of All Skills</eng>
+				</Desc>
+			</IncreaseAllDamage>
+			<IncreasePoisonDamage>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Increased Weapon Damage of Poison Skills</eng>
+				</Desc>
+			</IncreasePoisonDamage>
+			<IncreaseIceDamage>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Increased Weapon Damage of Ice Skills</eng>
+				</Desc>
+			</IncreaseIceDamage>
+			<IncreaseFireDamage>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Increased Weapon Damage of Fire Skills</eng>
+				</Desc>
+			</IncreaseFireDamage>
+			<IncreaseLightningDamage>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Increased Weapon Damage of Lightning Skills</eng>
+				</Desc>
+			</IncreaseLightningDamage>
+			<IncreasePhysicalDamage>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Increased Weapon Damage of Physical Skills</eng>
+				</Desc>
+			</IncreasePhysicalDamage>
+			<ResistAll>
+				<Desc>
+					<eng>+5 to All Resistances</eng>
+				</Desc>
+			</ResistAll>
+			<Superegg_Hp>
+				<desc>
+					<eng>+10 Hitpoints gained permanently</eng>
+				</desc>
+			</Superegg_Hp>
+			<Stat1>
+				<desc>
+					<eng>$SIGN$$VALUE$ $STAT$</eng>
+				</desc>
+			</Stat1>
+			<Stat2>
+				<desc>
+					<eng>$SIGN$$VALUE$ $STAT$</eng>
+				</desc>
+			</Stat2>
+			<Stat3>
+				<desc>
+					<eng>$SIGN$$VALUE$ $STAT$</eng>
+				</desc>
+			</Stat3>
+			<DamageAgainstFullHPMonster>
+				<Desc>
+					<eng>$VALUE$% Bonus Damage against Full HP Monsters</eng>
+				</Desc>
+			</DamageAgainstFullHPMonster>
+			<DefenseAgainstUndead>
+				<Desc>
+					<eng>$VALUE$% Bonus Defense against Undead</eng>
+				</Desc>
+			</DefenseAgainstUndead>
+			<FreezEnemiesOnStun>
+				<Desc>
+					<eng>$VALUE$% chance to Freeze enemies when Stunned</eng>
+				</Desc>
+			</FreezEnemiesOnStun>
+			<LowMana_HpRegen>
+				<Desc>
+					<eng>$VALUE$ Mana bonus per second when HP falls below 25%</eng>
+				</Desc>
+			</LowMana_HpRegen>
+			<NoNearbyEnemies_CritHitNocap>
+				<Desc>
+					<eng>$VALUE$% Max Critical Hit bonus when no enemy within 10m</eng>
+				</Desc>
+			</NoNearbyEnemies_CritHitNocap>
+			<NoNearbyEnemies_CritDamageNocap>
+				<Desc>
+					<eng>$VALUE$% Max. Critical Damage bonus when no enemy within 10m</eng>
+				</Desc>
+			</NoNearbyEnemies_CritDamageNocap>
+			<NoNearbyEnemiesDamage>
+				<Desc>
+					<eng>Bonus $VALUE$% Weapon Damage when no enemy within 10m</eng>
+				</Desc>
+			</NoNearbyEnemiesDamage>
+			<EnemiesClose_DamageReduce>
+				<Desc>
+					<eng>$VALUE$% Damage reduction with 3 or more enemies within 5m</eng>
+				</Desc>
+			</EnemiesClose_DamageReduce>
+			<EnemiesClose_Damage>
+				<Desc>
+					<eng>$VALUE$% Weapon Damage bonus with 3 or more enemies within 5m</eng>
+				</Desc>
+			</EnemiesClose_Damage>
+			<EnemiesClose_CritHitNocap>
+				<Desc>
+					<eng>$VALUE$% Max Critical Hit bonus with 3 or more enemies within 5m</eng>
+				</Desc>
+			</EnemiesClose_CritHitNocap>
+			<EnemiesClose_CritDamageNocap>
+				<Desc>
+					<eng>$VALUE$% Max Critical Damage bonus with 3 or more enemies within 5m</eng>
+				</Desc>
+			</EnemiesClose_CritDamageNocap>
+			<MaxRage_Damage>
+				<Desc>
+					<eng>$VALUE$% Weapon Damage bonus when above 85% Rage</eng>
+				</Desc>
+			</MaxRage_Damage>
+			<MaxRage_CritHitNocap>
+				<Desc>
+					<eng>$VALUE$% Max Critical Hit bonus when above 85% Rage</eng>
+				</Desc>
+			</MaxRage_CritHitNocap>
+			<MaxRage_CritDamageNocap>
+				<Desc>
+					<eng>$VALUE$% Max Critical Damage bonus when above 85% Rage</eng>
+				</Desc>
+			</MaxRage_CritDamageNocap>
+			<Standing_DamageReduce>
+				<Desc>
+					<eng>$VALUE$% Damage reduction when not moving for 3 seconds</eng>
+				</Desc>
+			</Standing_DamageReduce>
+			<Standing_Damage>
+				<Desc>
+					<eng>$VALUE$% Weapon Damage bonus when not moving for 3 seconds</eng>
+				</Desc>
+			</Standing_Damage>
+			<Standing_DamageReducenorm>
+				<Desc>
+					<eng>$VALUE$% Damage reduction when not moving for 2 seconds</eng>
+				</Desc>
+			</Standing_DamageReducenorm>
+			<Standing_Damagenorm>
+				<Desc>
+					<eng>$VALUE$% Weapon Damage bonus when not moving for 2 seconds</eng>
+				</Desc>
+			</Standing_Damagenorm>
+			<Standing_CritHitNocap>
+				<Desc>
+					<eng>$VALUE$% Max Critical Hit bonus when not moving for 3 seconds</eng>
+				</Desc>
+			</Standing_CritHitNocap>
+			<Standing_CritDamageNocap>
+				<Desc>
+					<eng>$VALUE$% Max Critical Damage bonus when not moving for 3 seconds</eng>
+				</Desc>
+			</Standing_CritDamageNocap>
+			<NoNearbyEnemies_CritHitNocap2>
+				<Desc>
+					<eng>$VALUE$% Max Critical Hit bonus when no enemy within 10m</eng>
+				</Desc>
+			</NoNearbyEnemies_CritHitNocap2>
+			<NoNearbyEnemies_CritDamageNocap2>
+				<Desc>
+					<eng>$VALUE$% Max. Critical Damage bonus when no enemy within 10m</eng>
+				</Desc>
+			</NoNearbyEnemies_CritDamageNocap2>
+			<NoNearbyEnemiesDamage2>
+				<Desc>
+					<eng>Bonus $VALUE$% Weapon Damage when no enemy within 10m</eng>
+				</Desc>
+			</NoNearbyEnemiesDamage2>
+			<EnemiesClose_DamageReduce2>
+				<Desc>
+					<eng>$VALUE$% Damage reduction with 3 or more enemies within 5m</eng>
+				</Desc>
+			</EnemiesClose_DamageReduce2>
+			<EnemiesClose_Damage2>
+				<Desc>
+					<eng>$VALUE$% Weapon Damage bonus with 3 or more enemies within 5m</eng>
+				</Desc>
+			</EnemiesClose_Damage2>
+			<EnemiesClose_CritHitNocap2>
+				<Desc>
+					<eng>$VALUE$% Max Critical Hit bonus with 3 or more enemies within 5m</eng>
+				</Desc>
+			</EnemiesClose_CritHitNocap2>
+			<EnemiesClose_CritDamageNocap2>
+				<Desc>
+					<eng>$VALUE$% Max Critical Damage bonus with 3 or more enemies within 5m</eng>
+				</Desc>
+			</EnemiesClose_CritDamageNocap2>
+			<MaxRage_Damage2>
+				<Desc>
+					<eng>$VALUE$% Weapon Damage bonus when above 85% Rage</eng>
+				</Desc>
+			</MaxRage_Damage2>
+			<MaxRage_CritHitNocap2>
+				<Desc>
+					<eng>$VALUE$% Max Critical Hit bonus when above 85% Rage</eng>
+				</Desc>
+			</MaxRage_CritHitNocap2>
+			<MaxRage_CritDamageNocap2>
+				<Desc>
+					<eng>$VALUE$% Max Critical Damage bonus when above 85% Rage</eng>
+				</Desc>
+			</MaxRage_CritDamageNocap2>
+			<Standing_DamageReduce2>
+				<Desc>
+					<eng>$VALUE$% Damage reduction when not moving for 3 seconds</eng>
+				</Desc>
+			</Standing_DamageReduce2>
+			<Standing_Damage2>
+				<Desc>
+					<eng>$VALUE$% Weapon Damage bonus when not moving for 3 seconds</eng>
+				</Desc>
+			</Standing_Damage2>
+			<Standing_DamageReducenorm2>
+				<Desc>
+					<eng>$VALUE$% Damage reduction when not moving for 2 seconds</eng>
+				</Desc>
+			</Standing_DamageReducenorm2>
+			<Standing_Damagenorm2>
+				<Desc>
+					<eng>$VALUE$% Weapon Damage bonus when not moving for 2 seconds</eng>
+				</Desc>
+			</Standing_Damagenorm2>
+			<Standing_CritHitNocap2>
+				<Desc>
+					<eng>$VALUE$% Max Critical Hit bonus when not moving for 3 seconds</eng>
+				</Desc>
+			</Standing_CritHitNocap2>
+			<Standing_CritDamageNocap2>
+				<Desc>
+					<eng>$VALUE$% Max Critical Damage bonus when not moving for 3 seconds</eng>
+				</Desc>
+			</Standing_CritDamageNocap2>
+			<EnemyMoving_Damage>
+				<Desc>
+					<eng>$VALUE$% Weapon Damage bonus against moving enemies</eng>
+				</Desc>
+			</EnemyMoving_Damage>
+			<EnemyMoving_CritHitNocap>
+				<Desc>
+					<eng>$VALUE$% Max Critical Hit bonus against moving enemies</eng>
+				</Desc>
+			</EnemyMoving_CritHitNocap>
+			<EnemyMoving_CritDamageNocap>
+				<Desc>
+					<eng>$VALUE$% Max Critical Damage bonus against moving enemies</eng>
+				</Desc>
+			</EnemyMoving_CritDamageNocap>
+			<EnemyAtMaxHP_Damage>
+				<Desc>
+					<eng>$VALUE$% Weapon Damage bonus when at full HP</eng>
+				</Desc>
+			</EnemyAtMaxHP_Damage>
+			<EnemyAtMaxHP_CritHitNocap>
+				<Desc>
+					<eng>$VALUE$% Critical Hit bonus when at full HP</eng>
+				</Desc>
+			</EnemyAtMaxHP_CritHitNocap>
+			<EnemyAtMaxHP_CritDamageNocap>
+				<Desc>
+					<eng>$VALUE$% Critical Damage bonus when at full HP</eng>
+				</Desc>
+			</EnemyAtMaxHP_CritDamageNocap>
+			<EnemyAtMaxHP_Damagenorm>
+				<Desc>
+					<eng>$VALUE$% Bonus Weapon Damage when at full HP</eng>
+				</Desc>
+			</EnemyAtMaxHP_Damagenorm>
+			<Standing_DamageBonusnorm>
+				<Desc>
+					<eng>$VALUE$% Bonus Weapon Damage when not moving for 3 seconds</eng>
+				</Desc>
+			</Standing_DamageBonusnorm>
+			<Standing_DamageReducenorm>
+				<Desc>
+					<eng>$VALUE$% Bonus Damage Reduction when not moving for 3 seconds</eng>
+				</Desc>
+			</Standing_DamageReducenorm>
+			<MaxDamageBonusNorm>
+				<Desc>
+					<eng>20% More Damage</eng>
+				</Desc>
+			</MaxDamageBonusNorm>
+			<MaxDamageBonusNorm2>
+				<Desc>
+					<eng>30% More Damage</eng>
+				</Desc>
+			</MaxDamageBonusNorm2>
+			<HP>
+				<reduce>
+					<Desc>
+						<eng>$SIGN$$VALUE$ Life</eng>
+					</Desc>
+				</reduce>
+			</HP>
+		</Enchantment>
+		<Conditions>
+			<use_rage>
+				<eng>Rage used: %d/%d</eng>
+			</use_rage>
+			<successful_dodge>
+				<eng>Successful Dodge: %d/%d</eng>
+			</successful_dodge>
+		</Conditions>
+	</Artifacts>
+	<Property>		
+		<hp>
+			<reduce>
+				<Desc>
+					<eng>$SIGN$$VALUE$ Life</eng>
+				</Desc>
+			</reduce>
+		</hp>
+		<mana>
+			<reduce>
+				<Desc>
+					<eng>$SIGN$$VALUE$ Mana</eng>
+				</Desc>
+			</reduce>
+		</hp>
+		<attack_rate>
+			<reduce>
+				<Desc>
+					<eng>$SIGN$$VALUE$ Attack Speed</eng>
+				</Desc>
+			</reduce>
+		</attack_rate>
+		<hp_potion_cooldown>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% Health Potion Cooldown</eng>
+			</Desc>
+			<reduce>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Health Potion Cooldown</eng>
+				</Desc>
+			</reduce>
+		</hp_potion_cooldown>
+		<mana_potion_cooldown>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% Mana Potion Cooldown</eng>
+			</Desc>
+			<reduce>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Mana Potion Cooldown</eng>
+				</Desc>
+			</reduce>
+		</mana_potion_cooldown>
+		<IncreaseAllDamage>
+			<Desc>
+				<eng>$VALUE$% Increased Weapon Damage of All Skills</eng>
+			</Desc>
+		</IncreaseAllDamage>
+		<IncreasePoisonDamage>
+			<Desc>
+				<eng>$VALUE$% Increased Weapon Damage of Poison Skills</eng>
+			</Desc>
+		</IncreasePoisonDamage>
+		<IncreaseIceDamage>
+			<Desc>
+				<eng>$VALUE$% Increased Weapon Damage of Ice Skills</eng>
+			</Desc>
+		</IncreaseIceDamage>
+		<IncreaseFireDamage>
+			<Desc>
+				<eng>$VALUE$% Increased Weapon Damage of Fire Skills</eng>
+			</Desc>
+		</IncreaseFireDamage>
+		<IncreaseLightningDamage>
+			<Desc>
+				<eng>$VALUE$% Increased Weapon Damage of Lightning Skills</eng>
+			</Desc>
+		</IncreaseLightningDamage>
+		<IncreasePhysicalDamage>
+			<Desc>
+				<eng>$VALUE$% Increased Weapon Damage of Physical Skills</eng>
+			</Desc>
+		</IncreasePhysicalDamage>
+		<minion_damage>
+			<Desc>
+				<eng>$VALUE$% Damage for all summoned allies</eng>
+			</Desc>
+		</minion_damage>
+		<EnemyAtMaxHP_Damagenorm>
+			<Desc>
+				<eng>$VALUE$% Bonus Weapon Damage when at full HP</eng>
+			</Desc>
+		</EnemyAtMaxHP_Damagenorm>
+		<MaxDamageBonusNorm>
+			<Desc>
+				<eng>+20% More Total Damage</eng>
+			</Desc>
+		</MaxDamageBonusNorm>
+		<MaxDamageBonusNorm2>
+			<Desc>
+				<eng>+30% More Total Damage</eng>
+			</Desc>
+		</MaxDamageBonusNorm2>
+		<Standing_DamageBonusnorm>
+			<Desc>
+				<eng>$VALUE$% Bonus Weapon Damage when standing still for 3 seconds.</eng>
+			</Desc>
+		</Standing_DamageBonusnorm>
+		<Standing_DamageReducenorm>
+			<Desc>
+				<eng>$VALUE$% Bonus Damage Reduction when standing still for 3 seconds.</eng>
+			</Desc>
+		</Standing_DamageReducenorm>
+		<DamageReductionPercentNorm>
+			<Desc>
+				<eng>$VALUE$% Bonus Damage Reduction</eng>
+			</Desc>
+		</DamageReductionPercentNorm>
+		<damage_reflect>
+			<Desc>
+				<eng>$SIGN$$VALUE$% Damage returned to melee attackers.</eng>
+			</Desc>
+		</damage_reflect>
+		<damage_reflect_ranged>
+			<Desc>
+				<eng>$SIGN$$VALUE$% Damage returned to ranged attackers.</eng>
+			</Desc>
+		</damage_reflect_ranged>
+		<damage_reduction>
+			<Desc>
+				<eng>$SIGN$$VALUE$% increased Damage Reduction.</eng>
+			</Desc>
+		</damage_reduction>
+		<minion_defense>
+			<Desc>
+				<eng>$SIGN$$VALUE$% Defense for all summoned allies</eng>
+			</Desc>
+		</minion_defense>
+		<minion_resistances>
+			<Desc>
+				<eng>$SIGN$$VALUE$% Resistances for all summoned allies</eng>
+			</Desc>
+		</minion_resistances>
+		<crowd_control_resistance>
+			<Desc>
+				<eng>$SIGN$$VALUE$ Crowd Control Resistance</eng>
+			</Desc>
+		</crowd_control_resistance>
+		<ice_resistance>
+			<Desc>
+				<eng>$SIGN$$VALUE$% Ice Resistance</eng>
+			</Desc>
+		</ice_resistance>
+		<lightning_resistance>
+			<Desc>
+				<eng>$SIGN$$VALUE$% Lightning Resistance</eng>
+			</Desc>
+		</lightning_resistance>
+		<fire_resistance>
+			<desc>
+				<eng>$SIGN$$VALUE$% Fire Resistance</eng>
+			</desc>
+		</fire_resistance>
+		<crowd_control_resistance_hero>
+			<Desc>
+				<eng>$SIGN$$VALUE$ Crowd Control Resistance</eng>
+			</Desc>
+		</crowd_control_resistance_hero>
+		<full_resistance>
+			<Desc>
+				<eng>$SIGN$$VALUE$ to all Resistances</eng>
+			</Desc>
+		</full_resistance>
+		<dodge>
+			<bonus_percent>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Dodge</eng>
+				</Desc>
+			</bonus_percent>
+		</dodge>
+		<fire_damage_reduction>
+			<bonus_percent>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Fire Damage Reduction</eng>
+				</Desc>
+			</bonus_percent>
+		</fire_damage_reduction>
+		<lightning_damage_reduction>
+			<bonus_percent>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Lightning Damage Reduction</eng>
+				</Desc>
+			</bonus_percent>
+		</lightning_damage_reduction>
+		<ice_damage_reduction>
+			<bonus_percent>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Ice Damage Reduction</eng>
+				</Desc>
+			</bonus_percent>
+		</ice_damage_reduction>
+		<poison_damage_reduction>
+			<bonus_percent>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Poison Damage Reduction</eng>
+				</Desc>
+			</bonus_percent>
+		</poison_damage_reduction>
+		<hitpoints>
+			<bonus_percent>
+				<Desc>
+					<eng>$SIGN$$VALUE$% Hit Points</eng>
+				</Desc>
+			</bonus_percent>
+			<quality>
+				<champion>
+					<Desc>
+						<eng>$SIGN$$VALUE$ Hit Points for Champion enemies</eng>
+					</Desc>
+				</champion>
+			</quality>
+			<companion_evagy>
+				<katarina>
+					<Desc>
+						<eng>$SIGN$$VALUE$ Hit Points for Lady Katarina</eng>
+					</Desc>
+				</katarina>
+			</companion_evagy>
+		</hitpoints>
+		<casted_freeze_duration>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% Freeze duration</eng>
+			</Desc>
+		</casted_freeze_duration>
+		<casted_slow_duration>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% Slow duration</eng>
+			</Desc>
+		</casted_slow_duration>
+		<defense_ranged>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% Defense against Ranged Damage</eng>
+			</Desc>
+		</defense_ranged>
+		<heal_per_rage_spent>
+			<Desc>
+				<eng>$SIGN$$VALUE$ HP healed per Rage point spent</eng>
+			</Desc>
+		</heal_per_rage_spent>
+		<powerup_cost>
+			<reduce>
+				<Desc>
+					<eng>Powerups cost $SIGN$$VALUE$ point less</eng>
+				</Desc>
+			</reduce>
+		</powerup_cost>
+		<bloody_mess_up_chance>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% Special Death chance for enemies</eng>
+			</Desc>
+		</bloody_mess_up_chance>
+		<free_powerup_chance>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% chance to have a free Powerup</eng>
+			</Desc>
+		</free_powerup_chance>
+		<mana_per_rage_spent>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$ Mana per Rage point spent</eng>
+			</Desc>
+		</mana_per_rage_spent>
+		<minion_speed>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% to Minion Movement Speed</eng>
+			</Desc>
+		</minion_speed>
+		<knockdown_chance>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% chance to Knockdown</eng>
+			</Desc>
+		</knockdown_chance>
+		<katarina_respawn_time>
+			<Desc>
+				<eng>$SIGN$$VALUE$% increased respawn time for Katarina</eng>
+			</Desc>
+			<reduce>
+				<Desc>
+					<eng>$SIGN$$VALUE$% respawn time for Katarina</eng>
+				</Desc>
+			</reduce>
+		</katarina_respawn_time>
+		<mana_reserve>
+			<Desc>
+				<eng>$SIGN$$VALUE$% of Maximum Mana reserved (Penalty)</eng>
+			</Desc>
+		</mana_reserve>
+		<enchant_cost>
+			<reduce>
+				<Desc>
+					<eng>$SIGN$$VALUE$% reduction to Enchantment Cost</eng>
+				</Desc>
+			</reduce>
+		</enchant_cost>
+		<attack_rate_nocap>
+			<Desc>
+				<eng>$SIGN$$VALUE$% Increased Attack Speed Maximum</eng>
+			</Desc>
+		</attack_rate_nocap>
+		<mana_potion_disable>
+			<Desc>
+				<eng>Unable to use Mana Potion</eng>
+			</Desc>
+		</mana_potion_disable>
+		<potion_disable>
+			<Desc>
+				<eng>Unable to use Potions</eng>
+			</Desc>
+		</potion_disable>
+		<dot_duration>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% to DoT effect duration</eng>
+			</Desc>
+		</dot_duration>
+		<dot_damage>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% to DoT damage</eng>
+			</Desc>
+		</dot_damage>
+		<blockpool_max>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$ to Block Pool (Protector only)</eng>
+			</Desc>
+		</blockpool_max>
+		<blockpool_gain_mul>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% Retaliation Points gained (Protector only)</eng>
+			</Desc>
+		</blockpool_gain_mul>
+		<casted_burning_duration>
+			<Desc>
+				<eng>Ignited enemies burn $SIGN$$VALUE$% longer</eng>
+			</Desc>
+		</casted_burning_duration>
+		<critical_hit_nocap>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% Max. Critical Hit chance</eng>
+			</Desc>
+		</critical_hit_nocap>
+		<critical_damage_mul_nocap>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% Max. Critical Damage</eng>
+			</Desc>
+		</critical_damage_mul_nocap>
+		<damage_reflect_ranged>
+			<Desc>
+				<eng>$SIGN$$VALUE$% Damage Reflected from ranged attacks</eng>
+			</Desc>
+		</damage_reflect_ranged>
+		<shield_maxHP>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$ HP to Forcefield</eng>
+			</Desc>
+		</shield_maxHP>
+		<cast_rate>
+			<Desc>
+				<eng>$SIGN$$VALUE$ Spellcasting speed</eng>
+			</Desc>
+		</cast_rate>
+		<damage_against>
+			<quality>
+				<champion>
+					<Desc>
+						<eng>Bonus $SIGN$$VALUE$ damage against Champion enemies</eng>
+					</Desc>
+				</champion>
+				<elite>
+					<Desc>
+						<eng>Bonus $SIGN$$VALUE$ damage against Elite enemies</eng>
+					</Desc>
+				</elite>
+			</quality>
+		</damage_against>
+		<damage>
+			<quality>
+				<champion>
+					<Desc>
+						<eng>Champion enemies deal $SIGN$$VALUE$ damage</eng>
+					</Desc>
+				</champion>
+				<elite>
+					<Desc>
+						<eng>Elite enemies deal $SIGN$$VALUE$ damage</eng>
+					</Desc>
+				</elite>
+			</quality>
+			<companion_evagy>
+				<katarina>
+					<Desc>
+						<eng>$SIGN$$VALUE$ Damage for Lady Katarina</eng>
+					</Desc>
+				</katarina>
+			</companion_evagy>
+		</damage>
+		<unique_find_chance>
+			<desc>
+				<eng>$SIGN$$VALUE$% Special Find Chance</eng>
+			</desc>
+		</unique_find_chance>
+		<hp_potion_cooldown>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% Health Potion Cooldown</eng>
+			</Desc>
+		</hp_potion_cooldown>
+		<mana_potion_cooldown>
+			<Desc>
+				<eng>Bonus $SIGN$$VALUE$% Mana Potion Cooldown</eng>
+			</Desc>
+		</mana_potion_cooldown>
+		<gold_find_amount>
+			<desc>
+				<eng>$SIGN$$VALUE$% Gold Find</eng>
+			</desc>
+		</gold_find_amount>
+		<property_format>
+			<allies>
+				<eng>for allies</eng>
+			</allies>
+			<enemies>
+				<eng>for enemies</eng>
+			</enemies>
+		</property_format>
+	</Property>
+</Root> 

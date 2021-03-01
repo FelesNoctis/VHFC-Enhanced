@@ -1,0 +1,1015 @@
+﻿
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>	
+	<Menu>
+		<main>
+			<newgame>
+				<import>
+					<eng>Import Character</eng>
+					<msg>
+						<eng>To import your character, please choose one of the new classes first. You will receive a special item and your Glory Points will be converted after completing Story Mode. 
+</eng>
+					</msg>
+				</import>
+			</newgame>
+			<createcharacter>
+				<import_lvl_req_60>
+					<eng>Characters need to be at level 60 to be imported!</eng>
+				</import_lvl_req_60>
+			</createcharacter>
+		</main>
+	</Menu>
+	<Battle>
+		<GUI>
+			<popup>
+				<InfinitePotionType0>
+					<eng>Drinking a potion will fully restore your Health.</eng>
+				</InfinitePotionType0>
+				<InfinitePotionType1>
+					<eng>Drinking a potion will fully restore your Mana.</eng>
+				</InfinitePotionType1>
+			</popup>
+			<charactersheet>
+				<Armor>
+					<label>
+						<eng>Armor</eng>
+					</label>
+					<desc>
+						<eng>The total Armor value provided by your items and skills indicates the percentage decrease of all incoming damage. Considering the average enemy of your level, this would be a reduction of around %d%%. This is further reduced by your damage type resistances.</eng>
+					</desc>
+				</Armor>
+				<Shield>
+					<label>
+						<eng>Forcefield</eng>
+					</label>
+				</Shield>
+				<ability>
+					<protector>
+						<ability_1>
+							<label>
+								<eng>Physical Ruggedness</eng>
+							</label>
+							<popup>
+								<eng>This ability determines how sturdy you are and how well you can protect yourself from harm in general. It increases your Health (%s Hit Points) and your Defense (%s)</eng>
+							</popup>
+						</ability_1>
+						<ability_2>
+							<label>
+								<eng>Melee Mastery</eng>
+							</label>
+							<popup>
+								<eng>This ability represents your skill with swords, axes and shields. It increases how far away a ranged attack can be for you to block it (%s%%) and the weapon damage of your physical skills (%s%%)</eng>
+							</popup>
+						</ability_2>
+						<ability_3>
+							<label>
+								<eng>Fortified Mind</eng>
+							</label>
+							<popup>
+								<eng>This ability determines your skill to use battle magic. It increases your maximum Mana (%s) and the weapon damage of your elemental skills (%s%%)</eng>
+							</popup>
+						</ability_3>
+					</protector>
+					<bounty_hunter>
+						<ability_1>
+							<label>
+								<eng>Enhanced Vitality</eng>
+							</label>
+							<popup>
+								<eng>This ability represents your skill to avoid harm in general. It increases your Health (%s Hit Points) and your Dodge statistic (%s)</eng>
+							</popup>
+						</ability_1>
+						<ability_2>
+							<label>
+								<eng>Advanced Gunnery</eng>
+							</label>
+							<popup>
+								<eng>This ability determines your skill with ranged weapons. It increases the weapon damage of your skills (%s%%) and your maximum Rage (%s)</eng>
+							</popup>
+						</ability_2>
+						<ability_3>
+							<label>
+								<eng>Spiritual Awareness</eng>
+							</label>
+							<popup>
+								<eng>This ability determines how attuned you are to the world around you. It increases your maximum Mana (%s) and your Critical Damage bonus (%s%%)</eng>
+							</popup>
+						</ability_3>
+					</bounty_hunter>
+					<elementalist>
+						<ability_1>
+							<label>
+								<eng>Corporeal Balance</eng>
+							</label>
+							<popup>
+								<eng>This ability represents your basic physical fitness. It increases your Health (%s Hit Points) and your defense (%s)</eng>
+							</popup>
+						</ability_1>
+						<ability_2>
+							<label>
+								<eng>Elemental Mastery</eng>
+							</label>
+							<popup>
+								<eng>This ability determines your skill with the elements. It increases your weapon damage with spells that deal elemental damage (%s%%) and your resistance against elemental attacks (%s%% Elemental Resistance)</eng>
+							</popup>
+						</ability_2>
+						<ability_3>
+							<label>
+								<eng>Arcane Influence</eng>
+							</label>
+							<popup>
+								<eng>This ability represents your overall control on the arcane forces aroud you. It increases your maximum Mana (%s) and your Critical Damage bonus (%s%%)</eng>
+							</popup>
+						</ability_3>
+					</elementalist>
+					<umbralist>
+						<ability_1>
+							<label>
+								<eng>Corporeal Presence</eng>
+							</label>
+							<popup>
+								<eng>This ability represents the strength of your connection to the material world. It increases your Health (%s Hit Points) and your Critical Damage bonus (%s%%)</eng>
+							</popup>
+						</ability_1>
+						<ability_2>
+							<label>
+								<eng>Blade Sorcery</eng>
+							</label>
+							<popup>
+								<eng>This ability represents your skill with rune daggers. It increases the weapon damage of your Physical skills (%s%%) and your Defense (%s)</eng>
+							</popup>
+						</ability_2>
+						<ability_3>
+							<label>
+								<eng>Umbra Focus</eng>
+							</label>
+							<popup>
+								<eng>This ability determines your mastery with the otherworldly forces that seep into the material world. It increases your maximum Mana (%s), the weapon damage of your Elemental, Arcane and Poison skills (%s%%) and your Dodge (%s)</eng>
+							</popup>
+						</ability_3>
+					</umbralist>
+					<constructor>
+						<ability_1>
+							<label>
+								<eng>Mechanical Warfare</eng>
+							</label>
+							<popup>
+								<eng>This ability determines how well you utilize your equipment in combat. It increases your Health (%s Hit Points) and the weapon damage of all of your skills (%s%%).</eng>
+							</popup>
+						</ability_1>
+						<ability_2>
+							<label>
+								<eng>Machine Synergy</eng>
+							</label>
+							<popup>
+								<eng>This ability represents your control over mechanical creations. It increases minion damage (%s%%) and your maximum Rage (%s)</eng>
+							</popup>
+						</ability_2>
+						<ability_3>
+							<label>
+								<eng>Weird Science</eng>
+							</label>
+							<popup>
+								<eng>This ability represents your general skill as a constructor. It increases your maximum Mana (%s) and the maximum Health of your minions (%s%%)</eng>
+							</popup>
+						</ability_3>
+					</constructor>
+					<phlogistoneer>
+						<ability_1>
+							<label>
+								<eng>Exoskeletal Core</eng>
+							</label>
+							<popup>
+								<eng>This ability determines how well you handle your exoskeleton in combat. It increases your Health (%s Hit Points) and the weapon damage of your Physical skills (%s%%)</eng>
+							</popup>
+						</ability_1>
+						<ability_2>
+							<label>
+								<eng>Military Aptitude</eng>
+							</label>
+							<popup>
+								<eng>This ability represents your skill to employ advanced combat tactics. It increases the weapon damage of your Elemental skills (%s%%) and your Defense (%s)</eng>
+							</popup>
+						</ability_2>
+						<ability_3>
+							<label>
+								<eng>Shield Mastery</eng>
+							</label>
+							<popup>
+								<eng>This ability determines how well you manage the energy reserves of your exoskeleton. It increases your maximum Mana (%s) and your maximum Shield (%s)</eng>
+							</popup>
+						</ability_3>
+					</phlogistoneer>
+					<katarina>
+						<ability_1>
+							<label>
+								<eng>Corpus</eng>
+							</label>
+							<popup>
+								<eng>This ability determines the solidity of your companion's s material appearance. It increases her Hitpoints (%s) and the damage of melee attacks (%s)</eng>
+							</popup>
+						</ability_1>
+						<ability_2>
+							<label>
+								<eng>Kinesis</eng>
+							</label>
+							<popup>
+								<eng>This ability determines the effectiveness of your companion's ranged attacks and her skill to avoid damage. It increases Ranged damage (%s) and Dodge value (%s)</eng>
+							</popup>
+						</ability_2>
+						<ability_3>
+							<label>
+								<eng>Ethereality </eng>
+							</label>
+							<popup>
+								<eng>This ability determines how close your companion is to complete etherealness. It increases her resistance to all attacks (%s) and it also increases the percentage of her chance based skills (%s)</eng>
+							</popup>
+						</ability_3>
+					</katarina>
+				</ability>
+				<BODY_VH3>
+					<companionpopup>
+						<eng>Body determines your companion's physical condition. A high Body value increases her Melee Damage (%s), gives a bonus to her Hit Points (%s).</eng>
+					</companionpopup>
+				</BODY_VH3>
+				<BlockPool>
+					<label>
+						<eng>Block Pool</eng>
+					</label>
+					<damage>
+						<eng>Retaliation Damage Bonus: %d%%</eng>
+					</damage>					
+				</BlockPool>
+			</charactersheet>
+			<companion>
+				<shopping>
+					<popup_vh3>
+						<eng>Send your companion to sell items in her inventory.</eng>
+					</popup_vh3>
+				</shopping>
+				<HPPotionThreshold>
+					<popup_vh3>
+						<eng>Your Companion will drink a Healing Potion (unless she did very recently already) when she gets below %s of her total Hit Points.</eng>
+					</popup_vh3>
+				</HPPotionThreshold>
+			</companion>
+			<SkillsWindow>
+				<Skill>
+					<label>
+						<eng>Skills</eng>
+					</label>
+				</Skill>
+				<Aura>
+					<levelreq_10>
+						<eng>Slot available from level 10</eng>
+					</levelreq_10>
+					<levelreq_20>
+						<eng>Slot available from level 20</eng>
+					</levelreq_20>
+					<levelreq_15>
+						<eng>Slot available from level 15</eng>
+					</levelreq_15>
+					<levelreq_30>
+						<eng>Slot available from level 30</eng>
+					</levelreq_30>
+				</Aura>				
+			</SkillsWindow>
+			<map>
+				<terep_Lair_VHIII>
+					<name>
+						<eng>Secret Lair</eng>
+					</name>
+				</terep_Lair_VHIII>
+				<terep_Testing_Facility>
+					<name>
+						<eng>Testing Facility</eng>
+					</name>
+				</terep_Testing_Facility>
+				<terep_Haunted_Forest01>
+					<name>
+						<eng>Haunted Forest</eng>
+					</name>
+				</terep_Haunted_Forest01>
+				<terep_Ink_mocsar>
+					<name>
+						<eng>Gnarlovoy</eng>
+					</name>
+				</terep_Ink_mocsar>
+				<terep_Haunted_Forest02>
+					<name>
+						<eng>Wraithwoods</eng>
+					</name>
+				</terep_Haunted_Forest02>
+				<terep_HF_Arena>
+					<name>
+						<eng>Hideout</eng>
+					</name>
+				</terep_HF_Arena>
+				<terep_Ink_Old_Town>
+					<name>
+						<eng>Gothic Quarter</eng>
+					</name>
+				</terep_Ink_Old_Town>
+				<terep_Dark_Carnival>
+					<name>
+						<eng>Dark Carnival</eng>
+					</name>
+				</terep_Dark_Carnival>
+				<terep_Nightmare_Hollow01>
+					<name>
+						<eng>Nightmare Hollow</eng>
+					</name>
+				</terep_Nightmare_Hollow01>
+				<terep_Nightmare_Hollow02>
+					<name>
+						<eng>Necropolis</eng>
+					</name>
+				</terep_Nightmare_Hollow02>
+				<terep_Nightmare_Hollow03>
+					<name>
+						<eng>Impossible Tombs</eng>
+					</name>
+				</terep_Nightmare_Hollow03>
+				<terep_kapubirtok>
+					<name>
+						<eng>Gatekeeper’s Domain</eng>
+					</name>
+				</terep_kapubirtok>
+				<terep_Ink_mythical>
+					<name>
+						<eng>Spectral Provinces</eng>
+					</name>
+				</terep_Ink_mythical>
+				<terep_Ink_frozen>
+					<name>
+						<eng>Valley of Frost</eng>
+					</name>
+				</terep_Ink_frozen>
+				<terep_Ink_darkness>
+					<name>
+						<eng>Island of Terror</eng>
+					</name>
+				</terep_Ink_darkness>
+				<terep_Ink_glass2>
+					<name>
+						<eng>Castle Glass</eng>
+					</name>
+				</terep_Ink_glass2>
+				<terep_TD1_steamhall>
+					<name>
+						<eng>The Undead Horde</eng>
+					</name>
+				</terep_TD1_steamhall>
+				<terep_TD2_floating_monastery>
+					<name>
+						<eng>The Empyrean Perimeter</eng>
+					</name>
+				</terep_TD2_floating_monastery>
+				<terep_TD3_memorial_park>
+					<name>
+						<eng>Battle in the Ink</eng>
+					</name>
+				</terep_TD3_memorial_park>
+				<terep_Clockwork_Keep>
+					<name>
+						<eng>Clockwork Keep</eng>
+					</name>
+				</terep_Clockwork_Keep>
+				<terep_Pokol1>
+					<name>
+						<eng>Shrine of Lamentation</eng>
+					</name>
+				</terep_Pokol1>
+				<terep_Pokol2>
+					<name>
+						<eng>Tower of Torment</eng>
+					</name>
+				</terep_Pokol2>
+				<terep_Void_Cathedral>
+					<name>
+						<eng>Void Cathedral</eng>
+					</name>
+				</terep_Void_Cathedral>
+				<VH3Scenario_Dark_Carnival>
+					<name>
+						<eng>Circus of Fear</eng>
+					</name>
+				</VH3Scenario_Dark_Carnival>
+				<VH3Scenario_Haunted_Forest02>
+					<name>
+						<eng>Thornwoods</eng>
+					</name>
+				</VH3Scenario_Haunted_Forest02>
+				<VH3Scenario_Ink_frozen>
+					<name>
+						<eng>Icicle Valley</eng>
+					</name>
+				</VH3Scenario_Ink_frozen>
+				<VH3Scenario_Ink_Old_Town>
+					<name>
+						<eng>Shadow Borgova</eng>
+					</name>
+				</VH3Scenario_Ink_Old_Town>
+				<VH3Scenario_Nightmare_Hollow02>
+					<name>
+						<eng>Darkgate Cemetery</eng>
+					</name>
+				</VH3Scenario_Nightmare_Hollow02>
+				<VH3Scenario_Pokol1>
+					<name>
+						<eng>Temple of Lost Hope</eng>
+					</name>
+				</VH3Scenario_Pokol1>
+				<Touchdown>
+					<name>
+						<eng>Stadium in the Deep</eng>
+					</name>
+				</Touchdown>
+				<terep_VHGold_TD1>
+					<name>
+						<eng>Lair Outpost</eng>
+					</name>
+				</terep_VHGold_TD1>
+				<terep_VHGold_TD2>
+					<name>
+						<eng>Inktide Tunnels</eng>
+					</name>
+				</terep_VHGold_TD2>
+				<terep_VHGold_TD3>
+					<name>
+						<eng>The Subterranean Incursion</eng>
+					</name>
+				</terep_VHGold_TD3>
+				<terep_VHGold_TD4>
+					<name>
+						<eng>Invasion of the Rat-Things</eng>
+					</name>
+				</terep_VHGold_TD4>
+				<terep_VHGold_TD5>
+					<name>
+						<eng>The Inhuman Regiment</eng>
+					</name>
+				</terep_VHGold_TD5>
+				<terep_VHGold_TD6>
+					<name>
+						<eng>Caverns of Steel</eng>
+					</name>
+				</terep_VHGold_TD6>
+				<terep_VHGold_TD7>
+					<name>
+						<eng>The Undead Horde</eng>
+					</name>
+				</terep_VHGold_TD7>
+				<terep_VHGold_TD8>
+					<name>
+						<eng>The Empyrean Perimeter</eng>
+					</name>
+				</terep_VHGold_TD8>
+				<terep_VHGold_TD9>
+					<name>
+						<eng>Battle in the Ink</eng>
+					</name>
+				</terep_VHGold_TD9>
+				<battle_royal_haunted_forest>
+					<name>
+						<eng>Haunted Forest</eng>
+					</name>
+				</battle_royal_haunted_forest>
+			</map>
+			<ResistanceWindow>
+				<status>
+					<Dead>
+						<eng>Dead</eng>
+					</Dead>
+				</status>
+			</ResistanceWindow>
+			<KeyShop>
+				<title>
+					<eng>Mistress of Keys</eng>
+				</title>
+				<key0>
+					<popup>
+						<eng>Copper Key</eng>
+					</popup>
+				</key0>
+				<key1>
+					<popup>
+						<eng>Silver Key</eng>
+					</popup>
+				</key1>
+				<key2>
+					<popup>
+						<eng>Gold Key</eng>
+					</popup>
+				</key2>
+			</KeyShop>
+		</GUI>
+		<GameObject>
+			<Chest>
+				<gnome_tribesman_corpse>
+					<eng>Corpse</eng>
+				</gnome_tribesman_corpse>
+				<skullpile>
+					<eng>Pile of Skulls</eng>
+				</skullpile>
+			</Chest>
+			<Info>
+				<Meat_tower1>
+					<eng>Titan Flesh</eng>
+				</Meat_tower1>
+				<Meat_tower2>
+					<eng>Titan Flesh</eng>
+				</Meat_tower2>
+				<Meat_tower3>
+					<eng>Titan Flesh</eng>
+				</Meat_tower3>
+				<feeder_cage1>
+					<eng>Feeder</eng>
+				</feeder_cage1>
+				<feeder_cage2>
+					<eng>Feeder</eng>
+				</feeder_cage2>				
+				<haystack>
+					<eng>Haystack</eng>
+				</haystack>
+				<titanslayer_relic_jewel>
+					<eng>The Aegis</eng>
+				</titanslayer_relic_jewel>
+				<hc_titanmeat>
+					<eng>Funeral Pyre</eng>
+				</hc_titanmeat>
+				<hc_utikonyv>
+					<eng>Pile of Skeletons</eng>
+				</hc_utikonyv>
+				<hc_koschei_fragment>
+					<eng>Pile of Bones</eng>
+				</hc_koschei_fragment>
+				<BNT_activator>
+					<eng>TARDIS console</eng>
+				</BNT_activator>				
+				<hc_kiado_lakas>
+					<eng>Cabin for Rent</eng>
+				</hc_kiado_lakas>
+				<hc_atlantis_book>
+					<eng>Mermaid Statue</eng>
+				</hc_atlantis_book>
+				<hc_atlantiszi_damak>
+					<eng>Atlantean Painting</eng>
+				</hc_atlantiszi_damak>				
+				<hc_szoborfelirat>
+					<eng>Statue</eng>
+				</hc_szoborfelirat>
+				<hc_padalatt>
+					<eng>Street Bench</eng>
+				</hc_padalatt>
+				<hc_hirdetes>
+					<eng>Advertising Column</eng>
+				</hc_hirdetes>
+				<hc_postakocsi>
+					<eng>Stagecoach</eng>
+				</hc_postakocsi>
+				<hc_poni>
+					<eng>Tomb</eng>
+				</hc_poni>
+				<hc_szoborcsodalat>
+					<eng>Menacing Statue</eng>
+				</hc_szoborcsodalat>
+				<masterkey_container>
+					<eng>Masterkey Container</eng>				
+				</masterkey_container>
+				<flux_generator>
+					<eng>Improbability Flux Generator</eng>				
+				</flux_generator>
+				<control_station>
+					<eng>Gear Ratio Control Station</eng>				
+				</control_station>
+				<relics_hint>
+					<eng>Forest Statue</eng>				
+				</relics_hint>
+				<haunted_crystal>					
+					<eng>Rippling Crystal</eng>				
+				</haunted_crystal>
+				<mind_mondulator>					
+					<eng>Mind Modulator</eng>				
+				</mind_mondulator>
+				<TF_documents>					
+					<eng>Bookshelf</eng>				
+				</TF_documents>
+				<Vlados_cell_door>					
+					<eng>Cell door</eng>				
+				</Vlados_cell_door>
+				<Zsilip_vezerlo>					
+					<eng>Controller table</eng>				
+				</Zsilip_vezerlo>
+				<Inkgrub>					
+					<eng>Inkgrub</eng>				
+				</Inkgrub>
+				<Gnarl_Riddle_Well>					
+					<eng>Well</eng>				
+				</Gnarl_Riddle_Well>
+				<gnome_door>					
+					<eng>Door</eng>				
+				</gnome_door>
+				<wretched_mirror>
+					<eng>Wretched Mirror</eng>				
+				</wretched_mirror>
+				<Tomb>
+					<eng>Tomb</eng>				
+				</Tomb>
+				<corpse>
+					<eng>Corpse</eng>
+				</corpse>
+				<Skullpile>
+					<eng>Pile of Skulls</eng>
+				</Skullpile>
+				<Loot_ruin>
+					<eng>Rubble Pile</eng>
+				</Loot_ruin>
+				<soul_shelter>
+					<eng>Soul Shelter</eng>
+				</soul_shelter>
+				<sceptre_location>
+					<eng>Statue</eng>
+				</sceptre_location>
+				<sceptre_summon>
+					<eng>Spirit Dome</eng>
+				</sceptre_summon>
+				<Ink_multientrance>
+					<eng>Deep Ink</eng>
+				</Ink_multientrance>
+				<Brazier>
+					<eng>Brazier</eng>				
+				</Brazier>
+				<power_relay>
+					<eng>Power Relay</eng>
+				</power_relay>
+				<Matrixprinter_controller>
+					<eng>Dream weaver Relay</eng>
+				</Matrixprinter_controller>
+				<elevator_caller>
+					<eng>Elevator Controller</eng>
+				</elevator_caller>
+				<bolter>
+					<eng>Bolter</eng>
+				</bolter>
+				<endgame_key_shop>
+					<eng>The Mistress of Keys</eng>
+				</endgame_key_shop>
+				<terep_Lair_VHIII>
+					<Waypoint_Lair>
+						<eng>Central Hall</eng>
+					</Waypoint_Lair>
+				</terep_Lair_VHIII>
+				<terep_Testing_Facility>
+					<kutatolabor_waypoint>
+						<eng>Operating Theatre</eng>
+					</kutatolabor_waypoint>
+				</terep_Testing_Facility>
+				<terep_Haunted_Forest01>
+					<Hauntedforest_waypoint1>
+						<eng>Abandoned Footpath</eng>
+					</Hauntedforest_waypoint1>
+				</terep_Haunted_Forest01>
+				<terep_Haunted_Forest02>
+					<haunted_forest2_waypoint>
+						<eng>Deep Forest</eng>
+					</haunted_forest2_waypoint>
+				</terep_Haunted_Forest02>
+				<terep_Ink_mocsar>
+					<waypoint_Gnarlovoy_sziget>
+						<eng>Lightning Tree</eng>
+					</waypoint_Gnarlovoy_sziget>
+				</terep_Ink_mocsar>
+				<terep_Ink_Old_Town>
+					<InkOldTown_waypoint1>
+						<eng>Old Port</eng>
+					</InkOldTown_waypoint1>
+				</terep_Ink_Old_Town>
+				<terep_Dark_Carnival>
+					<Dark_Carnival_waypoint>
+						<eng>Circus Entrance</eng>
+					</Dark_Carnival_waypoint>
+				</terep_Dark_Carnival>
+				<terep_TD1_steamhall>
+					<TD1_waypoint>
+						<eng>Entrance</eng>
+					</TD1_waypoint>
+				</terep_TD1_steamhall>
+				<terep_TD2_floating_monastery>
+					<TD2_waypoint>
+						<eng>Entrance</eng>
+					</TD2_waypoint>
+				</terep_TD2_floating_monastery>	
+				<terep_TD3_memorial_park>
+					<TD3_waypoint>
+						<eng>Entrance</eng>
+					</TD3_waypoint>
+				</terep_TD3_memorial_park>				
+				<terep_VHGold_TD1>
+					<TD1_waypoint>
+						<eng>Entrance</eng>
+					</TD1_waypoint>
+				</terep_VHGold_TD1>
+				<terep_VHGold_TD2>
+					<TD2_waypoint>
+						<eng>Entrance</eng>
+					</TD2_waypoint>
+				</terep_VHGold_TD2>
+				<terep_VHGold_TD3>
+					<TD3_waypoint>
+						<eng>Entrance</eng>
+					</TD3_waypoint>
+				</terep_VHGold_TD3>
+				<terep_VHGold_TD4>
+					<TD4_waypoint>
+						<eng>Entrance</eng>
+					</TD4_waypoint>
+				</terep_VHGold_TD4>
+				<terep_VHGold_TD5>
+					<TD5_waypoint>
+						<eng>Entrance</eng>
+					</TD5_waypoint>
+				</terep_VHGold_TD5>
+				<terep_VHGold_TD6>
+					<TD6_waypoint>
+						<eng>Entrance</eng>
+					</TD6_waypoint>
+				</terep_VHGold_TD6>				
+				<terep_VHGold_TD7>
+					<TD7_waypoint>
+						<eng>Entrance</eng>
+					</TD7_waypoint>
+				</terep_VHGold_TD7>
+				<terep_VHGold_TD8>
+					<TD8_waypoint>
+						<eng>Entrance</eng>
+					</TD8_waypoint>
+				</terep_VHGold_TD8>	
+				<terep_VHGold_TD9>
+					<TD9_waypoint>
+						<eng>Entrance</eng>
+					</TD9_waypoint>
+				</terep_VHGold_TD9>							
+			</Info>
+		</GameObject>
+		<ScenarioExitConfirm>
+			<eng>Are you sure you wish to quit?\n\nQuitting now will cause you to fail the Adventure. All consequences for failing Adventures will apply.</eng>
+		</ScenarioExitConfirm>
+	</Battle>
+	<common>
+		<class>
+			<bounty_hunter>
+				<name>
+					<eng>Bounty Hunter</eng>
+				</name>
+				<desc>
+					<eng>An agile hunter with an assortment of ranged combat skills. An expert on various applications of firearms and battle stances who can summon mechanical seekers to find and mark his prey. When push comes to shove, he can also manipulate the flow of time at will.</eng>
+				</desc>
+				<desc_ingame>
+					<eng>Track, taunt and destroy \n \n- Dodge: as a master of evasion he gains +20% Dodge bonus \n \n- Swiftness: always staying light footed, he gains +10 Movement speed</eng>
+				</desc_ingame>
+			</bounty_hunter>
+			<protector>
+				<name>
+					<eng>Protector</eng>
+				</name>
+				<desc>
+					<eng>A very resilient, heavily armored melee fighter. Master of the lost art of wielding sword and shield, he dishes out, blocks or reflects punishment back on his assiliants. A resounding battlecry, blinking into the Ink or calling upon the elements are also in his repertoir.</eng>
+				</desc>
+				<desc_ingame>
+					<eng>Like a warrior from a lost age \n \n- Shield Bearer: as a master of the shield, he can deflect attacks completely \n \n- Hard to Kill: as a weathered warrior he starts with +300 hitpoints</eng>
+				</desc_ingame>
+			</protector>
+			<elementalist>
+				<name>
+					<eng>Elementalist</eng>
+				</name>
+				<desc>
+					<eng>A fragile but powerful spellcaster, armed with a variety of offensive and utility spells. His expertise in commanding the four elements is unmatched, be it the conjuration of devastating storms, arcane creatures, deadly barriers, or launching raw bolts of energy.</eng>
+				</desc>
+				<desc_ingame>
+					<eng>Harnessing the power of nature \n \n- Fireborn: as the child of nature he gains +50% protection against all elements \n \n- Arcane Breed: as of the ancient blood he gains +25 starting Mana \n \n- Effortless: moves in all elements with +10 Movement speed</eng>
+				</desc_ingame>
+			</elementalist>
+			<umbralist>
+				<name>
+					<eng>Umbralist</eng>
+				</name>
+				<desc>
+					<eng>A master of shadows who fights using sophisticated hit and run tactics. As the bearer of arcane twin blades he can fade into the Ink, bend shadows to his will, conjure malevolent spells or allies from the darkness and attack with an unrelenting combination of strikes.</eng>
+				</desc>
+				<desc_ingame>
+					<eng>Striking from darkness \n \n- Umbra Walker: can become cloaked at will by fading into the shadow world (for 5 seconds each time) \n \n- Ambush: gains a 100% damage bonus for 3 seconds upon emerging from cloaked state\n \n- Dodge: as an elusive warrior he gains +10% Dodge bonus + another 10 Dodge \n \n- Lifeforce: as a master lifeforce manipulator he gains +150 starting hitpoints \n \n- Shadow Marks: Certain attacks place shadow marks on enemies. Other attacks deal more damage to marked enemies.</eng>
+				</desc_ingame>
+			</umbralist>
+			<phlogistoneer>
+				<name>
+					<eng>Phlogistoneer</eng>
+				</name>
+				<desc>
+					<eng>An expert of Weird Science in a machine suit. Armed with short and medium ranged heavy weapons and several types of mines. He is a brute military force who can call artillery strikes, launch rocket barrages, cluster bombs and thwart attacks with a flamethrower or a portable forcefield.</eng>
+				</desc>
+				<desc_ingame>
+					<eng>Embrace the flames\n\n- Energy Shield: protected by a barrier which can absorb damaeg (300 points by default). It recharges automatically at a 10% per second rate if the Phlogistoneer spends 5 seconds without attacking\n\n- Clumsy: Movement speed is reduced by 5 for wearing a mechanical suit\n\n- Anchored: Cannot be knocked down by enemy abilities\n\n- Weakling: starting hitpoints is reduced by 100 for having a frail human body</eng>
+				</desc_ingame>
+			</phlogistoneer>
+			<constructor>
+				<name>
+					<eng>Constructor</eng>
+				</name>
+				<desc>
+					<eng>A master contraptionist who can assemble a wide variety of mechanical creatures on the spot. A true artist when it comes to keeping a healthy distance from his enemies by deploying turrets, ornithopters, exploding dismemberbots or his extremely versatile and deadly gun platform.</eng>
+				</desc>
+				<desc_ingame>
+					<eng>Build your nightmares \n \n- Gun Platform: beside Katarina, he also has a weird science driven, flying mechanical companion bristling with guns</eng>
+				</desc_ingame>
+			</constructor>
+		</class>
+	</common>
+	<Tutorial>
+		<base_tut>
+			<name>
+				<eng>Basic Tutorials</eng>
+			</name>
+			<desc>
+				<eng>If you are new to the game, we recommend that you browse through the Tutorial section in the Journal. You can open your Journal by pressing "J" and find the Tutorial section by clicking on the "GAME" tab.</eng>
+			</desc>
+		</base_tut>
+		<class_tut>
+			<name>
+				<eng>Class Specialties</eng>
+			</name>
+			<desc>
+				<eng>Each class has some unique bonuses and/or specialties. You can review these by opening the skills window (by pressing "K") and reading the tooltip of the central class icon.</eng>
+			</desc>
+		</class_tut>
+		<protector_tut>
+			<name>
+				<eng>Blocking</eng>
+			</name>
+			<desc>
+				<eng>As a protector, your most essential skill is the Shield Block. This skill allows you to completely negate all incoming damage in a 180 degree arc.</eng>
+			</desc>
+		</protector_tut>
+		<protector_tut2>
+			<name>
+				<eng>Retaliation Attacks</eng>
+			</name>
+			<desc>
+				<eng>Blocking also accumulates Retaliation, which provides a damage bonus the next time you attack. Alternating Shield Block and Retaliation attacks is a viable tactic as a Protector.</eng>
+			</desc>
+		</protector_tut2>
+		<phlogistoneer_tut>
+			<name>
+				<eng>Energy Shield</eng>
+			</name>
+			<desc>
+				<eng>The phlogistoneer is protected by an energy shield. This adds extra health on top of your own and regenerates when you're outside combat. It can also be upgraded to deal some damage through the associated skill.</eng>
+			</desc>
+		</phlogistoneer_tut>
+		<umbralist_tut>
+			<name>
+				<eng>Cloaking</eng>
+			</name>
+			<desc>
+				<eng>Umbralists have many skills that enable them to cloak, making themselves invisible to enemies. This state lasts for 5 seconds or until you attack.</eng>
+			</desc>
+		</umbralist_tut>
+		<umbralist_tut2>
+			<name>
+				<eng>Ambush Bonus</eng>
+			</name>
+			<desc>
+				<eng>Emerging from cloak also confers a significant damage bonus for 7 seconds. These abilities make the umbralist best suited for hit and run tactics.</eng>
+			</desc>
+		</umbralist_tut2>
+		<powerup_system>
+			<name>
+				<eng>The Powerup System</eng>
+			</name>			
+			<desc>
+				<eng>Powerups is a general system available to all classes and is used to enhance individual attacks. It utilizes Powerup skills which are extensions of main skills and use the Rage special resource.</eng>
+			</desc>			
+		</powerup_system>		
+		<rage_new>
+			<name>
+				<eng>Rage Bar</eng>
+			</name>			
+			<desc>
+				<eng>This yellow substance is your Rage resource. It is used to charge Powerup skills and is gathered by killing enemies.</eng>
+			</desc>			
+		</rage_new>
+		<powerup_new>
+			<name>
+				<eng>Powerup Skills</eng>
+			</name>			
+			<desc>
+				<eng>You can charge Powerups by pressing their assigned hotkey (“A”, “S” or “D”). Once charged, Powerups enhance the next attack performed with their parent skill. For additional information, look at the Tutorial section in the Journal.</eng>
+			</desc>
+			<descXBox>
+				<eng>You can charge Powerups by pressing the "Left Bumper". Once charged, Powerups enhance the next attack performed with their parent skill. You can set up the powerups for your skills by editing them on the skills panel.</eng>
+			</descXBox>			
+		</powerup_new>
+		<outofbattleregen>
+			<name>
+				<eng>Quick Regeneration</eng>
+			</name>			
+			<desc>
+				<eng>All classes benefit from fast regeneration when outside combat. Regeneration starts when you spend 5 seconds without attacking or taking damage, away from enemies. If uninterrupted, all health is regained in about 4 seconds.</eng>
+			</desc>			
+		</outofbattleregen>
+		<vh_gold_scenario_task>
+			<name>
+				<eng>Adventure Task List</eng>
+			</name>			
+			<desc>
+				<eng>This window lists the tasks you need to perform in order to complete this Adventure as well as other information such as the number of lives or the time you have left.</eng>
+			</desc>			
+		</vh_gold_scenario_task>
+		<vh_gold_scenario_condition>
+			<name>
+				<eng>Adventure Modifiers</eng>
+			</name>			
+			<desc>
+				<eng>These icons display what special circumstances are active in this Adventure. Hover the cursor over them to find out what each of them means.</eng>
+			</desc>			
+		</vh_gold_scenario_condition>
+		<vh_gold_scenario_keyshop>
+			<name>
+				<eng>The Mistress of Keys</eng>
+			</name>			
+			<desc>
+				<eng>You can exchange your Fate points for special keys that unlock the nearby special chests. The copper chest contains one or more Epic items, the silver chest contains Set items, and the gold chest contains Godlike items. All of the chests also drop mountains of gold and extra rare items or better.</eng>
+			</desc>			
+		</vh_gold_scenario_keyshop>
+		<vh_gold_trophy_stand>
+			<name>
+				<eng>The Trophy System</eng>
+			</name>			
+			<desc>
+				<eng>You've collected some trophies during your travels. Check out the Trophy Stand in the north-eastern end of the lair, where you can use your trophies to activate general bonuses!</eng>
+			</desc>			
+		</vh_gold_trophy_stand>
+		<vh_gold_scenario_gloves_off>
+			<name>
+				<eng>Full Adventure Map Unlocked</eng>
+			</name>			
+			<desc>
+				<eng>Congratulations! You are now strong enough to play Adventure mode with full features! Adventures will now be generated with special conditions and ranked enemies will be more common. You have also unlocekd all the Adveture maps.</eng>
+			</desc>			
+		</vh_gold_scenario_gloves_off>
+		
+		<vh_gold_scenario_firstfail>
+			<name>
+				<eng>Failed Adventures</eng>
+			</name>			
+			<desc>
+				<eng>If you fail an Adventure you can no longer gain the rewards from it. The remaining creatures on the level will still drop items but they may not worth your time. You decide.</eng>
+			</desc>			
+		</vh_gold_scenario_firstfail>
+		<vh_gold_scenario_welcome>
+			<name>
+				<eng>Adventure Map</eng>
+			</name>			
+			<desc>
+				<eng>Welcome to the Adventure Map! Here you can play various standalone Adventures that each have specific goals and challenges. Explore locations on the map to see what Adventures you can currently choose from.</eng>
+			</desc>			
+		</vh_gold_scenario_welcome>
+		<vh_gold_scenario_welcome2>
+			<name>
+				<eng>Adventures</eng>
+			</name>			
+			<desc>
+				<eng>Adventures are randomly generated whenever you complete or fail one, as well as when a new location becomes available. If you need to change your character's gear or skills you also have access to the Secret Lair via the button on the bottom of the screen.</eng>
+			</desc>			
+		</vh_gold_scenario_welcome2>
+		<vh_gold_scenario_dailyquest>
+			<name>
+				<eng>Daily Quests</eng>
+			</name>			
+			<desc>
+				<eng>The game automatically generates Daily Quests for you that you can complete with any of your characters. These reward Fate Points, a special resource that you can spend in several ways to improve your character's gear.</eng>
+			</desc>
+		</vh_gold_scenario_dailyquest>
+		<vh_gold_scenario_triumph>
+			<name>
+				<eng>The Spoils of Triumph</eng>
+			</name>			
+			<desc>
+				<eng>When you succesfully complete an Adventure, you increase the spoils bonus that enhances your chances of finding epic items. This is cumulative but a failed Adventure will reset it to zero.</eng>
+			</desc>			
+		</vh_gold_scenario_triumph>
+		<vh_gold_scenario_moremaps>
+			<name>
+				<eng>Additional Locations</eng>
+			</name>			
+			<desc>
+				<eng>Congratulations! You have unlocked two new locations on the Adventure Map!</eng>
+			</desc>			
+		</vh_gold_scenario_moremaps>					
+	</Tutorial>
+</Root>

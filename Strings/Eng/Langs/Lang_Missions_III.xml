@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Missions>
+		<HarkerRemnants>
+			<Name>
+				<eng>Remnants of Harker's army</eng>
+			</Name>
+			<Desc>
+				<eng>A rogue squadron from General Harker's defeated army has barricaded itself in an abandoned military facility. Their intentions are unknown but they possess several artillery pieces with which they can threaten the entire district. They have heavily fortified positions and they are well organized. We either need a well planned attack or some alternate means to deal with them.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>I say we storm that base before they have a chance to set up those cannons, sir!</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>If we infiltrate their camp at night and capture their commander, they may give up without a fight.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>This is an obvious attempt to secure a strong bargaining position for their surrender. Let me negotiate with them. We can still attack if they refuse.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>Oh, just leave it to me. Me and my dark servants will scare them into submission. And if they refuse... well, I shall have some fun then.</eng>
+			</Upyr>
+		</HarkerRemnants>
+		<Crazedannihilators>
+			<Name>
+				<eng>Rogue Annihilators</eng>
+			</Name>
+			<Desc>
+				<eng>A group of three Octopod Annihilators appeared out of nowhere in the middle of the city and marched to Lugosi Square. They seem to be executing an obsolete command to guard the square and they open fire on anyone who approaches. The place has just been cleared of debris, which gives them a clear view in all directions and precious little cover for us against their guns. Still, we have to take care of them somehow.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>Those things are capable of terrible destruction. We'll need to distribute lots of hand held explosives among the troops before we move in.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>Our best bet is to send in some sappers with explosives through the sewer system underneath the square. A battalion should provide distraction on the surface.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>The annihilators have a few mechanical design flaws. A few precise shots can exploit these weaknesses and bring the machines down with ease.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>Accursed contraptions! Give me a legion and I shall tear out their mechanical hearts!</eng>
+			</Upyr>
+		</Crazedannihilators>
+		<Inkincursions>
+			<Name>
+				<eng>Ink Incursions</eng>
+			</Name>
+			<Desc>
+				<eng>There are reports of a pack of Inkwraiths repeatedly attacking the city. They materialize from  the continuously spreading Inkspills. These creatures appear without warning  and disappear very quickly after they attack, giving us little time to react. They will cause significant damage if they aren't stopped soon.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>I will put my lads on high alert. When the next report comes in, we'll move against the intruders in force.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>I'll tell you what we need: a network of sentries to report signs of forming ink rifts and the instincts of an experienced hunter like me. Ambush them we shall.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>A statistical analysis of rift formation patterns has 75% chance to predict the location of the next incursion with an accuracy of 1.5 kilometers. With a 20% error threshold.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>Creatures of the ink leave spectral footprints behind. I can track these to find them in the ink itself and ambush them when they least expect it!</eng>
+			</Upyr>
+		</Inkincursions>
+		<Labriot>
+			<Name>
+				<eng>Research Lab Riot</eng>
+			</Name>
+			<Desc>
+				<eng>Our scouts found another abandoned underground research facility and due to an unfortunate mistake, the test subjects broke free. We managed to seal the lab temporarily but the doors won't hold forever. We have to send someone down there. There is an army of nasty abominations inside and we will have to deal with them in a confined space wrought with spills of hazardous materials. A nightmare of a mission if you ask me but it must be done all the same.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>Fighting in close quarters is what we do best, sir! Me and my men will clear that lab in no time!</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>Let me infiltrate the place with a small team of hand picked men equipped with our best rifles and I shall hunt those monsters down one by one.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>These facilities usually have an emergency system for this exact situation. I just need to fight my way to the control room on the lower level and the test subjects can easily be contained.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>Dark tunnels with horrifying denizens? Sounds just like my summer residence. Send me, I beseech you!</eng>
+			</Upyr>
+		</Labriot>
+		<Borgoland>
+			<Name>
+				<eng>Under Siege</eng>
+			</Name>
+			<Desc>
+				<eng>A band of savage vampire lords has flanked our lines and is attacking our surface headquarters! The situation is desperate. The enemy has the place surrounded, waves of winged attackers are swarming over the compound and dark spells are raining down on the guards. The automated perimeter defenses are down and the remaining men had to retreat to the central building. Without outside help, they won't last long. We need to send a large force to break the siege immediately!</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>I would lead a charge against the sorcerers and take them out one by one. I would then join the defenders and repel the rest of the enemy.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>A bold counter offensive with concentrated gunfire can punch a gap in the siege circle, and sharpshooters can deal with the sorcerers. Yes, I can definitely save the day.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>Those automated guns are formidable. If they are down, it must be a malfuncion. I of course, can repair them and create a lethal curtain of suppressing fire around the complex.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>Not so long ago I myself have commanded dark armies like this. I certainly know how to stop one.</eng>
+			</Upyr>
+		</Borgoland>
+		<Kidnappedlieutenant>
+			<Name>
+				<eng>Captured Lieutenant</eng>
+			</Name>
+			<Desc>
+				<eng>I have bad news, Van Helsing. One of our lieutenants has been captured by the enemy. He knows a lot about our operation so if they managed to make him talk... well, that could make our situation gravely desperate. He is currently held in the catacombs in an ancient burial hall, most likely awaiting his interrogator to arrive. The place has multiple entrances but the tunnels leading there are teeming with  the undead and our soldiers may also run into a few long forgotten traps. We must get him out before it's too late.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>I say we take a band of melee specialists, quietly get as close as possible, then launch a lightning raid at the end. That's the only way we get to the prisoner in time.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>There's no better place to sneak around than the catacombs. My scouts can can infiltrate the place and bring the prisoner out unnoticed.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>I can use my automatons to map the area and take care of any traps they find. Once we know enough, we can create an appropriate rescue plan and bring the prisoner out.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>I know those tunnels like my own castle and my servants can blend in with the "locals". Need I say more?</eng>
+			</Upyr>
+		</Kidnappedlieutenant>
+		<Heroicsuicide>
+			<Name>
+				<eng>Chaos Engine Assault</eng>
+			</Name>
+			<Desc>
+				<eng>The Chaos Engine has been set up on the roof of the rebuilt Palace of Machines. The area is already unstable, chunks of  the material world swirl in the patches of the Ink. The assault team will have to take the same route you once did, through the rooftops. They will have to contend with force walls, lightning traps gone haywire, chaotic ink phenomena and of course the deadliest agents of the Cult of Seven: Inkrippers and Inkwraiths. Make no mistake, Van Helsing, this is probably a suicide mission. Whoever you send is unlikely to return.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>Sir, you must know by now. I'm ready to make the ultimate sacrifice. For the Resistance! For Borgova!</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>This is one for the history books, eh? Couldn't ask for a more glorious way to end a shining career! Just make sure the historians get my name right. Tsk-chk!</eng>
+			</Stark>
+			<DrStahl>
+				<eng>As a true scientist I feel compelled to battle such a magnificent device personally. I would of course require a posthumus commendation. And perhaps an institution named after me.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>I am not so easily killed as my mortal comrades here. If you send me, I'll be sure to bring you back a piece of the machine to decorate your wall.</eng>
+			</Upyr>
+		</Heroicsuicide>
+		<Heroicsupport>
+			<Name>
+				<eng>Battle for Borgova</eng>
+			</Name>
+			<Desc>
+				<eng>In order to increase the chances of our assault team reaching the Chaos Engine, we must engage the main forces of the Cult of Seven in open battle and attempt eliminate the cult's leader. This has to be a large scale offensive with one hell of an attack plan. It must be executed with the utmost determination and our captain will only have one shot at the enemy leader, so he must be able to make it count. Though not a straight up suicide mission, those spearheading the assault will still be at grave risk.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>If you won't send me to destroy the Chaos Engine, let me at least lead the charge at the enemy commander!</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>A glorious battle with a precision strike at the end? It sounds like a perfect task for versatile leader like me!</eng>
+			</Stark>
+			<DrStahl>
+				<eng>I would be honored to put my mental prowess to this complex operation. You'll find noone better suited for it, I assure you.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>It should be clear to you that I am the right choice here. I have centuries of command experience and I already demonstrated my abilities many times.</eng>
+			</Upyr>
+		</Heroicsupport>
+		<TD1>
+			<Name>
+				<eng>The Undead Horde</eng>
+			</Name>
+			<Desc>
+				<eng>A large undead horde is marching through the sewer tunnels. It will soon reach one of our outposts where we can ambush them and use traps to stop them. Scouts report the undead are mostly of the slow, lumbering kind, which gives us some time to prepare for their arrival. The area itself is a giant underground hall with several platforms, some of which can only be reached through portals.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>This sounds like a straightforward frontal assault. Lumbering corpses are no match for my boys.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>The terrain offers many opportunities to set up an ambush. My sharpshooters will have a field day with this.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>The outpost's defensive network appears adequate. Rreinforced with the proper defensive structures and defensive formations, they should be impregnable.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>This is a paltry task for someone like me. But if you insist...</eng>
+			</Upyr>
+		</TD1>
+		<TD2>
+			<Name>
+				<eng>The Empyrean Perimeter</eng>
+			</Name>
+			<Desc>
+				<eng>We need to send a unit to defend a section of the Empyrean Perimeter, where an ink rift is forming. This particular section is protected by some mystical traps scattered around in a large central area. The defensive structures have long fallen into ruin, so the terrain is generally open ground. We anticipate a large swarm of fast, hellish creatures that charge forward in frenzy. Expect a pitched mediaval battle rather than a modern skirmish.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>A good old fashioned desperate stand against a sea of foes. Not for the faint hearted, that's for sure! So when do I leave, sir?</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>The terrain's not ideal and mystic traps aren't my specialty, but I never turn down a good challenge. Send me in!</eng>
+			</Stark>
+			<DrStahl>
+				<eng>Operating occult traps requires both precision and careful planning. A doctorate in careful precision planning clearly helps here, wouldn't you agree?</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>Though I have plenty of experience with the ink, I never had the pleasure to fight a battle in it. I'd welcome this opportunity.</eng>
+			</Upyr>
+		</TD2>
+		<TD3>
+			<Name>
+				<eng>Battle in the Ink</eng>
+			</Name>
+			<Desc>
+				<eng>A unit is needed to defend against an ink rift created by the Cult of Seven. We've added dozens of new traps to the existing ones and spread them strategically between the possible routes of approach. The terrain is relatively rugged, a keen eye can probably find many opportunities to improve the defenses. The enemy outnumbers us six to one and consists of slow but very powerful ranged creatures mixed with a smaller number of flyers.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>My forces will take up position in front of the traps and thin the herd. The contraptions can take care of whatever manages to elude our blades.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>This many traps open up a lot of tactical options and they allow my sharpshooters to fight from well protected positions. I like our chances.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>The terrain allows for at least half a dozen possible combat formations. I can build a very flexible defense here with the option to redeploy traps as needed. Excellent!</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>Bah, another defensive task! Why don't we just tear them apart and get it over with?</eng>
+			</Upyr>
+		</TD3>	
+	</Missions>
+	<resistance>
+		<relics>					
+			<Kanes_Badge>
+				<name>
+					<eng>Kane's Badge</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Awesome Champion characteristic.</eng>
+				</desc>	
+			</Kanes_Badge>
+			<BatuKhans_Horn>
+				<name>
+					<eng>Batu Khan's Horn</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Battalion Commander characteristic.</eng>
+				</desc>	
+			</BatuKhans_Horn>
+			<Serum_X>
+				<name>
+					<eng>Serum X</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Aggression characteristic.</eng>
+				</desc>	
+			</Serum_X>
+			<Laurels_Pontifex>
+				<name>
+					<eng>Laurels of the Pontifex</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Impressive Diplomat characteristic.</eng>
+				</desc>	
+			</Laurels_Pontifex>
+			<Golden_Spyglass>
+				<name>
+					<eng>Golden Spyglass</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Reconnoitre characteristic.</eng>
+				</desc>	
+			</Golden_Spyglass>
+			<GHWells_Manuscript>
+				<name>
+					<eng>G.H. Wells Manuscript</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Ambush characteristic.</eng>
+				</desc>	
+			</GHWells_Manuscript>
+			<Orichalcum_Chesspiece>
+				<name>
+					<eng>Orichalcum Chesspiece</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Master Strategist characteristic.</eng>
+				</desc>	
+			</Orichalcum_Chesspiece>
+			<Forbidden_Apocryphs>
+				<name>
+					<eng>Forbidden Apocryphs</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Occult Scholar characteristic.</eng>
+				</desc>	
+			</Forbidden_Apocryphs>
+			<Mendeleevs_Journals>
+				<name>
+					<eng>Mendeleev's Journals</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Scientific Prodigy characteristic.</eng>
+				</desc>	
+			</Mendeleevs_Journals>
+			<Jackmans_Crossbow>
+				<name>
+					<eng>The Jack-man's Crossbow</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Legendary Archer characteristic.</eng>
+				</desc>	
+			</Jackmans_Crossbow>
+			<Valorean_Steel_Blade>
+				<name>
+					<eng>Valorean Steel Blade</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Melee Expert characteristic.</eng>
+				</desc>	
+			</Valorean_Steel_Blade>
+			<Saints_Tears>
+				<name>
+					<eng>The Saint's Tears</eng>
+				</name>
+				<desc>
+					<eng>Decreases recovery time for the bearer by 15%.</eng>
+				</desc>	
+			</Saints_Tears>
+		</relics>
+	</resistance>
+</Root>

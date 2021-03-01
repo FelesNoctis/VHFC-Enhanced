@@ -1,0 +1,892 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quests>
+		<Ch1_The_Sanctuary>
+			<Name>
+				<eng>Deserted village</eng>
+			</Name>
+			<desc>
+				<eng>I entered the strange Inkgate that opened up in our underground maze. I ended up in a deserted village in the Ink. Hopefully I’ll find out here how to close that rift.</eng>
+			</desc>
+			<main>
+				<eng>Explore the village trapped in the Ink</eng>
+			</main>
+			<Go_out>
+				<eng>Go through the Inkgate that leads out of this place</eng>
+			</Go_out>
+			<Completed>
+				<eng>I cleared out the deserted village which was originally populated by refugees from a quarry in the Ink. Prisoner Seven was here recently and I suspect that this must have to something with the strange anomaly. I’ll follow his trail.</eng>
+			</Completed>
+		</Ch1_The_Sanctuary>
+		<Ch1_Patkanyfogo>
+			<Name>
+				<eng>The Pied Piper</eng>
+			</Name>
+			<desc>
+				<eng>The villagers of Sanctuary summoned a creature to lure away these monsters with the sound of his flute, but he lured away their children instead. I have to find this Pied Piper.</eng>
+			</desc>
+			<main>
+				<eng>Find the Pied Piper</eng>
+			</main>
+			<Speak>
+				<eng>Rescue the children</eng>
+			</Speak>
+			<Kill>
+				<eng>Kill the Pied Piper and send the children back to safety</eng>
+			</Kill>
+			<Completed>
+				<eng>I defeated the Pied Piper and now the children can safely return to their parents.</eng>
+			</Completed>
+		</Ch1_Patkanyfogo>
+		<Ch1_Island_of_Bones>
+			<Name>
+				<eng>Island of Bones</eng>
+			</Name>
+			<desc>
+				<eng>I arrived to a strange place, a graveyard of mythical creatures. It’s part of an Inkrealm, a chain of floating islands in the haze. The Inkheart Mines, my next destination is one of them.</eng>
+			</desc>
+			<main>
+				<eng>Find the road to the Inkheart Mines</eng>
+			</main>
+			<Defeat>
+				<eng>Defeat the Collector</eng>
+			</Defeat>
+			<Completed>
+				<eng>The monsters that Fulmigati captured in the Ink for further experiments were on the loose and killed their guards. I defeated the strongest beast and learned that a certain Master of Doors has been awakened. I’ll look into this.</eng>
+			</Completed>
+		</Ch1_Island_of_Bones>
+		<Ch1_The_prisoner_soldier>
+			<Name>
+				<eng>The Man in the Cage</eng>
+			</Name>
+			<desc>
+				<eng>I found a man in a cage where he tried to hide when the monsters got loose, but his plan worked a bit too well and he can't get out. I need to find the key: they must be still in the pockets of a dead man.</eng>
+			</desc>
+			<main>
+				<eng>Find the key to the cage</eng>
+			</main>
+			<Free>
+				<eng>Free the prisoner</eng>
+			</Free>
+			<Completed>
+				<eng>I found the key in the pockets of a dead overseer and set the prisoner free.</eng>
+			</Completed>
+		</Ch1_The_prisoner_soldier>
+		<Ch1_Inkheart_Mines>
+			<Name>
+				<eng>Inkheart Mines</eng>
+			</Name>
+			<desc>
+				<eng>The Inkheart Mines belonged to Professor Fulmigati. I hope to find some answers here.</eng>
+			</desc>
+			<main>
+				<eng>Explore the deserted mines</eng>
+			</main>
+			<Find_gate>
+				<eng>Find the gate to the lord of this realm</eng>
+			</Find_gate>
+			<Completed>
+				<eng>The Inkheart Mines, were a rare mineral called Rust was produced, was lost to some strange infection. I learned that Prisoner Seven took some of this material and left to find the lord of this realm, the Master of Doors.</eng>
+			</Completed>
+		</Ch1_Inkheart_Mines>
+		<Ch1_rust_Infection>
+			<Name>
+				<eng>Rustblight</eng>
+			</Name>
+			<desc>
+				<eng>I found an infected man, a former employer of the Inkheart Mines. He is suffering from the rare disease called Rustblight. I should seek out an alchemist: he could concoct a remedy.</eng>
+			</desc>
+			<main>
+				<eng>Speak with an alchemist about the infection</eng>
+			</main>
+			<Go_back>
+				<eng>Go back to the infected man</eng>
+			</Go_back>
+			<Completed>
+				<eng>Fortunately I was able to find an alchemist who was thrilled by the possibility to treat such a rare disease.</eng>
+			</Completed>
+		</Ch1_rust_Infection>
+		<Ch1_Rusty_Heart>
+			<Name>
+				<eng>Rustheart</eng>
+			</Name>
+			<desc>
+				<eng>Kill the injured man and take his heart</eng>
+			</desc>
+			<main>
+				<eng>Collect the rusty heart</eng>
+			</main>
+			<Go_back>
+				<eng>Return to the alchemist</eng>
+			</Go_back>
+			<Completed>
+				<eng>I had to make a grave decision: the cure wouldn't have helped the infected man so I killed him. But the illness transformed his heart into an extremely valuable component for later research. </eng>
+			</Completed>
+		</Ch1_Rusty_Heart>
+		<Ch1_Crystal_Bastion>
+			<Name>
+				<eng>Crystal Bastion</eng>
+			</Name>
+			<desc>
+				<eng>I found the place where this so-called Master of Doors lives – a creature that Prisoner Seven woke up from his ageless slumber. I suppose he must be the creator of that mysterious gate.</eng>
+			</desc>
+			<main>
+				<eng>Defeat the lord of this realm</eng>
+			</main>
+			<Completed>
+				<eng>The creature is dead, so the gate must be closed by now. No more trespassing from the untainted regions. But Prisoner Seven is still out there in the darkest reaches, planning something with the mysterious dream-material he collected.</eng>
+			</Completed>
+		</Ch1_Crystal_Bastion>
+	</Quests>
+	<SimplifiedConversation>
+		<1DLC_banters>
+			<Ink_tukor_varos>
+				<BNT_tukorvaros_indulas>
+					<01_Katarina>
+						<eng>This place looks like old Borgova before the weird science changed everything.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>So the Ink has some corners that time forgot. Great.</eng>
+					</02_VH>
+				</BNT_tukorvaros_indulas>
+				<CUT_tukorvaros_Sanctuary>
+					<01_NPC_DLC_major>
+						<eng>Strangers! Did you come to help us?</eng>
+					</01_NPC_DLC_major>
+					<02_Katarina>
+						<eng>Well, it depends. We are a bit picky, you know.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>What is this place and what happened here?</eng>
+					</03_VH>
+					<04_NPC_DLC_major>
+						<eng>This is Sanctuary! We used to work in the Inkheart Mines until the accident. We sealed the gate that opened to that accursed place, but...</eng>
+					</04_NPC_DLC_major>
+					<05_Katarina>
+						<eng>Did you just say “accident”?</eng>
+					</05_Katarina>
+					<06_NPC_DLC_major>
+						<eng>...but a mysterious man in a mask appeared from nowhere and he opened up the gate. He left, but the monsters are coming through from beyond!</eng>
+					</06_NPC_DLC_major>
+					<07_VH>
+						<eng>Prisoner Seven! I should’ve known. We must find that gate. Rest assured, we are going to clear out your village on our way through.</eng>
+					</07_VH>
+				</CUT_tukorvaros_Sanctuary>
+				<CUT_Happy_family>
+					<01_Katarina>
+						<eng>I'll take the children back home.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>And tell the parents that they shouldn't summon powerful entities to deal with their problems.</eng>
+					</02_VH>
+				</CUT_Happy_family>
+				<BNT_tukorvaros_kifozde>
+					<01_NPC_szakacs>
+						<eng>A returning guest is the greatest compliment! But alas, I have no more ingredients in the pantry.</eng>
+					</01_NPC_szakacs>
+				</BNT_tukorvaros_kifozde>
+			</Ink_tukor_varos>
+			<Ink_csont>
+				<BNT_Ink_csont_kezdo>
+					<01_VH>
+						<eng>This must be the place where the legendary creatures came to die.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Judging by the scenery, I’d say that they were captured first.</eng>
+					</02_Katarina>
+				</BNT_Ink_csont_kezdo>
+				<CUT_Volodya_information>
+					<01_NPC_Volodya>
+						<eng>Oh, finally someone! Save me!</eng>
+					</01_NPC_Volodya>
+					<02_VH>
+						<eng>Who are you and what is this place?</eng>
+					</02_VH>
+					<03_NPC_Volodya>
+						<eng>This used to be Fulmigati’s den where they kept the creatures they captured in the Ink before they took them to the city. Can I go now?</eng>
+					</03_NPC_Volodya>
+					<04_Katarina>
+						<eng>Don’t be offended, but you don’t look like a monster.</eng>
+					</04_Katarina>
+					<05_NPC_Volodya>
+						<eng>Because I’m not a monster! I used to be a guard! But a masked man arrived and let the creatures free. They killed everyone. The biggest one calls himself the Collector and captures mortals for fun.</eng>
+					</05_NPC_Volodya>
+					<06_VH>
+						<eng>I’ll deal with this Collector. How did you survive?</eng>
+					</06_VH>
+					<07_NPC_Volodya>
+						<eng>I was lucky and dumb. I tried to hide here but I forgot to take my keys.</eng>
+					</07_NPC_Volodya>
+					<08_Katarina>
+						<eng>Well then, have a nice time here. Bye!</eng>
+					</08_Katarina>
+					<09_NPC_Volodya>
+						<eng>Wait! The overseer had a key to the cages, but the creatures hanged him. It must still be in his pocket though. </eng>
+					</09_NPC_Volodya>
+				</CUT_Volodya_information>
+				<BNT_return_to_Volodya>
+					<01_VH>
+						<eng>This must be your lucky day. We found the key.</eng>
+					</01_VH>
+					<02_NPC_Volodya>
+						<eng>Thank you! If you don’t mind, I’ll stay a bit. Only until you deal with the monsters, you know.</eng>
+					</02_NPC_Volodya>
+				</BNT_return_to_Volodya>
+				<CUT_The_Collector>
+					<01_Ink_csont_bies_boss>
+						<eng>What are you doing here? This place and everything beyond that gate now belongs to the Master of Doors!</eng>
+					</01_Ink_csont_bies_boss>
+					<02_VH>
+						<eng>I have no idea who this Master might be. Would you care to elaborate?</eng>
+					</02_VH>
+					<03_Ink_csont_bies_boss>
+						<eng>He opens and closes gates with a snap of his fingers. He has just been woken from his dark sleep and reclaimed his islands in the Ink!</eng>
+					</03_Ink_csont_bies_boss>
+					<04_VH>
+						<eng>Let me guess... He doesn't want to see any strangers on his lands, does he?</eng>
+					</04_VH>
+					<05_Ink_csont_bies_boss>
+						<eng>You are a bright lad!  Your flayed skin  will make a nice present for my Master.</eng>
+					</05_Ink_csont_bies_boss>
+				</CUT_The_Collector>
+			</Ink_csont>
+			<Ink_quarry>
+				<BNT_inkheart>
+					<01_VH>
+						<eng>This must be the abandoned Inkheart Mines.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Now in the possession of a glorified doorkeeper.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>It’s all starting to make sense. First Prisoner Seven passes through here, later a certain Master of Doors returns, then a mysterious Inkspill appears in the Lair.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>Let’s find him, beat him up and ask him. In this order, if it’s possible.</eng>
+					</04_Katarina>
+				</BNT_inkheart>
+				<CUT_fertozott_koldus>
+					<01_NPC_fertozott_koldus>
+						<eng>Watch out! I’m infected with the Rustblight. Did the masked man send you?</eng>
+					</01_NPC_fertozott_koldus>
+					<02_VH>
+						<eng>No, but I’d like to find him. Where did he go?</eng>
+					</02_VH>
+					<03_NPC_fertozott_koldus>
+						<eng>Well, he wasn’t too talkative. He grabbed our last chest filled with Rust and left towards the forbidden Inkgate. The one leads the palace of the Master of the Doors.</eng>
+					</03_NPC_fertozott_koldus>
+					<04_Katarina>
+						<eng>What is this Rustblight?</eng>
+					</04_Katarina>
+					<05_NPC_fertozott_koldus>
+						<eng>The Rust is a rare dream-material you can only find here. It enhances the properties of the Ink. But there was an accident in the refinery… and we all got the Rustblight.</eng>
+					</05_NPC_fertozott_koldus>
+					<06_VH>
+						<eng>Is it lethal?</eng>
+					</06_VH>
+					<07_NPC_fertozott_koldus>
+						<eng>An alchemist could prepare a healing potion. But I’m the only one here, apart from the industrial beasts. The others died or fled.</eng>
+					</07_NPC_fertozott_koldus>
+					<08_VH>
+						<eng>I’ll see what I can do.</eng>
+					</08_VH>
+				</CUT_fertozott_koldus>
+				<CUT_Rust_curse>
+					<01_NPC_fertozott_koldus>
+						<eng>Oh... you came to kill me.</eng>
+					</01_NPC_fertozott_koldus>
+					<02_Katarina>
+						<eng>Why do you say that?</eng>
+					</02_Katarina>
+					<03_NPC_fertozott_koldus>
+						<eng>Rustblight gives you glimpses of the truth…  But it won't be easy... I have changed... into... something… stronger! I'LL KILL YOU FIRST!</eng>
+					</03_NPC_fertozott_koldus>
+				</CUT_Rust_curse>
+				<CUT_hazimano_POI>
+					<01_NPC_hazimano>
+						<eng>Go away! You can’t be here! Get away, you lot!</eng>
+					</01_NPC_hazimano>
+					<02_Katarina>
+						<eng>Oh, a house elf. They are tending the family homes, just like the Domovoys, but they have huge magical powers.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>So you are a powerful wizard and you still sweep the floors? How pitiful is that?</eng>
+					</03_VH>
+					<04_NPC_hazimano>
+						<eng>So what? That’s what we do. It’s a tradition. Now get lost before I turn you into something terrible!</eng>
+					</04_NPC_hazimano>
+					<05_Katarina>
+						<eng>Oh, you are really ugly and miserable!</eng>
+					</05_Katarina>
+					<06_VH>
+						<eng>You know what? You get lost!</eng>
+					</06_VH>
+				</CUT_hazimano_POI>
+			</Ink_quarry>
+			<Ink_kristalyos>
+				<BNT_hereweare>
+					<01_VH>
+						<eng>Here we are.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>This place feels old and pure. Fulmigati couldn’t taint this realm with his science.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Which means that this Master of Doors must be an ancient creature.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>A creature that our Prisoner Seven woke up from his ageless slumber.</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>Sounds promising! Let’s go.</eng>
+					</05_VH>
+				</BNT_hereweare>
+				<CUT_Master_of_Doors>
+					<01_Ink_kristalyos_erdo_szelleme_boss>
+						<eng>Van Helsing! Your fame precedes you.</eng>
+					</01_Ink_kristalyos_erdo_szelleme_boss>
+					<02_VH>
+						<eng>Just like my enemies, as it seems.</eng>
+					</02_VH>
+					<03_Ink_kristalyos_erdo_szelleme_boss>
+						<eng>That’s true. I made a small bargain with your masked friend after he woke me up. I opened a door to the darkest regions of the Ink and he left. You won’t catch him, sorry. And he told me the exact location of your underground lair, so I opened another gate as near as I could.</eng>
+					</03_Ink_kristalyos_erdo_szelleme_boss>
+					<04_Katarina>
+						<eng>Oh, did we spoil your surprise visit? I’m so sorry!</eng>
+					</04_Katarina>
+					<05_Ink_kristalyos_erdo_szelleme_boss>
+						<eng>Don’t worry. I might still pop in... kill everyone, plunder your Lair… and visit the modern city while I’m there.</eng>
+					</05_Ink_kristalyos_erdo_szelleme_boss>
+					<06_VH>
+						<eng>Close that gate. Now.</eng>
+					</06_VH>
+					<07_Ink_kristalyos_erdo_szelleme_boss>
+						<eng>I couldn’t do that even if I wanted to. That gate is open until I live and breathe.</eng>
+					</07_Ink_kristalyos_erdo_szelleme_boss>
+					<08_VH>
+						<eng>Great! And first I thought that this was going to be difficult.</eng>
+					</08_VH>
+				</CUT_Master_of_Doors>
+				<CUT_1DLC_Finale>
+					<01_VH>
+						<eng>The creature is dead, so the gate must be closed by now. No more trespassing from the untainted regions.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Are you sure? Prisoner Seven is out there in the darkest reaches, planning something with the mysterious dream-material he collected.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>But we lived to fight another day. Let’s go home.</eng>
+					</03_VH>
+				</CUT_1DLC_Finale>
+				<BNT_smallzilla_POI>
+					<01_Katarina>
+						<eng>Look, look! How cute! Can I take him home, Van Helsing?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I don’t know what this creature is, but it looks small and young.  His mother could still be around here.</eng>
+					</02_VH>
+				</BNT_smallzilla_POI>
+				<BNT_teleagatya_POI>
+					<01_Katarina>
+						<eng>You know what? Let’s just leave him here. It would grow too big for the Lair anyway.</eng>
+					</01_Katarina>
+				</BNT_teleagatya_POI>
+			</Ink_kristalyos>
+		</1DLC_banters>
+	</SimplifiedConversation>
+	<Battle>
+		<GUI>
+			<map>
+				<terep_ink_tukor_varos>
+					<name>
+						<eng>Sanctuary</eng>
+					</name>
+				</terep_ink_tukor_varos>
+				<terep_ink_csont>
+					<name>
+						<eng>Island of Bones</eng>
+					</name>
+				</terep_ink_csont>
+				<terep_ink_quarry>
+					<name>
+						<eng>Inkheart Mines</eng>
+					</name>
+				</terep_ink_quarry>
+				<terep_ink_kristalyos>
+					<name>
+						<eng>Crystal Bastion</eng>
+					</name>
+				</terep_ink_kristalyos>
+				<Lair_DLC1>
+					<name>
+						<eng>Secret Lair</eng>
+					</name>
+				</Lair_DLC1>
+			</map>
+		</GUI>
+		<GameObject>
+			<Info>
+				<Ketrecfelugyelo_hulla>					
+					<eng>Hanged Man</eng>				
+				</Ketrecfelugyelo_hulla>
+				<Ink_csont_sarkanyfog>					
+					<eng>Dragon Bones</eng>				
+				</Ink_csont_sarkanyfog>
+				<Ink_csont_ketrec_ajto>					
+					<eng>Locked Cage</eng>				
+				</Ink_csont_ketrec_ajto>
+				<Csont_teleport1>					
+					<eng>Ink Gate</eng>				
+				</Csont_teleport1>
+				<Csont_teleport2>					
+					<eng>Ink Gate</eng>				
+				</Csont_teleport2>
+				<Entrance_to_ink_quarry>					
+					<eng>Ink Gate</eng>				
+				</Entrance_to_ink_quarry>
+				<quarry_door>					
+					<eng>Strange Door</eng>				
+				</quarry_door>
+				<waypoint_ink_quarry_end>					
+					<eng>Rocky Gap</eng>				
+				</waypoint_ink_quarry_end>
+				<Hidden_rock>					
+					<eng>Glittering Stones</eng>				
+				</Hidden_rock>
+				<Bossfight_segedkapu>					
+					<eng>Ink Gate</eng>				
+				</Bossfight_segedkapu>
+				<Kristalyos_kapu1>					
+					<eng>Stepping Stone</eng>				
+				</Kristalyos_kapu1>
+				<Kristalyos_kapu2>					
+					<eng>Stepping Stone</eng>				
+				</Kristalyos_kapu2>
+				<Teleport_kut>					
+					<eng>Crystal Basin</eng>				
+				</Teleport_kut>
+				<terep_ink_tukor_varos>
+					<waypoint_tukorvaros>
+						<eng>Crooked House</eng>
+					</waypoint_tukorvaros>
+				</terep_ink_tukor_varos>
+				<terep_ink_csont>
+					<waypoint_ink_csont>
+						<eng>Hillside</eng>
+					</waypoint_ink_csont>
+				</terep_ink_csont>
+				<terep_ink_quarry>
+					<waypoint_ink_quarry>
+						<eng>Deserted Platform</eng>
+					</waypoint_ink_quarry>
+				</terep_ink_quarry>
+				<terep_ink_kristalyos>
+					<waypoint_ink_kristalyos>
+						<eng>Ancient Inkgate</eng>
+					</waypoint_ink_kristalyos>
+				</terep_ink_kristalyos>
+				<Lair_DLC1>
+					<Waypoint_Lair>
+						<eng>Central Hall</eng>
+					</Waypoint_Lair>
+				</Lair_DLC1>
+			</Info>
+		</GameObject>
+	</Battle>
+	<Soldiers>
+		<NPC_Volodya>
+			<Name>
+				<eng>Volodya</eng>
+			</Name>
+		</NPC_Volodya>
+		<NPC_infected_man>
+			<Name>
+				<eng>Infected Man</eng>
+			</Name>
+		</NPC_infected_man>
+		<NPC_kobold>
+			<Name>
+				<eng>House Elf</eng>
+			</Name>
+		</NPC_kobold>
+		<NPC_Kid1>
+			<Name>
+				<eng>Hansel</eng>
+			</Name>
+		</NPC_Kid1>
+		<NPC_Kid2>
+			<Name>
+				<eng>Gretel</eng>
+			</Name>
+		</NPC_Kid2>
+		<NPC_Apa>
+			<Name>
+				<eng>Pieter Schulze</eng>
+			</Name>
+		</NPC_Apa>
+		<NPC_DLC_major>
+			<Name>
+				<eng>Mayor Wolfe</eng>
+			</Name>
+		</NPC_DLC_major>
+		<NPC_szakacs>
+			<Name>
+				<eng>Friedrich</eng>
+			</Name>
+		</NPC_szakacs>
+		<Ink_tukor_varos_pied_piper>
+			<Name>
+				<eng>Pied Piper</eng>
+			</Name>
+		</Ink_tukor_varos_pied_piper>
+		<Bies_boss>
+			<Name>
+				<eng>The Collector</eng>
+			</Name>
+		</Bies_boss>
+		<crabling>
+			<Name>
+				<eng>Crabling</eng>
+			</Name>
+		</crabling>
+		<Metallopod>
+			<Name>
+				<eng>Metallopod</eng>
+			</Name>
+		</Metallopod>
+		<Metallopod_Deluxe>
+			<Name>
+				<eng>Metallopod Deluxe</eng>
+			</Name>
+		</Metallopod_Deluxe>
+		<Phlogiston_Metallopod>
+			<Name>
+				<eng>Phlogiston Metallopod</eng>
+			</Name>
+		</Phlogiston_Metallopod>
+		<Goofzilla_ink>
+			<Name>
+				<eng>Smallzilla</eng>
+			</Name>
+		</Goofzilla_ink>
+		<emerald_golem_elite>
+			<Name>
+				<eng>Malachite Guardian</eng>
+			</Name>
+		</emerald_golem_elite>
+		<ink_kristalyos_faun>
+			<Name>
+				<eng>Master of Doors</eng>
+			</Name>
+		</ink_kristalyos_faun>
+		<SpecialAbilities>
+			<Bat_Swarm_Biest>
+				<eng>Bat Swarm</eng>
+			</Bat_Swarm_Biest>
+			<Jump_Biest>
+				<eng>Deadly Dive</eng>
+			</Jump_Biest>
+			<Crystal_nova>
+				<eng>Crystal Nova</eng>
+			</Crystal_nova>
+			<Shards>
+				<eng>Razor Shards</eng>
+			</Shards>
+			<Crystal_Storm>
+				<eng>Crystal Storm</eng>
+			</Crystal_Storm>
+			<Energy_beam_Behemoth>
+				<eng>Death Beam</eng>
+			</Energy_beam_Behemoth>
+			<Advanced_earthquake>
+				<eng>Devastating Earthquake</eng>
+			</Advanced_earthquake>
+		</SpecialAbilities>
+	</Soldiers>
+	<Artifacts>
+		<Items>
+			<Rustblight_Cure>
+				<Name>
+					<eng>Rustblight Cure</eng>
+				</Name>
+			</Rustblight_Cure>
+			<Grandmas_Ring>
+				<Name>
+					<eng>Grandma's Ring</eng>
+				</Name>
+			</Grandmas_Ring>
+			<vh2lvl60_Plaguedealer>
+				<Name>
+					<eng>Plaguedealer</eng>
+				</Name>
+			</vh2lvl60_Plaguedealer>
+			<Vh2lvl60_Frostgore>
+				<Name>
+					<eng>Frostgore</eng>
+				</Name>
+			</Vh2lvl60_Frostgore>
+			<vh2lvl60_Scorge>
+				<Name>
+					<eng>Scourge</eng>
+				</Name>
+			</vh2lvl60_Scorge>
+			<vh2lvl60_Arcane_Glory>
+				<Name>
+					<eng>Arcane Glory</eng>
+				</Name>
+			</vh2lvl60_Arcane_Glory>
+			<vh2lvl60_Hellfire>
+				<Name>
+					<eng>Hellfire</eng>
+				</Name>
+			</vh2lvl60_Hellfire>
+			<vh2lvl60_Toxin_Injector>
+				<Name>
+					<eng>Toxin Injector</eng>
+				</Name>
+			</vh2lvl60_Toxin_Injector>
+			<vh2lvl60_The_Kite>
+				<Name>
+					<eng>The Kite</eng>
+				</Name>
+			</vh2lvl60_The_Kite>
+			<vh2lvl60_Forceguard>
+				<Name>
+					<eng>Forceguard</eng>
+				</Name>
+			</vh2lvl60_Forceguard>
+			<vh2lvl60_Frozen_Carapace>
+				<Name>
+					<eng>Frozen Carapace</eng>
+				</Name>
+			</vh2lvl60_Frozen_Carapace>
+			<vh2lvl60_Soulcage>
+				<Name>
+					<eng>Soulcage</eng>
+				</Name>
+			</vh2lvl60_Soulcage>
+			<vh2lvl60_Souldrinker>
+				<Name>
+					<eng>Souldrinker</eng>
+				</Name>
+			</vh2lvl60_Souldrinker>
+			<vh2lvl60_Deathssnare>
+				<Name>
+					<eng>Death's Snare</eng>
+				</Name>
+			</vh2lvl60_Deathssnare>
+			<vh2lvl60_Escape>
+				<Name>
+					<eng>Escape</eng>
+				</Name>
+			</vh2lvl60_Escape>
+			<vh2lvl60_Lifeguard>
+				<Name>
+					<eng>Lifeguard</eng>
+				</Name>
+			</vh2lvl60_Lifeguard>
+			<vh2lvl60_Utility_Belt_MK2>
+				<Name>
+					<eng>Utility Belt MK2</eng>
+				</Name>
+			</vh2lvl60_Utility_Belt_MK2>
+			<vh2lvl60_Shroud_of_the_Stormgod>
+				<Name>
+					<eng>Shroud of the Stormgod</eng>
+				</Name>
+			</vh2lvl60_Shroud_of_the_Stormgod>
+			<vh2lvl60_Forcepack>
+				<Name>
+					<eng>Forcepack</eng>
+				</Name>
+			</vh2lvl60_Forcepack>
+			<vh2lvl60_Hope>
+				<Name>
+					<eng>Hope</eng>
+				</Name>
+			</vh2lvl60_Hope>
+			<vh2lvl60_Poison_Enhancer>
+				<Name>
+					<eng>Poison Enhancer</eng>
+				</Name>
+			</vh2lvl60_Poison_Enhancer>
+			<resonant_essence>
+				<Name>
+					<eng>Resonant Essence</eng>
+				</Name>
+				<Desc>
+					<eng></eng>
+				</Desc>
+			</resonant_essence>
+			<Ketreckulcs>
+				<Name>
+					<eng>Key</eng>
+				</Name>
+			</Ketreckulcs>
+			<Dragon_tooth>
+				<Name>
+					<eng>Dragon Tooth</eng>
+				</Name>
+			</Dragon_tooth>
+			<Rusty_Heart>
+				<Name>
+					<eng>Rusty Heart</eng>
+				</Name>
+			</Rusty_Heart>
+			<Vodyanoy_Haggis>
+				<Name>
+					<eng>Vodyanoy Haggis</eng>
+				</Name>
+				<ConsumeEffect>
+					<eng>+25 to All Resistances</eng>
+				</ConsumeEffect>
+			</Vodyanoy_Haggis>
+			<Vrikolak_Pie>
+				<Name>
+					<eng>Vrikolak Pie</eng>
+				</Name>
+			</Vrikolak_Pie>
+			<Domovoy_Steak>
+				<Name>
+					<eng>Domovoy Steak</eng>
+				</Name>
+			</Domovoy_Steak>
+		</Items>
+		<Enchantment>
+			<SpellLevelToFrozenSoil>
+				<desc>
+					<eng>$VALUE$ bonus level to Frozen Soil</eng>
+				</desc>
+			</SpellLevelToFrozenSoil>
+			<SpellLevelToAura__BlightAura>
+				<desc>
+					<eng>$VALUE$ bonus level to Blight Aura</eng>
+				</desc>
+			</SpellLevelToAura__BlightAura>
+			<SpellLevelToFateCurse>
+				<desc>
+					<eng>$VALUE$ bonus level to Fate Curse</eng>
+				</desc>
+			</SpellLevelToFateCurse>
+			<SpellLevelToAura__ElementalResonance>
+				<desc>
+					<eng>$VALUE$ bonus level to Elemental Resonance</eng>
+				</desc>
+			</SpellLevelToAura__ElementalResonance>
+			<SpellLevelToAura__Meditation>
+				<desc>
+					<eng>$VALUE$ bonus level to Meditation</eng>
+				</desc>
+			</SpellLevelToAura__Meditation>
+			<SpellLevelToSkinOfSteel>
+				<desc>
+					<eng>$VALUE$ bonus level to Skin of Steel</eng>
+				</desc>
+			</SpellLevelToSkinOfSteel>
+			<SpellLevelToAura__GlobeOfProtection>
+				<desc>
+					<eng>$VALUE$ bonus level to Globe Of Protection</eng>
+				</desc>
+			</SpellLevelToAura__GlobeOfProtection>
+			<SpellLevelToSoulRend>
+				<desc>
+					<eng>$VALUE$ bonus level to Soul Rend</eng>
+				</desc>
+			</SpellLevelToSoulRend>
+			<SpellLevelToImprovedArcaneMight>
+				<desc>
+					<eng>$VALUE$ bonus level to Improved Arcane Might</eng>
+				</desc>
+			</SpellLevelToImprovedArcaneMight>
+			<SpellLevelToBuff__ArcaneEruption>
+				<desc>
+					<eng>$VALUE$ bonus level to Arcane Eruption</eng>
+				</desc>
+			</SpellLevelToBuff__ArcaneEruption>
+			<SpellLevelToAura__StormSage>
+				<desc>
+					<eng>$VALUE$ bonus level to Storm Sage</eng>
+				</desc>
+			</SpellLevelToAura__StormSage>
+			<SpellLevelToBuff__ForceArmor>
+				<desc>
+					<eng>$VALUE$ bonus level to Force Armor</eng>
+				</desc>
+			</SpellLevelToBuff__ForceArmor>
+			<SpellLevelToAura__RangedDamageReduction>
+				<desc>
+					<eng>$VALUE$ bonus level to Telekinetic Aura</eng>
+				</desc>
+			</SpellLevelToAura__RangedDamageReduction>
+			<SpellLevelToFrostGrenade>
+				<desc>
+					<eng>$VALUE$ bonus level to Frost Grenade</eng>
+				</desc>
+			</SpellLevelToFrostGrenade>
+			<SpellLevelToToxicantcloud>
+				<desc>
+					<eng>$VALUE$ bonus level to Toxicant Cloud</eng>
+				</desc>
+			</SpellLevelToToxicantcloud>
+			<SpellLevelToSuperchargedBlast>
+				<desc>
+					<eng>$VALUE$ bonus level to Supercharged Blast</eng>
+				</desc>
+			</SpellLevelToSuperchargedBlast>
+			<SpellLevelToEmergencyVenting>
+				<desc>
+					<eng>$VALUE$ bonus level to Emergency Venting</eng>
+				</desc>
+			</SpellLevelToEmergencyVenting>
+			<CooldownReductionSoulburst>
+				<desc>
+					<eng>$VALUE$ sec cooldown for the Soulburst skill</eng>
+				</desc>
+			</CooldownReductionSoulburst>
+			<CooldownReductionNightmare>
+				<desc>
+					<eng>$VALUE$ sec cooldown for the Nightmare skill</eng>
+				</desc>
+			</CooldownReductionNightmare>
+			<CooldownReductionBuff__GrappleSnare>
+				<desc>
+					<eng>$VALUE$ sec cooldown for the Grapple Snare skill</eng>
+				</desc>
+			</CooldownReductionBuff__GrappleSnare>
+		</Enchantment>
+	</Artifacts>
+	<hiddencontent>
+		<fozelek_consumable>
+			<eng>You've sampled the local cuisine.</eng>
+		</fozelek_consumable>
+		<turoscsusza_consumable>
+			<eng>You've sampled the local cuisine.</eng>
+		</turoscsusza_consumable>
+		<rantotthus_consumable>
+			<eng>You've sampled the local cuisine.</eng>
+		</rantotthus_consumable>
+		<tukorvaros_titanic>
+			<eng>You've witnessed a special domovoy moment.</eng>
+		</tukorvaros_titanic>
+		<Dragontooth_dialog_done>
+			<eng>You've found a dragon tooth.</eng>
+		</Dragontooth_dialog_done>
+		<Mano_megnyiffant>
+			<eng>You have saved the world from a power-hungry, floor-sweeping House-Elf.</eng>
+		</Mano_megnyiffant>
+		<hidden_rock_activate>
+			<eng>You've found the essence stash under the rubble.</eng>
+		</hidden_rock_activate>
+		<Smallzilla_POI>
+			<eng>You wisely left the cute smallzilla alone.</eng>
+		</Smallzilla_POI>
+		<Secret_gate_opened>
+			<eng>You've found the secret area in the Crystal Bastion.</eng>
+		</Secret_gate_opened>
+	</hiddencontent>
+</Root>

@@ -1,0 +1,611 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<HeroicDeeds>
+		<NextLevel>
+			<eng>Next Heroic Title</eng>
+		</NextLevel>
+		<NewAchievement>
+			<eng>Achievement Unlocked</eng>
+		</NewAchievement>
+		<HiddenContent>
+			<eng>Hidden content found!</eng>
+		</HiddenContent>
+		<Deeds>
+			<forgotten_knowledge>
+				<name1>
+					<eng>Forgotten knowledge</eng>
+				</name1>
+				<desc>
+					<eng>Reach level 100 with an Elementalist or Umbralist (character classes).</eng>
+				</desc>
+			</forgotten_knowledge>
+			<steam_lord>
+				<name1>
+					<eng>Steam Lord</eng>
+				</name1>
+				<desc>
+					<eng>Reach level 100 with a Constructor or Phlogistoneer (character classes).</eng>
+				</desc>
+			</steam_lord>
+			<good_ole_hunter>
+				<name1>
+					<eng>Just a good ole' hunter</eng>
+				</name1>
+				<desc>
+					<eng>Reach level 100 with a Bounty Hunter or Protector (character classes).</eng>
+				</desc>
+			</good_ole_hunter>
+			<circle_unbroken>
+				<name1>
+					<eng>Circle Unbroken</eng>
+				</name1>
+				<desc>
+					<eng>Complete the "Forgotten Knowledge", "Steam Lord" and "Just a Good ole' hunter" achievements.</eng>
+				</desc>
+			</circle_unbroken>
+			<requiem>
+				<name1>
+					<eng>Requiem for a dream</eng>
+				</name1>
+				<desc>
+					<eng>Die with a level 60 or higher hardcore character.</eng>
+				</desc>
+			</requiem>
+			<glory_100>
+				<name1>
+					<eng>Eternal Glory</eng>
+				</name1>
+				<desc>
+					<eng>Reach Glory level 100.</eng>
+				</desc>
+				<req>
+					<eng>$CurrentValue$/$NextLevelValue$ Glory level</eng>
+				</req>
+			</glory_100>
+			<legend>
+				<name1>
+					<eng>Glory of a legend</eng>
+				</name1>
+				<desc>
+					<eng>Reach Reputation level 15.</eng>
+				</desc>
+				<req>
+					<eng>$CurrentValue$/$NextLevelValue$ Reputation level</eng>
+				</req>
+			</legend>
+			<skill_branch_complete>
+				<name1>
+					<eng>Specialist</eng>
+				</name1>
+				<desc>
+					<eng>Learn every Skill, Powerup and Mastery on a single branch of the Skill Tree with any Character Class.</eng>
+				</desc>
+			</skill_branch_complete>
+			<td_mission>
+				<name1>
+					<eng>Tower Defender</eng>
+				</name1>
+				<desc>
+					<eng>Finish a Tower Defense mission.</eng>
+				</desc>
+			</td_mission>
+			<resistance_mission>
+				<name1>
+					<eng>Viva la Resistance!</eng>
+				</name1>
+				<desc>
+					<eng>Finish a Resistance mission.</eng>
+				</desc>
+			</resistance_mission>
+			<jones>
+				<name1>
+					<eng>In your face, Jones!</eng>
+				</name1>								
+				<desc>
+					<eng>Collect 10 Relics for the Resistance.</eng>
+				</desc>
+				<req>
+					<eng>$CurrentValue$/$NextLevelValue$ Relics collected</eng>
+				</req>
+			</jones>
+			<potions_drunk>
+				<name1>
+					<eng>Just a sip</eng>
+				</name1>
+				<desc>
+					<eng>Drink lots of potions (shouldn't be that hard).</eng>
+				</desc>
+				<req>
+					<eng>$CurrentValue$/$NextLevelValue$ potions consumed</eng>
+				</req>
+			</potions_drunk>
+			<looted_chest_count>
+				<name1>
+					<eng>Treasure Hunter</eng>
+				</name1>
+				<desc>
+					<eng>Let's be honest here. The most important part of a game like Van Helsing is the LOOT! So go out there and gather as much as you can! From chests.</eng>
+				</desc>
+				<req>
+					<eng>(Chests looted: $CurrentValue$/$NextLevelValue$)</eng>
+				</req>
+			</looted_chest_count>
+			<good_catch>
+				<name1>
+					<eng>A good catch</eng>
+				</name1>								
+				<desc>
+					<eng>Collect 1 million gold with any character.</eng>
+				</desc>
+				<req>
+					<eng>$CurrentValue$/$NextLevelValue$ Total gold collected</eng>
+				</req>
+			</good_catch>
+			<set_equipped>
+				<name1>
+					<eng>A hunter with style</eng>
+				</name1>								
+				<desc>
+					<eng>Equip a full collection of Set items.</eng>
+				</desc>
+			</set_equipped>
+			<manservant>
+				<name1>
+					<eng>Manservant</eng>
+				</name1>
+				<desc>
+					<eng>Gain entrance to the village of Markovna with the help of Lady Katarina.</eng>
+				</desc>
+			</manservant>
+			<reach_borgova>
+				<name1>
+					<eng>Reach Borgova</eng>
+				</name1>
+				<desc>
+					<eng>Reach the town of Borgova.</eng>
+				</desc>
+			</reach_borgova>
+			<kill_breda>
+				<name1>
+					<eng>Breda and Butter</eng>
+				</name1>
+				<desc>
+					<eng>Defeat Fulmigati's General.</eng>
+				</desc>
+			</kill_breda>
+			<kill_fulmigati>
+				<name1>
+					<eng>Unfulmigator</eng>
+				</name1>
+				<desc>
+					<eng>Defeat Fulmigati the Mad Scientist.</eng>
+				</desc>
+			</kill_fulmigati>
+			<perun_2_completed>
+				<name1>
+					<eng>Shock and Awe</eng>
+				</name1>								
+				<desc>
+					<eng>Let loose the power of Perun.</eng>
+				</desc>
+			</perun_2_completed>
+			<defeat_drillingtorony>
+				<name1>
+					<eng>Spanner in the works</eng>
+				</name1>								
+				<desc>
+					<eng>Destroy the Animated Extraction Rig.</eng>
+				</desc>
+			</defeat_drillingtorony>
+			<defeat_harker_dryad>
+				<name1>
+					<eng>The roots of evil</eng>
+				</name1>								
+				<desc>
+					<eng>Defeat the Dryad Queen and General Harker.</eng>
+				</desc>
+			</defeat_harker_dryad>
+			<crystal_bastion>
+				<name1>
+					<eng>Crystal Bastion</eng>
+				</name1>
+				<desc>
+					<eng>Defeat the Master of Doors</eng>
+				</desc>
+			</crystal_bastion>
+			<follow_the_leader>
+				<name1>
+					<eng>Follow the Leader</eng>
+				</name1>
+				<desc>
+					<eng>You have defeated the leader of the Cult of Seven.</eng>
+				</desc>
+			</follow_the_leader>
+			<lock_and_key>
+				<name1>
+					<eng>Lock and Key</eng>
+				</name1>
+				<desc>
+					<eng>You have sealed down the Impossible Tombs.</eng>
+				</desc>
+			</lock_and_key>
+			<defying_death>
+				<name1>
+					<eng>Defying Death</eng>
+				</name1>
+				<desc>
+					<eng>You have destroyed Koschei's Death.</eng>
+				</desc>
+			</defying_death>
+			<ride_into_the_sunset>
+				<name1>
+					<eng>Ride into the Sunset</eng>
+				</name1>
+				<desc>
+					<eng>You have defeated Koshei the Deathless and saved Borgovia.</eng>
+				</desc>
+			</ride_into_the_sunset>
+			<hardcore_ending>
+				<name1>
+					<eng>I'm so Hardcore!</eng>
+				</name1>
+				<desc>
+					<eng>Finish the game with a Hardcore character.</eng>
+				</desc>
+			</hardcore_ending>
+			<mostly_coop>
+				<name1>
+					<eng>Never Walk Alone</eng>
+				</name1>
+				<desc>
+					<eng>Finish the game playing mostly in coop.</eng>
+				</desc>
+			</mostly_coop>
+			<full_solo>
+				<name1>
+					<eng>Lone Wolf</eng>
+				</name1>
+				<desc>
+					<eng>Finish the game in single player all the way through.</eng>
+				</desc>
+			</full_solo>
+			<daily_quest_completed>
+				<name1>
+					<eng>But wait! There's more!</eng>
+				</name1>
+				<desc>
+					<eng>Complete a Daily Quest.</eng>
+				</desc>
+			</daily_quest_completed>
+			<scenario_completed>
+				<name1>
+					<eng>A change of pace</eng>
+				</name1>
+				<desc>
+					<eng>Finish an Adventure.</eng>
+				</desc>
+			</scenario_completed>
+			<scenario_types>
+				<name1>
+					<eng>Tour the World</eng>
+				</name1>
+				<desc>
+					<eng>Play every Adventure type.</eng>
+				</desc>
+			</scenario_types>
+			<td_mission_perfect>
+				<name1>
+					<eng>Perfect Plan</eng>
+				</name1>
+				<desc>
+					<eng>Finish a Tower Defense mission without letting any monster reach the gate.</eng>
+				</desc>
+			</td_mission_perfect>
+			<killed_monsters_total>
+				<name1>
+					<eng>Monsters' Bane</eng>
+				</name1>
+				<desc>
+					<eng>Killing lots of monsters will make you famous among the populace and infamous among the monsters.</eng>
+				</desc>
+				<req>
+					<eng>(Killed Monsters: $CurrentValue$/$NextLevelValue$)</eng>
+				</req>
+			</killed_monsters_total>
+			<ghost_of_war>
+				<name1>
+					<eng>Let loose the ghost of war</eng>
+				</name1>
+				<desc>
+					<eng>Let Lady Katarina kill a Boss. (Delivering the final blow is enough.)</eng>
+				</desc>
+			</ghost_of_war>
+			<killed_monsters_boss>
+				<name1>
+					<eng>Nemesis</eng>
+				</name1>
+				<desc>
+					<eng>Defeat Bosses to gain reputation!</eng>
+				</desc>
+				<req>
+					<eng>(Killed Bosses: $CurrentValue$/$NextLevelValue$)</eng>
+				</req>
+			</killed_monsters_boss>
+			<killed_monsters_miniboss>
+				<name1>
+					<eng>Archhero</eng>
+				</name1>
+				<desc>
+					<eng>Defeat Special Enemies to gain reputation!</eng>
+				</desc>
+				<req>
+					<eng>(Killed Specials: $CurrentValue$/$NextLevelValue$)</eng>
+				</req>
+			</killed_monsters_miniboss>
+			<godlike_maxed>
+				<name1>
+					<eng>Godlike</eng>
+				</name1>
+				<desc>
+					<eng>Upgrade a Godlike item to its full potential.</eng>
+				</desc>
+			</godlike_maxed>
+			<all_achievements>
+				<name1>
+					<eng>Incredible Adventures</eng>
+				</name1>
+				<desc>
+					<eng>Complete all Achievements.</eng>
+				</desc>
+			</all_achievements>
+			<bunnyslayer>
+				<name1>
+					<eng>Bunnyslayer</eng>
+				</name1>
+				<desc>
+					<eng>Find the mythical sword The Bunnyslayer.</eng>
+				</desc>
+			</bunnyslayer>
+			<riddle_me_wisp>
+				<name1>
+					<eng>Riddle me Wisp</eng>
+				</name1>
+				<desc>
+					<eng>Answer all the Riddle Wisps correctly (so you don't have to fight them).</eng>
+				</desc>
+				<req>
+					<eng>(Wisps answered: $CurrentValue$/$NextLevelValue$)</eng>
+				</req>
+			</riddle_me_wisp>
+			<rightful_heir>
+				<name1>
+					<eng>Rightful Heir</eng>
+				</name1>
+				<desc>
+					<eng>Retrieve King Borislav's Royal Scepter.</eng>
+				</desc>
+			</rightful_heir>
+			<gandalf_looted>
+				<name1>
+					<eng>Grey Treasures</eng>
+				</name1>
+				<desc>
+					<eng>Loot the Grey Wizard.</eng>
+				</desc>
+			</gandalf_looted>
+			<bomb_expert>
+				<name1>
+					<eng>It was a blast!</eng>
+				</name1>
+				<desc>
+					<eng>Save the Bomb Expert's life</eng>
+				</desc>
+			</bomb_expert>
+			<jack_not_free>
+				<name1>
+					<eng>Profiler</eng>
+				</name1>
+				<desc>
+					<eng>You have an uncanny sense of recognizing dangerous criminals and you know who should stay behind bars.</eng>
+				</desc>
+			</jack_not_free>
+			<murky_waters>
+				<name1>
+					<eng>Murky waters</eng>
+				</name1>
+				<desc>
+					<eng>You've found the underwater section of the Laboratory.</eng>
+				</desc>
+			</murky_waters>
+			<grimm_truth>
+				<name1>
+					<eng>The Grimm truth</eng>
+				</name1>
+				<desc>
+					<eng>You've uncovered the true story of Hansel and Gretel.</eng>
+				</desc>
+			</grimm_truth>
+			<poni>
+				<name1>
+					<eng>Her little pony</eng>
+				</name1>
+				<desc>
+					<eng>You have found the tomb of the lost pony.</eng>
+				</desc>
+			</poni>
+			<katarina_rokon>
+				<name1>
+					<eng>Family reunion</eng>
+				</name1>
+				<desc>
+					<eng>You've met one of Katarina's relatives in the Otherworld.</eng>
+				</desc>
+			</katarina_rokon>
+			<upgrade_critical_damage>
+				<name1>
+					<eng>Critical Damage</eng>
+				</name1>
+				<desc>
+					<eng>Causing more Damage is always good.</eng>
+				</desc>
+			</upgrade_critical_damage>
+			<upgrade_critical_chance>
+				<name1>
+					<eng>Critical Chance</eng>
+				</name1>
+				<desc>
+					<eng>Causing more Criticals is always good.</eng>
+				</desc>
+			</upgrade_critical_chance>
+			<upgrade_attack_rate>
+				<name1>
+					<eng>Attack Rate</eng>
+				</name1>
+				<desc>
+					<eng>More Attacks per second means more Damage per second. Awesome!</eng>
+				</desc>
+			</upgrade_attack_rate>
+			<upgrade_fire_damage>
+				<name1>
+					<eng>Fire Damage</eng>
+				</name1>
+				<desc>
+					<eng>Causing more Damage with Fire.</eng>
+				</desc>
+			</upgrade_fire_damage>
+			<upgrade_cold_damage>
+				<name1>
+					<eng>Ice Damage</eng>
+				</name1>
+				<desc>
+					<eng>Causing more Damage with Ice.</eng>
+				</desc>
+			</upgrade_cold_damage>
+			<upgrade_lightning_damage>
+				<name1>
+					<eng>Lightning Damage</eng>
+				</name1>
+				<desc>
+					<eng>Causing more Damage with Lightning.</eng>
+				</desc>
+			</upgrade_lightning_damage>
+			<upgrade_poison_damage>
+				<name1>
+					<eng>Poison Damage</eng>
+				</name1>
+				<desc>
+					<eng>Causing more Damage with Poison.</eng>
+				</desc>
+			</upgrade_poison_damage>
+			<upgrade_physical_damage>
+				<name1>
+					<eng>Physical Damage</eng>
+				</name1>
+				<desc>
+					<eng>Causing more Physical Damage.</eng>
+				</desc>
+			</upgrade_physical_damage>
+			<upgrade_hp>
+				<name1>
+					<eng>HP</eng>
+				</name1>
+				<desc>
+					<eng>Bonus Hit Points are always nice.</eng>
+				</desc>
+			</upgrade_hp>
+			<upgrade_mana>
+				<name1>
+					<eng>Mana</eng>
+				</name1>
+				<desc>
+					<eng>Bonus Mana Points are always nice.</eng>
+				</desc>
+			</upgrade_mana>
+			<upgrade_cooldown_reduction>
+				<name1>
+					<eng>Cooldown Reduction</eng>
+				</name1>
+				<desc>
+					<eng>A reduced Cooldown allows you to cast spells faster.</eng>
+				</desc>
+			</upgrade_cooldown_reduction>
+			<upgrade_dodge>
+				<name1>
+					<eng>Dodge</eng>
+				</name1>
+				<desc>
+					<eng>More Dodge = less hits taken.</eng>
+				</desc>
+			</upgrade_dodge>
+			<upgrade_physical_resist>
+				<name1>
+					<eng>Physical Resistance</eng>
+				</name1>
+				<desc>
+					<eng>A higher Resistance to Physical Damage can come in handy.</eng>
+				</desc>
+			</upgrade_physical_resist>
+			<upgrade_elemental_resist>
+				<name1>
+					<eng>Elemental Resistance</eng>
+				</name1>
+				<desc>
+					<eng>A higher Resistance to Elemental Damage can come in handy.</eng>
+				</desc>
+			</upgrade_elemental_resist>
+			<upgrade_poison_resist>
+				<name1>
+					<eng>Poison Resistance</eng>
+				</name1>
+				<desc>
+					<eng>A higher Resistance to Poison Damage can come in handy.</eng>
+				</desc>
+			</upgrade_poison_resist>
+			<upgrade_defense>
+				<name1>
+					<eng>Defense</eng>
+				</name1>
+				<desc>
+					<eng>More Defense = less damage taken.</eng>
+				</desc>
+			</upgrade_defense>
+			<upgrade_parry>
+				<name1>
+					<eng>Block</eng>
+				</name1>
+				<desc>
+					<eng>More Block = less hits taken. (While using a Sword, that is.)</eng>
+				</desc>
+			</upgrade_parry>
+			<upgrade_damage_reduction>
+				<name1>
+					<eng>Damage Reduction</eng>
+				</name1>
+				<desc>
+					<eng>Getting less Damage is always good.</eng>
+				</desc>
+			</upgrade_damage_reduction>
+			<upgrade_hp_regen>
+				<name1>
+					<eng>Rage</eng>
+				</name1>
+				<desc>
+					<eng>Bonus Rage Points are always nice.</eng>
+				</desc>
+			</upgrade_hp_regen>
+			<upgrade_mana_regen>
+				<name1>
+					<eng>Mana Regeneration</eng>
+				</name1>
+				<desc>
+					<eng>An increased rate of Mana Points Regeneration can help quite a bit.</eng>
+				</desc>
+			</upgrade_mana_regen>
+		</Deeds>
+	</HeroicDeeds>
+</Root>

@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<common>
+		<network>
+			<game_over>
+				<eng>Adventure has already started.</eng>
+			</game_over>
+		</network>
+	</common>
+	<gamemode>
+		<gamemode>
+			<touchdown>
+				<desc>
+					<eng>An exciting and traditional Borgovian game for the holiday season!\nPlayers are split into 2 groups. The goal is to grab the ball at the center of the map (the ball looks like a nice package) and deliver it to the enemy's base. Although it won't be as easy as it sounds.</eng>
+				</desc>
+				<scoreboard>
+					<eng>Touchdown scoring help:\nPlayer kill: 1\nPlayer kill as ball holder: 2\nKilling the ball holder: 4\nScore: 10\nScore assist: 5</eng>
+					<holder>
+						<eng>Ball</eng>
+					</holder>
+				</scoreboard>
+			</touchdown>
+		</gamemode>
+		<spectator>
+			<help>
+				<eng>Click to change spectated player</eng>
+			</help>
+			<player>
+				<eng>Currently spectating: %s</eng>
+			</player>
+		</spectator>
+		<scoreboard>
+			<text>
+				<touchdown>
+					<eng>Touchdown</eng>
+				</touchdown>
+			</text>
+		</scoreboard>
+	</gamemode>
+	
+	<battle>
+		<GUI>
+			<map>
+				<PvP_karacsony>
+					<name>
+						<eng>The Great Holiday Rampage</eng>
+					</name>
+				</PvP_karacsony>
+			</map>
+		</GUI>
+	</battle>
+	
+	<touchdown>
+		<announcer>
+			<ball_pickup>
+				<eng>%s has the ball!</eng>
+			</ball_pickup>
+			<scored>
+				<eng>%s scored!</eng>
+			</scored>
+			<ball_drop>
+				<eng>The ball is dropped!</eng>
+			</ball_drop>
+			<ball_reset>
+				<eng>Ball reset!</eng>
+			</ball_reset>
+			<next_round>
+				<eng>Next round in:</eng>
+			</next_round>
+		</announcer>
+	</touchdown>
+	
+	<skills>
+		<td_world_heal>
+			<name>
+				<eng>Second Chance</eng>
+			</name>
+			<desc>
+				<eng>Increases the HP regeneration in the designated area.</eng>
+			</desc>
+		</td_world_heal>
+		<td_world_Artillery>
+			<name>
+				<eng>Artillery</eng>
+			</name>
+			<desc>
+				<eng>Bombards the designated area with a heavy artillery strike.</eng>
+			</desc>
+		</td_world_Artillery>
+		<td_world_droppod>
+			<name>
+				<eng>Relief</eng>
+			</name>
+			<desc>
+				<eng>Calls in a dropship full of friendly abominations to help you!</eng>
+			</desc>
+		</td_world_droppod>
+		<td_world_potion_disable>
+			<name>
+				<eng>Suffering</eng>
+			</name>
+			<desc>
+				<eng>Disables any type of HP regeneration and the use of potions within the area.</eng>
+			</desc>
+		</td_world_potion_disable>
+		<td_world_Sentry>
+			<name>
+				<eng>Sentry</eng>
+			</name>
+			<desc>
+				<eng>Quickly assembles 5 Sentry turrets which deal damage to any enemy players who come in sight.</eng>
+			</desc>
+		</td_world_Sentry>
+		<td_world_Slow>
+			<name>
+				<eng>Slow</eng>
+			</name>
+			<desc>
+				<eng>Places a Slow spell at the designated area. The spell only affects your enemies.</eng>
+			</desc>
+		</td_world_Slow>
+		<touchdown_global>
+			<name>
+				<eng>Fair Play</eng>
+			</name>
+			<desc>
+				<eng>In the name of fair play, the Hit Points of your base have been gradually increased and you've become resistant against critical damage. The thrilling excitement also generates a lot of Rage.</eng>
+			</desc>
+		</touchdown_global>
+		<touchdown_holder>
+			<name>
+				<eng>Ballbearer</eng>
+			</name>
+			<desc>
+				<eng>The only way to carry the ball is to become someone who does it best. A Domovoy! You have decreased movement speed, you can't use any skills, and you lose the accumulated Rage rapidly.</eng>
+			</desc>
+		</touchdown_holder>
+		<touchdown_throw>
+			<name>
+				<eng>Tactical Throwing</eng>
+			</name>
+			<desc>
+				<eng>Throws the ball at the cursor\n\nHad enough of the ball? The enemy is breathing down your neck and you want to fight them? Would you like to give your teammate some chance to excel? Use this action, NOW!</eng>
+			</desc>
+		</touchdown_throw>
+		<touchdown_reset>
+			<name>
+				<eng>Surrender</eng>
+			</name>
+			<desc>
+				<eng>You heroically (cowardly) detonate the ball on yourself, killing you and everyone else close to you. The ball will be reset.</eng>
+			</desc>
+		</touchdown_reset>
+		
+		<td_item_invisibility>
+			<name>
+				<eng>Scroll of Super Mega Ninja Tricks</eng>
+			</name>
+			<desc>
+				<eng>Makes you invisible for a while. Any action except movement dispels this effect.</eng>
+			</desc>
+		</td_item_invisibility>
+		<td_item_noball>
+			<name>
+				<eng>Scroll of Slippery Hands</eng>
+			</name>
+			<desc>
+				<eng>The target is unable to pick up the ball. If he or she was already carrying the ball, it will be dropped.</eng>
+				<debuffdesc>
+					<eng>You cannot hold the ball for a while.</eng>
+				</debuffdesc>
+			</desc>
+		</td_item_noball>
+		<td_item_physics>
+			<name>
+				<eng>Whirlwind Scroll</eng>
+			</name>
+			<desc>
+				<eng>Everyone around you flies away, even your allies. A great way to escape the crowd!</eng>
+			</desc>
+		</td_item_physics>
+		<td_item_scale>
+			<name>
+				<eng>Scroll of Hugeness</eng>
+			</name>
+			<desc>
+				<eng>This scroll makes you huge, which can be useful for various reasons: you can block routes, you have a better chance to catch the ball and you draw unwanted attention to yourself.Everyone will attack you instinctively.</eng>
+			</desc>
+		</td_item_scale>
+		<td_item_silence>
+			<name>
+				<eng>Scroll of Silence</eng>
+			</name>
+			<desc>
+				<eng>Silences the target, who will be unable to cast offensive spells. It does not affect melee and ranged attacks.</eng>
+				<debuffdesc>
+					<eng>You are silenced and cannot cast offensive spells.</eng>
+				</debuffdesc>
+			</desc>
+		</td_item_silence>
+		<td_item_slowaura>
+			<name>
+				<eng>Scroll of Sluggishness</eng>
+			</name>
+			<desc>
+				<eng>Enemies around you are slowed.</eng>
+				<debuffdesc>
+					<eng>You are slowed.</eng>
+				</debuffdesc>
+			</desc>
+		</td_item_slowaura>
+	</skills>
+	
+	<artifacts>
+		<items>
+			<TD_Invisibility>
+				<name>
+					<eng>Scroll of Super Mega Ninja Tricks</eng>
+				</name>
+				<desc>
+					<eng>Makes you invisible for a while. Any action except movement dispels this effect.</eng>
+				</desc>
+			</TD_Invisibility>
+			<TD_NoBall>
+				<name>
+					<eng>Scroll of Slippery Hands</eng>
+				</name>
+				<desc>
+					<eng>The target is unable to pick up the ball. If he or she was already carrying the ball, it will be dropped.</eng>
+				</desc>
+			</TD_NoBall>
+			<TD_Physics>
+				<name>
+					<eng>Whirlwind Scroll</eng>
+				</name>
+				<desc>
+					<eng>Everyone around you flies away, even your allies. A great way to escape the crowd!</eng>
+				</desc>
+			</TD_Physics>
+			<TD_Scale>
+				<name>
+					<eng>Scroll of Hugeness</eng>
+				</name>
+				<desc>
+					<eng>This scroll makes you huge, which can be useful for various reasons: you can block routes, you have a better chance to catch the ball and you draw unwanted attention to yourself.Everyone will attack you instinctively.</eng>
+				</desc>
+			</TD_Scale>
+			<TD_Silence>
+				<name>
+					<eng>Scroll of Silence</eng>
+				</name>
+				<desc>
+					<eng>Silences the target, who will be unable to cast offensive spells. It does not affect melee and ranged attacks.</eng>
+				</desc>
+			</TD_Silence>
+			<TD_SlowAura>
+				<name>
+					<eng>Scroll of Sluggishness</eng>
+				</name>
+				<desc>
+					<eng>Enemies around you are slowed.</eng>
+				</desc>
+			</TD_SlowAura>
+		</items>
+	</artifacts>
+</Root>

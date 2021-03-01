@@ -1,0 +1,996 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quests>
+		<Ch1_GoToTheCity>
+			<Name>
+				<eng>Gorgon Pass</eng>
+			</Name>
+			<desc>
+				<eng>The easiest way to Borgova city is across the old bridge that spans a deep chasm. We are almost there.</eng>
+			</desc>
+			<main>
+				<eng>Get across the Bridge!</eng>
+			</main>
+			<find_village>
+				<eng>Find a village!</eng>
+			</find_village>
+			<talk_to_guard>
+				<eng>Talk to the Captain of the Guards!</eng>
+			</talk_to_guard>
+			<Completed>
+				<eng>I reached the first village on my way to Borgova city.</eng>
+			</Completed>
+		</Ch1_GoToTheCity>
+		<Ch1_FindAVillage>
+			<Name>
+				<eng>Find a village</eng>
+			</Name>
+			<desc>
+				<eng>The bridge has collapsed, so we must find another way to Borgova. Lady Katarina suggests that we should follow the mountain path that might lead to a village.</eng>
+			</desc>
+			<main>
+				<eng>Find a village!</eng>
+			</main>
+			<talk_to_guard>
+				<eng>Talk to the captain of the guards!</eng>
+			</talk_to_guard>
+		</Ch1_FindAVillage>
+		<Ch1_FindTheMajor>
+			<Name>
+				<eng>The Mayor</eng>
+			</Name>
+			<desc>
+				<eng>The village mayor hasn't returned to the village. He must be lost somewhere in the woods.</eng>
+			</desc>
+			<main>
+				<eng>Find the stranded cart in the woods.</eng>
+			</main>
+			<wolf_den>
+				<eng>Find the Wolf Den!</eng>
+			</wolf_den>
+			<enter_wolfden>
+				<eng>Enter the Wolf Den!</eng>
+			</enter_wolfden>
+			<destroy_sigil>
+				<eng>Destroy the Sigils! ([sigil_count]/5)</eng>
+			</destroy_sigil>
+			<go_back>
+				<eng>Go back to the village and speak with the Mayor!</eng>
+			</go_back>
+			<kill_wolf>
+				<eng>Defeat the Vrikolak Leader!</eng>
+			</kill_wolf>
+			<talk_mayor>
+				<eng>Talk to the Mayor!</eng>
+			</talk_mayor>
+			<Completed>
+				<eng>I found and rescued the Mayor of the village in the Wolf Den.</eng>
+			</Completed>
+		</Ch1_FindTheMajor>
+		<Ch1_SpeakWithTheGypsies>
+			<Name>
+				<eng>The Romany Curse</eng>
+			</Name>
+			<desc>
+				<eng>The wandering Romany put a curse on the village alchemist. I need his services, so I have to talk to the travelers first.</eng>
+			</desc>
+			<main>
+				<eng>Talk to the Romany!</eng>
+			</main>
+			<kill_the_beast>
+				<eng>Hunt down the dangerous Snowpelt!</eng>
+			</kill_the_beast>
+			<go_back>
+				<eng>Return to the Romany camp!</eng>
+			</go_back>
+			<talk_alchemist>
+				<eng>Talk to the Alchemist!</eng>
+			</talk_alchemist>
+			<Completed>
+				<eng>I removed the curse from the village alchemist.</eng>
+			</Completed>
+		</Ch1_SpeakWithTheGypsies>
+		<Ch1_InkInTheWell>
+			<Name>
+				<eng>Journey to the Ink</eng>
+			</Name>
+			<desc>
+				<eng>The well is a gap in reality, leading to the Ink that swirls beyond our world. An Inktide snatched away the alchemist's bag, and he needs it back.</eng>
+			</desc>
+			<main>
+				<eng>Retrieve a bag from the Ink!</eng>
+			</main>
+			<go_back>
+				<eng>Return to the Alchemist!</eng>
+			</go_back>
+			<Completed>
+				<eng>I retrieved the bag of the alchemist from the Ink.</eng>
+			</Completed>		
+		</Ch1_InkInTheWell>
+		<Ch1_Battlefield>
+			<Name>
+				<eng>Salvage mission</eng>
+			</Name>
+			<desc>
+				<eng>The village shopkeeper pays good money for the spare parts salvaged from the old hunter-machines.</eng>
+			</desc>
+			<main>
+				<eng>Collect Rusty bombs! ([Item:Rusty_bomb]/5)</eng>
+			</main>
+			<go_back>
+				<eng>Go back to the Shopkeeper!</eng>
+			</go_back>
+			<Completed>
+				<eng>I collected all the salvage parts for the village shopkeeper.</eng>
+			</Completed>		
+		</Ch1_Battlefield>
+		<Ch1_Scarecrow>
+			<Name>
+				<eng>The Scarecrow</eng>
+			</Name>
+			<desc>
+				<eng>I found an ominous Scarecrow in Croakwoods. It turned out to be an abomination called the Wingless Messiah who dragged me to his Ink Realm to die.</eng>
+			</desc>			
+			<main>
+				<eng>Defeat the Scarecrow!</eng>
+			</main>
+			<Completed>
+				<eng>I found the not-so-might Scarecrow and as it turns out, it was not scary enough to make me run for my life. I defeated it and that's the end of its story.</eng>
+			</Completed>
+		</Ch1_Scarecrow>
+		<Ch1_Bodyguarding>
+			<Name>
+				<eng>The merchant</eng>
+			</Name>
+			<desc>
+				<eng>A lone merchant wants to flee this forest. He needs to get to the Romany camp, to pay them for granting him safe passage.</eng>
+			</desc>
+			<main>
+				<eng>Escort the merchant to the Romany camp!</eng>
+			</main>
+			<Completed>
+				<eng>I escorted the lone merchant to the Romany camp.</eng>
+			</Completed>	
+		</Ch1_Bodyguarding>
+		<Ch1_RusalkaAmbush>
+			<Name>
+				<eng>Rusalka Ambush</eng>
+			</Name>
+			<desc>
+				<eng>The Rusalkas have returned to the woods and they are constantly attacking the village.</eng>
+			</desc>
+			<main>
+				<eng>Protect the village!</eng>
+			</main>
+			<go_back>
+				<eng>Talk with the Mayor of the village!</eng>
+			</go_back>
+			<protect_shop>
+				<eng>Protect the shop!</eng>
+			</protect_shop>
+			<protect_church>
+				<eng>Protect the village church!</eng>
+			</protect_church>
+			<protect_statue>
+				<eng>Protect the great statue!</eng>
+			</protect_statue>
+			<protect_gate1>
+				<eng>Stop the Rusalkas destroying the north gate!</eng>
+			</protect_gate1>
+			<protect_gate2>
+				<eng>Stop the Rusalkas destroying the west gate!</eng>
+			</protect_gate2>
+			<protect_gate3>
+				<eng>Stop the Rusalkas destroying the south gate!</eng>
+			</protect_gate3>
+			<Completed>
+				<eng>I repelled the Rusalka ambush on the village.</eng>
+			</Completed>			
+		</Ch1_RusalkaAmbush>
+		<Ch1_Spirit_of_the_Forest>
+			<Name>
+				<eng>Spirit of the Forest</eng>
+			</Name>
+			<desc>
+				<eng>It seems I have released something malevolent by touching too many of those runestones. I better deal with it.</eng>
+			</desc>
+			<main>
+				<eng>Kill the Spirit of the forest!</eng>
+			</main>
+			<Completed>
+				<eng>I destroyed the evil Spirit of the forest.</eng>
+			</Completed>	
+		</Ch1_Spirit_of_the_Forest>
+		<Ch1_Frog_Statue>
+			<Name>
+				<eng>The Frog Statue</eng>
+			</Name>
+			<desc>
+				<eng>The rotating frog statues turned out to be part of a mysterious vodyanoy structure. More importantly, they summoned a wicked vodyanoy duo. I should probably not let them loose on the world.</eng>
+			</desc>
+			<main>
+				<eng>Kill the Vodyanoy Duo!</eng>
+			</main>
+			<Completed>
+				<eng>I solved the mystery of the rotating frog statues and killed the wicked Vodyanoy Duo.</eng>
+			</Completed>			
+		</Ch1_Frog_Statue>
+		<Ch1_Kill_the_Hunting_Party>
+			<Name>
+				<eng>The Ancient Inkgate</eng>
+			</Name>
+			<desc>
+				<eng>The Mayor spoke of an Inkgate that connects the bog with the old mines. Once I find it I will be one step closer to Borgova.</eng>
+			</desc>
+			<main>
+				<eng>Find the Inkgate leading to the Mines!</eng>
+			</main>
+			<kill_party>
+				<eng>Kill the Gatekeepers!</eng>
+			</kill_party>
+			<travel>
+				<eng>Enter any Inkgate to the mines!</eng>
+			</travel>
+			<Completed>
+				<eng>I entered the Inkgate to the mines.</eng>
+			</Completed>		
+		</Ch1_Kill_the_Hunting_Party>
+		<Ch1_Dreadknecht_Camp>
+			<Name>
+				<eng>The Blacksmith's Request</eng>
+			</Name>
+			<Desc>
+				<eng>The Blacksmith asked me to investigate a Dreadknecht camp in the Gallowsbog. Apparently there is a machine there which is powered by a strange substance that can be used to forge a powerful weapon.</eng>
+			</Desc>
+			<main>
+				<eng>Acquire an Essence of Electricity!</eng>
+			</main>
+			<go_back>
+				<eng>Go back to the Blacksmith!</eng>
+			</go_back>
+			<Completed>
+				<eng>I delivered the Essence of Electricity to the Blacksmith.</eng>
+			</Completed>		
+		</Ch1_Dreadknecht_Camp>
+		<Ch1_Deal_with_the_Priest>
+			<Name>
+				<eng>The Priest's Betrayal</eng>
+			</Name>
+			<Desc>
+				<eng>It turns out that the priest is behind the Rusalka attacks on the village. I must confront him and deal with him if necessary.</eng>
+			</Desc>
+			<main>
+				<eng>Confront the Priest!</eng>
+			</main>
+			<follow>
+				<eng>Follow the Priest to the Gorgon Pass!</eng>
+			</follow>
+			<kill_the_priest>
+				<eng>Deal with the Priest once and for all!</eng>
+			</kill_the_priest>
+			<Completed>
+				<eng>I've dealt with the Priest responsibe for the Rusalka attacks on the village.</eng>
+			</Completed>
+		</Ch1_Deal_with_the_Priest>
+		<Ch1_Living_Ghost>
+			<Name>
+				<eng>Living ghost</eng>
+			</Name>
+			<Desc>
+				<eng>I have found a lost soul wandering the Croakwood. I have an idea on how to release him from his torment.</eng>
+			</Desc>
+			<main>
+				<eng>Help the ghost move on</eng>
+			</main>
+			<Completed>
+				<eng>I released to ghost from his torment to find peace.</eng>
+			</Completed>		
+		</Ch1_Living_Ghost>
+		<Ch1_TravelToBorgova>
+			<Name>
+				<eng>Through the Tunnels</eng>
+			</Name>
+			<desc>
+				<eng>I must fight my way through the old mines to the other side of the mountain.</eng>
+			</desc>
+			<main>
+				<eng>Reach Borgova through the tunnels!</eng>
+			</main>
+			<Completed>
+				<eng>I've reached Borgova through the old tunnels.</eng>
+			</Completed>		
+		</Ch1_TravelToBorgova>
+		<Ch1_KillTheCaveBoss>
+			<Name>
+				<eng>The Drillworm</eng>
+			</Name>
+			<desc>
+				<eng>The hauling station in the old mines is home to a gargantuan, mechanical drillworm. Another achievement of this weird Borgovian science, no doubt. I have no choice but to fight my way past it.</eng>
+			</desc>
+			<main>
+				<eng>Defeat the Drillworm!</eng>
+			</main>
+			<Completed>
+				<eng>I destroyed the Drillworm in the old mines.</eng>
+			</Completed>
+		</Ch1_KillTheCaveBoss>
+		<Ch2_Find_the_Lair>
+			<Name>
+				<eng>Find the Lair</eng>
+			</Name>
+			<desc>
+				<eng>My father used to have an underground secret lair somewhere nearby. I have to find an entrance to the sewers.</eng>
+			</desc>
+			<main>
+				<eng>Find the entrance of the Secret Lair</eng>
+			</main>
+			<Completed>
+				<eng>I found the entrance to the Secret Lair.</eng>
+			</Completed>
+		</Ch2_Find_the_Lair>
+		<Ch2_New_Assignment1>
+			<Name>
+				<eng>New Assignment</eng>
+			</Name>
+			<main>
+				<eng>Talk to Count Vlados in the Lair</eng>
+			</main>
+		</Ch2_New_Assignment1>
+		<Ch2_Start_the_Lair_Generator>
+			<Name>
+				<eng>Start the Generator</eng>
+			</Name>
+			<desc>
+				<eng>Now that I know why I'm in Borgova, I'll need to make good use of my father's hideout. It has many useful contraptions, but they won't work without this so-called Elyctrical Generator and it's broken. I need someone to repair it.</eng>
+			</desc>
+			<main>
+				<eng>Find the Engineer</eng>
+			</main>
+			<collect>
+				<eng>Collect four Electric Coils ([Item:Electric_Coil]/4)</eng>
+			</collect>
+			<return>
+				<eng>Return to the Engineer in the Lair</eng>
+			</return>
+			<Completed>
+				<eng>I delivered all the Electric Coils to the Engineer in the Lair.</eng>
+			</Completed>
+		</Ch2_Start_the_Lair_Generator>
+		<Ch2_Lost_in_the_Ink>
+			<Name>
+				<eng>Lost in the Ink</eng>
+			</Name>
+			<desc>
+				<eng>It seems travelling through the Ink can sometimes have unexpected results. Our latest trip has thrown us off course and taken us to an unknown ink location. We better find a way out of here.</eng>
+			</desc>
+			<main>
+				<eng>Find your way out</eng>
+			</main>
+			<Completed>
+				<eng>I found my way out of the unknown Ink location.</eng>
+			</Completed>
+		</Ch2_Lost_in_the_Ink>
+		<Ch2_Enemy_in_tunnels>
+			<Name>
+				<eng>Enemy in tunnels</eng>
+			</Name>
+			<desc>
+				<eng>We can now improve the Lair's defenses by placing traps in the tunnels that lead to it. However, I must first clear those tunnels from monsters, so the engineer can work in safety.</eng>
+			</desc>
+			<main>
+				<eng>Clear the tunnels around the Lair</eng>
+			</main>
+			<return>
+				<eng>Return to the Engineer</eng>
+			</return>
+			<Completed>
+				<eng>I cleared the tunnels around the Lair.</eng>
+			</Completed>
+		</Ch2_Enemy_in_tunnels>
+		<Ch2_Destroy_the_gas_Machine>
+			<Name>
+				<eng>The Gas Projector</eng>
+			</Name>
+			<desc>
+				<eng>Professor Fulmigati created an apparatus that could shroud the entire city with poisonous, mind-altering gas! Such a diabolical device must not be allowed to exist.</eng>
+			</desc>
+			<main>
+				<eng>Destroy the Gas projector</eng>
+			</main>
+			<return>
+				<eng>Return to Count Vlados</eng>
+			</return>
+			<Completed>
+				<eng>I destroyed Fulmigati's diabolical Gas Projector apparatus.</eng>
+			</Completed>
+		</Ch2_Destroy_the_gas_Machine>
+		<Ch2_Witch_Ritual>
+			<Name>
+				<eng>The Ritual</eng>
+			</Name>
+			<desc>
+				<eng>Saffi needs some rat bones for some obscure ritual to help the Resistance. Since most of the city's vermin population has been turned into voracious man-eating monsters, she needs me to do the task.</eng>
+			</desc>
+			<main>
+				<eng>Collect 5 Rat Bones ([Item:Rat_bone]/5)</eng>
+			</main>
+			<speak_witch>
+				<eng>Talk to Saffi</eng>
+			</speak_witch>
+			<return>
+				<eng>Return to Saffi</eng>
+			</return>
+			<Completed>
+				<eng>I delivered the Rat Bones to Saffi in the Lair.</eng>
+			</Completed>
+		</Ch2_Witch_Ritual>
+		<Ch2_Water_Maffia>
+			<Name>
+				<eng>Clean Water</eng>
+			</Name>
+			<Desc>
+				<eng>A gang of smarter-than-usual Vodyanoys have monopolized the only clean water supply in the Rookery. I must liberate the water tank by any means necessary.</eng>
+			</Desc>
+			<main>
+				<eng>Stop the Vodyanoy Gang!</eng>
+			</main>
+			<return>
+				<eng>Return to the thirsty citizen</eng>
+			</return>
+			<Completed>
+				<eng>I stopped the Vodyanoy Gang and liberated the water tank.</eng>
+			</Completed>		
+		</Ch2_Water_Maffia>
+		<Ch2_The_Dark_Alchemist>
+			<Name>
+				<eng>The Dark Alchemist</eng>
+			</Name>
+			<Desc>
+				<eng>A despicable alchemist, one of the Pale Gentlemen conducts experiments with liquified phlogiston and spills dangerous waste onto the streets. I must lure him out to confront him. Blowing up the outflow should do the trick.</eng>
+			</Desc>
+			<main>
+				<eng>Find some explosives</eng>
+			</main>
+			<destroy>
+				<eng>Destroy the outflow</eng>
+			</destroy>
+			<kill>
+				<eng>Kill the Dark Alchemist</eng>
+			</kill>
+			<return>
+				<eng>Speak with Zdravko Mediu</eng>
+			</return>
+			<Completed>
+				<eng>I lured out and killed the Dark Alchemist.</eng>
+			</Completed>
+		</Ch2_The_Dark_Alchemist>
+		<Ch2_Monster_Hunting>
+			<Name>
+				<eng>Roaming Monsters</eng>
+			</Name>
+			<Desc>
+				<eng>Some of the abominations created by the Dark Alchemist's carelessness are still loose in the Rookery. I volunteered for the task.</eng>
+			</Desc>
+			<main>
+				<eng>Kill the roaming abominations</eng>
+			</main>
+			<return>
+				<eng>Return to Zdravko Mediu</eng>
+			</return>
+			<Completed>
+				<eng>I killed the roaming monsters in the Rookery.</eng>
+			</Completed>
+		</Ch2_Monster_Hunting>
+		<Ch2_Kill_the_Beast_Part1>
+			<Name>
+				<eng>Dastardly Deeds</eng>
+			</Name>
+			<Desc>
+				<eng>Fulmigati now plans to use the waterworks to disseminate his mind-controlling drug in the city. I must fight my way through his forces and kill Fulmigati's general - a creature named Breda - to stop the attack. </eng>
+			</Desc>
+			<main>
+				<eng>Reach the Sewage Plant</eng>
+			</main>
+			<destroy_the_bridge>
+				<eng>Destroy the bridge control mechanism</eng>
+			</destroy_the_bridge>
+			<Eliminate_outposts>
+				<eng>Destroy all enemy guard posts ([outpost_eliminated]/6)</eng>
+			</Eliminate_outposts>
+			<docks>
+				<eng>Get to the Waterworks</eng>
+			</docks>			
+			<Completed>
+				<eng>I fought my way through my enemies: now I only need to find Fulmigati's general.</eng>
+			</Completed>
+		</Ch2_Kill_the_Beast_Part1>
+		<Ch2_Kill_the_Beast_Part2>
+			<Name>
+				<eng>Fulmigati's General</eng>
+			</Name>
+			<Desc>
+				<eng>It was a tough battle, but now I only have to face Fulmigati's mysterious general in order to stop the mad scientist's advance.</eng>
+			</Desc>
+			<main>
+				<eng>Get to the Waterworks</eng>
+			</main>
+			<find_beast>
+				<eng>Find Breda</eng>
+			</find_beast>
+			<kill_breda>
+				<eng>Kill Breda</eng>
+			</kill_breda>
+			<return>
+				<eng>Return to Vlados!</eng>
+			</return>
+			<Completed>
+				<eng>I killed Fulmigati's General and stopped the attack on the city.</eng>
+			</Completed>
+		</Ch2_Kill_the_Beast_Part2>
+		<Ch2_The_Assistant>
+			<Name>
+				<eng>The Assistant</eng>
+			</Name>
+			<Desc>
+				<eng>A former assistant of the Borgovian scientists is hiding somewhere near the Sewage Plant. He posesses plans and documents that could be very useful to us. I must find him.</eng>
+			</Desc>
+			<main>
+				<eng>Get a Generator Plan from the Assistant</eng>
+			</main>
+			<Completed>
+				<eng>I acquired the Generator Plan from the Assistant at the Sewage Plant.</eng>
+			</Completed>
+		</Ch2_The_Assistant>
+		<Ch2_The_hidden_Treasure>
+			<Name>
+				<eng>Hidden treasure</eng>
+			</Name>
+			<Desc>
+				<eng>I bought a map from the assistant that marks the location of some hidden treasure somewhere in the Industrial Port. It shouldn't be hard to find.</eng>
+			</Desc>
+			<main>
+				<eng>Find the hidden treasure</eng>
+			</main>
+			<Completed>
+				<eng>I found the hidden treasure at the Industrial Port.</eng>
+			</Completed>
+		</Ch2_The_hidden_Treasure>
+		<Ch2_The_Beggar_King>
+			<Name>
+				<eng>The Beggar King</eng>
+			</Name>
+			<Desc>
+				<eng>I foud out that the beggars in Borgova have a king and he needs saving. I've agreed to enter the ink and render him aid.</eng>
+			</Desc>
+			<main>
+				<eng>Save the Beggar King</eng>
+			</main>
+			<Completed>
+				<eng>I saved the Beggar King.</eng>
+			</Completed>
+		</Ch2_The_Beggar_King>
+		<Ch2_Swamp_Flowers>
+			<Name>
+				<eng>The swamp lilies</eng>
+			</Name>
+			<Desc>
+				<eng>I've agreed to gather some swamp lilies for Saffi's ritual. It sounds like the toughest challenge of my life.</eng>
+			</Desc>
+			<main>
+				<eng>Collect 8 swamp flowers ([Item:Swamp_flower]/8)</eng>
+			</main>
+			<talk>
+				<eng>Talk to Saffi</eng>
+			</talk>
+			<return>
+				<eng>Return to Saffi</eng>
+			</return>
+			<Completed>
+				<eng>I delivered the Swamp Lilies to Saffi in the Lair.</eng>
+			</Completed>
+		</Ch2_Swamp_Flowers>
+		<Ch2_The_weapon_shipment>
+			<Name>
+				<eng>The weapon shipment</eng>
+			</Name>
+			<Desc>
+				<eng>The Resistance is trying to smuggle weapon supplies into the city, but the soldiers awaiting the latest shipment have been killed. I have to reach the lighthouse and signal the boat myself.</eng>
+			</Desc>
+			<main>
+				<eng>Signal the smugglers with the lighthouse</eng>
+			</main>
+			<Secure>
+				<eng>Secure the weapon shipment</eng>
+			</Secure>
+			<Speak>
+				<eng>Speak with the weapon smuggler</eng>
+			</Speak>
+			<Completed>
+				<eng>I contacted the smuggler and secured the weapon shipment.</eng>
+			</Completed>
+		</Ch2_The_weapon_shipment>
+		<Ch2_Protect_The_Lair>
+			<Name>
+				<eng>Protect the Lair</eng>
+			</Name>
+			<Desc>
+				<eng>Breda has outmaneuvered us! His forces are poised to attack the lair and we must prepare to defend it at all costs. </eng>
+			</Desc>
+			<main>
+				<eng>Drive back the attackers( [wave_count] waves remaining )</eng>
+			</main>
+			<Completed>
+				<eng>I protected the Lair and driven back the attackers.</eng>
+			</Completed>		
+		</Ch2_Protect_The_Lair>
+		<Ch2_TD_elso>
+			<Name>
+				<eng>Protect the Lair</eng>
+			</Name>
+			<Desc>
+				<eng>The activation of the generator has drawn some attention amongst the sewers denizens. Thankfully I can stop them with traps at an old outpost.</eng>
+			</Desc>
+			<main>
+				<eng>Defend the Lair outpost!</eng>
+			</main>
+			<report>
+				<eng>Talk to the Engineer</eng>
+			</report>
+			<Completed>
+				<eng>I protected the Lair with deadly trap.</eng>
+			</Completed>		
+		</Ch2_TD_elso>
+		<Ch3_Fulmigatis_headquarter>
+			<Name>
+				<eng>Deserted Streets</eng>
+			</Name>
+			<Desc>
+				<eng>Fulmigati is working on the final phase of his plan: the construction of a "Doomsday Automaton". I must get to his headquarters, the Palace of Machines, before he completes his work, but I have to find a way through the occupied Old Town first.</eng>
+			</Desc>
+			<main>
+				<eng>Fight your way through the streets of the Old Town</eng>
+			</main>
+			<Talk_1>
+				<eng>Talk to the Engineer about the energy barriers.</eng>
+			</Talk_1>
+			<Completed>
+				<eng>I entered the Old Town, which is now controlled and patrolled by Fulmigati's followers and his abominations, only to find an impenetrable wall of force around the heart fo this old district. I must get through it somehow. </eng>
+			</Completed>
+		</Ch3_Fulmigatis_headquarter>	
+		<Ch3_The_inventor>	
+			<Name>
+				<eng>The Inventor</eng>
+			</Name>
+			<Desc>
+				<eng>Fulmigati's hideout, the Palace of Machines is protected by energy barriers. I must find the inventor of this wondrous new technology and persuade him to help me turn them off.</eng>
+			</Desc>
+			<main>
+				<eng>Interrogate the inventor of the energy barriers</eng>
+			</main>
+			<destroy>
+				<eng>Destroy the soldiers guarding the inventor</eng>
+			</destroy>
+			<Speak_again>
+				<eng>Speak with Telsa again</eng>
+			</Speak_again>
+			<Use>
+				<eng>Enter the Ink portal Telsa opened for you.</eng>
+			</Use>
+			<Completed>
+				<eng>I found Telsa, the inventor of the energy barriers, but we needed a new plan instead of destroying the walls of force. So he opened me an Ink Portal to get me behind those barriers.</eng>
+			</Completed>
+		</Ch3_The_inventor>	
+		<Ch3_Palace_of_Machines>	
+			<Name>
+				<eng>The Palace of Machines</eng>
+			</Name>
+			<Desc>
+				<eng>Professor Fulmigati has been holed up in the former museum dedicated to the marvels of Weird science. I must find my way inside and deal with this madman before it's too late.</eng>
+			</Desc>	
+			<main>
+				<eng>Find the way to the Palace of Machines</eng>
+			</main>
+			<Find>
+				<eng>Find the entrance to the Palace</eng>
+			</Find>
+			<Enter>
+				<eng>Enter the Palace of Machines!</eng>
+			</Enter>
+			<Completed>
+				<eng>I've managed to slip through an Inkgate to get behind Fulmigati's defenses and I found the entrance to the Palace of Machines.</eng>
+			</Completed>		
+		</Ch3_Palace_of_Machines>
+		<Ch3_The_lightning_collectors>
+			<Name>
+				<eng>The Lightning Traps</eng>
+			</Name>
+			<Desc>
+				<eng>Nikkola Telsa made an unexpected reappearance and suggested that I destroy the lightning collector devices that dot the rooftops of Borgova. I decided to heed his advice and thus weaken Fulmigati's forces.</eng>
+			</Desc>
+			<main>
+				<eng>Destroy the Lightning Traps</eng>
+			</main>			
+			<Completed>
+				<eng>I destroyed the Lightning Traps on the rooftops of Borgova.</eng>
+			</Completed>
+		</Ch3_The_lightning_collectors>
+		<Ch3_The_hunted_werewolf>
+			<Name>
+				<eng>Werewolf on the run</eng>
+			</Name>
+			<Desc>
+				<eng>One of those electriferous werewolves seems to have escaped its creators. Dr. Dampf wants me to capture it so he can learn more about its kind.</eng>
+			</Desc>
+			<main>
+				<eng>Find the werewolf</eng>
+			</main>
+			<Find_notes>
+				<eng>Find the notes</eng>
+			</Find_notes>
+			<Kill>
+				<eng>Kill the werewolf hunters</eng>
+			</Kill>			
+			<return>
+				<eng>Return to Dr. Dampf</eng>
+			</return>
+			<Completed>
+				<eng>I delivered valuable information to Dr. Dampf on the electriferous werewolves.</eng>
+			</Completed>
+		</Ch3_The_hunted_werewolf>
+		<Ch3_The_rebels>
+			<Name>
+				<eng>Surrounded Resistance Soldiers</eng>
+			</Name>
+			<Desc>
+				<eng>Some Resistance soldiers are trapped in the castle on the island. They are surrounded by enemy forces and need the cavalry to save them.</eng>
+			</Desc>
+			<main>
+				<eng>Save the Resistance Soldiers</eng>
+			</main>
+			<Completed>
+				<eng>I saved the Resistance Soldiers trapped in the castle on the island.</eng>
+			</Completed>
+		</Ch3_The_rebels>
+		<ch3_quest_of_rebel>
+			<main>
+				<eng>Talk with the Rebel Soldier!</eng>
+			</main>
+		</ch3_quest_of_rebel>
+		<Ch3_The_Orichalcum_shipment>
+			<Name>
+				<eng>The orichalcum shipment</eng>
+			</Name>
+			<Desc>
+				<eng>Fulmigati is about to receive two new orichalcum shipments to build more of soldiers. I volunteered to stop the ore from getting to their destination</eng>
+			</Desc>
+			<main>
+				<eng>Hijack the orichalcum shipment</eng>
+			</main>
+			<return>
+				<eng>Take the ore to the Lair</eng>
+			</return>
+				<Completed>
+				<eng>I acquired the orichalcum shipment and delivered it to the Lair.</eng>
+			</Completed>		
+		</Ch3_The_Orichalcum_shipment>
+		<Ch3_The_Ink_is_coming>
+			<Name>
+				<eng>The Ink is Coming</eng>
+			</Name>
+			<Desc>
+				<eng>Apparently, an Inktide has released a horde of monsters into the nearby tunnels. They are headed our way and I must once again defend the Lair.</eng>
+			</Desc>
+			<main>
+				<eng>Defend the Lair... again</eng>
+			</main>
+			<report>
+				<eng>Talk to Gaspar</eng>
+			</report>			
+			<Completed>
+				<eng>I defended the Lair once again from the monsters released by the Inktide.</eng>
+			</Completed>
+		</Ch3_The_Ink_is_coming>
+		<Ch3_Kill_Fulmigati>
+			<Name>
+				<eng>Fulmigati Himself</eng>
+			</Name>
+			<Desc>
+				<eng>At last we made our way to the villain. It's time I did what I came to do.</eng>
+			</Desc>
+			<main>
+				<eng>Destroy the Doomsday Automaton</eng>
+			</main>			
+			<Completed>
+				<eng>I defeated Professor Fulmigati and the Doomsday Automaton.</eng>
+			</Completed>		
+		</Ch3_Kill_Fulmigati>		
+	</Quests>
+	<Bossfight>
+		<Werewolf_lair>
+			<title>
+				<eng>The Vrikolak Leader</eng>
+			</title>
+			<kill_wolf>
+				<eng>Defeat the Vrikolak Leader!</eng>
+			</kill_wolf>
+			<destroy_sigil>
+				<eng>Destroy the Sigils! ([sigil_count]/5)</eng>
+			</destroy_sigil>
+		</Werewolf_lair>
+		<Rusalka_ambush>
+			<Title>
+				<eng>Rusalka Ambush</eng>
+			</Title>
+			<protect_shop>
+				<eng>Protect the shop!</eng>
+			</protect_shop>
+			<protect_church>
+				<eng>Protect the village church!</eng>
+			</protect_church>
+			<protect_statue>
+				<eng>Protect the great statue!</eng>
+			</protect_statue>
+			<protect_gate1>
+				<eng>Stop the Rusalkas destroying the north gate!</eng>
+			</protect_gate1>
+			<protect_gate2>
+				<eng>Stop the Rusalkas destroying the west gate!</eng>
+			</protect_gate2>
+			<protect_gate3>
+				<eng>Stop the Rusalkas destroying the south gate!</eng>
+			</protect_gate3>
+		</Rusalka_ambush>
+		<Scarecrow>
+			<Title>
+				<eng>The scarecrow</eng>
+			</Title>
+			<main>
+				<eng>Defeat the scarecrow!</eng>
+			</main>
+		</Scarecrow>
+		<CaveBoss>
+			<Title>
+				<eng>The Drill Worm</eng>
+			</Title>
+			<kill_kukac>
+				<eng>Defeat the Drill Worm!</eng>
+			</kill_kukac>
+		</CaveBoss>
+		<FinalBoss>
+			<kill_fulmigati>
+				<eng>Destroy the Doomsday Automaton</eng>
+			</kill_fulmigati>
+		</FinalBoss>
+	</Bossfight>
+	<hiddencontent>
+		<easteregg_hc_done>
+			<eng>You found the Easter Egg in Markovna village.</eng>
+		</easteregg_hc_done>
+		<cow2head_hc_done>
+			<eng>You talked to the Two-Headed Cow in Markovna village.</eng>
+		</cow2head_hc_done>	
+		<StatueKey>
+			<eng>You found the Mysterious Key at the Statue of Borislav.</eng>
+		</StatueKey>	
+		<living_ghost_completed>
+			<eng>You laid the hanged man's ghost to rest in Croakwood.</eng>
+		</living_ghost_completed>	
+		<ancient_coin_got>
+			<eng>You found the Ancient Coin in Croakwood.</eng>
+		</ancient_coin_got>	
+		<Hidden_treasure_done1>
+			<eng>You found the hidden treasure of the bandits in Croakwood.</eng>
+		</Hidden_treasure_done1>	
+		<weaponoil_hc_done>
+			<eng>You found the Weapon Oil in Croakwood.</eng>
+		</weaponoil_hc_done>	
+		<namelesswisp_hc_done>
+			<eng>You gave the right answer to the Nameless Wisp in Croakwood.</eng>
+		</namelesswisp_hc_done>	
+		<excalibur_hc_done>
+			<eng>You removed Excalibur from the stone in Croakwood.</eng>
+		</excalibur_hc_done>	
+		<red_button>
+			<eng>You pressed the Big Red Button in Gallowsbog.</eng>
+		</red_button>	
+		<followisp_hc_done>
+			<eng>You followed the Wisp through Gallowsbog.</eng>
+		</followisp_hc_done>	
+		<Knowledge_of_the_dead_kecske>
+			<eng>You found the carcass of the stray goat in Gallowsbog.</eng>
+		</Knowledge_of_the_dead_kecske>	
+		<vrikolakgift_hc_done>
+			<eng>You found the Werewolf Spiritstone in Gallowsbog.</eng>
+		</vrikolakgift_hc_done>	
+		<erdoszelleme_hc_done>
+			<eng>You defeated the Frenzied Forest Spirit in Gallowsbog.</eng>
+		</erdoszelleme_hc_done>	
+		<Frog_statue_start>
+			<eng>You solved the riddle of the revolving Vodyanoi Statues in Gallowsbog.</eng>
+		</Frog_statue_start>
+		<ink_machine_controller_broken>
+			<eng>You have broken the Mysterious Control Panel at the Abandoned Research Station.</eng>
+		</ink_machine_controller_broken>	
+		<5thelement_hc_done>
+			<eng>You found the Fifth Element in the Dreadworks.</eng>
+		</5thelement_hc_done>	
+		<bunnyslayer_hc_done>
+			<eng>You found the Bunnyslayer.</eng>
+		</bunnyslayer_hc_done>	
+		<borislavsceptre_hc_done>
+			<eng>You found Borislav's Sceptre in the Ink Realm of The Statue.</eng>
+		</borislavsceptre_hc_done>	
+		<bootfishing_hc_done>
+			<eng>You caught the Ragged Boot at the fishing spot in the Rookery.</eng>
+		</bootfishing_hc_done>	
+		<darkohat_hc_done>
+			<eng>You found Darko's hat in the Rookery.</eng>
+		</darkohat_hc_done>	
+		<mutantfish_hc_done>
+			<eng>You caught the Mutant Fish at the fishing spot in the Roookery.</eng>
+		</mutantfish_hc_done>	
+		<catfeeding_hc_done>
+			<eng>You fed the Mutant Fish to the cat in the Rookery.</eng>
+		</catfeeding_hc_done>	
+		<superliver_hc_done>
+			<eng>You found the Glowing Rat Liver in the Rookery.</eng>
+		</superliver_hc_done>	
+		<zorrohat_hc_done>
+			<eng>You found Zorro's hat at the Sewage Plant.</eng>
+		</zorrohat_hc_done>
+		<Save_Beggar_King_begin>
+			<eng>You found the entrance to the Beggar King's Hideout.</eng>
+		</Save_Beggar_King_begin>
+		<Essence_loot_megvan>
+			<eng>You overheard the alchemist and found the treasure at the Sewage Plant.</eng>
+		</Essence_loot_megvan>
+		<domovoysword_hc_done>
+			<eng>You found the Domovoy's Sword at the Industrial Port.</eng>
+		</domovoysword_hc_done>
+		<Hidden_treasure_quest_begin>
+			<eng>You bought the treasure map and found the hidden island in the Ink.</eng>
+		</Hidden_treasure_quest_begin>
+		<theonering_hc_done>
+			<eng>You found a "certain magical ring" at the Industrial Port.</eng>
+		</theonering_hc_done>
+		<galaxyguide_hc_done>
+			<eng>You found the "Wisphunter's Guide to the Ink" in The Old Town.</eng>
+		</galaxyguide_hc_done>
+		<Secret_sewer_gate>
+			<eng>You found the hidden Ink Portal in the Secret Laboratory.</eng>
+		</Secret_sewer_gate>
+		<oldtownadverts_hc_done>
+			<eng>You found all the Advertising Columns in the Old Town.</eng>
+		</oldtownadverts_hc_done>
+		<oldtownloot_hc_done>
+			<eng>You found the hidden treasure in the Old Town.</eng>
+		</oldtownloot_hc_done>
+		<allthejunk_hc_done>
+			<eng>You found all the Ragged Boots in The Old Town.</eng>
+		</allthejunk_hc_done>
+		<rottenfish_hc_done>
+			<eng>You found the Mutant Fish at stalls in The Old Town.</eng>
+		</rottenfish_hc_done>
+		<Attack_together>
+			<eng>You allied with the Werevolves in the Old Town.</eng>
+		</Attack_together>
+		<kemenysepro_hc_done>
+			<eng>You defeated the minions of the Marquis of Soot at the Gables.</eng>
+		</kemenysepro_hc_done>
+	</hiddencontent>	
+	<Scripting>
+		<Rusalka_ambush>
+			<destroy_sigil>
+				<eng>Destroy Sigil</eng>
+			</destroy_sigil>
+		</Rusalka_ambush>
+		<Fishing>
+			<eng>No catch</eng>
+		</Fishing>
+	</Scripting>
+</Root>

@@ -1,0 +1,726 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<HeroicDeeds>
+		<Perks>
+			<berserker>
+				<name1>
+					<eng>Berserker</eng>
+				</name1>
+				<desc1>
+					<eng>When your anger reaches its absolute boiling point, it begins to manifest through your attacks.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>+10% Weapon Damage while at max Rage</eng>
+				</reward_0_0>
+			</berserker>
+			<berserker_2>
+				<name1>
+					<eng>Berserker II</eng>
+				</name1>
+				<desc1>
+					<eng>When your anger reaches its absolute boiling point, it begins to manifest through your attacks.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>+7% Weapon Damage while at max Rage</eng>
+				</reward_0_0>
+			</berserker_2>
+			<collector>
+				<name1>
+					<eng>Collector</eng>
+				</name1>
+				<desc1>
+					<eng>You've learned how to arrange your inventory more efficiently and thus became able to carry twice as much.</eng>
+				</desc1>
+			</collector>
+			<precise>
+				<name1>
+					<eng>Precise</eng>
+				</name1>
+				<desc1>
+					<eng>You know where it hurts the most – and you are not afraid to use this knowledge.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>The first attack has a +5% Critical Chance against every enemy.</eng>
+				</reward_0_0>
+			</precise>
+			<ghost_whisperer>
+				<name1>
+					<eng>Ghost Whisperer</eng>
+				</name1>
+				<desc1>
+					<eng>You tend to attract incorporeal beings. Your soul provides a strong anchor for Katarina in the world of the living, enabling her to recover from a weakened state more quickly.</eng>
+				</desc1>
+			</ghost_whisperer>
+			<agile>
+				<name1>
+					<eng>Agile</eng>
+				</name1>
+				<desc1>
+					<eng>You move swiftly and nimbly on the battlefield, evading blows and projectiles with grace.</eng>
+				</desc1>
+			</agile>
+			<agile_2>
+				<name1>
+					<eng>Agile II</eng>
+				</name1>
+				<desc1>
+					<eng>You move swiftly and nimbly on the battlefield, evading blows and projectiles with grace.</eng>
+				</desc1>
+			</agile_2>
+			<gunslinger>
+				<name1>
+					<eng>Gunslinger</eng>
+				</name1>
+				<desc1>
+					<eng>You draw fast and you attack first. Most of the time, anyway.</eng>
+				</desc1>
+			</gunslinger>
+			<gunslinger_2>
+				<name1>
+					<eng>Gunslinger II</eng>
+				</name1>
+				<desc1>
+					<eng>You draw fast and you attack first. Most of the time, anyway.</eng>
+				</desc1>
+			</gunslinger_2>
+			<bully>
+				<name1>
+					<eng>Bully</eng>
+				</name1>
+				<desc1>
+					<eng>Your physique becomes even more powerful and your appearence intimidating. Merchants tend to haggle less with you as a result.</eng>
+				</desc1>
+			</bully>
+			<bully_2>
+				<name1>
+					<eng>Bully II</eng>
+				</name1>
+				<desc1>
+					<eng>Your physique becomes even more powerful and your appearence intimidating. Merchants tend to haggle less with you as a result.</eng>
+				</desc1>
+			</bully_2>
+			<survivor>
+				<name1>
+					<eng>Survivor</eng>
+				</name1>
+				<desc1>
+					<eng>You have a knack for surviving even the nastier injuries and recover from them much faster.</eng>
+				</desc1>
+			</survivor>
+			<survivor_2>
+				<name1>
+					<eng>Survivor II</eng>
+				</name1>
+				<desc1>
+					<eng>You have a knack for surviving even the nastier injuries and recover from them much faster.</eng>
+				</desc1>
+			</survivor_2>
+			<resistive>
+				<name1>
+					<eng>Resistive</eng>
+				</name1>
+				<desc1>
+					<eng>Your body has built up a natural tolerance to poison, physical damage and arcane powers.</eng>
+				</desc1>
+			</resistive>
+			<resistive_2>
+				<name1>
+					<eng>Resistive II</eng>
+				</name1>
+				<desc1>
+					<eng>Your body has built up a natural tolerance to poison, physical damage and arcane powers.</eng>
+				</desc1>
+			</resistive_2>
+			<focused>
+				<name1>
+					<eng>Focused</eng>
+				</name1>
+				<desc1>
+					<eng>Your disciplined mind recovers faster from the strain of using magical abilies and your magical reserves replenish themselves a lot faster.</eng>
+				</desc1>
+			</focused>
+			<focused_2>
+				<name1>
+					<eng>Focused II</eng>
+				</name1>
+				<desc1>
+					<eng>Your disciplined mind recovers faster from the strain of using magical abilies and your magical reserves replenish themselves a lot faster.</eng>
+				</desc1>
+			</focused_2>
+			<destructive>
+				<name1>
+					<eng>Destructive</eng>
+				</name1>
+				<desc1>
+					<eng>When you hit a weak spot, you tend to achieve dramatic results. Your foes rarely survive such strikes.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>+50% Critical Damage while at max Rage</eng>
+				</reward_0_0>
+			</destructive>
+			<destructive_2>
+				<name1>
+					<eng>Destructive II</eng>
+				</name1>
+				<desc1>
+					<eng>When you hit a weak spot, you tend to achieve dramatic results. Your foes rarely survive such strikes.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>+30% Critical Damage while at max Rage</eng>
+				</reward_0_0>
+			</destructive_2>
+			<perfect_aim>
+				<name1>
+					<eng>Perfect Aim</eng>
+				</name1>
+				<desc1>
+					<eng>Extensive knowledge of the most vulnerable spots both in mortal and monstrous bodies allows you to dish out crippling blows much more often.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>+5% Critical Chance while at max Rage</eng>
+				</reward_0_0>
+			</perfect_aim>
+			<perfect_aim_2>
+				<name1>
+					<eng>Perfect Aim II</eng>
+				</name1>
+				<desc1>
+					<eng>Extensive knowledge of the most vulnerable spots both in mortal and monstrous bodies allows you to dish out crippling blows much more often.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>+2% Critical Chance while at max Rage</eng>
+				</reward_0_0>
+			</perfect_aim_2>
+			<uncanny_fighter>
+				<name1>
+					<eng>Uncanny Fighter</eng>
+				</name1>
+				<desc1>
+					<eng>You combine your fighting skills with the arcane hunter abilities, tapping into the natural magical reserves: the result is very effective… and quite dramatic, of course!</eng>
+				</desc1>
+			</uncanny_fighter>
+			<uncanny_fighter_2>
+				<name1>
+					<eng>Uncanny Fighter II</eng>
+				</name1>
+				<desc1>
+					<eng>You combine your fighting skills with the arcane hunter abilities, tapping into the natural magical reserves: the result is very effective... and quite dramatic, of course!</eng>
+				</desc1>
+			</uncanny_fighter_2>
+			<enchanted_blood>
+				<name1>
+					<eng>Enchanted Blood</eng>
+				</name1>
+				<desc1>
+					<eng>Through arcane methods you have enhanced your blood to heal your wounds faster, which is great – not to mention that magic literally flows through your veins now.</eng>
+				</desc1>
+			</enchanted_blood>
+			<enchanted_blood_2>
+				<name1>
+					<eng>Enchanted Blood II</eng>
+				</name1>
+				<desc1>
+					<eng>Through arcane methods you have enhanced your blood to heal your wounds faster, which is great – not to mention that magic literally flows through your veins now.</eng>
+				</desc1>
+			</enchanted_blood_2>
+			<wraith>
+				<name1>
+					<eng>Wraith</eng>
+				</name1>
+				<desc1>
+					<eng>There comes a time when a ghost un-lived long enough to reach the next step in her otherwordly existence, and she will be called a Wraith from then.</eng>
+				</desc1>
+			</wraith>
+			<wight>
+				<name1>
+					<eng>Wight</eng>
+				</name1>
+				<desc1>
+					<eng>Wights are even more powerful then Wraiths: in some cultures they are even entitled to lead huge ghost armies and ride on undead flying beasts (note that Lady Katarina is not from that culture, unfortunately).</eng>
+				</desc1>
+			</wight>
+			<connoisseur>
+				<name1>
+					<eng>Scholarly Ghost</eng>
+				</name1>
+				<desc1>
+					<eng>Some magical items resonate each other when they are worn together. A well versed ghost like Katarina can learn a lot from examining the subtle interactions between such items.</eng>
+				</desc1>
+			</connoisseur>
+			<scavenger>
+				<name1>
+					<eng>Scavenger</eng>
+				</name1>
+				<desc1>
+					<eng>Looting through the pockets of the fallen foes might feel a bit low, but you can get lucky sometimes – not to mention the resistance to poison that comes with this habit… after a while.</eng>
+				</desc1>
+			</scavenger>
+			<scavenger_2>
+				<name1>
+					<eng>Scavenger II</eng>
+				</name1>
+				<desc1>
+					<eng>Looting through the pockets of the fallen foes might feel a bit low, but you can get lucky sometimes – not to mention the resistance to poison that comes with this habit... after a while.</eng>
+				</desc1>
+			</scavenger_2>
+			<marksman>
+				<name1>
+					<eng>Marksman</eng>
+				</name1>
+				<desc1>
+					<eng>Your aim is perfect – if you have enough time to acquire the target. Just don’t let them come too near.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>+50% Damage against enemies at least 15 meters away</eng>
+				</reward_0_0>
+			</marksman>
+			<marksman_2>
+				<name1>
+					<eng>Marksman II</eng>
+				</name1>
+				<desc1>
+					<eng>Your aim is perfect – if you have enough time to acquire the target. Just don’t let them come too near.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>+30% Damage against enemies at least 15 meters away</eng>
+				</reward_0_0>
+			</marksman_2>
+			<drinker>
+				<name1>
+					<eng>Drinker</eng>
+				</name1>
+				<desc1>
+					<eng>Your habitual use of magical potions has resulted in certain physiological changes. You benefit more from potions and the artificial additives in them have made your body resistant to toxic substances.</eng>
+				</desc1>
+			</drinker>
+			<drinker_2>
+				<name1>
+					<eng>Drinker II</eng>
+				</name1>
+				<desc1>
+					<eng>Your habitual use of magical potions has resulted in certain physiological changes. You benefit more from potions and the artificial additives in them have made your body resistant to toxic substances.</eng>
+				</desc1>
+			</drinker_2>
+			<stormblood>
+				<name1>
+					<eng>Stormblood</eng>
+				</name1>
+				<desc1>
+					<eng>You have a talent for sparks and electricity and lightning.</eng>
+				</desc1>
+			</stormblood>
+			<stormblood_2>
+				<name1>
+					<eng>Stormblood II</eng>
+				</name1>
+				<desc1>
+					<eng>You have a talent for sparks and electricity and lightning.</eng>
+				</desc1>
+			</stormblood_2>
+			<salamandra>
+				<name1>
+					<eng>Salamandra</eng>
+				</name1>
+				<desc1>
+					<eng>Fire walks with you all the time.</eng>
+				</desc1>
+			</salamandra>
+			<salamandra_2>
+				<name1>
+					<eng>Salamandra II</eng>
+				</name1>
+				<desc1>
+					<eng>Fire walks with you all the time.</eng>
+				</desc1>
+			</salamandra_2>
+			<icicle>
+				<name1>
+					<eng>Icicle</eng>
+				</name1>
+				<desc1>
+					<eng>You embrace cold and turn it into a weapon.</eng>
+				</desc1>
+			</icicle>
+			<icicle_2>
+				<name1>
+					<eng>Icicle II</eng>
+				</name1>
+				<desc1>
+					<eng>You embrace cold and turn it into a weapon.</eng>
+				</desc1>
+			</icicle_2>
+			<merchant>
+				<name1>
+					<eng>Merchant</eng>
+				</name1>
+				<desc1>
+					<eng>You know how to talk to shopkeepers, and somehow they always end up giving you discounts.</eng>
+				</desc1>
+			</merchant>
+			<merchant_2>
+				<name1>
+					<eng>Merchant II</eng>
+				</name1>
+				<desc1>
+					<eng>You know how to talk to shopkeepers, and somehow they always end up giving you discounts.</eng>
+				</desc1>
+			</merchant_2>
+			<alchemist>
+				<name1>
+					<eng>Alchemist</eng>
+				</name1>
+				<desc1>
+					<eng>Practice makes you the master of the laboratory, they say. The hazardous materials you create take up much less space now and you are also more likely to convert fragile things into gold.</eng>
+				</desc1>
+			</alchemist>
+			<furious>
+				<name1>
+					<eng>Furious</eng>
+				</name1>
+				<desc1>
+					<eng>You learned to control your rage before you would have harmed yourself. Now you can harm others even more effectively!</eng>
+				</desc1>
+			</furious>
+			<teacher>
+				<name1>
+					<eng>Teacher</eng>
+				</name1>
+				<desc1>
+					<eng>You have learned enough in certain areas of expertise.</eng>
+				</desc1>
+			</teacher>
+			<master>
+				<name1>
+					<eng>Master</eng>
+				</name1>
+				<desc1>
+					<eng>You are so skillful that you could be a great teacher.</eng>
+				</desc1>
+			</master>
+			<mentor>
+				<name1>
+					<eng>Mentor</eng>
+				</name1>
+				<desc1>
+					<eng>It’s a shame, really, that you don’t found your own school.</eng>
+				</desc1>
+			</mentor>
+			<iron_man>
+				<name1>
+					<eng>Iron Man</eng>
+				</name1>
+				<desc1>
+					<eng>Being a berserker makes you feared in fights, but being an almost invincible berserker is something that even monsters envy sometimes.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>You get a bonus to all your Resistances when you are injured. As your HP goes down, your Resistances go up.</eng>
+				</reward_0_0>
+			</iron_man>
+			<veteran_hunter>
+				<name1>
+					<eng>Veteran Hunter</eng>
+				</name1>
+				<desc1>
+					<eng>You are respected among your fellow monster hunters. If they had a pub, you would have your own corner.</eng>
+				</desc1>
+			</veteran_hunter>
+			<elementalist>
+				<name1>
+					<eng>Elementalist</eng>
+				</name1>
+				<desc1>
+					<eng>After all the annoying trials and errors you have learned your way with the natural elements.</eng>
+				</desc1>
+			</elementalist>
+			<black_widow>
+				<name1>
+					<eng>Black Widow</eng>
+				</name1>
+				<desc1>
+					<eng>Your closest friends all skitter or slither. Or sit on a shelf with a skull and crossbones emblem on their side.</eng>
+				</desc1>
+			</black_widow>
+			<the_flash>
+				<name1>
+					<eng>The Flash</eng>
+				</name1>
+				<desc1>
+					<eng>All that running towards and away from danger has finally paid off. Now you can run towards or away from danger a little faster.</eng>
+				</desc1>
+			</the_flash>
+			<enlightened>
+				<name1>
+					<eng>Enlightened</eng>
+				</name1>
+				<desc1>
+					<eng>He who's will is strong enough, shall use deadly force more often and reap magic while doing it. - Ancient Borgovese proverb</eng>
+				</desc1>
+			</enlightened>
+			<maniac>
+				<name1>
+					<eng>Maniac</eng>
+				</name1>
+				<desc1>
+					<eng>You've taken being angry to a whole new level.</eng>
+				</desc1>
+			</maniac>
+			<devastator>
+				<name1>
+					<eng>Devastator</eng>
+				</name1>
+				<desc1>
+					<eng>You still love the smell of burning black castles in the morning.</eng>
+				</desc1>
+			</devastator>
+			<gun_fu_artist>
+				<name1>
+					<eng>Gunslinger Artist</eng>
+				</name1>
+				<desc1>
+					<eng>You're so graceful and awesome with guns, they'll be making entertainment about you a hundred years from now. They'll also need special effects to imitate you. That's how awesome you are.</eng>
+				</desc1>
+			</gun_fu_artist>
+			<fitness_wizard>
+				<name1>
+					<eng>Hunter Wizard</eng>
+				</name1>
+				<desc1>
+					<eng>Body and soul, that's what they always say. You listened, so now you're both healthier and more powerful.</eng>
+				</desc1>
+			</fitness_wizard>
+			<golem>
+				<name1>
+					<eng>Golem</eng>
+				</name1>
+				<desc1>
+					<eng>The toughest kid on the streets of Borgova.</eng>
+				</desc1>
+			</golem>
+			<spirit_guide>
+				<name1>
+					<eng>Spirit Guide</eng>
+				</name1>
+				<desc1>
+					<eng>A steady hunter-ghost relationship has its own rewards. The constant flurry of sarcastic puns increase your mental stamina while she gets to be even less dead and ethereal.</eng>
+				</desc1>
+			</spirit_guide>
+			<master_hunter>
+				<name1>
+					<eng>Master Hunter</eng>
+				</name1>
+				<desc1>
+					<eng>You've become such an expert in the field of monster hunting that you ought to have a master's degree. Fashioned out of monster skin of course.</eng>
+				</desc1>
+			</master_hunter>
+			<fortunes_favored_son>
+				<name1>
+					<eng>Fortune's Favored Son</eng>
+				</name1>
+				<desc1>
+					<eng>You've just found a hidden perk that gives you a bunch of skill points! You lucky duck.</eng>
+				</desc1>
+			</fortunes_favored_son>
+			<bond_of_fury>
+				<name1>
+					<eng>Bond of Fury</eng>
+				</name1>
+				<desc1>
+					<eng>Your fury is her delight.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>Katarina gains +20% damage while you're at max Rage</eng>
+				</reward_0_0>
+			</bond_of_fury>
+			<bloodthirsty_ghost>
+				<name1>
+					<eng>Bloodthirsty Ghost</eng>
+				</name1>
+				<desc1>
+					<eng>The taste of abomination blood can only be tamed by restorative beverages. Every battle spirit companion knows that.</eng>
+				</desc1>
+			</bloodthirsty_ghost>
+			<ghost_shepherd>
+				<name1>
+					<eng>Ghost Shepherd</eng>
+				</name1>
+				<desc1>
+					<eng>When you're up against hordes of rampaging abominations, the only natural response is to create hordes of rampaging she-devils.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>-20% Respawn cooldown for Lady Katarina</eng>
+				</reward_0_0>
+			</ghost_shepherd>
+			<spirit_coffer>
+				<name1>
+					<eng>Spirit Coffer</eng>
+				</name1>
+				<desc1>
+					<eng>In case you ever wondered where a spirit puts physical items, there's your answer. And whatever that is, now she has two.</eng>
+				</desc1>
+			</spirit_coffer>
+			<iron_ghost>
+				<name1>
+					<eng>Un-Die Hard</eng>
+				</name1>
+				<desc1>
+					<eng>She was once trapped in a borgovian skyscraper with a group of terrorist monsters. Alone. Without shoes. Without feet even. You do not mess with her.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>Lady Katarina gets a bonus to all her Resistances when she is injured. As her HP goes down, her Resistances go up.</eng>
+				</reward_0_0>
+			</iron_ghost>
+			<weird_scientist>
+				<name1>
+					<eng>Weird Scientist</eng>
+				</name1>
+				<desc1>
+					<eng>Anything that can go wrong will sometimes go better. The beauty of modern science.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>Mechanical allies have a 10% chance to gain +20% Hit Points upon creation</eng>
+				</reward_0_0>
+				<reward_0_1>
+					<eng>Mechanical allies have a 10% chance to gain +20% damage upon creation</eng>
+				</reward_0_1>
+			</weird_scientist>
+			<bad_dog>
+				<name1>
+					<eng>Chimera Trainer</eng>
+				</name1>
+				<desc1>
+					<eng>It turns out you're a natural chimera trainer. If chimerae ever became popular as pets, you could open a school.</eng>
+				</desc1>
+			</bad_dog>
+			<master_stunner>
+				<name1>
+					<eng>Master Smiter</eng>
+				</name1>
+				<desc1>
+					<eng>You've learned how to smack'em so they don't move too much while you purge their evil.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>Stunning from your skills will last 1 second longer</eng>
+				</reward_0_0>
+			</master_stunner>
+			<snailmaker>
+				<name1>
+					<eng>Snailmaker</eng>
+				</name1>
+				<desc1>
+					<eng>Monsters hate playing with you because you make them lag.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>Slowing from your skills will last 1 second longer</eng>
+				</reward_0_0>
+			</snailmaker>
+			<channeled_anger>
+				<name1>
+					<eng>Anger Mage</eng>
+				</name1>
+				<desc1>
+					<eng>You've learned how to channel your anger to replenish your magical reserves.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>+50% mana regeneration while at max rage</eng>
+				</reward_0_0>
+			</channeled_anger>
+			<kinetic_rage>
+				<name1>
+					<eng>Kinetic Rage</eng>
+				</name1>
+				<desc1>
+					<eng>Your wrath makes the very air tremble. When your attacks intersect with those trembling spots monsters go flying.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>Your attacks have a 5% knockdown chance while at max rage</eng>
+				</reward_0_0>
+			</kinetic_rage>
+			<manifest_fury>
+				<name1>
+					<eng>Manifest Fury</eng>
+				</name1>
+				<desc1>
+					<eng>You can get so angry now that when a monster hits you, you don't need to hit back. Your anger does it for you.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>+25% damage while at max Rage</eng>
+				</reward_0_0>
+			</manifest_fury>
+			<minefield_specialist>
+				<name1>
+					<eng>Minefield Specialist</eng>
+				</name1>
+				<desc1>
+					<eng>Mines are your specialty. You've gotten so good that you can juggle them around like plates.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>-15% cooldown for all mine type skills</eng>
+				</reward_0_0>
+			</minefield_specialist>
+			<iron_mage>
+				<name1>
+					<eng>Iron Mage</eng>
+				</name1>
+				<desc1>
+					<eng>Thanks to spontaneously forming residual energy barriers, casting spells doesn't just make you powerful anymore, it also makes you more resilient.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>+10% damage reduce for 2 seconds each time you cast a spell (the effect stacks)</eng>
+				</reward_0_0>
+			</iron_mage>
+			<spell_lord>
+				<name1>
+					<eng>Spell Lord</eng>
+				</name1>
+				<desc1>
+					<eng>Your spells do as you say. They also do it longer.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>Spells that require Upkeep last 10% longer</eng>
+				</reward_0_0>
+			</spell_lord>
+			<Defense_matrix_specialist>
+				<name1>
+					<eng>Defense Matrix Specialist</eng>
+				</name1>
+				<desc1>
+					<eng>No, this does not allow you to dodge bullets in slow motion. It just means that you assembled your battlesuit wrong and now it makes you a bit invulnerable every once in a while.</eng>
+				</desc1>
+				<reward_0_0>
+					<eng>Whenever you are hit there is a 10% chance that a bubble of invulnerability forms around you, protecting you for 1 second</eng>
+				</reward_0_0>
+			</Defense_matrix_specialist>
+		</Perks>
+		<RewardAction>
+			<SkillPoint>
+				<eng>%d Skill Points</eng>
+			</SkillPoint>
+			<AbilityPoint>
+				<eng>%d Ability Points</eng>
+			</AbilityPoint>
+			<SkillPointNamed>
+				<eng>%s recieves %d Skill Points</eng>
+			</SkillPointNamed>
+			<AbilityPointNamed>
+				<eng>%s recieves %d Ability Points</eng>
+			</AbilityPointNamed>
+			<InventoryPage>
+				<eng>Your hero recieves an additional Inventory Page</eng>
+			</InventoryPage>
+			<InventoryPageToKatarina>
+				<eng>Lady Katarina recieves an additional Inventory Page</eng>
+			</InventoryPageToKatarina>
+			<FatePoint>
+				<eng>%d Fate Points</eng>
+			</FatePoint>
+		</RewardAction>
+		<NewLevel>
+			<eng>New Perk available</eng>
+		</NewLevel>
+	</HeroicDeeds>
+</Root>

@@ -1,0 +1,2865 @@
+﻿
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Common>
+		<vh2betaend>
+			<eng>This is the end of our current beta.</eng>
+		</vh2betaend>
+		<ReputationLimitReached>
+			<eng>Reputation limit reached</eng>
+		</ReputationLimitReached>
+		<Import>
+			<eng>Import</eng>
+		</Import>
+		<options>
+			<WindowStyle>
+				<eng>Window Style</eng>
+				<windowed>
+					<eng>Windowed</eng>
+				</windowed>
+				<windowed_borderless>
+					<eng>Windowed(Borderless)</eng>
+				</windowed_borderless>
+				<full_screen>
+					<eng>Full Screen</eng>
+				</full_screen>
+			</WindowStyle>
+			<NoShake>
+				<eng>Disable Camera Shake</eng>
+			</NoShake>
+			<popup>
+				<NoShake>
+					<eng>Disables camera shaking effects.</eng>
+				</NoShake>
+			</popup>
+			<controls>
+				<ping_1>
+					<eng>Attention! ping</eng>
+				</ping_1>
+				<ping_2>
+					<eng>Help! ping</eng>
+				</ping_2>
+				<ping_3>
+					<eng>Back! ping</eng>
+				</ping_3>
+				<world_skill_1>
+					<eng>1st World Skill</eng>
+				</world_skill_1>
+				<world_skill_2>
+					<eng>2nd World Skill</eng>
+				</world_skill_2>
+				<world_skill_3>
+					<eng>3rd World Skill</eng>
+				</world_skill_3>
+				<challanges_window>
+					<eng>Challenges Window</eng>
+				</challanges_window>
+			</controls>
+		</options>
+		<chat>
+			<all>
+				<eng>&lt;all&gt; </eng>
+			</all>
+		</chat>
+		<video_skip_vote>
+			<eng>Vote skip in progress( %d )</eng>
+		</video_skip_vote>
+		<trophy_unavailable>
+			<eng>This function is available only from level 31.</eng>
+		</trophy_unavailable>
+		<play>
+			<eng>Play</eng>
+		</play>
+	</Common>
+	<Menu>
+		<Main>
+			<ChangeCharacter>
+				<eng>Change Character</eng>
+			</ChangeCharacter>
+			<characterclasslevel>
+				<eng>%s (lvl %d)</eng>
+			</characterclasslevel>
+			<charactercampaign>
+				<eng>Campaign: %s</eng>
+			</charactercampaign>
+			<characterdifficulty>
+				<eng>Difficulty: %s</eng>
+			</characterdifficulty>
+			<upgradeto>
+				<eng>Change to %s</eng>
+			</upgradeto>
+			<createcharacter>
+				<template>
+					<hunter_melee>
+						<name>
+							<eng>Blade</eng>
+						</name>
+						<desc>
+							<eng>A tough hunter with abilities focused on survival in close combat. Capable of dealing high damage to single opponents and posesses adequate means to deal with crowds. Well suited for a newcomer.</eng>
+						</desc>
+					</hunter_melee>
+					<hunter_ranged>
+						<name>
+							<eng>Gunslinger</eng>
+						</name>
+						<desc>
+							<eng>A versatile hunter specialized in ranged combat. Equipped with abilities to slow, immobilize, and dispatch moderately large groups of opponents and excels at singleing out the most dangerous creatures.</eng>
+						</desc>
+					</hunter_ranged>
+					<magus_1>
+						<name>
+							<eng>Spellkeeper</eng>
+						</name>
+						<desc>
+							<eng>A fragile but powerful elementalist armed with spells that remain on the battlefield for long periods and keep damaging enemies while the thaumaturge maneuvers around them.</eng>
+						</desc>
+					</magus_1>
+					<magus_2>
+						<name>
+							<eng>Adeptus</eng>
+						</name>
+						<desc>
+							<eng>A spellcaster focused on direct offense spells with an emphasis on raw power. Also posesses a few tricks to confuse and turn enemies against each other.</eng>
+						</desc>
+					</magus_2>
+					<engineer_1>
+						<name>
+							<eng>Bombardier</eng>
+						</name>
+						<desc>
+							<eng>A mechanic with an assortment of devastating medium and long range attacks, complemented by a few abilities to protect his flanks.</eng>
+						</desc>
+					</engineer_1>
+					<engineer_2>
+						<name>
+							<eng>Contraptionist</eng>
+						</name>
+						<desc>
+							<eng>A master gadgeteer who enters combat alongside a gang of mechanical allies. His abilities allow him to create mobile mechanical creatures and stationary gun turrets on the fly.</eng>
+						</desc>
+					</engineer_2>
+					<custom>
+						<name>
+							<eng>Custom</eng>
+						</name>
+						<desc>
+							<eng>Create a custom character and choose all abilities yourself.</eng>
+						</desc>
+					</custom>
+					<import>
+						<name>
+							<eng>Import</eng>
+						</name>
+						<desc>
+							<eng>Import an existing character from the first episode of Van Helsing.</eng>
+						</desc>
+					</import>
+				</template>
+				<SelectImport>
+					<eng>Select character to import</eng>
+				</SelectImport>
+				<import_lvl_req>
+					<eng>Characters need to be at level 30 to be imported!</eng>
+				</import_lvl_req>
+			</createcharacter>
+			<scenario_popup_vh2>
+				<eng>The Adventure mode lets you play on separate maps with special rules as well as a randomly generated mini-campaign.\n\n- Character Level required: %d\n- Consult the journal for more information on this game mode</eng>
+			</scenario_popup_vh2>
+			<buy_vh1>
+				<eng>Buy The Incredible Adventures of Van Helsing on Steam!</eng>
+			</buy_vh1>
+		</Main>
+		<Campaign>
+			<label>
+				<eng>Campaign</eng>
+			</label>
+			<normal>
+				<name>
+					<eng>Normal</eng>
+				</name>
+				<desc>
+					<eng>The game starts from level 1 with a brand new character.</eng>
+				</desc>
+			</normal>
+			<veteran>
+				<name>
+					<eng>Veteran</eng>
+				</name>
+				<desc>
+					<eng>The game starts from level 30. You have the option to use a pre-generated character, create a new one or import a character from the previous game.</eng>
+				</desc>
+			</veteran>
+			<neverending>
+				<name>
+					<eng>Neverending Story</eng>
+				</name>
+				<desc>
+					<eng>Restart the story and face extreme challenge with your high level character. The monsters will keep getting stronger while your only way to improve is to play even better. See how far you can get!\n\n- You must finish the Story at level 60 to unlock this game mode.\n- Enemies drop high level items.</eng>
+				</desc>
+			</neverending>
+			<dlc1>
+				<buy>
+					<eng>Purchase this DLC now!</eng>
+				</buy>
+				<name>
+					<eng>Ink Hunt</eng>
+				</name>
+				<desc>
+					<eng>Enter a mysterious Inkgate and find out what’s happening beyond the veil of the world! Don’t forget to take your weapons with you, though.\n- Four unique maps with a strong central storyline.</eng>
+				</desc>
+			</dlc1>
+		</Campaign>
+		<Difficulty>
+			<text>
+				<eng>You can change the Difficulty level of your character.</eng>
+			</text>
+			<Fearless>
+				<name>
+					<eng>Fearless</eng>
+				</name>
+				<Popup>
+					<eng>Enter a brutally unforgiving world ruled by abhorrently powerful abominations. If you're looking for an unfair challenge, you've found it.\n\nEnemies have +300% Health and +135% damage\n\nBenefits:\n  +130% Gold Find\n  +130% Xp\n  Maximum Fate Points per day: 50</eng>
+				</Popup>
+			</Fearless>
+			<Endgame_1>
+				<name>
+					<eng>Inhuman Ordeal 1</eng>
+				</name>
+				<Popup>
+					<eng>Enemies have +600% Health and +285% damage\n\nBenefits:\n  +200% Gold Find\n  +200% Xp\n  +50% chance to find epic items\n  Maximum Fate Points per day: 60</eng>
+				</Popup>
+			</Endgame_1>
+			<Endgame_2>
+				<name>
+					<eng>Inhuman Ordeal 2</eng>
+				</name>
+				<Popup>
+					<eng>Enemies have +1200% Health and +470% damage\n\nBenefits:\n  +300% Gold Find\n  +300% Xp\n  +100% chance to find epic items\n  Maximum Fate Points per day: 70</eng>
+				</Popup>
+			</Endgame_2>
+			<Endgame_3>
+				<name>
+					<eng>Inhuman Ordeal 3</eng>
+				</name>
+				<Popup>
+					<eng>Enemies have +2400% Health and +685% damage\n\nBenefits:\n  +450% Gold Find\n  +450% Xp\n  +200% chance to find epic items\n  Maximum Fate Points per day: 80</eng>
+				</Popup>
+			</Endgame_3>
+			<Endgame_4>
+				<name>
+					<eng>Inhuman Ordeal 4</eng>
+				</name>
+				<Popup>
+					<eng>Enemies have +3700% Health and +970% damage\n\nBenefits:\n  +600% Gold Find\n  +600% Xp\n  +400% chance to find epic items\n  Maximum Fate Points per day: 90</eng>
+				</Popup>
+			</Endgame_4>
+			<Endgame_5>
+				<name>
+					<eng>Inhuman Ordeal 5</eng>
+				</name>
+				<Popup>
+					<eng>Enemies have +9000% Health and +1500% damage\n\nBenefits:\n  +1000% Gold Find\n  +1000% Xp\n  +600% chance to find epic items\n  Maximum Fate Points per day: 100</eng>
+				</Popup>
+			</Endgame_5>
+		</Difficulty>
+		<GameList>
+			<tab>
+				<custom>
+					<eng>Custom Game</eng>
+				</custom>
+				<quick>
+					<eng>Quick Game</eng>
+				</quick>
+				<create>
+					<eng>Create Game</eng>
+				</create>
+			</tab>
+			<quick>
+				<pve>
+					<eng>Co-op game modes</eng>
+				</pve>
+				<pvp>
+					<eng>PvP game modes</eng>
+				</pvp>
+				<waiting>
+					<eng>Waiting...</eng>
+				</waiting>
+				<host>
+					<eng>Host</eng>
+				</host>
+			</quick>
+			<friend_in_game>
+				<eng>Currently in game</eng>
+			</friend_in_game>
+			<msg_invalid_character_norepair>
+				<eng>This character has been determined as invalid. You cannot play PVP game modes with an invalid character.</eng>
+			</msg_invalid_character_norepair>
+		</GameList>
+		<DLC>
+			<steames_elorendelo>
+				<name>
+					<eng>Steam Preorder Pack</eng>
+				</name>
+				<desc>
+					<eng>As a token of our appreciation to all pre-orders, you are granted a pair of unique set items: the Expurgator Armor and the Expurgator Ring. Welcome to the ranks of the Expurgators!</eng>
+				</desc>		
+			</steames_elorendelo>
+			<magic_pack>
+				<name>
+					<eng>Magic Pack</eng>
+				</name>
+				<desc>
+					<eng>The highly sought after Magic Pack grants you the following advantages:\n- The Occult Bargains Perk (Gives you a 20% discount for enchantment prices), The Predominator Helmet, The Supporter Steam Achievement</eng>
+				</desc>		
+			</magic_pack>
+			<domovoy_iljich>
+				<name>
+					<eng>Rare Pack</eng>
+				</name>
+				<desc>
+					<eng>A special heart-lightening pack for the serious monster hunter, with the following advantages:\n- The Domovoy perk (Grants you +5% Magic item find bonus and +10% Gold find bonus), The Domovoy rare minipet, The Mephistron Helmet</eng>
+				</desc>		
+			</domovoy_iljich>
+			<goofzilla>
+				<name>
+					<eng>Epic Pack</eng>
+				</name>
+				<desc>
+					<eng>A complimentary bundle for those who plan on taking on the darkest sides of Borgova, with the following advantages:\n- The Goofzilla perk (+3% critical hit chance, Combat is even more bloody), The Goofzilla epic minipet, The Xenofiend Helmet</eng>
+				</desc>		
+			</goofzilla>
+			<that_rabbit>
+				<name>
+					<eng>Legendary Pack</eng>
+				</name>
+				<desc>
+					<eng>A special treat reserved for the most dedicated members of the Hunter's Guild, with the following advantages:\n- The THAT_Rabbit perk (+5% damage), THAT Rabbit the legendary minipet, The Debominator Helmet</eng>
+				</desc>		
+			</that_rabbit>
+			<campaign_dlc_1>
+				<name>
+					<eng>Ink Hunt</eng>
+				</name>
+				<desc>
+					<eng>Enter a mysterious Inkgate and find out what’s happening beyond the veil of the world! Don’t forget to take your weapons with you, though.\n- Four unique maps with a strong central storyline.</eng>
+				</desc>		
+			</campaign_dlc_1>
+			<pigasus>
+				<name>
+					<eng>Pigasus</eng>
+				</name>
+				<desc>
+					<eng>Release the Pigasus, the wonder of weird science! Summon this new creature by spending Essence and purchase powerful items in your Lair from the Pigasus.</eng>
+				</desc>		
+			</pigasus>
+		</DLC>
+	</Menu>
+	<Battle>
+		<GUI>
+			<chapter>
+				<title>
+					<eng>Chapter %d Completed!</eng>
+				</title>
+				<playtime>
+					<eng>Playtime:</eng>
+				</playtime>
+				<monsters>
+					<eng>Monsters killed:</eng>
+				</monsters>
+				<elites>
+					<eng>Elite packs killed:</eng>
+				</elites>
+				<own_death>
+					<eng>Your deaths:</eng>
+				</own_death>
+				<walked_meters>
+					<eng>Distance walked:</eng>
+				</walked_meters>
+				<gold>
+					<eng>Gold gathered:</eng>
+				</gold>
+				<hidden_content>
+					<eng>Hidden content found:</eng>
+				</hidden_content>
+				<quests>
+					<eng>Quests completed:</eng>
+				</quests>
+				<total_damage>
+					<eng>Total damage:</eng>
+				</total_damage>
+				<out_of>
+					<eng>%d of %d</eng>
+				</out_of>
+				<arena>
+					<eng>Arena Completed!</eng>
+				</arena>
+				<round_count>
+					<eng>Rounds survived:</eng>
+				</round_count>
+				<fate_gained>
+					<eng>Fate point reward:</eng>
+				</fate_gained>
+				<extra_xp>
+					<eng>XP reward:</eng>
+				</extra_xp>
+				<event>
+					<eng>Event Completed!</eng>
+				</event>
+			</chapter>
+			<gamemode>
+				<kda_popup>
+					<kill>
+						<eng>Kill</eng>
+					</kill>
+					<death>
+						<eng>Death</eng>
+					</death>
+					<assist>
+						<eng>Assist</eng>
+					</assist>
+				</kda_popup>
+			</gamemode>
+			<map>
+				<terep_tutorial>
+					<name>
+						<eng>Beneath the Palace</eng>
+					</name>
+				</terep_tutorial>
+				<terep_Lair_new>
+					<name>
+						<eng>Secret Lair</eng>
+					</name>
+				</terep_Lair_new>
+				<terep_ostrom>
+					<name>
+						<eng>Viaduct Junction</eng>
+					</name>
+				</terep_ostrom>
+				<terep_csatorna_deep>
+					<name>
+						<eng>Drainage Tunnels</eng>
+					</name>
+				</terep_csatorna_deep>
+				<terep_csatorna_prison>
+					<name>
+						<eng>Holding Facility</eng>
+					</name>
+				</terep_csatorna_prison>
+				<terep_tower_defense01>
+					<name>
+						<eng>Subterranean Incursion</eng>
+					</name>
+				</terep_tower_defense01>
+				<terep_tower_defense02>
+					<name>
+						<eng>Invasion of the Rat-Things</eng>
+					</name>
+				</terep_tower_defense02>
+				<terep_tower_defense03>
+					<name>
+						<eng>Inhuman Regiment</eng>
+					</name>
+				</terep_tower_defense03>
+				<terep_tower_defense04>
+					<name>
+						<eng>Maze of Blades</eng>
+					</name>
+				</terep_tower_defense04>
+				<terep_tower_defense05>
+					<name>
+						<eng>Caverns of Steel</eng>
+					</name>
+				</terep_tower_defense05>
+				<terep_tower_defense06>
+					<name>
+						<eng>Halls of Remembrance</eng>
+					</name>
+				</terep_tower_defense06>
+				<terep_szerpentin>
+					<name>
+						<eng>Thunderhead Mountain</eng>
+					</name>
+				</terep_szerpentin>
+				<terep_cold_caverns>
+					<name>
+						<eng>Cold Caverns</eng>
+					</name>
+				</terep_cold_caverns>
+				<terep_giantwoods>
+					<name>
+						<eng>Giantwoods</eng>
+					</name>
+				</terep_giantwoods>
+				<terep_ink_glass>
+					<name>
+						<eng>Crystal Workshop</eng>
+					</name>
+				</terep_ink_glass>
+				<terep_barrikados2>
+					<name>
+						<eng>Viaduct Junction</eng>
+					</name>
+				</terep_barrikados2>
+				<terep_foundry>
+					<name>
+						<eng>Foundry</eng>
+					</name>
+				</terep_foundry>
+				<terep_kohok_room1>
+					<name>
+						<eng>Assembly Hall</eng>
+					</name>
+				</terep_kohok_room1>
+				<terep_kohok_room2>
+					<name>
+						<eng>Quality Control Room</eng>
+					</name>
+				</terep_kohok_room2>
+				<terep_kohok_room3>
+					<name>
+						<eng>Packaging Area</eng>
+					</name>
+				</terep_kohok_room3>
+				<terep_bossc2>
+					<name>
+						<eng>Animated Extraction Rig</eng>
+					</name>
+				</terep_bossc2>
+				<terep_city_1>
+					<name>
+						<eng>Merchant District</eng>
+					</name>
+				</terep_city_1>
+				<terep_city_1_csatorna>
+					<name>
+						<eng>Testing Facility</eng>
+					</name>
+				</terep_city_1_csatorna>
+				<terep_droppod_base>
+					<name>
+						<eng>Floating Platform</eng>
+					</name>
+				</terep_droppod_base>
+				<terep_poksziklak>
+					<name>
+						<eng>Wormwood Chasm</eng>
+					</name>
+				</terep_poksziklak>
+				<terep_ink_daemon>
+					<name>
+						<eng>Gorge of Eternal Peril</eng>
+					</name>
+				</terep_ink_daemon>
+				<terep_driadboss>
+					<name>
+						<eng>Glade of Thorns</eng>
+					</name>
+				</terep_driadboss>
+				<VH2Scenario_cave>
+					<name>
+						<eng>Overran Tunnels</eng>
+					</name>
+				</VH2Scenario_cave>
+				<VH2Scenario_cold_caverns>
+					<name>
+						<eng>Deep Mine</eng>
+					</name>
+				</VH2Scenario_cold_caverns>
+				<VH2Scenario_foundry>
+					<name>
+						<eng>District of Steel</eng>
+					</name>
+				</VH2Scenario_foundry>
+				<VH2Scenario_ink_Beggarking>
+					<name>
+						<eng>Forsaken Hideout</eng>
+					</name>
+				</VH2Scenario_ink_Beggarking>
+				<VH2Scenario_ink_glass>
+					<name>
+						<eng>Maze of Daze</eng>
+					</name>
+				</VH2Scenario_ink_glass>
+				<VH2Scenario_Poksziklak>
+					<name>
+						<eng>Gloomy Crags</eng>
+					</name>
+				</VH2Scenario_Poksziklak>
+				<battle_royal_ink_glass>
+					<name>
+						<eng>Crystal Workshop</eng>
+					</name>
+				</battle_royal_ink_glass>
+				<battle_royal_cold_cavern>
+					<name>
+						<eng>Cold Caverns</eng>
+					</name>
+				</battle_royal_cold_cavern>
+			</map>
+			<companion>
+				<breakdown>
+					<label>
+						<eng>Go Breakdown</eng>
+					</label>
+					<popup>
+						<eng>Send your companion to break down items in her inventory into fragments.</eng>
+					</popup>
+				</breakdown>
+				<skills>
+					<VH_Buff>
+						<popup>
+							<eng>Sentinel</eng>
+						</popup>
+					</VH_Buff>
+					<Own_Buff>
+						<popup>
+							<eng>Corpus</eng>
+						</popup>
+					</Own_Buff>
+					<Fighting>
+						<popup>
+							<eng>Specter</eng>
+						</popup>
+					</Fighting>
+				</skills>
+			</companion>
+			<charactersheet>
+				<combat>
+					<label>
+						<eng>Combat</eng>
+					</label>
+				</combat>
+				<adventure>
+					<label>
+						<eng>Adventure</eng>
+					</label>
+				</adventure>
+				<crafting>
+					<label>
+						<eng>Items & Crafting</eng>
+					</label>
+				</crafting>
+				<halloffame>
+					<label>
+						<eng>Hall of Fame</eng>
+					</label>
+				</halloffame>
+				<resources>
+					<label>
+						<eng>Resources</eng>
+					</label>
+				</resources>
+				<increase>
+					<popupcost>
+						<eng>Ability Point Cost: %d</eng>
+					</popupcost>
+				</increase>
+				<decrease>
+					<popupcost>
+						<eng>Ability Points Regained: %d</eng>
+					</popupcost>
+				</decrease>
+			</charactersheet>
+			<fragmentwindow>
+				<label>
+					<eng>Runecrafting</eng>
+				</label>
+				<ThreeRandomEnchants>
+					<eng>3x Random Enchantments</eng>
+				</ThreeRandomEnchants>
+				<RandomEnchant>
+					<eng>Random Enchantment</eng>
+				</RandomEnchant>
+				<EmptyEnchant>
+					<eng>Empty Enchantment</eng>
+				</EmptyEnchant>
+				<dismantle>
+					<label>
+						<eng>Dismantle</eng>
+					</label>
+					<popup>
+						<eng>Dismantle item\n\nBefore you can create new items with runes you need rune fragments. You can acquire them by breaking down items.</eng>
+					</popup>
+					<source>
+						<popup>
+							<eng>Source Item\n\nDrag an item here. Its magical enchantments will be turned into rune fragments and the item will be destroyed.</eng>
+						</popup>
+					</source>
+					<base_fragment>
+						<popup>
+							<eng>Master Rune Fragment\n\nEach source item will yield a Master Rune Fragment with the rarity of the item. These are essential for the creation of new items.</eng>
+						</popup>
+					</base_fragment>
+					<enchant_fragment>
+						<popup>
+							<eng>Rune Fragment\n\nEach enchantment on the source item will be turned into a corresponding Rune Fragment that can later be used to craft runes.</eng>
+						</popup>
+					</enchant_fragment>
+				</dismantle>
+				<dismantleall>
+					<label>
+						<eng>Dismantle All</eng>
+					</label>
+					<popup>
+						<eng>Dismantle all magical items in your inventory.</eng>
+					</popup>
+				</dismantleall>
+				<runecraft>
+					<label>
+						<eng>Craft Rune</eng>
+					</label>
+					<popup>
+						<eng>Craft Rune\n\nOnce you have Rune Fragments, you can use them to create actual Runes.</eng>
+					</popup>
+					<source>
+						<popup>
+							<eng>Rune Fragments\n\nYou can convert 5 Rune Fragments of the same type to a Rune.</eng>
+						</popup>
+					</source>
+					<result>
+						<popup>
+							<eng>Rune\n\nThis is the type and number of Runes that will be created.</eng>
+						</popup>
+					</result>
+				</runecraft>
+				<itemcraft>
+					<label>
+						<eng>Create Item</eng>
+					</label>
+					<popup>
+						<eng>Create Item\n\nRunes can be used to create new magical items. You need at least one Master Rune to craft an item.</eng>
+					</popup>
+					<source>
+						<popup>
+							<eng>Base Item\n\nPut any item here to determine the type of the new item. Any existing enchantments will be removed and three new random enchantments will be created. You can use runes to add more enchantments and determine their type below.</eng>
+						</popup>
+					</source>
+					<essence0>
+						<popup>
+							<eng>Add 10 Essence Capacity (Rare Master Rune required)</eng>
+						</popup>
+					</essence0>
+					<essence1>
+						<popup>
+							<eng>Add 10 Essence Capacity (Epic Master Rune required)</eng>
+						</popup>
+					</essence1>
+					<base0>
+						<popup>
+							<eng>Add extra random enchantment (Magic Master Rune required)</eng>
+						</popup>
+					</base0>
+					<base1>
+						<popup>
+							<eng>Add extra random enchantment (Rare Master Rune required)</eng>
+						</popup>
+					</base1>
+					<base2>
+						<popup>
+							<eng>Add extra random enchantment (Rare Master Rune required)</eng>
+						</popup>
+					</base2>
+					<base3>
+						<popup>
+							<eng>Add extra random enchantment (Epic Master Rune required)</eng>
+						</popup>
+					</base3>
+					<enchant>
+						<popup>
+							<eng>Drag a rune here to determine the type of the extra enchantment\n\nYou can use up to 3 Runes (of the same type) to increase the likelyhood of gaining a potent enchantment.</eng>
+						</popup>
+					</enchant>
+				</itemcraft>
+				<button>
+					<dismantle>
+						<eng>Dismantle</eng>
+					</dismantle>
+					<runecraft>
+						<eng>Craft Rune</eng>
+					</runecraft>
+					<itemcraft>
+						<eng>Create Item</eng>
+					</itemcraft>
+				</button>
+				<EssenceCapacity>
+					<eng>Essence Capacity:</eng>
+				</EssenceCapacity>
+				<Cost>
+					<eng>Total cost:</eng>
+				</Cost>
+				<put_on_essence_capacity_slot>
+					<eng>Put on lower slot</eng>
+				</put_on_essence_capacity_slot>
+				<Choose_base_item>
+					<eng>Choose a base item:</eng>
+				</Choose_base_item>
+			</fragmentwindow>
+			<enchantwindow>
+				<enchant>
+					<slot_popup>
+						<eng>Item to enchant</eng>
+					</slot_popup>
+				</enchant>
+				<replace>
+					<label>
+						<eng>Replace</eng>
+					</label>
+					<popup>
+						<eng>Replace the selected enchantment on the item with a random enchantment.</eng>
+					</popup>
+					<slot_popup>
+						<eng>Item to enchant</eng>
+					</slot_popup>
+					<confirm>
+						<eng>You can only replace one enchantment on each item. If you change this one, all the others (if any) will remain the way they are. Are you sure?</eng>
+					</confirm>
+				</replace>
+				<reroll>
+					<label>
+						<eng>Reroll</eng>
+					</label>
+					<popup>
+						<eng>Randomly reroll the value of the selected enchantment.</eng>
+					</popup>
+					<slot_popup>
+						<eng>Item to enchant</eng>
+					</slot_popup>
+				</reroll>
+				<transmute>
+					<label>
+						<eng>Transmute</eng>
+					</label>
+					<popup>
+						<eng>Change the appearance and name of the item.</eng>
+					</popup>
+					<itemname>
+						<label>
+							<eng>New item name:</eng>
+						</label>
+						<popup>
+							<eng>If you wish to name the new item, type the name here.</eng>
+						</popup>
+					</itemname>
+					<slot1_popup>
+						<eng>Target item</eng>
+					</slot1_popup>
+					<slot2_popup>
+						<eng>Template item</eng>
+					</slot2_popup>
+					<slot3_popup>
+						<eng>Result</eng>
+					</slot3_popup>
+				</transmute>
+				<replace_cost>
+					<eng>Replace cost</eng>
+				</replace_cost>
+				<reroll_cost>
+					<eng>Reroll cost</eng>
+				</reroll_cost>
+				<transmute_cost>
+					<eng>Transmute cost</eng>
+				</transmute_cost>
+				<Enchantments>
+					<eng>Enchantments (%d/%d):</eng>
+				</Enchantments>
+				<cant_enchant>
+					<nothing_selected>
+						<eng>You must select an enchant first!</eng>
+					</nothing_selected>
+					<nothing_to_do_here>
+						<eng>Make some change first!</eng>
+					</nothing_to_do_here>
+					<selected_enchant_at_max>
+						<eng>The selected enchant is at its maximum value!</eng>
+					</selected_enchant_at_max>
+				</cant_enchant>
+				<selected_enchant_at_max>
+					<eng>Max</eng>
+				</selected_enchant_at_max>
+			</enchantwindow>
+			<AlchemyWindow>
+				<popup>
+					<item_dismantle_target_essences>
+						<eng>You will get a list of essences removed from the item in the tooltip of this slot.</eng>
+					</item_dismantle_target_essences>
+				</popup>
+			</AlchemyWindow>
+			<interaction>
+				<fragment>
+					<name>
+						<eng>Runecrafting</eng>
+					</name>
+				</fragment>
+				<ink_monster>
+					<name>
+						<eng>Chimera</eng>
+					</name>
+				</ink_monster>
+				<pigazus>
+					<name>
+						<eng>Pigasus</eng>
+					</name>
+				</pigazus>
+				<reset_perks>
+					<name>
+						<eng>Reset Perks</eng>
+					</name>
+				</reset_perks>				
+				<Godlike_Forge>
+					<name>
+						<eng>Meta Forge</eng>
+					</name>
+				</Godlike_Forge>				
+			</interaction>
+			<Godlikeforge>
+				<title>
+					<eng>Augment Godlike Items</eng>
+				</title>			
+				<Instruction>
+					<eng>Drag a goldike item into the slot:</eng>
+				</Instruction>
+				<Upgrade>
+					<eng>Augment</eng>
+				</Upgrade>
+			</Godlikeforge>
+			<inventory>
+				<ClickActions>
+					<ToFragment>
+						<eng>%s to use in Runecrafting</eng>
+					</ToFragment>
+					<BreakDown>
+						<eng>%s to Dismantle</eng>
+					</BreakDown>
+					<FromTrophy>
+						<eng>%s to remove from Display</eng>
+					</FromTrophy>
+				</ClickActions>
+				<fragment>
+					<popup>
+						<eng>Runes and Fragments</eng>
+					</popup>
+				</fragment>
+				<deposit_label>
+					<eng>Deposit Gold</eng>
+				</deposit_label>
+				<withdraw_label>
+					<eng>Withdraw Gold</eng>
+				</withdraw_label>
+				<slot>
+					<scroll>
+						<popup>
+							<eng>Scrolls</eng>
+						</popup>
+					</scroll>
+					<rune>
+						<popup>
+							<eng>Runes</eng>
+						</popup>
+					</rune>
+				</slot>
+			</inventory>
+			<journal>
+				<selectablereward>
+					<label>
+						<eng>Select %d rewards:</eng>
+					</label>
+				</selectablereward>
+				<result>
+					<label>
+						<eng>Result:</eng>
+					</label>
+				</result>
+			</journal>
+			<RespawnWindow>
+				<terep_ostrom_checkpoint>
+					<eng>Field Command</eng>
+				</terep_ostrom_checkpoint>
+			</RespawnWindow>
+			<artifactforgewindow>
+				<subtitle>
+					<eng>Select your items to forge:</eng>
+				</subtitle>
+			</artifactforgewindow>
+			<InkMonsterWindow>
+				<title>
+					<eng>Chimera</eng>
+				</title>
+				<monster_dps>
+					<label>
+						<eng>DPS</eng>
+					</label>
+					<popup>
+						<eng>Gives you a general idea about how much damage the Chimera can do in close combat.</eng>
+					</popup>
+				</monster_dps>
+				<stamina>
+					<popup>
+						<eng>The Nourishment Level influences how well the chimera performs its tasks. Below 80%, it suffers increasingly severe penalties for its combat statistics and hunting abilities.</eng>
+					</popup>
+				</stamina>
+				<feed>
+					<title>
+						<eng>Nourishment level:</eng>
+					</title>
+					<label>
+						<eng>Feed</eng>
+					</label>
+					<popup>
+						<eng>The currently selected Essence will increase the Chimera's Stamina by %d.</eng>
+					</popup>
+					<popupempty>
+						<eng>Drag an essence to the slot and click this button feed it to the Chimera!</eng>
+					</popupempty>
+				</feed>
+				<rename>
+					<popup>
+						<eng>Give a unique name to your Chimera!</eng>
+					</popup>
+				</rename>
+				<gohunting>
+					<label>
+						<eng>Go Hunt!</eng>
+					</label>
+					<popup>
+						<eng>Clicking this button will send the Chimera on a treasure hunt into the Ink.</eng>
+					</popup>
+					<gohunting_stamina_req>
+						<eng>You cannot send the chimera to hunt below 20% Nourishment Level.</eng>
+					</gohunting_stamina_req>
+				</gohunting>
+				<summoning_candles>
+					<eng>Summoning Candles:</eng>
+					<popup>
+						<eng>Drag mystical candles here to give the chimera additional abilities or boost its base statistics.</eng>
+					</popup>
+				</summoning_candles>
+				<huntinglabel>
+					<eng>Choose a Hunting Ground for your Chimera:</eng>
+				</huntinglabel>
+				<hunting_timer>
+					<eng>Hunting time remaining</eng>
+				</hunting_timer>
+				<hurting_timer>
+					<eng>Chimera will get better in</eng>
+				</hurting_timer>
+				<level_requirement>
+					<eng>Required chimera level: %d</eng>
+				</level_requirement>
+				<candle_on_slot>
+					<eng>Give Candle to Chimera</eng>
+				</candle_on_slot>
+				<remove_candle>
+					<eng>Remove Candle</eng>
+				</remove_candle>
+				<xp>
+					<eng>Experience:</eng>
+					<popup>
+						<eng>An indication of how much experience the chimera will gain if sent to this hunting ground. The greater the number, the more experience points the Chimera will get. </eng>
+					</popup>
+				</xp>
+				<gold>
+					<eng>Gold:</eng>
+					<popup>
+						<eng>An indication of how much gold the chimera will bring back if sent to this hunting ground. (A value of 2 is about 30000 gold on average.)</eng>
+					</popup>
+				</gold>
+				<mf>
+					<eng>Magic Find:</eng>
+					<popup>
+						<eng>An indication of how many magical items the chimera will find if sent to this hunting ground. (A value of 2 equals four artifacts of various rarity.)</eng>
+					</popup>
+				</mf>
+				<spec>
+					<eng>Special items:</eng>
+					<popup>
+						<eng>An indication of the chance that the chimera will bring back a special potion. (A value of 2 is about 35% chance.)</eng>
+					</popup>
+				</spec>
+				<danger>
+					<eng>Danger:</eng>
+					<popup>
+						<eng>An indication of the chance that the chimera will get injured during the hunt. (A Chimera that is the same level as the threat level of a hunting ground has about 20% chance to get injured.)</eng>
+					</popup>
+				</danger>
+				<DeepFlux>
+					<name>
+						<eng>Deep Flux</eng>
+					</name>
+					<desc>
+						<eng>This is a chaotic, swirling maelstrom of blinding ideas. When mad scientists dream of the Deep Flux, they always wake up with strange ideas sizzling in their brains.</eng>
+					</desc>
+				</DeepFlux>
+				<DreamLand>
+					<name>
+						<eng>Dreamland</eng>
+					</name>
+					<desc>
+						<eng>The most enigmatic realm in the sprawling nothingness has no gates to enter. Only the dreamers and the creatures of the Ink will find their way there.</eng>
+					</desc>
+				</DreamLand>
+				<NightmareHollow>
+					<name>
+						<eng>Nightmare Hollow</eng>
+					</name>
+					<desc>
+						<eng>The beating, black heart of the Ink draws the wanderers with irresistible force. But those who enter can rarely leave this cursed realm.</eng>
+					</desc>
+				</NightmareHollow>
+				<EtherealDomain>
+					<name>
+						<eng>Ethereal Domain</eng>
+					</name>
+					<desc>
+						<eng>A land of emptiness and illusion, where creatures live in the dusk and the walls you touch melt away under your fingertips.</eng>
+					</desc>
+				</EtherealDomain>
+				<SpectralProvinces>
+					<name>
+						<eng>Spectral Provinces</eng>
+					</name>
+					<desc>
+						<eng>This is where the ghosts go when they leave their haunted castles and cold crypts to keep everlasting vigil over piles of cursed treasure.</eng>
+					</desc>
+				</SpectralProvinces>
+				<VoidBastion>
+					<name>
+						<eng>Void Bastion</eng>
+					</name>
+					<desc>
+						<eng>There are forlorn islands in the Ink where strange ruins tell the tale of a lost civilization that once built colossal  defenses against some unknown threat.</eng>
+					</desc>
+				</VoidBastion>
+			</InkMonsterWindow>
+			<ResistanceWindow>
+				<title>
+					<eng>Resistance</eng>
+				</title>
+				<army_strength_label>
+					<eng>Army Strength</eng>
+				</army_strength_label>
+				<army_strength_popup>
+					<eng>The overall military strength of the Resistance. Increase it by training soldiers, purchasing equipment and finding relics.</eng>
+				</army_strength_popup>
+				<missions_label>
+					<eng>Resistance Missions</eng>
+				</missions_label>
+				<relics_label>
+					<eng>Relics</eng>
+				</relics_label>
+				<relics_popup>
+					<eng>You can find many powerful relics during the game. These will contribute to your Army Strength and they will bestow bonuses if carried by captains.</eng>
+				</relics_popup>
+				<relic_slot_popup>
+					<eng>Drag a relic here to give it to the captain. The captain will receive the listed bonuses.</eng>
+				</relic_slot_popup>
+				<TotalSoldierCount>
+					<eng>Resistance soldiers:</eng>
+				</TotalSoldierCount>
+				<CostPerSoldier>
+					<eng>Cost/soldier:</eng>
+				</CostPerSoldier>
+				<ActiveSoldierCount>
+					<eng>Active soldiers:</eng>
+				</ActiveSoldierCount>
+				<MissionSoldiers_popup>
+					<eng>This mission will require the listed amount of soldiers. These soldiers will become unavailable until the mission is completed and some of them may die during it.</eng>
+				</MissionSoldiers_popup>
+				<EquipmentCount>
+					<eng>Equipment level</eng>
+				</EquipmentCount>
+				<EquipmentCount_popup>
+					<eng>An indication of how well equipped your soldiers are. To keep your Army Strength high, you will need to gradually buy levels as you progress. The expected value is 2-3 levels in the beginning, near maximum at the end.</eng>
+				</EquipmentCount_popup>
+				<skill_learn>
+					<eng>Click here to choose a new skill for this captain!</eng>
+				</skill_learn>
+				<ask_captain>
+					<eng>Ask Captain</eng>
+				</ask_captain>
+				<ETA>
+					<eng>Mission Time: %d minutes</eng>
+				</ETA>
+				<status>
+					<AtBase>
+						<eng>At Base</eng>
+					</AtBase>
+					<Wounded>
+						<eng>Wounded</eng>
+						<return>
+							<eng>Heals in %d minute(s)</eng>
+						</return>
+					</Wounded>
+					<OnMission>
+						<eng>On Mission</eng>
+						<return>
+							<eng>Returns in %d minute(s)</eng>
+						</return>
+					</OnMission>
+				</status>
+				<mission_filter>
+					<available>
+						<label>
+							<eng>Available</eng>
+						</label>
+						<popup>
+							<eng>List all currently available missions</eng>
+						</popup>
+					</available>
+					<ongoing>
+						<label>
+							<eng>Ongoing</eng>
+						</label>
+						<popup>
+							<eng>List all missions currently in progress</eng>
+						</popup>
+					</ongoing>
+					<finished>
+						<label>
+							<eng>Finished</eng>
+						</label>
+						<popup>
+							<eng>List all previously finished missions</eng>
+						</popup>
+					</finished>
+				</mission_filter>
+				<send_on_mission>
+					<label>
+						<eng>Send</eng>
+					</label>
+					<popup>
+						<eng>Send out your captain to attempt the selected mission.</eng>
+					</popup>
+				</send_on_mission>
+				<report>
+					<label>
+						<eng>Report</eng>
+					</label>
+					<popup>
+						<eng>Receive the rewards from this mission</eng>
+					</popup>
+				</report>
+				<train_soldier>
+					<label>
+						<eng>Train</eng>
+					</label>
+					<popup>
+						<eng>Train more troops to shed their blood for your cause</eng>
+					</popup>
+				</train_soldier>
+				<buy_equipment>
+					<label>
+						<eng>Upgrade</eng>
+					</label>
+					<popup>
+						<eng>Upgrade the equipment quality of your soldiers.</eng>
+					</popup>
+				</buy_equipment>
+				<report>
+					<Failed>
+						<eng>Mission Failed</eng>
+					</Failed>
+					<Complete>
+						<eng>Mission Complete</eng>
+					</Complete>
+					<Bronze>
+						<eng>Tactical Victory</eng>
+					</Bronze>
+					<Silver>
+						<eng>Strategic Victory!</eng>
+					</Silver>
+					<Gold>
+						<eng>Brilliant Victory!</eng>
+					</Gold>
+				</report>
+				<rewards>
+					<eng>Rewards</eng>
+				</rewards>
+				<casualties>
+					<label>
+						<eng>Casualties</eng>
+					</label>
+					<value>
+						<eng>%d Soldiers</eng>
+					</value>
+				</casualties>
+			</ResistanceWindow>
+			<PigazusWindow>
+				<title>
+					<eng>Pigasus</eng>
+				</title>
+				<desc>
+					<eng>Select essences to sacrifice:</eng>
+				</desc>
+				<summon>
+					<label>
+						<eng>Summon</eng>
+					</label>
+					<popup>
+						<eng>Summon Pigasus</eng>
+					</popup>
+				</summon>
+				<use_essence>
+					<eng>Use Essence</eng>
+				</use_essence>
+				<remove_essence>
+					<eng>Remove Essence</eng>
+				</remove_essence>
+			</PigazusWindow>
+			<trophydisplay>
+				<selectedtrophies>
+					<eng>Selected Trophies</eng>
+				</selectedtrophies>
+				<positiveeffects>
+					<eng>Positive effects:</eng>
+				</positiveeffects>
+				<negativeeffects>
+					<eng>Negative effects:</eng>
+				</negativeeffects>
+				<availableslot>
+					<eng>Available from level %d</eng>
+				</availableslot>
+			</trophydisplay>
+			<tdwindow>
+				<title>
+					<eng>Wave</eng>
+				</title>
+				<title_kieg>
+					<eng>Monsters</eng>
+				</title_kieg>
+				<boss>
+					<eng>Bosses</eng>
+				</boss>
+				<champion>
+					<eng>Champions</eng>
+				</champion>
+				<entrance>
+					<eng>Spawn Point</eng>
+				</entrance>
+				<exit>
+					<eng>Defense Point</eng>
+				</exit>
+			</tdwindow>
+			<tdbriefing>
+				<result>
+					<win>
+						<eng>Wave completed!</eng>
+					</win>
+					<lose>
+						<eng>You have failed!</eng>
+					</lose>
+				</result>
+				<monsteres_killed>
+					<eng>Monsters killed:</eng>
+				</monsteres_killed>
+				<monsteres_killed_by_traps>
+					<eng>Monsters killed by traps:</eng>
+				</monsteres_killed_by_traps>
+				<monsteres_in_your_base>
+					<eng>Monsters in your base:</eng>
+				</monsteres_in_your_base>
+				<machine_parts_gathered>
+					<eng>Machine Parts gathered:</eng>
+				</machine_parts_gathered>
+			</tdbriefing>
+			<perkresetwindow>
+				<title>
+					<eng>Reset perks</eng>
+				</title>
+				<description>
+					<eng>Reset all perks at once!\nYou need to meet the following conditions to be able to reset your perks:\n</eng>
+				</description>
+				<totalcost>
+					<eng>Cost</eng>
+				</totalcost>
+				<abilitypoint>
+					<eng>%s needs %d available Ability Points!</eng>
+				</abilitypoint>
+				<skillpoint>
+					<eng>%s needs %d available Skill Points!</eng>
+				</skillpoint>
+				<inventorypage>
+					<eng>You need to remove all items from the additional inventory page of %s.</eng>
+				</inventorypage>
+			</perkresetwindow>
+			<activequest>
+				<new_quest>
+					<eng>New Quest!</eng>
+				</new_quest>	
+			</activequest>
+			<map>
+				<Instruction>
+					<waypoint>
+						<eng>You can select a wayoint in the map to travel...</eng>
+					</waypoint>
+					<portal>
+						<eng>Select your destination on the map!</eng>
+					</portal>
+				</Instruction>
+				<ClickActions>
+					<waypoint>
+						<eng>%s to Teleport</eng>
+					</waypoint>
+					<portal>
+						<eng>%s to Teleport</eng>
+					</portal>
+				</ClickActions>
+			</map>
+			<CustomCharacter>
+				<next>
+					<eng>Next</eng>
+				</next>
+				<finish>
+					<eng>Finish</eng>
+				</finish>
+				<step_0>
+					<title>
+						<eng>Step 1: Character Sheet</eng>
+					</title>
+					<desc>
+						<eng>Spend ability and skill points for Van Helsing</eng>
+					</desc>
+				</step_0>
+				<step_1>
+					<title>
+						<eng>Step 2: Katarina</eng>
+					</title>
+					<desc>
+						<eng>Spend ability and skill points for Katarina</eng>
+					</desc>
+				</step_1>
+				<step_2>
+					<title>
+						<eng>Step 3: Equipment</eng>
+					</title>
+					<desc>
+						<eng>Buy equipment</eng>
+					</desc>
+				</step_2>
+			</CustomCharacter>
+			<HeroicDeeds>
+				<Filter>
+					<Completed>
+						<label>
+							<eng>Completed</eng>
+						</label>
+						<popup>
+							<eng>Completed Achievements</eng>
+						</popup>
+					</Completed>
+					<UnCompleted>
+						<label>
+							<eng>UnCompleted</eng>
+						</label>
+						<popup>
+							<eng>UnCompleted Achievements</eng>
+						</popup>
+					</UnCompleted>
+				</Filter>
+				<tab>
+					<character>
+						<popup>
+							<eng>Character\nAchievements related to your characters and their statistics.</eng>
+						</popup>
+					</character>
+					<progress>
+						<popup>
+							<eng>Progress\nAchievements related to the story campaign.</eng>
+						</popup>
+					</progress>
+					<challenge>
+						<popup>
+							<eng>Challenges\nSpecial challenges.</eng>
+						</popup>
+					</challenge>
+					<easter_egg>
+						<popup>
+							<eng>Easter Eggs\nHidden achievements that can be unlocked by finding easter eggs and other hidden things in the campaign.</eng>
+						</popup>
+					</easter_egg>
+				</tab>
+			</HeroicDeeds>				
+			<Scenario>
+				<title>
+					<eng>Adventure Map</eng>
+				</title>
+				<title_finalize>
+					<eng>Setup your Adventure</eng>
+				</title_finalize>
+				<victory_bar_popup>
+					<eng>Victory bar. Shows your succes in the past Adventures. As the Victory Bar raises, you will unlock several bonuses for You and Your whole party. Completing  individual Adventures and complete Adventure Campaigns will earn you Victory points and raise the bar. Failed Adventures or using the "Reroll" button before completing the Adventure Camapign makes your Victory Bar sink.</eng>
+				</victory_bar_popup>
+				<reroll>
+					<label>
+						<eng>Reroll</eng>
+					</label>
+					<desc>
+						<eng>Reroll your Adventures. Your current Adventures and progress will be lost permanently.</eng>
+					</desc>
+					<warning>
+						<eng>Reroll your Adventures. Your current Adventures and progress will be lost permanently. WARNING: if you use this option before completing the Adventure Campaign, your Victory bar will sink!</eng>
+					</warning>
+				</reroll>
+				<finalize>					
+						<eng>Finalize</eng>
+					<popup>
+						<eng>Your Adventure settings will be saved and the game starts in the Lair.</eng>
+					</popup>					
+				</finalize>
+				<play>
+					<popup>
+						<eng>Start the selected level</eng>
+					</popup>
+					<warning>
+						<eng>WARNING: You have lowered the difficulty level. If you continue, your Victory bar will sink %d points!</eng>
+					</warning>
+					<confirm>
+						<eng>Your Adventure game is ready. If you continue, the difficulty setting, the activated Adventure conditions and the "Reroll" button will be LOCKED. You can still change these settings, but it will cost you Victory Points and will lower the Victory Bar! Are you 100% sure you're ready?</eng>
+					</confirm>
+				</play>
+				<plus_minus>
+					<eng>Set the number of special conditions for the Adventures. The more conditions you select the more bonuses you will get. NOTE: Every Adventure will use the same number of conditions but the conditions themselves may differ from map to map!</eng>
+				</plus_minus>
+				<modifier0>
+					<eng>Experience modifier. Increases the Experience reward during the Adventure.</eng>
+				</modifier0>
+				<modifier1>
+					<eng>Magic find modifier. Increases the chance of finding various Magical Items.</eng>
+				</modifier1>
+				<modifier2>
+					<eng>Gold find modifier. Increases the amount of Gold liberated during your adventure.</eng>
+				</modifier2>
+				<modifier3>
+					<eng>Essence modifier. Increases the chance of finding Essence during the Adventure.</eng>
+				</modifier3>
+				<modifier4>
+					<eng>Item quality. Increases the overall quality of the Magical Items you find.</eng>
+				</modifier4>
+				<victory_level>
+					<level0>
+						<eng>Popular among the people. Greatly reduced Resurrection cost and +100% Gold find bonus. Bonus applies only in Adventures.</eng>
+					</level0>
+					<level1>
+						<eng>Attuned to the Ink. 100% Essence drop by Elite and Veteran packs, +200% Gold find bonus. Bonus applies only in Adventures.</eng>
+					</level1>
+					<level2>
+						<eng>Echo in the Spirit World. +50% chance for Epic quality loot from Elite and Veteran packs, +500% Gold find bonus. Bonus applies only in Adventures.</eng>
+					</level2>
+					<level3>
+						<eng>Favoured by the Gods. +50% chance for Set and Godlike quality loot from Elite and Veteran packs, +1000% Gold find bonus. Bonus applies only in Adventures.</eng>
+					</level3>
+				</victory_level>
+				<gamemode>
+					<cluehunt>
+						<name>
+							<eng>Clue Hunt</eng>
+						</name>
+						<desc>
+							<eng>Your mission is to collect five Clues from five deadly monsters. The location of the next clue-bearer will be marked on the map, but beware: you only have a limited time to find them. Always keep an eye on the timer or you will taste bitter defeat!</eng>
+						</desc>
+						<task>
+							<eng>Clue gathered %d/%d</eng>
+						</task>
+						<timelimit>
+							<eng>Time remaining to next clue: %d seconds</eng>
+						</timelimit>
+						<poi>
+							<eng>Kill the clue-bearer</eng>
+						</poi>
+						<find_clues>
+							<eng>Hunt down the marked monsters and gather all clues!</eng>							
+						</find_clues>
+					</cluehunt>
+					<purge>
+						<name>
+							<eng>Purge</eng>
+						</name>
+						<desc>
+							<eng>Your task is simple: track down and destroy the marauding monster groups marked on the map. Purge them all! If you die, you fail the mission.</eng>
+						</desc>
+						<task>
+							<eng>Elite groups killed %d/%d</eng>
+						</task>
+						<kill_elite_group>
+							<eng>Kill the marked monster groups!</eng>
+						</kill_elite_group>
+					</purge>
+					<domovoy_hunt>
+						<name>
+							<eng>Domovoy Rush</eng>
+						</name>
+						<desc>
+							<eng>Domovoys are usually just annoying little...annoyances, but not these ones: they stole vital resources from the Resistance. You goal is to "pacify" five Domovoys, they will appear as you kill other monsters on the map. Be fast and aggressive, otherwise they will escape through a secret portal!</eng>
+						</desc>
+						<task>
+							<eng>Domovoys arrested: %d/%d</eng>
+						</task>
+						<arrest_domovoys>
+							<eng>Arrest 5 domovoys before the time runs out!</eng>
+						</arrest_domovoys>
+					</domovoy_hunt>
+					<frenzy>
+						<name>
+							<eng>Frenzy</eng>
+						</name>
+						<desc>
+							<eng>Kill a set number of enemies within the time limit. For each kill you get some extra time, extending the time limit.</eng>
+						</desc>
+						<task>
+							<eng>Enemies massacred: %d/%d</eng>
+						</task>
+						<time>
+							<eng>Time remaining: %d seconds</eng>
+						</time>
+						<massacre_monsters>
+							<eng>Kill 150 monsters before the timer runs out!</eng>
+						</massacre_monsters>
+					</frenzy>
+					<treasure_hunt>
+						<name>
+							<eng>Treasure Hunt</eng>
+						</name>
+						<desc>
+							<eng>Find five hidden treasure chests full of gold and rare loot and enjoy the riches! If you die, you fail the mission.</eng>
+						</desc>
+						<task>
+							<eng>Treasure gathered %d/%d</eng>
+						</task>
+						<poi>
+							<eng>Treasure chest location</eng>
+						</poi>
+						<find_treasure>
+							<eng>Find the hidden treasure chests!</eng>
+						</find_treasure>
+					</treasure_hunt>
+					<bounty>
+						<name>
+							<eng>Bounty</eng>
+						</name>
+						<desc>
+							<eng>Hunt down and kill a powerful monster with a bounty on its head. The bounty is paid out in heaps of gold and essences. If you die, you fail the mission.</eng>
+						</desc>
+						<task1>
+							<eng>Locate %s</eng>
+						</task1>
+						<task2>
+							<eng>Defeat %s</eng>
+						</task2>
+						<locate_monster>
+							<eng>Locate the %s</eng>
+						</locate_monster>
+						<eliminate_monster>
+							<eng>Eliminate the %s</eng>
+						</eliminate_monster>
+					</bounty>
+					<uberboss>
+						<name>
+							<eng>Complete the campaign</eng>
+						</name>
+						<task>
+							<eng>Defeat %s!</eng>
+						</task>
+					</uberboss>					
+					<purification>
+						<name>
+							<eng>Purification</eng>
+						</name>
+						<desc>
+							<eng>Your goal is to purify three Totems on the map. If you can kill the guarding monsters within 30 seconds, you will receive extra gold. If you die, you fail the mission.</eng>
+						</desc>
+						<task>
+							<eng></eng>
+						</task>
+						<destroy_summoned_monsters>
+							<eng>Purify the Totems by destroying the monsters!</eng>
+						</destroy_summoned_monsters>
+					</purification>
+					<chicken_gauntlet>
+						<name>
+							<eng>Chicken Gauntlet</eng>
+						</name>
+						<desc>
+							<eng>This location is under an evil curse which turns you into a helpless chicken, unless you step inside one of the warding circles (where you can fight normally). Your task is to get across the map in one piece. If you die, you fail the mission.</eng>
+						</desc>
+						<task>
+							<eng></eng>
+						</task>
+						<survive_chicken_hex>
+							<eng>Survive the chicken hex and reach the exit!</eng>
+						</survive_chicken_hex>
+					</chicken_gauntlet>
+					<tides_of_ink>
+						<name>
+							<eng>Tides of Ink</eng>
+						</name>
+						<desc>
+							<eng>There is a hidden Inkgate on the map that unleashes an Ink Tide every 30 seconds. The tide respawns all monsters, making them stronger and stronger. Your task is to destroy the Inkgate and its Guardians. If you die, you fail the mission.</eng>
+						</desc>
+						<task>
+							<eng></eng>
+						</task>
+						<seal_ink_portal>
+							<eng>Survive the Ink Tides and seal the Inkgate!</eng>
+						</seal_ink_portal>
+						<wave_count>
+							<eng>Monster Level</eng>
+						</wave_count>
+						<wave_countdown>
+							<eng>Time remaining to next Ink Tide</eng>
+						</wave_countdown>
+					</tides_of_ink>
+					<boss_hunt>
+						<name>
+							<eng>Boss Run</eng>
+						</name>
+						<desc>
+							<eng>There is a powerful Boss on the map and you must fight your way through his minions to defeat him. However, he will teleport to a new location if he loses 33% and 66% of his maximum health. Each teleport increases his damage by 25% and respawns all minions. Do not underestimate your opponent, they are strong, and the rewards are incredible! If you die three times, you fail the mission.</eng>
+						</desc>
+						<task>
+							<eng></eng>
+						</task>
+						<hunt_monster_leader>
+							<eng>Fight the Monster Leader</eng>
+						</hunt_monster_leader>
+					</boss_hunt>
+					<caravan>
+						<name>
+							<eng>Caravan</eng>
+						</name>
+						<desc>
+							<eng>Your task is to escort civilians across the map to safety. Monsters will try to eliminate them. The more civilians make it to the end, the more rewards you receive. If all civilians die, you fail the mission.</eng>
+						</desc>
+						<task>
+							<eng></eng>
+						</task>
+						<protect_caravan>
+							<eng>Escort the civilians to safety!</eng>
+						</protect_caravan>						
+					</caravan>					
+				</gamemode>
+				<condition>
+					<blessed_phlogiston>
+						<name>
+							<eng>Marked by the Phlogiston</eng>
+						</name>
+						<desc>
+							<eng>+25% damage, HP and movement speed for Machine type monsters.</eng>
+						</desc>
+					</blessed_phlogiston>
+					<blessed_jarilo>
+						<name>
+							<eng>Marked by Jarilo</eng>
+						</name>
+						<desc>
+							<eng>+25% damage, HP and movement speed for Beast type monsters.</eng>
+						</desc>
+					</blessed_jarilo>
+					<blessed_perun>
+						<name>
+							<eng>Marked by Perún</eng>
+						</name>
+						<desc>
+							<eng>+25% damage, HP and movement speed for Mythical monsters.</eng>
+						</desc>
+					</blessed_perun>
+					<blessed_shapeless>
+						<name>
+							<eng>Marked by the Shapeless One</eng>
+						</name>
+						<desc>
+							<eng>+25% damage, HP and movement speed for Abominations.</eng>
+						</desc>
+					</blessed_shapeless>
+					<blessed_moon>
+						<name>
+							<eng>Marked by the Moon</eng>
+						</name>
+						<desc>
+							<eng>+25% damage, HP and movement speed for the Undead.</eng>
+						</desc>
+					</blessed_moon>
+					<marked>
+						<name>
+							<eng>Marked by the Abyss</eng>
+						</name>
+						<desc>
+							<eng>+25% damage, HP and movement speed for all monsters.</eng>
+						</desc>
+					</marked>
+					<no_potions>
+						<name>
+							<eng>Flawed Alchemy</eng>
+						</name>
+						<desc>
+							<eng>You can't use potions in the Adventure.</eng>
+						</desc>
+					</no_potions>					
+					<no_katarina>
+						<name>
+							<eng>Sacred Ground</eng>
+						</name>
+						<desc>
+							<eng>You have to fight on Sacred Ground, which means your ghostly companion can't help you in this Adventure. Katarina isn't amused at all.</eng>
+						</desc>
+					</no_katarina>
+					<no_steal>
+						<name>
+							<eng>Corrupted by the Ink</eng>
+						</name>
+						<desc>
+							<eng>Mana- and Life-stealing effects are disabled in this Adventure, because your enemies are corrupted by the Ink.</eng>
+						</desc>
+					</no_steal>
+					<ink_gates>
+						<name>
+							<eng>Ink Rifts</eng>
+						</name>
+						<desc>
+							<eng>With every monster destroyed there is small chance for another creature to appear instantly through an Ink Rift.</eng>
+						</desc>
+					</ink_gates>					
+					<less_rage>
+						<name>
+							<eng>Sedated</eng>
+						</name>
+						<desc>
+							<eng>Rage generation is reduced by 75%, because you are so cool.</eng>
+						</desc>
+					</less_rage>
+					<plagued>
+						<name>
+							<eng>Plagued</eng>
+						</name>
+						<desc>
+							<eng>You will lose HP continuously due to a nasty plague. No more tomb raiding for a while.</eng>
+						</desc>
+					</plagued>
+					<impending_doom>
+						<name>
+							<eng>Impending Doom</eng>
+						</name>
+						<desc>
+							<eng>You can only die three times during the Adventure. If you can't complete the map with 3 "lives", the Adventure is failed.</eng>
+						</desc>
+					</impending_doom>
+					<barrage>
+						<name>
+							<eng>Barrages</eng>
+						</name>
+						<desc>
+							<eng>The enemy isn't giving up - they are hunting for you! Be prepared to get hit by random artillery barrages.</eng>
+						</desc>
+					</barrage>					
+					<domovoy>
+						<name>
+							<eng>Domovoy Vengeance</eng>
+						</name>
+						<desc>
+							<eng>With every monster killed there is a 5% chance that a suicidal Domovoy Bomber will appear. They will try to reach you and detonate poison bombs.</eng>
+						</desc>
+					</domovoy>
+					<alarm>
+						<name>
+							<eng>Alarm</eng>
+						</name>
+						<desc>
+							<eng>An alarm will sound every 1-2 minutes increasing the detection range of monsters by 300%.</eng>
+						</desc>
+					</alarm>
+					<totems>
+						<name>
+							<eng>Emerging Totems</eng>
+						</name>
+						<desc>
+							<eng>Malevolent totems will appear around your location and disappear after 1 minute. The totems will deal damage to you and bestow bonuses on monsters.</eng>
+						</desc>
+					</totems>
+					<tornado>
+						<name>
+							<eng>Sharknados</eng>
+						</name>
+						<desc>
+							<eng>Five damage dealing tornados appear around your location from time to time. They disappear after 10 seconds.</eng>
+						</desc>
+					</tornado>
+					<mines>
+						<name>
+							<eng>Proximity Mines</eng>
+						</name>
+						<desc>
+							<eng>The map is full of proximity mines, watch your steps! The arming time of the mines is 2 seconds.</eng>
+						</desc>
+					</mines>
+					<dazed>
+						<name>
+							<eng>Dazed</eng>
+						</name>
+						<desc>
+							<eng>You have 15% chance to miss your attacks, incuding area of effect type skills. It was a pretty wild party last night.</eng>
+						</desc>
+					</dazed>										
+				</condition>
+				<scenario_complete>
+					<eng>Adventure Completed!</eng>
+				</scenario_complete>
+				<scenario_fail>
+					<eng>Adventure Failed!</eng>
+				</scenario_fail>
+				<total_lives>
+					<eng>Total Lives:</eng>
+				</total_lives>
+				<quest_list>
+					<eng>Daily Quests</eng>
+					<popup>
+						<eng>Each day a new random quest is generated for you. They remain active indefinitely but you can only have five of them at a time. New quests replace the oldest one when your list is full.</eng>
+					</popup>
+				</quest_list>				
+				<quest_reroll>
+					<popup>
+						<eng>You have the option to discard a single quest and receive a new one each day.</eng>
+					</popup>
+				</quest_reroll>			
+				<endgame_resource>
+					<name>
+						<eng>Fate Points</eng>
+					</name>
+					<popup>
+						<eng>This is a special resource that you can mainly collect by completing Daily Quests, Challenges and Events. You can use it to open special chests in the Lair, reroll the Adventure Map, and most importantly enhance Godlike items.</eng>
+					</popup>
+				</endgame_resource>				
+				<time_limit>
+					<eng>Time Limit:</eng>
+				</time_limit>
+				<prev_map>
+					<eng>Previous Map</eng>
+				</prev_map>
+				<next_map>
+					<eng>Next Map</eng>
+				</next_map>
+				<reroll_maps>
+					<eng>Reroll Maps (Cost: 25 Fate Points)</eng>
+				</reroll_maps>
+				<mission>
+					<eng>Mission Type:</eng>
+				</mission>
+				<spoils_of_triumph>
+					<eng>Spoils of Triumph</eng>
+					<popup>
+						<eng>Each Spoils of Triumph level increases your chances of finding Epic, Set, and Godlike items by 10%. Each completed Adventure increases the level by one but failed Adventures reduce it to zero.</eng>
+					</popup>
+				</spoils_of_triumph>
+				<no_event>
+					<eng>No current event</eng>
+				</no_event>				
+				<difficulty>
+					<normal>					
+						<eng>Difficulty: Normal</eng>						
+					</normal>
+					<hard>
+						<eng>Difficulty: Hard</eng>
+					</hard>
+					<veryhard>
+						<eng>Difficulty: Very Hard</eng>
+					</veryhard>
+					<popup>
+						<eng>These are the special conditions you'll face in the mission. The more of them there are, the more Fate Points you get and the better the gear drop from the reward chest at the end of the mission.</eng>
+					</popup>	
+				</difficulty>				
+				<RewardChestPopup0>
+					<eng>Expected Rewards:\n\nA few rare items with a small chance of Epics \nA bit of Gold \nAn essence or two</eng>
+				</RewardChestPopup0>	
+				<RewardChestPopup1>
+					<eng>Expected Rewards:\n\nA few rare items with a small chance of Epics \nA bit of Gold \nAn essence or two \nA moderate chance of extra essences and items</eng>
+				</RewardChestPopup1>
+				<RewardChestPopup2>
+					<eng>Expected Rewards:\n\nA few rare items with a moderate chance of Epic or better \nA small bag of Gold \nA few essences \nA moderate chance of extra essences and items</eng>
+				</RewardChestPopup2>
+				<RewardChestPopup3>
+					<eng>Expected Rewards:\n\nA few rare items with a moderate chance of Epic or better \nA medium bag of Gold \nA few essences \nA moderate chance of extra essences and items</eng>
+				</RewardChestPopup3>
+				<RewardChestPopup4>
+					<eng>Expected Rewards:\n\nA bunch of rare items with a moderate chance of Epic or better \nA medium bag of Gold \nA few essences \nA good chance of extra essences and items</eng>
+				</RewardChestPopup4>
+				<RewardChestPopup5>
+					<eng>Expected Rewards:\n\nA bunch of rare items with a good chance of Epic or better \nA large bag of Gold \nQuite a few essences \nA good chance of extra essences and items</eng>
+				</RewardChestPopup5>
+				<RewardChestPopup6>
+					<eng>Expected Rewards:\n\nA Set or Godlike item \nA bunch of rare items with a good chance of Epic or better \nA large chest of Gold \nA lot of essences \nA very good chance of extra essences and items</eng>
+				</RewardChestPopup6>
+				<RewardChestPopup7>
+					<eng>Expected Rewards:\n\nA Set or Godlike item \nA bunch of rare items with a good chance of Epic or better \nA massive pile of Gold \nA lot of essences \nA very good chance of extra essences and items</eng>
+				</RewardChestPopup7>
+				<daily_quests>
+					<eng>Daily Quests</eng>
+				</daily_quests>
+				<event_info>
+					<eng>Event Info</eng>
+				</event_info>
+			</Scenario>
+			<bossinfo>
+				<vh2_ch3>
+					<title>
+						<eng>BRIEFING</eng>
+					</title>
+					<harker_name>
+						<eng>Colonel Harker</eng>
+					</harker_name>
+					<harker_text>
+						<eng>Harker is hiding behind his  indestructible Force Wall, but if you kill his soldiers, he is nothing without his army.</eng>
+					</harker_text>
+					<dryad_name>
+						<eng>Dryad Queen</eng>
+					</dryad_name>
+					<dryad_text>
+						<eng>The mad Queen attacks  everyone who enters the glade. She has an inexhaustible army of dryads, but if you can reach her, she can be killed.</eng>
+					</dryad_text>
+					<misc1>
+						<eng>The Resistance will support you: call artillery strikes into the battle!</eng>
+					</misc1>
+					<misc2>
+						<eng>You destroyed the Hex Poles, enabling you to call in Resistance soldiers!</eng>
+					</misc2>
+					<misc3>
+						<eng>You didn't destroy the Hex Poles. The Resistance can't send any soldiers to help you!</eng>
+					</misc3>
+				</vh2_ch3>
+			</bossinfo>
+		</GUI>
+		<GameObject>
+			<Info>
+				<Ink_glass_idol>					
+					<eng>Curious Idol</eng>				
+				</Ink_glass_idol>
+				<Halflife_POI>					
+					<eng>Loose Pack Bale</eng>				
+				</Halflife_POI>
+				<Dungeonkeeper_gloves>					
+					<eng>Gloves</eng>				
+				</Dungeonkeeper_gloves>
+				<Harker_soldier>					
+					<eng>Dead Soldier</eng>				
+				</Harker_soldier>
+				<poksziklak_gyuru>					
+					<eng>Idol of Guidance</eng>				
+				</poksziklak_gyuru>
+				<Mystic_orb>					
+					<eng>Mystic Orb</eng>				
+				</Mystic_orb>
+				<pokszikla_koponya_oltar>					
+					<eng>Bizarre Skull</eng>				
+				</pokszikla_koponya_oltar>
+				<stargate>					
+					<eng>Forbidden Gateway</eng>				
+				</stargate>
+				<ink_daemon_loot>					
+					<eng>Arches of Peril</eng>				
+				</ink_daemon_loot>
+				<spider_seal>					
+					<eng>Hex Pole</eng>				
+				</spider_seal>
+				<sirko>					
+					<eng>Grave</eng>				
+				</sirko>
+				<aranyhal_ust>					
+					<eng>Kettle</eng>				
+				</aranyhal_ust>
+				<Drum>					
+					<eng>Drum</eng>				
+				</Drum>
+				<glass_gate03>					
+					<eng>Gate</eng>				
+				</glass_gate03>
+				<bones5>					
+					<eng>Human Bones</eng>				
+				</bones5>
+				<Mystic_machine_plan>					
+					<eng>Drawing board</eng>				
+				</Mystic_machine_plan>
+				<Emerald_lantern_remove>					
+					<eng>Emerald Lantern</eng>				
+				</Emerald_lantern_remove>
+				<Giantwood_altair_skull>					
+					<eng>Pile of Skulls</eng>				
+				</Giantwood_altair_skull>
+				<Essence_box>					
+					<eng>Old Crate</eng>				
+				</Essence_box>
+				<domi>					
+					<eng>Mine Cart</eng>				
+				</domi>
+				<Glass_table>					
+					<eng>Desk</eng>				
+				</Glass_table>
+				<master_seal>					
+					<eng>Master Seal</eng>				
+				</master_seal>
+				<bookshelf>					
+					<eng>Bookshelf</eng>				
+				</bookshelf>
+				<oszlop_2>					
+					<eng>Rukh Pole</eng>				
+				</oszlop_2>
+				<oszlop_1>					
+					<eng>Rukh Pole</eng>				
+				</oszlop_1>
+				<Little_skeleton>					
+					<eng>A very small skeleton</eng>				
+				</Little_skeleton>
+				<Rare_ore>					
+					<eng>Mysterious Ore</eng>				
+				</Rare_ore>
+				<Stonehead>					
+					<eng>Giant Idol</eng>					
+				</Stonehead>
+				<Altair_sword>					
+					<eng>Ancient Armor</eng>					
+				</Altair_sword>
+				<Gold_fish>					
+					<eng>Goldfish</eng>					
+				</Gold_fish>
+				<gong>					
+					<eng>Mysterious Gong</eng>					
+				</gong>
+				<gombasz_tabla>					
+					<eng>Mushroom Expert</eng>					
+				</gombasz_tabla>
+				<base_controller>					
+					<eng>Ornithopter Launch Controller</eng>					
+				</base_controller>
+				<elevator>					
+					<eng>Elevator</eng>					
+				</elevator>
+				<valve>					
+					<eng>Valve</eng>					
+				</valve>
+				<prison_door>					
+					<eng>Cell Door</eng>					
+				</prison_door>
+				<cavern_elevator_controller>					
+					<eng>Elevator Controller</eng>					
+				</cavern_elevator_controller>
+				<Barrack_prison>					
+					<eng>Barrack</eng>					
+				</Barrack_prison>
+				<daemongate>					
+					<eng>Gate of Perun</eng>					
+				</daemongate>
+				<bones>					
+					<eng>Bones</eng>					
+				</bones>
+				<Spiritwalkers_totem>					
+					<eng>Spiritwalker totem</eng>					
+				</Spiritwalkers_totem>
+				<carcas_pit>					
+					<eng>Carcass pit</eng>					
+				</carcas_pit>
+				<Gulash_pot>
+					<eng>Gulash pot</eng>
+				</Gulash_pot>
+				<Carpets>
+					<eng>Carpets</eng>
+				</Carpets>
+				<bone_prison>
+					<eng>Prison of Bone</eng>
+				</bone_prison>
+				<Semafor_controller>
+					<eng>Semafor Controller</eng>
+				</Semafor_controller>
+				<Dark_idol>
+					<eng>Dark Idol</eng>
+				</Dark_idol>
+				<scarecrow>
+					<eng>Scarecrow</eng>
+				</scarecrow>
+				<RM_mission_table>
+					<eng>Command Post</eng>
+				</RM_mission_table>
+				<dinamit_szikla>
+					<eng>Place Dynamite</eng>
+				</dinamit_szikla>
+				<incantation_gate>
+					<eng>Incantation Gate</eng>
+				</incantation_gate>
+				<pigasus_place_default>
+					<eng>Summon Pigasus</eng>
+				</pigasus_place_default>
+				<chimera_kor>
+					<eng>Chimera</eng>
+				</chimera_kor>
+				<donquijote_spear>
+					<eng>Lance in the Wall</eng>
+				</donquijote_spear>
+				<skeleton_loot>
+					<eng>Skeleton</eng>
+				</skeleton_loot>
+				<szellozo>
+					<eng>Air Vent</eng>
+				</szellozo>
+				<veszkapcsolo>
+					<eng>Emergency Lever</eng>
+				</veszkapcsolo>
+				<chimera_shit>
+					<eng>Steaming Pile of $&!@</eng>
+				</chimera_shit>
+				<terep_ostrom>
+					<ostrom_waypoint01>
+						<eng>Observation Post</eng>
+					</ostrom_waypoint01>
+				</terep_ostrom>
+				<terep_ostrom>
+					<ostrom_waypoint02>
+						<eng>Phlogiston Factory</eng>
+					</ostrom_waypoint02>
+				</terep_ostrom>
+				<terep_ostrom>
+					<ostrom_waypoint03>
+						<eng>Ornithopter Launch Tower</eng>
+					</ostrom_waypoint03>
+				</terep_ostrom>
+				<terep_ostrom>
+					<ostrom_waypoint04>
+						<eng>Cargo Bay</eng>
+					</ostrom_waypoint04>
+				</terep_ostrom>
+				<terep_ostrom>
+					<ostrom_waypoint05>
+						<eng>Emergency Platform</eng>
+					</ostrom_waypoint05>
+				</terep_ostrom>
+				<terep_ostrom>
+					<ostrom_waypoint06>
+						<eng>Loading Platform</eng>
+					</ostrom_waypoint06>
+				</terep_ostrom>
+				<terep_ostrom>
+					<ostrom_waypoint07>
+						<eng>Outer Platform</eng>
+					</ostrom_waypoint07>
+				</terep_ostrom>
+				<terep_csatorna_deep>
+					<Waypoint_csatorna_deep>
+						<eng>Drainage Tunnels</eng>
+					</Waypoint_csatorna_deep>
+				</terep_csatorna_deep>
+				<terep_giantwoods>
+					<giantwood_waypoint>
+						<eng>Frozen Stream</eng>
+					</giantwood_waypoint>
+					<spiritwalker_waypont>
+						<eng>Spirit Walker Totem</eng>
+					</spiritwalker_waypont>
+					<ghostvillage_waypoint>
+						<eng>Ghost Village</eng>
+					</ghostvillage_waypoint>
+				</terep_giantwoods>
+				<terep_Lair_new>
+					<Waypoint_Lair>
+						<eng>Central Hall</eng>
+					</Waypoint_Lair>
+				</terep_Lair_new>
+				<terep_szerpentin>
+					<szerpentin_waypoint>
+						<eng>Mountain Path</eng>
+					</szerpentin_waypoint>
+				</terep_szerpentin>
+				<terep_szerpentin>
+					<szerpentin_village_waypoint>
+						<eng>Zlatva Village</eng>
+					</szerpentin_village_waypoint>
+				</terep_szerpentin>
+				<terep_tower_defense01>
+					<TD1_waypoint>
+						<eng>Entrance</eng>
+					</TD1_waypoint>
+				</terep_tower_defense01>
+				<terep_tower_defense02>
+					<TD2_waypoint>
+						<eng>Entrance</eng>
+					</TD2_waypoint>					
+				</terep_tower_defense02>
+				<terep_tower_defense03>
+					<TD3_waypoint>
+						<eng>Entrance</eng>
+					</TD3_waypoint>					
+				</terep_tower_defense03>
+				<terep_tower_defense04>
+					<TD4_waypoint>
+						<eng>Entrance</eng>
+					</TD4_waypoint>
+				</terep_tower_defense04>
+				<terep_tower_defense05>
+					<TD5_waypoint>
+						<eng>Entrance</eng>
+					</TD5_waypoint>
+				</terep_tower_defense05>
+				<terep_tower_defense06>
+					<TD6_waypoint>
+						<eng>Entrance</eng>
+					</TD6_waypoint>
+				</terep_tower_defense06>
+				<terep_barrikados2>
+					<ostrom_waypoint01>
+						<eng>Observation Post</eng>
+					</ostrom_waypoint01>
+				</terep_barrikados2>
+				<terep_barrikados2>
+					<ostrom_waypoint02>
+						<eng>Phlogiston factory</eng>
+					</ostrom_waypoint02>
+				</terep_barrikados2>
+				<terep_barrikados2>
+					<ostrom_waypoint03>
+						<eng>Ornithopter Launch Tower</eng>
+					</ostrom_waypoint03>
+				</terep_barrikados2>
+				<terep_barrikados2>
+					<ostrom_waypoint04>
+						<eng>Cargo Bay</eng>
+					</ostrom_waypoint04>
+				</terep_barrikados2>
+				<terep_barrikados2>
+					<ostrom_waypoint05>
+						<eng>Emergency Platform</eng>
+					</ostrom_waypoint05>
+				</terep_barrikados2>
+				<terep_barrikados2>
+					<ostrom_waypoint06>
+						<eng>Loading Platform</eng>
+					</ostrom_waypoint06>
+				</terep_barrikados2>
+				<terep_barrikados2>
+					<ostrom_waypoint07>
+						<eng>Outer Platform</eng>
+					</ostrom_waypoint07>
+				</terep_barrikados2>
+				<terep_foundry>
+					<Foundry_waypoint>
+						<eng>Inspection Point</eng>
+					</Foundry_waypoint>
+				</terep_foundry>
+				<terep_city_1>
+					<City1_waypoint>
+						<eng>Baker's Street</eng>
+					</City1_waypoint>
+				</terep_city_1>
+				<terep_droppod_base>
+					<Droppodbase_waypoint1>
+						<eng>Glasshouse</eng>
+					</Droppodbase_waypoint1>
+				</terep_droppod_base>
+				<terep_droppod_base>
+					<Droppodbase_waypoint2>
+						<eng>Launch Tower</eng>
+					</Droppodbase_waypoint2>
+				</terep_droppod_base>
+				<terep_poksziklak>
+					<Poksziklak_waypoint>
+						<eng>Cursed Grove</eng>
+					</Poksziklak_waypoint>
+				</terep_poksziklak>
+				<waypoint_lair>
+					<eng>Ink Gate</eng>
+				</waypoint_lair>
+			</Info>
+			<Chest>
+				<Scenario_mod_chest>
+					<eng>Greater Treasure Chest</eng>
+				</Scenario_mod_chest>
+				<rebel_corpse1>
+					<eng>Corpse</eng>
+				</rebel_corpse1>
+				<rebel_corpse2>
+					<eng>Corpse</eng>
+				</rebel_corpse2>
+				<rebel_corpse3>
+					<eng>Corpse</eng>
+				</rebel_corpse3>
+				<rebel_corpse4>
+					<eng>Corpse</eng>
+				</rebel_corpse4>
+				<rebel_corpse5>
+					<eng>Corpse</eng>
+				</rebel_corpse5>
+				<VH_chest_militarysupply>
+					<eng>Military Supply</eng>
+				</VH_chest_militarysupply>
+				<vh2_chest_02>
+					<eng>Copper Treasure Chest</eng>
+				</vh2_chest_02>
+				<vh2_chest_03>
+					<eng>Silver Treasure Chest</eng>
+				</vh2_chest_03>
+				<vh2_chest_04>
+					<eng>Gold Treasure Chest</eng>
+				</vh2_chest_04>
+				<hunter_hulla2>
+					<eng>Hunter Remains</eng>
+				</hunter_hulla2>
+				<mushroom_expert>
+					<eng>Mushroom Expert</eng>
+				</mushroom_expert>
+				<Gan_hulla>
+					<eng>Grey Wizard</eng>
+				</Gan_hulla>
+				<Loot_ruin>
+					<eng>Rubble Pile</eng>
+				</Loot_ruin>
+				<Shredder_Corpse>
+					<eng>Shredder Wreck</eng>
+				</Shredder_Corpse>
+			</Chest>
+			<trapbuilding>
+				<eng>Middle-click to open Build Menu</eng>
+			</trapbuilding>
+		</GameObject>
+	</Battle>
+	<Traps>			
+		<jegespadlo>
+			<name>
+				<eng>Freeze-O-Floor™</eng>
+			</name>
+			<desc>
+				<eng>A favorite of slaughterhouses, this supercooled metal floorplate is guaranteed to keep meat products fresh as well as slow them down in case they tried to go somewhere.</eng>
+			</desc>								
+		</jegespadlo>
+		<teleportpadlo>
+			<name>
+				<eng>Portal-O-Pad™</eng>
+			</name>
+			<desc>
+				<eng>The latest anti-burglary device with a spotless record. There's nothing more disorienting than thinking you've succesfully broken into somewhere and then finding yourself still outside.</eng>
+			</desc>
+		</teleportpadlo>
+		<frostray>
+			<name>
+				<eng>Ray-O-Frost™</eng>
+			</name>
+			<desc>
+				<eng>This tower-mounted, automatic crystalline mechanism is a real breakthrough in cooling technology. It makes ice cream, keeps snowmen from melting, puts out fires and deep freezes your enemies. No home is complete without it.</eng>
+			</desc>
+		</frostray>
+		<csodacsapda>
+			<name>
+				<eng>Salvage Recycler</eng>
+			</name>
+			<desc>
+				<eng>Periodically grants machine parts during attack waves (but not between them).</eng>
+			</desc>
+		</csodacsapda>
+		<RaketaTorony>
+			<name>
+				<eng>Rocketous Automated Sentry</eng>
+			</name>
+			<desc>
+				<eng>Discharges Rocket-O-Bolt™-s that knock enemies afloor upon detonation.</eng>
+			</desc>
+		</RaketaTorony>
+		<Uteg>
+			<name>
+				<eng>Ball-O-Fire™</eng>
+			</name>
+			<desc>
+				<eng>Flings flaming balls at enemies that violently explodes upon impact.</eng>
+			</desc>
+		</Uteg>
+		<Sorozatlovo>
+			<name>
+				<eng>Ratat-O-Tac™</eng>
+			</name>
+			<desc>
+				<eng>A large automated gun sentry that continuously attacks single targets until they go down or out of range.</eng>
+			</desc>
+		</Sorozatlovo>			
+		<LavaPadlo>
+			<name>
+				<eng>Melt-O-Pool™</eng>
+			</name>
+			<desc>
+				<eng>A wonderfully paradoxic device that is guaranteed to give monsters cold feet and then cure the illness with the utmost efficiency.</eng>
+			</desc>
+		</LavaPadlo>
+		<IdezoTorony>
+			<name>
+				<eng>Ice-O-Bob™</eng>
+			</name>
+			<desc>
+				<eng>Summons an ice golem that fights on your side until destroyed.</eng>
+			</desc>
+		</IdezoTorony>			
+		<sell>
+			<name>
+				<eng>Sell Trap™</eng>
+			</name>
+		</sell>
+		<Upgrade>
+			<name>
+				<eng>Upgrade Trap™</eng>
+			</name>
+		</Upgrade>
+		<UpgradeLevel>			
+			<eng>Upgrade Level %s</eng>			
+		</UpgradeLevel>
+		<upgradeMaxLevelReached>			
+			<eng>Maximum Level Reached</eng>			
+		</upgradeMaxLevelReached>
+		<Behaviour>			
+			<eng>Trap Behaviour</eng>						
+		</Behaviour>
+		<behaviour>
+			<weakest>			
+				<eng>Attack Weakest</eng>					
+			</weakest>
+			<vulnerable>			
+				<eng>Attack Most Vulnerable</eng>					
+			</vulnerable>
+			<first_seen>			
+				<eng>Attack First in Range</eng>					
+			</first_seen>
+			<neartoexit>			
+				<eng>Attack Nearest to Exit</eng>					
+			</neartoexit>									
+		</behaviour>		
+	</Traps>
+	<Tutorial>
+		<vh2_attack>
+			<name>
+				<eng>Attack</eng>
+			</name>
+			<nameXBox>
+				<eng>Attack</eng>
+			</nameXBox>
+			<desc>
+				<eng>Left-click to attack enemies.</eng>
+			</desc>
+			<descXBox>
+				<eng>Use the "X" button to attack enemies.</eng>
+			</descXBox>
+		</vh2_attack>
+		<vh2_move>
+			<name>
+				<eng>Move</eng>
+			</name>
+			<nameXBox>
+				<eng>Move</eng>
+			</nameXBox>
+			<desc>
+				<eng>Left-click to move to the pointed location or interact with an object.</eng>
+			</desc>
+			<descXBox>
+				<eng>Use the "Left Stick" to move around.</eng>
+			</descXBox>
+		</vh2_move>
+		<vh2_alchemy>
+			<name>
+				<eng>Alchemy</eng>
+			</name>
+			<nameXBox>
+				<eng>Alchemy</eng>
+			</nameXBox>
+			<desc>
+				<eng>This is where you can use essences to improve items with essence capacity. There are many ways to use them, consult the tooltips to learn about the possibilities.</eng>
+			</desc>
+			<descXBox>
+				<eng>This is where you can use Essences to improve items with Essence Capacity. There are many ways to use Essence: check the info panel in the middle to learn about the possibilities.</eng>
+			</descXBox>
+		</vh2_alchemy>
+		<vh2_trophy_display>
+			<name>
+				<eng>Trophy Display</eng>
+			</name>
+			<nameXBox>
+				<eng>Trophy Display</eng>
+			</nameXBox>
+			<desc>
+				<eng>Drag a trophy to a slot on the left to display it. Displayed trophies give you substantial bonuses but at the cost of penalties.</eng>
+			</desc>
+			<descXBox>
+				<eng>Assign a trophy to a slot on the left to display it. Displayed trophies give you substantial bonuses but at the cost of penalties.</eng>
+			</descXBox>
+		</vh2_trophy_display>
+		<vh2_mission_command>
+			<name>
+				<eng>Mission Command</eng>
+			</name>
+			<nameXBox>
+				<eng>Mission Command</eng>
+			</nameXBox>
+			<desc>
+				<eng>Here you can send resistance troops to missions. Select a captain at the top and assign the number of soldiers at the bottom for the mission.</eng>
+			</desc>
+		</vh2_mission_command>
+		<vh2_captain>
+			<name>
+				<eng>Captains</eng>
+			</name>
+			<nameXBox>
+				<eng>Captains</eng>
+			</nameXBox>
+			<desc>
+				<eng>Captains lead soldiers into missions. Their strengths and weaknesses determine the outcome. The mission descriptions contain clues on who’s best suited for the task.</eng>
+			</desc>
+		</vh2_captain>
+		<vh2_enchant>
+			<name>
+				<eng>Enchanting</eng>
+			</name>
+			<nameXBox>
+				<eng>Enchanting</eng>
+			</nameXBox>
+			<desc>
+				<eng>Enchanting can place an extra enchantment on an item, change or reroll existing ones. You can also rename items and change their appearance.</eng>
+			</desc>
+		</vh2_enchant>
+		<vh2_runecraft>
+			<name>
+				<eng>Runecrafting</eng>
+			</name>
+			<nameXBox>
+				<eng>Runecrafting</eng>
+			</nameXBox>
+			<desc>
+				<eng>Runecrafting is a neat system that lets you tailor items to your personal taste. Please consult the tooltips to learn how the system works.</eng>
+			</desc>
+		</vh2_runecraft>
+		<vh2_chimera_main>
+			<name>
+				<eng>Chimera</eng>
+			</name>
+			<nameXBox>
+				<eng>Chimera</eng>
+			</nameXBox>
+			<desc>
+				<eng>This is where you can manage your newest companion, the chimera. The right side of the panel displays its combat capabilities, while the left side deals with its ability to hunt in the ink.\nPress Space to continue</eng>
+			</desc>
+			<descXBox>
+				<eng>This is where you can manage your newest companion, the chimera. The first panel displays its combat capabilities, while the second one deals with its ability to hunt in the ink.</eng>
+			</descXBox>
+		</vh2_chimera_main>
+		<vh2_chimera_hunt1>
+			<name>
+				<eng>Hunting</eng>
+			</name>
+			<nameXBox>
+				<eng>Hunting</eng>
+			</nameXBox>
+			<desc>
+				<eng>When sent to hunt, the chimera gains experience and has a chance to bring you magical items or gold. To send the chimera to hunt, select a hunting ground by clicking on its icon and press the button at the bottom. Hunts last for a set amount of time during which the chimera is unavailable.\nPress Space to continue</eng>
+			</desc>
+			<descXBox>
+				<eng>When sent to hunt, the chimera gains experience and has a chance to bring you magical items or gold. To send the chimera to hunt, select a hunting ground from the list on the left and press "A". Hunts last for a set amount of time during which the chimera is unavailable.</eng>
+			</descXBox>
+		</vh2_chimera_hunt1>
+		<vh2_chimera_hunt2>
+			<name>
+				<eng>Hunt rewards</eng>
+			</name>
+			<nameXBox>
+				<eng>Hunt rewards</eng>
+			</nameXBox>
+			<desc>
+				<eng>Each hunting ground has different values for experience and finding items or gold, listed here. There is also a chance that the chimera gets injured, which will make it unavailable for a while.\nPress Space to continue</eng>
+			</desc>
+			<descXBox>
+				<eng>Each hunting ground has different values for experience and finding items or gold, listed here. There is also a chance that the chimera gets injured, which will make it unavailable for a while.</eng>
+			</descXBox>
+		</vh2_chimera_hunt2>
+		<vh2_chimera_summon>
+			<name>
+				<eng>Summoning</eng>
+			</name>
+			<nameXBox>
+				<eng>Summoning</eng>
+			</nameXBox>
+			<desc>
+				<eng>The chimera can be summoned to help you in battles with a new ability you just received. This cannot be done while the chimera is hunting or injured.\nPress Space to continue </eng>
+			</desc>
+		</vh2_chimera_summon>
+		<vh2_chimera_strength>
+			<name>
+				<eng>Strength</eng>
+			</name>
+			<nameXBox>
+				<eng>Strength</eng>
+			</nameXBox>
+			<desc>
+				<eng>You can increase the chimera’s strength and give it combat abilities by placing mystic candles in the slots at the bottom of the section.\nPress Space to continue</eng>
+			</desc>
+			<descXBox>
+				<eng>You can increase the chimera’s strength and give it combat abilities by placing mystic candles in the slots here.</eng>
+			</descXBox>
+		</vh2_chimera_strength>
+		<vh2_chimera_feed>
+			<name>
+				<eng>Feeding</eng>
+			</name>
+			<nameXBox>
+				<eng>Feeding</eng>
+			</nameXBox>
+			<desc>
+				<eng>The chimera needs to be fed from time to time. Its Nourishment Level influences its effectiveness in all tasks. Feed the chimera essences to maintain its strength.</eng>
+			</desc>
+		</vh2_chimera_feed>
+		<vh2_forge>
+			<name>
+				<eng>Artifact Forging</eng>
+			</name>
+			<nameXBox>
+				<eng>Artifact Forging</eng>
+			</nameXBox>
+			<desc>
+				<eng>Forging lets you mold enchantments from up to 3 items into a chosen item. The chosen item randomly loses half of its existing enchantments which are replaced by enchantments from the other items (also chosen randomly).</eng>
+			</desc>
+			<descXBox>
+				<eng>Forging lets you mould enchantments from up to 3 items into a chosen item.  Choose the items from the list on the left side and confirm the forging with the "Y" button - the final item loses half of its existing enchantments, which are replaced by enchantments from the other items.</eng>
+			</descXBox>
+		</vh2_forge>
+		<vh2_storage>
+			<name>
+				<eng>Storage</eng>
+			</name>
+			<nameXBox>
+				<eng>Storage</eng>
+			</nameXBox>
+			<desc>
+				<eng>This is your storage chest. Anything stored here can be accessed by all of your characters.</eng>
+			</desc>
+			<descXBox>
+				<eng>This is your storage chest. Anything stored here can be accessed by all of your characters.</eng>
+			</descXBox>
+		</vh2_storage>
+		<vh2_pickup>
+			<name>
+				<eng>Pickup Hotkey</eng>
+			</name>
+			<nameXBox>
+				<eng>Pickup Hotkey</eng>
+			</nameXBox>
+			<desc>
+				<eng>Press 'G' to automatically pick up all nearby items.</eng>
+			</desc>
+		</vh2_pickup>
+		<vh2_secondary_skill>
+			<name>
+				<eng>Secondary Skills</eng>
+			</name>
+			<nameXBox>
+				<eng>Secondary Skills</eng>
+			</nameXBox>
+			<desc>
+				<eng>You can also use the secondary skill slots, which are activated with the hotkeys 1-6.</eng>
+			</desc>
+		</vh2_secondary_skill>
+		<vh2_tutorial_td_general>
+			<name>
+				<eng>Tower Defense</eng>
+			</name>
+			<nameXBox>
+				<eng>Tower Defense</eng>
+			</nameXBox>
+			<desc>
+				<eng>This is a tower defense minigame. Enemies will arrive in waves from the red chaos portals and attempt to reach the blue exit portals. You can build traps with the middle mouse button, clicking on the available trap slots on the ground and columns.</eng>
+			</desc>
+			<descXBox>
+				<eng>This is a tower defense minigame. Enemies will arrive in waves from the red chaos portals and attempt to reach the blue exit portals. You can build traps on the available trap slots, just stand near of the desired spot and interact with it (Left Trigger).</eng>
+			</descXBox>
+		</vh2_tutorial_td_general>
+		<vh2_tutorial_td_startwave>
+			<name>
+				<eng>Start Wave</eng>
+			</name>
+			<nameXBox>
+				<eng>Start Wave</eng>
+			</nameXBox>
+			<desc>
+				<eng>When you've finished building traps start the wave with this button.</eng>
+			</desc>
+			<descXBox>
+				<eng>
+				You can find out more about the upcoming wave by opening the Map (Press DPad down).\n
+				When you've finished building traps, you can initiate the next wave by pressing "Y".
+				</eng>
+			</descXBox>
+		</vh2_tutorial_td_startwave>
+		<vh2_tutorial_artillery_support>
+			<name>
+				<eng>Artillery Support</eng>
+			</name>
+			<nameXBox>
+				<eng>Artillery Support</eng>
+			</nameXBox>
+			<desc>
+				<eng>During this offensive you have artillery support available. Simply click the icon and then click on the ground where you want the artillery barrage. Be careful though, the shells can hurt you as much as the enemy!</eng>
+			</desc>
+			<descXBox>
+				<eng>During this offensive you have artillery support available. Simply click the icon and then click on the ground where you want the artillery barrage. Be careful though, the shells can hurt you as much as the enemy!</eng>
+			</descXBox>
+		</vh2_tutorial_artillery_support>
+		<vh2_tutorial_rm_main>
+			<name>
+				<eng>Resistance Management</eng>
+			</name>
+			<desc>
+				<eng>This is where you manage the elite troops of the Resistance. Various missions will become available from time to time and your job is to send contingents to complete them.\nPress Space to continue</eng>
+			</desc>
+			<descXBox>
+				<eng>This is where you manage the elite troops of the Resistance. Various missions will become available from time to time and your job is to send contingents to complete them.</eng>
+			</descXBox>
+		</vh2_tutorial_rm_main>
+		<vh2_tutorial_rm_captains>
+			<name>
+				<eng>Captains</eng>
+			</name>
+			<desc>
+				<eng>Each contingent is led by a captain. Captains have a list of attributes that define how good they are in various situations that can occur during missions. When you choose a captain for a mission, you need to take these attributes into account.\nPress Space to continue</eng>
+			</desc>
+			<descXBox>
+				<eng>Each contingent is led by a captain. Captains have a list of attributes that define how good they are in various situations that can occur during missions. When you choose a captain for a mission, you need to take these attributes into account.</eng>
+			</descXBox>
+		</vh2_tutorial_rm_captains>
+		<vh2_tutorial_rm_army_strenght>
+			<name>
+				<eng>Army Strength</eng>
+			</name>
+			<desc>
+				<eng>The other main factor that decides the outcome of missions is the overall Army Strength. It indicates how strong your army is compared to the maximum possible strength at any given time. The number of soldiers, the equipment and the number of relics you have all contribute to this value.\nPress Space to continue</eng>
+			</desc>
+			<descXBox>
+				<eng>The other main factor that decides the outcome of missions is the overall Army Strength. It indicates how strong your army is compared to the maximum possible strength at any given time. The number of soldiers, the equipment and the number of relics you have all contribute to this value.</eng>
+			</descXBox>
+		</vh2_tutorial_rm_army_strenght>
+		<vh2_tutorial_rm_missions>
+			<name>
+				<eng>Missions</eng>
+			</name>
+			<desc>
+				<eng>For each mission, the commander will describe the situation giving you clues on what attributes will be needed. You can then click on the captains who will each give you an approach to the mission. Your job is to decide who’s approach has the best chance to succeed.\nPress Space to continue</eng>
+			</desc>
+			<descXBox>
+				<eng>For each mission, the commander will describe the situation giving you clues on what attributes will be needed. You can then click on the captains who will each give you an approach to the mission. Your job is to decide who’s approach has the best chance to succeed.</eng>
+			</descXBox>
+		</vh2_tutorial_rm_missions>
+		<vh2_tutorial_rm_mission_results>
+			<name>
+				<eng>Mission results</eng>
+			</name>
+			<desc>
+				<eng>Missions take a set amount of time to finish. Once that time has elapsed you can read the mission outcome by clicking on the mission in the finished missions list. If the mission is a failure, the captain may become wounded and unavailable for a while.\nGood Luck!</eng>
+			</desc>
+		</vh2_tutorial_rm_mission_results>
+	</Tutorial>
+	<gamemode>
+		<gamemode>
+			<nightmare_scenario>
+				<eng>Adventure</eng>
+			</nightmare_scenario>
+		</gamemode>
+		<lobby>
+			<minimumplayercount>
+				<eng>You need at least 4 players, and at least one player per team to start the game.</eng>
+			</minimumplayercount>
+		</lobby>
+	</gamemode>
+</Root>

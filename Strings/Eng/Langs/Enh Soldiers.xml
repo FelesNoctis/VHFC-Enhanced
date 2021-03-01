@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Soldiers>
+		<mechanical_colossus_elite>
+			<Name>
+				<eng>Destroy-O-Tron</eng>
+			</Name>
+		</mechanical_colossus_elite>
+		<arena_bandit_melee>
+			<Name>
+				<eng>Arena Gladiator</eng>
+			</Name>
+		</arena_bandit_melee>
+		<arena_dog>
+			<Name>
+				<eng>Arena Hell Hound</eng>
+			</Name>
+		</arena_dog>
+		<arena_hookbeast>
+			<Name>
+				<eng>Massive Hookbeast</eng>
+			</Name>
+		</arena_hookbeast>
+		<arena_mermaid>
+			<Name>
+				<eng>Ancient Mermaid</eng>
+			</Name>
+		</arena_mermaid>
+		<arena_ranged_bandit>
+			<Name>
+				<eng>Arena Contender</eng>
+			</Name>
+		</arena_ranged_bandit>
+		<arena_jester>
+			<Name>
+				<eng>Arena Assassin</eng>
+			</Name>
+		</arena_jester>
+		<arena_battlewagon>
+			<Name>
+				<eng>Battlewagon</eng>
+			</Name>
+		</arena_battlewagon>
+		<SpecialAbilities>
+			<Arena_Lightning_Curse>
+				<eng>Curse of Lightning</eng>
+			</Arena_Lightning_Curse>
+			<Arena_Entrap>
+				<eng>Entrap</eng>
+			</Arena_Entrap>
+			<Arena_Vulnerability>
+				<eng>Vulnerability Bolt</eng>
+			</Arena_Vulnerability>
+			<Arena_Gryphon_Lightning>
+				<eng>Vulnerability Blastwave</eng>
+			</Arena_Gryphon_Lightning>
+			<Arena_Heal_Ally>
+				<eng>Heal Ally</eng>
+			</Arena_Heal_Ally>
+			<Arena_Lifesteal_Totem>
+				<eng>Lifesteal Totem</eng>
+			</Arena_Lifesteal_Totem>
+			<Arena_Grounding_Totem>
+				<eng>Grounding Totem</eng>
+			</Arena_Grounding_Totem>
+			<Arena_Summon_Spiders>
+				<eng>Summon Spiders</eng>
+			</Arena_Summon_Spiders>
+			<enh_armor_piercing>
+				<eng>Armor Piercing</eng>
+			</enh_armor_piercing>
+			<enh_heavy_armor>
+				<eng>Heavy Armor</eng>
+			</enh_heavy_armor>
+		</SpecialAbilities>
+	</Soldiers>
+</Root>

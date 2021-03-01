@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Soldiers>
+		<dirigiblusa_boss>
+			<Name>
+				<eng>Horrendous Floater</eng>
+			</Name>
+		</dirigiblusa_boss>
+		<Breda_boss>
+			<Name>
+				<eng>Godlet-Automaton</eng>
+			</Name>
+		</Breda_boss>	
+		<Tides_of_ink_gate>
+			<Name>
+				<eng>Ink Gate</eng>
+			</Name>
+		</Tides_of_ink_gate>	
+		<Tides_of_ink_guardian>
+			<Name>
+				<eng>Gate Guardian</eng>
+			</Name>
+		</Tides_of_ink_guardian>
+		<vrikolak_ghost>
+			<Name>
+				<eng>Vrikolak ghost</eng>
+			</Name>
+		</vrikolak_ghost>
+		<ruszalka_tetok>
+			<Name>
+				<eng>Rusalka Thug</eng>
+			</Name>
+		</ruszalka_tetok>
+		<Whirlwind_Ornithopter>
+			<Name>
+				<eng>Whirlwind Ornithopter</eng>
+			</Name>
+		</Whirlwind_Ornithopter>
+		<Wasp_Ornithopter>
+			<Name>
+				<eng>Wasp Ornithopter</eng>
+			</Name>
+		</Wasp_Ornithopter>
+		<Assault_Ornithopter>
+			<Name>
+				<eng>Assault Ornithopter</eng>
+			</Name>
+		</Assault_Ornithopter>
+		<Prototype_tesla>
+			<Name>
+				<eng>Elyctrical Prototype</eng>
+			</Name>
+		</Prototype_tesla>
+		<Frog_Biro>
+			<Name>
+				<eng>Batrachiantaur Judge</eng>
+			</Name>
+		</Frog_Biro>
+		<Dreadknecht_Shielder>
+			<Name>
+				<eng>Dreadknecht Defender</eng>
+			</Name>
+		</Dreadknecht_Shielder>
+		<Dreadknecht_sniper>
+			<Name>
+				<eng>Dreadknecht Sniper</eng>
+			</Name>
+		</Dreadknecht_sniper>
+		<Ridle_wisp_gyarnegyed>
+			<Name>
+				<eng>Riddlerwisp</eng>
+			</Name>
+		</Ridle_wisp_gyarnegyed>
+		<restless_baroness_ice>
+			<Name>
+				<eng>Bitter Countess</eng>
+			</Name>
+		</restless_baroness_ice>
+		<restless_baroness_lightning>
+			<Name>
+				<eng>Furious Princess</eng>
+			</Name>
+		</restless_baroness_lightning>
+		<Giant_Liquidator_split>
+			<Name>
+				<eng>Corrodent Liquidator</eng>
+			</Name>
+		</Giant_Liquidator_split>
+		<giant_liquidator>
+			<Name>
+				<eng>Giant Liquidator</eng>
+			</Name>
+		</giant_liquidator>
+		<restless_baroness>
+			<Name>
+				<eng>Restless Baroness</eng>
+			</Name>
+		</restless_baroness>
+		<harpy_inkm>
+			<Name>
+				<eng>Twilight Vila</eng>
+			</Name>
+		</harpy_inkm>
+		<Lesovik_axe_inkm>
+			<Name>
+				<eng>Lesovik Gloomspawn</eng>
+			</Name>
+		</Lesovik_axe_inkm>
+		<Lesovik_inkm>
+			<Name>
+				<eng>Shadow Lesovik</eng>
+			</Name>
+		</Lesovik_inkm>
+		<Domovoy_bomber>
+			<Name>
+				<eng>Domovoy bomber</eng>
+			</Name>
+		</Domovoy_bomber>
+		<Brain_breeder>
+			<Name>
+				<eng>Breeder</eng>
+			</Name>
+		</Brain_breeder>
+		<Brain_mistique>
+			<Name>
+				<eng>Scattermind</eng>
+			</Name>
+		</Brain_mistique>
+		<brain_normal>
+			<Name>
+				<eng>Mastermind</eng>
+			</Name>
+		</brain_normal>
+		<Brain_warrior>
+			<Name>
+				<eng>Battlemind</eng>
+			</Name>
+		</Brain_warrior>
+		<Liquidator>
+			<Name>
+				<eng>Liquidator</eng>
+			</Name>
+		</Liquidator>
+		<hidden_treasure>
+			<Name>
+				<eng>Hidden treasure</eng>
+			</Name>
+		</hidden_treasure>
+		<guardian>
+			<Name>
+				<eng>Chimera</eng>
+			</Name>
+		</guardian>
+		<YarrHarr>
+			<Name>
+				<eng>Yarr Harr</eng>
+			</Name>
+		</YarrHarr>
+		<spawn>
+			<Name>
+				<eng>Brainspawn</eng>
+			</Name>
+		</spawn>
+		<Ghoul>
+			<Name>
+				<eng>Ghoul</eng>
+			</Name>
+		</Ghoul>	
+		<Magus_viztisztito>
+			<Name>
+				<eng>The Pale Gentleman</eng>
+			</Name>
+		</Magus_viztisztito>		
+		<feral_hookbeast>
+			<Name>
+				<eng>Hookbeast</eng>
+			</Name>
+		</feral_hookbeast>
+		<hookbeast>
+			<Name>
+				<eng>Feral Hookbeast</eng>
+			</Name>
+		</hookbeast>
+		<Lake_snake>
+			<Name>
+				<eng>Lake Snake</eng>
+			</Name>
+		</Lake_snake>
+		<Olomkatona_black_lovos>
+			<Name>
+				<eng>Dreadknecht Grenadier</eng>
+			</Name>
+		</Olomkatona_black_lovos>
+		<Olomkatona_blue_lovos>
+			<Name>
+				<eng>Warknecht</eng>
+			</Name>
+		</Olomkatona_blue_lovos>
+		<Rat_03>
+			<Name>
+				<eng>Gutterlark</eng>
+			</Name>
+		</Rat_03>
+		<Rat_02>
+			<Name>
+				<eng>Gutterlark musketeer</eng>
+			</Name>
+		</Rat_02>
+		<Frog_Assault>
+			<Name>
+				<eng>Batrachiantaur</eng>
+			</Name>
+		</Frog_Assault>
+		<Frog_Cannon>
+			<Name>
+				<eng>Batrachiantaur Maegister</eng>
+			</Name>
+		</Frog_Cannon>
+		<Katarina>
+			<Name>
+				<eng>Lady Katarina</eng>
+			</Name>
+		</Katarina>
+		<Helsing>
+			<Name>
+				<eng>Van Helsing</eng>
+			</Name>
+		</Helsing>
+		<Tankenstein>
+			<Name>
+				<eng>Igor</eng>
+			</Name>
+		</Tankenstein>
+		<VampireHunter>
+			<Name>
+				<eng>Stitchfiend</eng>
+			</Name>
+		</VampireHunter>
+		<VampireHunter_gunner>
+			<Name>
+				<eng>Stitchfiend Marksman</eng>
+			</Name>
+		</VampireHunter_gunner>
+		<vrikolak>
+			<Name>
+				<eng>Vrikolak</eng>
+			</Name>
+		</vrikolak>				
+		<Magus>
+			<Name>
+				<eng>The Pale Gentleman</eng>
+			</Name>
+		</Magus>		
+		<mutant_dog>
+			<Name>
+				<eng>Scavenger</eng>
+			</Name>			
+		</mutant_dog>
+		<ruszalka>
+			<Name>
+				<eng>Rusalka</eng>
+			</Name>
+		</ruszalka>
+		<Rat>
+			<Name>
+				<eng>Grubberkind</eng>
+			</Name>
+		</Rat>
+		<Igor>
+			<Name>
+				<eng>Strongman</eng>
+			</Name>
+		</Igor>							
+		<Bandita>
+			<Name>
+				<eng>Outlaw</eng>
+			</Name>
+		</Bandita>				
+		<Bandita_lovos>
+			<Name>
+				<eng>Outlaw</eng>
+			</Name>
+		</Bandita_lovos>		
+		<warg>
+			<Name>
+				<eng>Dreadwolf</eng>
+			</Name>
+		</warg>
+		<warg_fenyves>
+			<Name>
+				<eng>Grizzlewolf</eng>
+			</Name>
+		</warg_fenyves>
+		<Bloated_Gargantula>
+			<Name>
+				<eng>Bloated Gargantula</eng>
+			</Name>
+		</Bloated_Gargantula>
+		<Shrieking_Gargantula>
+			<Name>
+				<eng>Shrieking Gargantula</eng>
+			</Name>
+		</Shrieking_Gargantula>
+		<Speckled_Gargantula>
+			<Name>
+				<eng>Speckled Gargantula</eng>
+			</Name>
+		</Speckled_Gargantula>
+		<Olomkatona_lovos>
+			<Name>
+				<eng>Dreadknecht</eng>
+			</Name>
+		</Olomkatona_lovos>
+		<Olomkatona_classic>
+			<Name>
+				<eng>Classic tin soldier</eng>
+			</Name>
+		</Olomkatona_classic>
+		<Vodyanoi>
+			<Name>
+				<eng>Vodyanoy</eng>
+			</Name>
+		</Vodyanoi>
+		<Vodyanoi_ranged>
+			<Name>
+				<eng>Vodyanoy Bilespitter</eng>
+			</Name>
+		</Vodyanoi_ranged>
+		<Pok_csaj>
+			<Name>
+				<eng>Kikimora</eng>
+			</Name>
+		</Pok_csaj>
+		<Lesovik>
+			<Name>
+				<eng>Lesovik</eng>
+			</Name>
+		</Lesovik>
+		<Lesovik_axe>
+			<Name>
+				<eng>Lesovik shambler</eng>
+			</Name>
+		</Lesovik_axe>	
+		<harpy>
+			<Name>
+				<eng>Vila</eng>
+			</Name>
+		</harpy>
+		<harpy_wishing_well>
+			<Name>
+				<eng>Vila</eng>
+			</Name>
+		</harpy_wishing_well>
+		<Szaj_monszter>
+			<Name>
+				<eng>Mouthbeast</eng>
+			</Name>
+		</Szaj_monszter>
+		<Willow_monster_red>
+			<Name>
+				<eng>Ignis Fatuus</eng>
+			</Name>
+		</Willow_monster_red>	
+		<Willow_monster_green>
+			<Name>
+				<eng>Marsh Light</eng>
+			</Name>
+		</Willow_monster_green>
+		<bekaszobor_monster>
+			<Name>
+				<eng>Tweedledum</eng>
+			</Name>
+		</bekaszobor_monster>	
+		<bekaszobor_monster_loot>
+			<Name>
+				<eng>Tweedledee</eng>
+			</Name>
+		</bekaszobor_monster_loot>	
+		<Webspinner_Gargantula>
+			<Name>
+				<eng>Webspinner Gargantula</eng>
+			</Name>
+		</Webspinner_Gargantula>
+		<Rat_saman>
+			<Name>
+				<eng>The Pied Piper</eng>
+			</Name>
+		</Rat_saman>
+		<mutant_rat>
+			<Name>
+				<eng>Rat-Thing</eng>
+			</Name>
+		</mutant_rat>
+		<gas_machine_barrel>
+			<Name>
+				<eng>Phlogiston container</eng>
+			</Name>
+		</gas_machine_barrel>
+		<prototype>
+			<Name>
+				<eng>Prototype</eng>
+			</Name>
+		</prototype>
+		<prototype_inaktiv>
+			<Name>
+				<eng>Prototype</eng>
+			</Name>
+		</prototype_inaktiv>
+		<prototype_giant>
+			<Name>
+				<eng>Prototype Giant</eng>
+			</Name>
+		</prototype_giant>
+		<BloodRabbit>
+			<Name>
+				<eng>The Rabbit</eng>
+			</Name>
+		</BloodRabbit>
+		<Automated_Sentinel_Mechanism>
+			<Name>
+				<eng>Automated Sentinel Mechanism</eng>
+			</Name>
+		</Automated_Sentinel_Mechanism>
+		<Automated_Turret_Distributor>
+			<Name>
+				<eng>Automated Sentinel Cannon</eng>
+			</Name>
+		</Automated_Turret_Distributor>
+		<Rebel_guard>
+			<Name>
+				<eng>Resistance Guard</eng>
+			</Name>
+		</Rebel_guard>
+		<Igor_Tesla>
+			<Name>
+				<eng>Elyctrical Strongman</eng>
+			</Name>
+		</Igor_Tesla>
+		<_veteran_warg>
+			<Name>
+				<eng>Dreadwolf Packmaster</eng>
+			</Name>
+		</_veteran_warg>
+		<_veteran_Bandita>	
+			<Name>
+				<eng>Outlaw Veteran</eng>
+			</Name>
+		</_veteran_Bandita>
+		<Treasurehunter_Boss>
+			<Name>
+				<eng>Mad Wizard</eng>
+			</Name>
+		</Treasurehunter_Boss>
+		<_elite_Willow_monster_red>
+			<Name>
+				<eng>Ignis Fatalis</eng>
+			</Name>
+		</_elite_Willow_monster_red>
+		<_elite_brain_mistique>
+			<Name>
+				<eng>Bloated Scattermind</eng>
+			</Name>
+		</_elite_brain_mistique>	
+		<_elite_Restless_Baroness>
+			<Name>
+				<eng>Lady Mortitia</eng>
+			</Name>
+		</_elite_Restless_Baroness>	
+		<Dark_alchemist>
+			<Name>
+				<eng>Dark Alchemist</eng>
+			</Name>
+		</Dark_alchemist>	
+		<_elite_behemoth>
+			<Name>
+				<eng>Elite Behemoth</eng>
+			</Name>
+		</_elite_behemoth>	
+		<_elite_igor>
+			<Name>
+				<eng>Elite Strongman</eng>
+			</Name>
+		</_elite_igor>	
+		<_elite_Tankenstein>
+			<Name>
+				<eng>Igor Mastermind</eng>
+			</Name>
+		</_elite_Tankenstein>	
+		<_elite_Olomkatona_black_lovos>
+			<Name>
+				<eng>Elite Dreadknecht Grenadier</eng>
+			</Name>
+		</_elite_Olomkatona_black_lovos>
+		<_elite_Olomkatona_blue_lovos>
+			<Name>
+				<eng>Elite Warknecht</eng>
+			</Name>
+		</_elite_Olomkatona_blue_lovos>	
+		<_elite_Rat_03_gyarnegyed>
+			<Name>
+				<eng>Gutterlark Gnawer</eng>
+			</Name>
+		</_elite_Rat_03_gyarnegyed>	
+		<_Elite_vrikolak>
+			<Name>
+				<eng>Silverback Vrikolak</eng>
+			</Name>
+		</_Elite_vrikolak>
+		<_Elite_Bandita_lovos>
+			<Name>
+				<eng>Outlaw Leader</eng>
+			</Name>
+		</_Elite_Bandita_lovos>
+		<_Elite_Bandita>
+			<Name>
+				<eng>Outlaw Leader</eng>
+			</Name>
+		</_Elite_Bandita>
+		<_Elite_Lesovik>
+			<Name>
+				<eng>Lesovik Chieftain</eng>
+			</Name>
+		</_Elite_Lesovik>		
+		<_Elite_harpy>
+			<Name>
+				<eng>Vila Temptress</eng>
+			</Name>
+		</_Elite_harpy>		
+		<_Elite_mutant_dog>
+			<Name>
+				<eng>Purebreed Scavenger</eng>
+			</Name>
+		</_Elite_mutant_dog>
+		<_Elite_Olomkatona_lovos>
+			<Name>
+				<eng>Dreadknecht Captain</eng>
+			</Name>
+		</_Elite_Olomkatona_lovos>		
+		<_Elite_Pok_csaj>
+			<Name>
+				<eng>Kikimora Queen</eng>
+			</Name>
+		</_Elite_Pok_csaj>
+		<_elite_Bloated_Gargantula>
+			<Name>
+				<eng>Bloated Queen</eng>
+			</Name>
+		</_elite_Bloated_Gargantula>
+		<_elite_Shrieking_Gargantula>
+			<Name>
+				<eng>Shrieking Queen</eng>
+			</Name>
+		</_elite_Shrieking_Gargantula>
+		<_elite_Speckled_Gargantula>
+			<Name>
+				<eng>Speckled Queen</eng>
+			</Name>
+		</_elite_Speckled_Gargantula>		
+		<_Elite_Rat>
+			<Name>
+				<eng>Grubberkind Brawler</eng>
+			</Name>
+		</_Elite_Rat>
+		<_Elite_Rat_02>
+			<Name>
+				<eng>Gutterlark Overseer</eng>
+			</Name>
+		</_Elite_Rat_02>
+		<_Elite_Rat_03>
+			<Name>
+				<eng>Gutterlark Gnawer</eng>
+			</Name>
+		</_Elite_Rat_03>
+		<_Elite_ruszalka>
+			<Name>
+				<eng>Rusalka Princess</eng>
+			</Name>
+		</_Elite_ruszalka>
+		<_Elite_Szaj_monszter>
+			<Name>
+				<eng>Elite Mouthbeast</eng>
+			</Name>
+		</_Elite_Szaj_monszter>		
+		<_Elite_VampireHunter>
+			<Name>
+				<eng>Stitchfiend General</eng>
+			</Name>
+		</_Elite_VampireHunter>
+		<_Elite_Vodyanoi>
+			<Name>
+				<eng>Vodyanoy Shaman</eng>
+			</Name>
+		</_Elite_Vodyanoi>		
+		<_elite_werewolf_electric>
+			<Name>
+				<eng>Electriferous Beast-King</eng>
+			</Name>
+		</_elite_werewolf_electric>
+		<_Elite_warg>
+			<Name>
+				<eng>Dreadwolf Packmaster</eng>
+			</Name>
+		</_Elite_warg>
+		<Wishing_well_monster>
+			<Name>
+				<eng>Ancient Vila</eng>
+			</Name>
+		</Wishing_well_monster>
+		<aranyerme_monster>
+			<Name>
+				<eng>Lesovik Methuselah</eng>
+			</Name>
+		</aranyerme_monster>
+		<Brain_Spitter>
+			<Name>
+				<eng>Spitter</eng>
+			</Name>
+		</Brain_Spitter>
+		<_elite_Igor_belv>
+			<Name>
+				<eng>Dregos Ironbender</eng>
+			</Name>
+		</_elite_Igor_belv>
+		<_elite_Ptype_tesla_belv>
+			<Name>
+				<eng>Improved Elytrical Prototype</eng>
+			</Name>
+		</_elite_Ptype_tesla_belv>
+		<werewolf_electric_nagyerdo>
+			<Name>
+				<eng>Electriferous Beast</eng>
+			</Name>
+		</werewolf_electric_nagyerdo>
+		<Brain_boss_gasmachine>
+			<Name>
+				<eng>Mastermind Genius</eng>
+			</Name>
+		</Brain_boss_gasmachine>
+		<Spider_boss_cave>
+			<Name>
+				<eng>Arachnid Leviathan</eng>
+			</Name>
+		</Spider_boss_cave>
+		<Lord_of_Domovoys>
+			<Name>
+				<eng>Lord of Domovoys</eng>
+			</Name>
+		</Lord_of_Domovoys>
+		<Scarecrow>
+			<Name>
+				<eng>The Wingless Messiah</eng>
+			</Name>
+		</Scarecrow>
+		<Chimney_sweep>
+			<Name>
+				<eng>Marquis of Soot</eng>
+			</Name>
+		</Chimney_sweep>
+		<Chimney_sweep_minion>
+			<Name>
+				<eng>Chimney Sweep</eng>
+			</Name>
+		</Chimney_sweep_minion>
+		<Tesla_wolf_boss>
+			<Name>
+				<eng>Darko Grimleap</eng>
+			</Name>
+		</Tesla_wolf_boss>
+		<Tesla_wolf_boss2>
+			<Name>
+				<eng>Lukas Rustfang</eng>
+			</Name>
+		</Tesla_wolf_boss2>
+		<VampireHunter_boss>
+			<Name>
+				<eng>Grinderfiend</eng>
+			</Name>
+		</VampireHunter_boss>
+		<Tankenstein_boss>
+			<Name>
+				<eng>Igor Mastermind</eng>
+			</Name>
+			<Desc>
+				<eng>Controls the feeble minds of the Maegisters</eng>
+			</Desc>
+		</Tankenstein_boss>
+		<Magus_boss>
+			<Name>
+				<eng>Graf Magnus</eng>
+			</Name>
+		</Magus_boss>
+		<Werewolf_boss>
+			<Name>
+				<eng>Gruumsh</eng>
+			</Name>
+		</Werewolf_boss>
+		<Enemy_of_gypsies>
+			<Name>
+				<eng>Snowpelt</eng>
+			</Name>
+		</Enemy_of_gypsies>
+		<suicide_domovoi>
+			<Name>
+				<eng>Suspicious Domovoi</eng>
+			</Name>
+		</suicide_domovoi>		
+		<erdo_szelleme>
+			<Name>
+				<eng>Frenzied Forest Spirit</eng>
+			</Name>
+		</erdo_szelleme>	
+		<V_electric_boss_nagyerdo>
+			<Name>
+				<eng>Electriferous Beast-King</eng>
+			</Name>
+		</V_electric_boss_nagyerdo>
+		<Frog_c_boss_nagyerdo>
+			<Name>
+				<eng>Judge Obesovsky</eng>
+			</Name>
+		</Frog_c_boss_nagyerdo>
+		<Magus_boss_nagyerdo>
+			<Name>
+				<eng>Monsieur Flambeur</eng>
+			</Name>
+		</Magus_boss_nagyerdo>
+		<Vrikolak_boss_nagyerdo>
+			<Name>
+				<eng>Vrikolak Predator</eng>
+			</Name>
+		</Vrikolak_boss_nagyerdo>
+		<breda>
+			<Name>
+				<eng>Breda</eng>
+			</Name>
+		</breda>
+		<_finalboss_charge_tower>
+			<Name>
+				<eng>Supercharge Initiator</eng>
+			</Name>
+		</_finalboss_charge_tower>
+		<_finalboss_repair_tower>
+			<Name>
+				<eng>Matter Reconstructor</eng>
+			</Name>
+		</_finalboss_repair_tower>
+		<_finalboss_laser_tower>
+			<Name>
+				<eng>Beam Energy Transmitter</eng>
+			</Name>
+		</_finalboss_laser_tower>
+		<_finalboss_shield_tower>
+			<Name>
+				<eng>Protective Matrix Buffer</eng>
+			</Name>
+		</_finalboss_shield_tower>
+		<_finalboss_missile_tower>
+			<Name>
+				<eng>Rocket Guidance Regulator</eng>
+			</Name>
+		</_finalboss_missile_tower>
+		<_finalboss_ornithopter_constructor>
+			<Name>
+				<eng>Topter Assembly Hatch</eng>
+			</Name>
+		</_finalboss_ornithopter_constructor>
+		<_finalboss_kennel_gate>
+			<Name>
+				<eng>Kennel Gate</eng>
+			</Name>
+		</_finalboss_kennel_gate>		
+		<tudosseged>
+			<Name>
+				<eng>Todor Schimko</eng>
+			</Name>
+		</tudosseged>
+		<SewerDweller1>
+			<Name>
+				<eng>Borislav Tveter</eng>
+			</Name>
+		</SewerDweller1>
+		<Blacksmith>
+			<Name>
+				<eng>Boris</eng>
+			</Name>
+		</Blacksmith>
+		<Alchemist_falu>
+			<Name>
+				<eng>Doktor Schrieck</eng>
+			</Name>
+		</Alchemist_falu>
+		<Merchant_fenyves>
+			<Name>
+				<eng>Travelling Merchant</eng>
+			</Name>
+		</Merchant_fenyves>			
+		<Gypsy_leader>
+			<Name>
+				<eng>Gaspar the Romany Prince</eng>
+			</Name>
+		</Gypsy_leader>		
+		<Village_Priest>
+			<Name>
+				<eng>Grigori the Elder</eng>
+			</Name>
+		</Village_Priest>
+		<Village_Shopkeeper>
+			<Name>
+				<eng>Dragan, the Shopkeeper</eng>
+			</Name>
+		</Village_Shopkeeper>
+		<Guard_gun>
+			<Name>
+				<eng>Andrei</eng>
+			</Name>
+		</Guard_gun>
+		<Guard_spear_falu_elott>
+			<Name>
+				<eng>Boyko</eng>
+			</Name>
+		</Guard_spear_falu_elott>
+		<guard_falu>
+			<Name>
+				<eng>Captain Iliya</eng>
+			</Name>
+		</guard_falu>
+		<Living_ghost>
+			<Name>
+				<eng>Wandering Ghost</eng>
+			</Name>
+		</Living_ghost>
+		<Nameless_wisp>
+			<Name>
+				<eng>The Nameless Wisp</eng>
+			</Name>
+		</Nameless_wisp>
+		<Willow>
+			<Name>
+				<eng>Willow</eng>
+			</Name>
+		</Willow>
+		<Major_falu>
+			<Name>
+				<eng>Daniel Hleb, Mayor</eng>
+			</Name>
+		</Major_falu>
+		<Marko>
+			<Name>
+				<eng>Marko</eng>
+			</Name>
+		</Marko>
+		<Mihai>
+			<Name>
+				<eng>Mihai</eng>
+			</Name>
+		</Mihai>
+		<Saffi>
+			<Name>
+				<eng>Saffi</eng>
+			</Name>
+		</Saffi>
+		<villager_reszeg>
+			<Name>
+				<eng>Drunken Villager</eng>
+			</Name>
+		</villager_reszeg>
+		<village_orult>
+			<Name>
+				<eng>Nutty Stefan</eng>
+			</Name>
+		</village_orult>
+		<Village_guard_statue_cr>
+			<Name>
+				<eng>Village Constable</eng>
+			</Name>
+		</Village_guard_statue_cr>
+		<Villager>
+			<Name>
+				<eng>Villager</eng>
+			</Name>
+		</Villager>
+		<Cow_2Head>
+			<Name>
+				<eng>Two Headed Cow</eng>
+			</Name>
+		</Cow_2Head>
+		<Outlaw_1>
+			<Name>
+				<eng>Hoarse Voice</eng>
+			</Name>
+		</Outlaw_1>
+		<Outlaw_2>
+			<Name>
+				<eng>Young Voice</eng>
+			</Name>
+		</Outlaw_2>
+		<Professor_Toad>
+			<Name>
+				<eng>Professor Toad</eng>
+			</Name>
+		</Professor_Toad>
+		<villager_favago>
+			<Name>
+				<eng>Woodcutter</eng>
+			</Name>
+		</villager_favago>
+		<Matthias>
+			<Name>
+				<eng>Matthias</eng>
+			</Name>
+		</Matthias>
+		<Saffi_in_lair>
+			<Name>
+				<eng>Saffi</eng>
+			</Name>
+		</Saffi_in_lair>
+		<Gaspar_in_Lair>
+			<Name>
+				<eng>Gaspar the Romany Prince</eng>
+			</Name>
+		</Gaspar_in_Lair>
+		<Alchemist_Lair>
+			<Name>
+				<eng>Dr. Dampf</eng>
+			</Name>
+		</Alchemist_Lair>
+		<Beggar>
+			<Name>
+				<eng>Beggar</eng>
+			</Name>
+		</Beggar>
+		<Beggar_king>
+			<Name>
+				<eng>Beggar king</eng>
+			</Name>
+		</Beggar_king>
+		<Fence>
+			<Name>
+				<eng>Arkady</eng>
+			</Name>
+		</Fence>
+		<varoslako_1>
+			<Name>
+				<eng>Darko Palarier</eng>
+			</Name>
+		</varoslako_1>
+		<varoslako_2>
+			<Name>
+				<eng>Zdravko Mediu</eng>
+			</Name>
+		</varoslako_2>
+		<Csempesz>
+			<Name>
+				<eng>Smuggler</eng>
+			</Name>
+		</Csempesz>
+		<wounded_soldier>
+			<Name>
+				<eng>Wounded soldier</eng>
+			</Name>
+		</wounded_soldier>
+		<Weapon_smuggler>
+			<Name>
+				<eng>Anton</eng>
+			</Name>
+		</Weapon_smuggler>		
+		<behemoth>
+			<Name>
+				<eng>Behemoth</eng>
+			</Name>
+		</behemoth>
+		<Vlados>
+			<Name>
+				<eng>Vlados</eng>
+			</Name>
+		</Vlados>
+		<worm_boss>
+			<Name>
+				<eng>Drill Worm</eng>
+			</Name>
+		</worm_boss>
+		<werewolf>
+			<Name>
+				<eng>Werewolf Electric</eng>
+			</Name>
+		</werewolf>
+		<Rebel_1>
+			<Name>
+				<eng>Rebel Soldier</eng>
+			</Name>
+		</Rebel_1>
+		<Inventor>
+			<Name>
+				<eng>Inventor</eng>
+			</Name>
+		</Inventor>		
+		<Domovoy_Baggins>
+			<Name>
+				<eng>Domovoy Baggins</eng>
+			</Name>
+		</Domovoy_Baggins>
+		<rebel_women>
+			<Name>
+				<eng>Resistance Noblewoman</eng>
+			</Name>
+		</rebel_women>
+		<wrikolak_corpse>
+			<Name>
+				<eng>Elyctric Werewolf Corpse</eng>
+			</Name>
+		</wrikolak_corpse>
+		<maradek_lotty>
+			<Name>
+				<eng>Puddle of Goo</eng>
+			</Name>
+		</maradek_lotty>		
+		<gargoyle>
+			<Name>
+				<eng>Gargoyle</eng>
+			</Name>
+		</gargoyle>		
+		<Rebel_soldier>
+			<Name>
+				<eng>Rebel Soldier</eng>
+			</Name>
+		</Rebel_soldier>
+		<Csatornatisztito>
+			<Name>
+				<eng>Sewage Worker</eng>
+			</Name>
+		</Csatornatisztito>
+		<Suttogo_Alchemist>
+			<Name>
+				<eng>Enraged Alchemist</eng>
+			</Name>
+		</Suttogo_Alchemist>
+		<Suttogo_Apprentice>
+			<Name>
+				<eng>Apprentice</eng>
+			</Name>
+		</Suttogo_Apprentice>
+		<the_doomsday_automaton>
+			<Name>
+				<eng>The Doomsday Automaton</eng>
+			</Name>
+		</the_doomsday_automaton>
+		<dischargomaton>
+			<Name>
+				<eng>Dischargomaton</eng>
+			</Name>
+		</dischargomaton>
+		<automated_repeatergun>
+			<Name>
+				<eng>Automated Repeatergun</eng>
+			</Name>
+		</automated_repeatergun>
+		<flamethrower_autocannon>
+			<Name>
+				<eng>Flamethrower Autocannon</eng>
+			</Name>
+		</flamethrower_autocannon>
+		<rocket_autocannon>
+			<Name>
+				<eng>Rocket Autocannon</eng>
+			</Name>
+		</rocket_autocannon>
+		<rapid_firing_autogun>
+			<Name>
+				<eng>Rapid Firing Autogun</eng>
+			</Name>
+		</rapid_firing_autogun>
+		<selfdestructor>
+			<Name>
+				<eng>Selfdestructor</eng>
+			</Name>
+		</selfdestructor>
+		<ATD_machine_king>
+			<Name>
+				<eng>King of Machines</eng>
+			</Name>
+		</ATD_machine_king>
+		<rebel_corpse>
+			<eng>Rebel Corpse</eng>
+		</rebel_corpse>
+		<SpecialAbilities>
+			<Vulnerability>
+				<physical>
+					<eng>Vulnerable to Physical Damage</eng>
+				</physical>
+				<magical>
+					<eng>Vulnerable to Magic</eng>
+				</magical>
+				<fire>
+					<eng>Vulnerable to Fire</eng>
+				</fire>
+				<ice>
+					<eng>Vulnerable to Ice</eng>
+				</ice>
+				<lightning>
+					<eng>Vulnerable to Lightning</eng>
+				</lightning>
+				<poison>
+					<eng>Vulnerable to Poison</eng>
+				</poison>
+				<death>
+					<eng>Vulnerable to Death Damage</eng>
+				</death>
+				<arrow>
+					<eng>Vulnerable to Shooting Damage</eng>
+				</arrow>
+				<pure_magical>
+					<eng>Vulnerable to Pure Magical Damage</eng>
+				</pure_magical>
+			</Vulnerability>
+			<Resistance>
+				<physical>
+					<eng>Physical Resistance</eng>
+				</physical>
+				<magical>
+					<eng>Magical Resistance</eng>
+				</magical>
+				<fire>
+					<eng>Fire Resistance</eng>
+				</fire>
+				<ice>
+					<eng>Ice Resistance</eng>
+				</ice>
+				<lightning>
+					<eng>Lightning Resistance</eng>
+				</lightning>
+				<poison>
+					<eng>Poison Resistance</eng>
+				</poison>
+				<death>
+					<eng>Death Resistance</eng>
+				</death>
+				<arrow>
+					<eng>Shooting Resistance</eng>
+				</arrow>
+				<pure_magical>
+					<eng>Pure Magical Resistance</eng>
+				</pure_magical>
+			</Resistance>
+			<Immunity>
+				<physical>
+					<eng>Physical Immunity</eng>
+				</physical>
+				<magical>
+					<eng>Magical Immunity</eng>
+				</magical>
+				<fire>
+					<eng>Fire Immunity</eng>
+				</fire>
+				<ice>
+					<eng>Ice Immunity</eng>
+				</ice>
+				<lightning>
+					<eng>Lightning Immunity</eng>
+				</lightning>
+				<poison>
+					<eng>Poison Immunity</eng>
+				</poison>
+				<death>
+					<eng>Death Immunity</eng>
+				</death>
+				<arrow>
+					<eng>Shooting Immunity</eng>
+				</arrow>
+				<pure_magical>
+					<eng>Pure Magical Immunity</eng>
+				</pure_magical>
+			</Immunity>
+			<DamageType>
+				<physical>
+					<eng>Physical Damage</eng>
+				</physical>
+				<magical>
+					<eng>Magical Damage</eng>
+				</magical>
+				<fire>
+					<eng>Fire Damage</eng>
+				</fire>
+				<ice>
+					<eng>Ice Damage</eng>
+				</ice>
+				<lightning>
+					<eng>Lightning Damage</eng>
+				</lightning>
+				<poison>
+					<eng>Poison Damage</eng>
+				</poison>
+				<death>
+					<eng>Death Damage</eng>
+				</death>
+				<arrow>
+					<eng>Shooting Damage</eng>
+				</arrow>
+				<pure_magical>
+					<eng>Pure Magical Damage</eng>
+				</pure_magical>
+			</DamageType>
+			<__ExtraHealth>
+				<eng>Extra Health</eng>
+			</__ExtraHealth>
+			<__ExtraMinions>
+				<eng>Extra Minions</eng>
+			</__ExtraMinions>
+			<ExtraFast>
+				<eng>Extra Fast</eng>
+			</ExtraFast>
+			<FastAttack>
+				<eng>Fast Attack</eng>
+			</FastAttack>
+			<__feltamasztas1>
+				<eng>Resurrection</eng>
+			</__feltamasztas1>
+			<__bleeding>
+				<eng>Bleeding</eng>
+			</__bleeding>
+			<__felrobbanas1>
+				<eng>Explodes on death</eng>
+			</__felrobbanas1>
+			<__slowaura>
+				<eng>Slowing Aura</eng>
+			</__slowaura>
+			<__frontresistance1>
+				<eng>Front Resistance</eng>
+			</__frontresistance1>
+			<__charge1>
+				<eng>Charge</eng>
+			</__charge1>
+			<__szellokes>
+				<eng>Push</eng>
+			</__szellokes>
+			<__teslafarkasidezes>
+				<eng>Summon Tesla Wolf</eng>
+			</__teslafarkasidezes>
+			<__toppantas>
+				<eng>Stomping</eng>
+			</__toppantas>
+			<__afterburn>
+				<eng>Ignite</eng>
+			</__afterburn>
+			<__stun>
+				<eng>Stun</eng>
+			</__stun>
+			<__iceshot>
+				<eng>Ice Shot</eng>
+			</__iceshot>
+			<__smoke>
+				<eng>Cloud of Smoke</eng>
+			</__smoke>
+			<__bloodbond>
+				<eng>Blood Bond</eng>
+			</__bloodbond>
+			<__firetornado>
+				<eng>Fire Tornado</eng>
+			</__firetornado>
+			<__forgoszel>
+				<eng>Tornado</eng>
+			</__forgoszel>
+			<__vengeanceaura>
+				<eng>Vengeance Aura</eng>
+			</__vengeanceaura>
+			<__harmfulsigil>
+				<eng>Harmful Sigil</eng>
+			</__harmfulsigil>
+			<__teleport>
+				<eng>Teleport</eng>
+			</__teleport>
+			<__whirlingblades>
+				<eng>Whirling Blades</eng>
+			</__whirlingblades>
+			<__poisontocsa>
+				<eng>Poisonous Pond</eng>
+			</__poisontocsa>
+			<__rootbarrier>
+				<eng>Root Barrier</eng>
+			</__rootbarrier>
+			<__entrap>
+				<eng>Entrap</eng>
+			</__entrap>
+			<__grappleattack>
+				<eng>Grapple</eng>
+			</__grappleattack>
+			<__boostersigil>
+				<eng>Booster Sigil</eng>
+			</__boostersigil>
+			<__summonersigil>
+				<eng>Summoner Sigil</eng>
+			</__summonersigil>
+			<__drainingbeam>
+				<eng>Draining Beam</eng>
+			</__drainingbeam>
+			<__inkrift>
+				<eng>Ink Rift</eng>
+			</__inkrift>
+			<__slowing_web>
+				<eng>Slowing Web</eng>
+			</__slowing_web>
+			<__mana_drain>
+				<eng>Mana Drain</eng>
+			</__mana_drain>
+			<__pattogo_bomba>
+				<eng>Fire Bomb</eng>
+			</__pattogo_bomba>
+			<__poisonbolt>
+				<eng>Poison Bolt</eng>
+			</__poisonbolt>
+			<__poisonbolt_lesovik>
+				<eng>Poison Bolt</eng>
+			</__poisonbolt_lesovik>
+			<__poisonbolt_brain>
+				<eng>Poison Bolt</eng>
+			</__poisonbolt_brain>
+			<__feltamasztas_rat>
+				<eng>Resurrection</eng>
+			</__feltamasztas_rat>
+			<__uninterruptable>
+				<eng>Unstoppable attack</eng>
+			</__uninterruptable>
+			<__firebolt>
+				<eng>Fire Bolt</eng>
+			</__firebolt>
+			<__fire_ring_baroness>
+				<eng>Fire Ring</eng>
+			</__fire_ring_baroness>			
+			<__fire_wave_baroness>
+				<eng>Fire Wave</eng>
+			</__fire_wave_baroness>
+			<__lightning_ring>
+				<eng>Lightning Ring</eng>
+			</__lightning_ring>
+			<__slowing_shoot>
+				<eng>Slowing Shot</eng>
+			</__slowing_shoot>
+			<__vulnerability>
+				<eng>Freezing Spit</eng>
+			</__vulnerability>
+			<__fagyakna>
+				<eng>Frost Mine</eng>
+			</__fagyakna>
+			<__lightningbolt>
+				<eng>Lightning Bolt</eng>
+			</__lightningbolt>
+			<__hpregeneration>
+				<eng>Regeneration</eng>
+			</__hpregeneration>
+			<__bleedingbite>
+				<eng>Bleeding Bite</eng>
+			</__bleedingbite>
+			<__spider_boost>
+				<eng>Haste Spiders</eng>
+			</__spider_boost>
+			<__tremble>
+				<eng>Tremor</eng>
+			</__tremble>
+			<__worm_boss_earthquake>
+				<eng>Earthquake</eng>
+			</__worm_boss_earthquake>
+			<__behemoth_earthquake>
+				<eng>Earthquake</eng>
+			</__behemoth_earthquake>
+			<__icebolt>
+				<eng>Ice Bolt</eng>
+			</__icebolt>
+			<__icebolt_magus>
+				<eng>Ice Bolt</eng>
+			</__icebolt_magus>
+			<__GrappleAttack_mouthbeast>
+				<eng>Grapple</eng>
+			</__GrappleAttack_mouthbeast>
+			<__mouthbeast_attack>
+				<eng>Flapping</eng>
+			</__mouthbeast_attack>
+			<__trapdisable_aura>
+				<eng>Disables Traps</eng>
+			</__trapdisable_aura>
+			<__eye_for_an_eye>
+				<eng>Eye for an Eye</eng>
+			</__eye_for_an_eye>
+		</SpecialAbilities>
+		<SoldierQualities>
+			<Minion>
+				<eng>Minion</eng>
+			</Minion>
+			<Champion>
+				<eng>Champion</eng>
+			</Champion>
+			<Elite>
+				<eng>Elite</eng>
+			</Elite>
+			<Veteran>
+				<eng>Veteran</eng>
+			</Veteran>
+		</SoldierQualities>
+	</Soldiers>
+</Root>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Soldiers>
+		<harpy_queen>
+			<Name>
+				<eng>Harpy queen</eng>
+			</Name>
+		</harpy_queen>
+		<pale_gentleman>
+			<Name>
+				<eng>The pale gentleman</eng>
+			</Name>
+		</pale_gentleman>
+		<Ancient_ghoul>
+			<Name>
+				<eng>Ancient ghoul</eng>
+			</Name>
+		</Ancient_ghoul>
+		<DLC_ATD_machine_king>
+			<Name>
+				<eng>The Machine King</eng>
+			</Name>
+		</DLC_ATD_machine_king>		
+	</Soldiers>
+</Root>

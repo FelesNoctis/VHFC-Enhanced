@@ -1,0 +1,2727 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<SimplifiedConversation>
+		<Barrikados>
+			<Clear_the_streats>
+				<CUT_MQ11_Droppod_quest>
+					<01_VH>
+						<eng>Katarina, shouldn’t you help me out with this?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>What? I have this strange feeling of deja vu…</eng>
+					</02_Katarina>
+				</CUT_MQ11_Droppod_quest>
+				<CUT_MQ11_Droppod_quest_2>
+					<01_Koscsej>
+						<eng>Van Helsing! General Harker has deployed the Grand Mortars! They are bombarding you with Riftshells. Each shell opens an Inkgate, so his soldiers have already got through your defenses.</eng>
+					</01_Koscsej>
+					<02_Katarina>
+						<eng>And why should we trust you, you enigmatic, faceless man?</eng>
+					</02_Katarina>
+					<03_Koscsej>
+						<eng>Your humble ally is here to help you as he promised. You must clear this whole area before they run you down.</eng>
+					</03_Koscsej>
+				</CUT_MQ11_Droppod_quest_2>
+				<BNT_MQ11_Droppod_quest>
+					<01_Katarina>
+						<eng>How annoying is that?!</eng>
+					</01_Katarina>
+				</BNT_MQ11_Droppod_quest>
+				<BNT_Hint_Teleport>
+					<01_Katarina>
+						<eng>I'm just a simple ghost, Van Helsing, but you might want to use your occult abilities to jump back to the Commander.</eng>
+					</01_Katarina>
+				</BNT_Hint_Teleport>
+			</Clear_the_streats>
+			<Katarina_banters>
+				<BNT_Prisoner_Seven_TI1>
+					<01_Katarina>
+						<eng>You know, Van Helsing, I simply can’t understand why you trust this faceless creature.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Prisoner Seven is here to help. He used to be Fulmigati’s victim after all.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Look at him! If he lived under the Opera House and played the organ, you’d be the first to hunt him down.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Harsh words from an incorporeal being who turns into a raging beast when she’s angry.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Fine! You had to play the ghost card again!</eng>
+					</05_Katarina>
+				</BNT_Prisoner_Seven_TI1>
+			</Katarina_banters>
+			<Koscsej_banters>
+				<CUT_SQ11_Help_captains>
+					<01_Koscsej>
+						<eng>It's you, hunter! Your humble messenger was ripping through the Ink, delivering dispatches, witnessing  your captain oh so in need of your assistance.  Visit them, if you can!</eng>
+					</01_Koscsej>
+				</CUT_SQ11_Help_captains>
+				<CUT_MQ12_Rescue_Vlados>
+					<01_Koscsej>
+						<eng>Your messenger found a wounded Resistance soldier beyond the perimeter. He tried to warn us that the undead called Vlados was under attack and needs your help. </eng>
+					</01_Koscsej>
+					<02_VH>
+						<eng>Did he tell where they are?</eng>
+					</02_VH>
+					<03_Koscsej>
+						<eng>With his last breath, he did. There is an industrial platform far beyond our lines, where the cargo elevators go down to the Rookery. Vlados is trapped there.</eng>
+					</03_Koscsej>
+				</CUT_MQ12_Rescue_Vlados>
+				<CUT_SQ125_Save_Bryan_quest>
+					<01_Koscsej>
+						<eng>You are needed, Van Helsing. The commander wants to talk to you. You must also save a weapon shipment  and rescue someone important.</eng>
+					</01_Koscsej>
+					<02_Katarina>
+						<eng>Van Helsing, you give a new meaning to the term "one man army”.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>At least it’s a well-tested and proven method. </eng>
+					</03_VH>
+				</CUT_SQ125_Save_Bryan_quest>
+				<CUT_MQ12_New_hope1>
+					<01_Koscsej>
+						<eng>Your harbinger of grave news is here again. What you have accomplished here is extraordinary, but there's nothing that you can do now. The general has Force Domes everywhere and he is moving in with the heavy artillery towards the Foundry.</eng>
+					</01_Koscsej>
+					<02_VH>
+						<eng>That's it? We are running away?</eng>
+					</02_VH>
+					<03_Koscsej>
+						<eng>You are merely gaining valuable time until I do what I do best: seeking and hunting secrets, examining the occult depths of this land! And I'm the one who will find you a way to destroy those Domes!</eng>
+					</03_Koscsej>
+					<04_Katarina>
+						<eng>Wait! Did you just say "I"? So you know the personal pronoun after all.</eng>
+					</04_Katarina>
+					<05_Koscsej>
+						<eng>You are right, my lady. This one went too far and thought himself important.</eng>
+					</05_Koscsej>
+					<06_VH>
+						<eng>Enough! We'll go back to the Lair to regroup. Move!</eng>
+					</06_VH>
+				</CUT_MQ12_New_hope1>
+				<CUT_MQ12_New_hope2>
+					<01_Koscsej>
+						<eng>Your harbinger of grave news is here again. What you have accomplished here is extraordinary, but there's nothing that you can do now. The general has Force Domes everywhere and he is moving in with the heavy artillery towards the Foundry.</eng>
+					</01_Koscsej>
+					<02_VH>
+						<eng>That's it? We are running away?</eng>
+					</02_VH>
+					<03_Koscsej>
+						<eng>You are merely gaining valuable time until I do what I do best: seeking and hunting secrets, examining the occult depths of this land! And I'm the one who will find you a way to destroy those Domes!</eng>
+					</03_Koscsej>
+					<04_Katarina>
+						<eng>Wait! Did you just say "I"? So you know the personal pronoun after all.</eng>
+					</04_Katarina>
+					<05_Koscsej>
+						<eng>You are right, my lady. This one went too far and thought himself important.</eng>
+					</05_Koscsej>
+					<06_VH>
+						<eng>Enough! We'll go back to the Lair to regroup. Move!</eng>
+					</06_VH>
+				</CUT_MQ12_New_hope2>
+			</Koscsej_banters>
+			<The_ornithopter_base>
+				<BNT_SQ11_Dead_engineer>
+					<01_Katarina>
+						<eng>Oh no! We have lost our engineer!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>He was a brave man. We must get back his friends.</eng>
+					</02_VH>
+				</BNT_SQ11_Dead_engineer>
+				<BNT_SQ11_congratulations>
+					<01_Katarina>
+						<eng>Did you see this engineer? Well, he was efficient. I suppose we shouldn’t choose the first volunteers.</eng>
+					</01_Katarina>
+				</BNT_SQ11_congratulations>
+				<BNT_SQ11_Controller_deact01>
+					<01_Katarina>
+						<eng>One down! Whatever this is.</eng>
+					</01_Katarina>
+				</BNT_SQ11_Controller_deact01>
+				<BNT_SQ11_Controller_deact02>
+					<01_Katarina>
+						<eng>Two! We are at two!</eng>
+					</01_Katarina>
+				</BNT_SQ11_Controller_deact02>
+				<BNT_SQ11_Controller_deact03>
+					<01_Katarina>
+						<eng>We are ready! Finally! I don't know what we did here, but it was fun.</eng>
+					</01_Katarina>
+				</BNT_SQ11_Controller_deact03>
+			</The_ornithopter_base>
+			<Saving_private_Bryan>
+				<BNT_SQ125_Who_is_this_Bryan>
+					<01_Katarina>
+						<eng>Who is this Bryan? The real heir to the throne in disguise?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I really have no idea.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Is he the one who will bring balance to the Ink?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>What?</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Then why are we risking everything to save him?</eng>
+					</05_Katarina>
+					<06_VH>
+						<eng>Every man counts, Katarina. We leave no one behind.</eng>
+					</06_VH>
+				</BNT_SQ125_Who_is_this_Bryan>
+			</Saving_private_Bryan>
+			<Protect_quests>
+				<BNT_MQ12_Protect_quest1>
+					<01_NPC_sebesultszallito>
+						<eng>Finally! Where have you been? This poor sod is going to die! We must take him to safety now!</eng>
+					</01_NPC_sebesultszallito>
+					<02_Katarina>
+						<eng>Oh, my apologies. I didn't know that we don't have time to play with those people who were shooting at us.</eng>
+					</02_Katarina>
+				</BNT_MQ12_Protect_quest1>
+				<BNT_MQ12_Protect_quest2>
+					<01_NPC_kordesember1>
+						<eng>Great! You are finally here! I was close to leaving on my own.</eng>
+					</01_NPC_kordesember1>
+					<02_Katarina>
+						<eng>Everyone is a one-man army now. It's your fault, hunter.</eng>
+					</02_Katarina>
+				</BNT_MQ12_Protect_quest2>
+			</Protect_quests>
+			<Doomsday_automatons>
+				<BNT_MQ12_Doomsday_automatons>
+					<01_Katarina>
+						<eng>Erm, Van Helsing…  Do you have a second?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>What now?!</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Do you remember the machine that poor, mad Professor Fulmigati piloted against us?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>If you mean the gigantic Doomsday Automaton that almost smashed me to a pulp, then yes. It  was lovely.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Great! Then you'll love the upgraded version, the Octopod Annihilator even more! As far as I know, it's a gorgeous killing machine. And if we fail to stop  it, it’ll destroy our defenses.</eng>
+					</05_Katarina>
+				</BNT_MQ12_Doomsday_automatons>
+			</Doomsday_automatons>
+		</Barrikados>
+		<Lair_new>
+			<In_the_Lair>
+				<BNT_MQ12_returntolair>
+					<01_Katarina>
+						<eng>Congratulations, Van Helsing!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Great! What did I do again?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Don’t be ridiculous. That was an honest praise. I think you were a good commander.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>I’m still a better monster hunter.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>I’ve never said you were a great commander. But every beginning is difficult.</eng>
+					</05_Katarina>
+				</BNT_MQ12_returntolair>
+				<BNT_Dr_Who>
+					<01_VH>
+						<eng>You look lost, captain.</eng>
+					</01_VH>
+					<02_NPC_guard_captain>
+						<eng>Yes, sir. Isn't it strange that the Lair seems bigger on the inside?</eng>
+					</02_NPC_guard_captain>
+				</BNT_Dr_Who>
+			</In_the_Lair>
+			<The_Lair_beast>
+				<CUT_POI04_Visitor_in_Lair>
+					<01_NPC_Koscsej>
+						<eng>This one is very satisfied with your investigation, Van Helsing. You are the first man in a very long time who found himself a Chimera Guardian.</eng>
+					</01_NPC_Koscsej>
+					<02_Katarina>
+						<eng>Sadly he didn't. We failed. I lost my Fluffy. Here I am, without a pony or a dog.</eng>
+					</02_Katarina>
+					<03_NPC_Koscsej>
+						<eng>You didn't lost the Chimera. It came immediately here to guard its master's home. You will find it in the study.</eng>
+					</03_NPC_Koscsej>
+					<04_VH>
+						<eng>Great. Let's see how it goes when the beast doesn't try to eat me.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Fluffy! I can call it Fluffy, right?</eng>
+					</05_Katarina>
+				</CUT_POI04_Visitor_in_Lair>
+				<BNT_chimera_bad_dog>					
+					<01_Katarina>
+						<eng>*GASP* BAD CHIMERA! Look at what he did!</eng>
+					</01_Katarina>					
+					<02_VH>
+						<eng>I think it's a good sign actually. It's means he's starting to feel at home. And don't worry I'll have somenone bring in a box later.</eng>
+					</02_VH>					
+				</BNT_chimera_bad_dog>
+			</The_Lair_beast>
+			<Commander_Petrov>
+				<BNT_Commander_Petrov_01>
+					<01_Commander_Petrov>
+						<eng>Everything is under control, hunter.</eng>
+					</01_Commander_Petrov>
+				</BNT_Commander_Petrov_01>
+				<BNT_Commander_Petrov_02>
+					<01_Commander_Petrov>
+						<eng>We are safe... for now.</eng>
+					</01_Commander_Petrov>
+				</BNT_Commander_Petrov_02>
+				<BNT_Commander_Petrov_03>
+					<01_Commander_Petrov>
+						<eng>I’m going to survey the troops.</eng>
+					</01_Commander_Petrov>
+				</BNT_Commander_Petrov_03>
+				<BNT_Commander_Petrov_04>
+					<01_Commander_Petrov>
+						<eng>Can I help you with something?</eng>
+					</01_Commander_Petrov>
+				</BNT_Commander_Petrov_04>
+				<BNT_Commander_Petrov_05>
+					<01_Commander_Petrov>
+						<eng>I need you to do your best, hunter.</eng>
+					</01_Commander_Petrov>
+				</BNT_Commander_Petrov_05>
+				<BNT_Commander_Petrov_06>
+					<01_Commander_Petrov>
+						<eng>We are making a change here.</eng>
+					</01_Commander_Petrov>
+				</BNT_Commander_Petrov_06>
+				<BNT_Commander_Petrov_07>
+					<01_Commander_Petrov>
+						<eng>Shall I give an inspirational speech again?</eng>
+					</01_Commander_Petrov>
+				</BNT_Commander_Petrov_07>
+				<BNT_Commander_Petrov_08>
+					<01_Commander_Petrov>
+						<eng>The protection of the Lair is imperative.</eng>
+					</01_Commander_Petrov>
+				</BNT_Commander_Petrov_08>
+				<BNT_Commander_Petrov_09>
+					<01_Commander_Petrov>
+						<eng>General Harker will fall, I promise you that.</eng>
+					</01_Commander_Petrov>
+				</BNT_Commander_Petrov_09>
+			</Commander_Petrov>
+			<Captain_Tsarevich>
+				<BNT_Captain_Tsarevich_01>
+					<01_Captain_Tsarevich>
+						<eng>Reporting for duty, sir!</eng>
+					</01_Captain_Tsarevich>
+				</BNT_Captain_Tsarevich_01>
+				<BNT_Captain_Tsarevich_02>
+					<01_Captain_Tsarevich>
+						<eng>I’m ready, sir. Just give me the order.</eng>
+					</01_Captain_Tsarevich>
+				</BNT_Captain_Tsarevich_02>
+				<BNT_Captain_Tsarevich_03>
+					<01_Captain_Tsarevich>
+						<eng>For the Resistance!</eng>
+					</01_Captain_Tsarevich>
+				</BNT_Captain_Tsarevich_03>
+				<BNT_Captain_Tsarevich_04>
+					<01_Captain_Tsarevich>
+						<eng>My soldiers are ready.</eng>
+					</01_Captain_Tsarevich>
+				</BNT_Captain_Tsarevich_04>
+				<BNT_Captain_Tsarevich_05>
+					<01_Captain_Tsarevich>
+						<eng>Everything seems to be fine.</eng>
+					</01_Captain_Tsarevich>
+				</BNT_Captain_Tsarevich_05>
+				<BNT_Captain_Tsarevich_06>
+					<01_Captain_Tsarevich>
+						<eng>Do you need me now, sir?</eng>
+					</01_Captain_Tsarevich>
+				</BNT_Captain_Tsarevich_06>
+			</Captain_Tsarevich>
+			<Captain_Stark>
+				<BNT_Captain_Stark_01>
+					<01_Captain_Stark>
+						<eng>I’m bored. Shouldn’t we hunt down something?</eng>
+					</01_Captain_Stark>
+				</BNT_Captain_Stark_01>
+				<BNT_Captain_Stark_02>
+					<01_Captain_Stark>
+						<eng>Nice day for some awesome heroics, what do you think?</eng>
+					</01_Captain_Stark>
+				</BNT_Captain_Stark_02>
+				<BNT_Captain_Stark_03>
+					<01_Captain_Stark>
+						<eng>I’m starting to enjoy this, Van Helsing.</eng>
+					</01_Captain_Stark>
+				</BNT_Captain_Stark_03>
+				<BNT_Captain_Stark_04>
+					<01_Captain_Stark>
+						<eng>Just give me a group of soldiers, and I’ll deal with any situation.</eng>
+					</01_Captain_Stark>
+				</BNT_Captain_Stark_04>
+				<BNT_Captain_Stark_05>
+					<01_Captain_Stark>
+						<eng>I feel stuck here. I need open air and blazing guns.</eng>
+					</01_Captain_Stark>
+				</BNT_Captain_Stark_05>
+				<BNT_Captain_Stark_06>
+					<01_Captain_Stark>
+						<eng>I’m quite impressed with this Lair.</eng>
+					</01_Captain_Stark>
+				</BNT_Captain_Stark_06>
+				<BNT_Captain_Stark_07>
+					<01_Captain_Stark>
+						<eng>I’m ready, Van Helsing.</eng>
+					</01_Captain_Stark>
+				</BNT_Captain_Stark_07>
+			</Captain_Stark>
+			<Captain_Stahl>
+				<BNT_Captain_Stahl_01>
+					<01_Captain_Stahl>
+						<eng>A real underground hideout! Fabulous!</eng>
+					</01_Captain_Stahl>
+				</BNT_Captain_Stahl_01>
+				<BNT_Captain_Stahl_02>
+					<01_Captain_Stahl>
+						<eng>I could take a look at those amazing machines, if you want me to.</eng>
+					</01_Captain_Stahl>
+				</BNT_Captain_Stahl_02>
+				<BNT_Captain_Stahl_03>
+					<01_Captain_Stahl>
+						<eng>With a proper laboratory, I could do wonders here!</eng>
+					</01_Captain_Stahl>
+				</BNT_Captain_Stahl_03>
+				<BNT_Captain_Stahl_04>
+					<01_Captain_Stahl>
+						<eng>Shall I take the men to fight science with SCIENCE?</eng>
+					</01_Captain_Stahl>
+				</BNT_Captain_Stahl_04>
+				<BNT_Captain_Stahl_05>
+					<01_Captain_Stahl>
+						<eng>What we have here, is a total misunderstanding of mad science.</eng>
+					</01_Captain_Stahl>
+				</BNT_Captain_Stahl_05>
+				<BNT_Captain_Stahl_06>
+					<01_Captain_Stahl>
+						<eng>I’m ready, Van Hesling! What do you need?</eng>
+					</01_Captain_Stahl>
+				</BNT_Captain_Stahl_06>
+				<BNT_Captain_Stahl_07>
+					<01_Captain_Stahl>
+						<eng>A genius and a diplomat. Ehhehe. That’s me, yes.</eng>
+					</01_Captain_Stahl>
+				</BNT_Captain_Stahl_07>
+			</Captain_Stahl>
+			<Captain_Upyr>
+				<BNT_Captain_Upyr_01>
+					<NPC_Baron_Upyr>
+						<eng>You can trust me, hunter. We fight the same enemy.</eng>
+					</NPC_Baron_Upyr>
+				</BNT_Captain_Upyr_01>
+				<BNT_Captain_Upyr_02>
+					<NPC_Baron_Upyr>
+						<eng>Allow me to show them my revenge.</eng>
+					</NPC_Baron_Upyr>
+				</BNT_Captain_Upyr_02>
+				<BNT_Captain_Upyr_03>
+					<NPC_Baron_Upyr>
+						<eng>The age of machines will be over soon. I promise.</eng>
+					</NPC_Baron_Upyr>
+				</BNT_Captain_Upyr_03>
+				<BNT_Captain_Upyr_04>
+					<NPC_Baron_Upyr>
+						<eng>Darkness will rise.</eng>
+					</NPC_Baron_Upyr>
+				</BNT_Captain_Upyr_04>
+				<BNT_Captain_Upyr_05>
+					<NPC_Baron_Upyr>
+						<eng>I’m ready, hunter. Give me orders.</eng>
+					</NPC_Baron_Upyr>
+				</BNT_Captain_Upyr_05>
+				<BNT_Captain_Upyr_06>
+					<NPC_Baron_Upyr>
+						<eng>Mortals... they are so fragile.</eng>
+					</NPC_Baron_Upyr>
+				</BNT_Captain_Upyr_06>
+				<BNT_Captain_Upyr_07>
+					<NPC_Baron_Upyr>
+						<eng>Under different circumstances, we would be enemies. And it’s a compliment.</eng>
+					</NPC_Baron_Upyr>
+				</BNT_Captain_Upyr_07>
+				<BNT_Captain_Upyr_08>
+					<NPC_Baron_Upyr>
+						<eng>I miss the old Borgova. The mist, the terror, the castles.</eng>
+					</NPC_Baron_Upyr>
+				</BNT_Captain_Upyr_08>
+			</Captain_Upyr>
+			<Guard_Captain>
+				<BNT_Guard_Captain_01>
+					<01_Guard_Captain>
+						<eng>Everything seems to be in order, sir.</eng>
+					</01_Guard_Captain>
+				</BNT_Guard_Captain_01>
+				<BNT_Guard_Captain_02>
+					<01_Guard_Captain>
+						<eng>The Lair is safe for now, sir.</eng>
+					</01_Guard_Captain>
+				</BNT_Guard_Captain_02>
+				<BNT_Guard_Captain_03>
+					<01_Guard_Captain>
+						<eng>We have guards at all the exits, sir.</eng>
+					</01_Guard_Captain>
+				</BNT_Guard_Captain_03>
+				<BNT_Guard_Captain_04>
+					<01_Guard_Captain>
+						<eng>We have everything under control, sir.</eng>
+					</01_Guard_Captain>
+				</BNT_Guard_Captain_04>
+				<BNT_Guard_Captain_05>
+					<01_Guard_Captain>
+						<eng>Sir, we are going to reopen the quarantined sections of the Lair.</eng>
+					</01_Guard_Captain>
+				</BNT_Guard_Captain_05>
+				<BNT_Guard_Captain_06>
+					<01_Guard_Captain>
+						<eng>We had some brawls among the refugees, but it's over.</eng>
+					</01_Guard_Captain>
+				</BNT_Guard_Captain_06>
+				<BNT_Guard_Captain_07>
+					<01_Guard_Captain>
+						<eng>We should ban drinking and smoking down here. It's not safe.</eng>
+					</01_Guard_Captain>
+				</BNT_Guard_Captain_07>
+				<BNT_Guard_Captain_08>
+					<01_Guard_Captain>
+						<eng>We have closed down the engine room from the public.</eng>
+					</01_Guard_Captain>
+				</BNT_Guard_Captain_08>
+				<BNT_Guard_Captain_09>
+					<01_Guard_Captain>
+						<eng>Good news, sir. The giant rat infestation was just a prank.</eng>
+					</01_Guard_Captain>
+				</BNT_Guard_Captain_09>
+				<BNT_Guard_Captain_10>
+					<01_Guard_Captain>
+						<eng>The supplies are getting low, sir.</eng>
+					</01_Guard_Captain>
+				</BNT_Guard_Captain_10>
+				<BNT_Guard_Captain_11>
+					<01_Guard_Captain>
+						<eng>All the water pumps are fixed now, fortunately.</eng>
+					</01_Guard_Captain>
+				</BNT_Guard_Captain_11>
+				<BNT_Guard_Captain_12>
+					<01_Guard_Captain>
+						<eng>Did you hear about that secret room we found, sir?</eng>
+					</01_Guard_Captain>
+				</BNT_Guard_Captain_12>
+				<BNT_Guard_Captain_13>
+					<01_Guard_Captain>
+						<eng>We need some heating down here.</eng>
+					</01_Guard_Captain>
+				</BNT_Guard_Captain_13>
+			</Guard_Captain>
+			<Doktor_Dampf>
+				<BNT_Doktor_Dampf_01>
+					<01_NPC_Lair_Alchemist>
+						<eng>Anything you need from a genius alchemist?</eng>
+					</01_NPC_Lair_Alchemist>
+				</BNT_Doktor_Dampf_01>
+				<BNT_Doktor_Dampf_02>
+					<01_NPC_Lair_Alchemist>
+						<eng>Busy! Transforming something to gold.</eng>
+					</01_NPC_Lair_Alchemist>
+				</BNT_Doktor_Dampf_02>
+				<BNT_Doktor_Dampf_03>
+					<01_NPC_Lair_Alchemist>
+						<eng>What about some lemon-flavored Essences?</eng>
+					</01_NPC_Lair_Alchemist>
+				</BNT_Doktor_Dampf_03>
+				<BNT_Doktor_Dampf_04>
+					<01_NPC_Lair_Alchemist>
+						<eng>I’ve got the poison. I’ve also got the remedy!</eng>
+					</01_NPC_Lair_Alchemist>
+				</BNT_Doktor_Dampf_04>
+				<BNT_Doktor_Dampf_05>
+					<01_NPC_Lair_Alchemist>
+						<eng>No one understands me. No one!</eng>
+					</01_NPC_Lair_Alchemist>
+				</BNT_Doktor_Dampf_05>
+				<BNT_Doktor_Dampf_06>
+					<01_NPC_Lair_Alchemist>
+						<eng>Do you want something?</eng>
+					</01_NPC_Lair_Alchemist>
+				</BNT_Doktor_Dampf_06>
+				<BNT_Doktor_Dampf_07>
+					<01_NPC_Lair_Alchemist>
+						<eng>I’m busy! Busy!</eng>
+					</01_NPC_Lair_Alchemist>
+				</BNT_Doktor_Dampf_07>
+				<BNT_Doktor_Dampf_08>
+					<01_NPC_Lair_Alchemist>
+						<eng>Just tell me what you need.</eng>
+					</01_NPC_Lair_Alchemist>
+				</BNT_Doktor_Dampf_08>
+				<BNT_Doktor_Dampf_09>
+					<01_NPC_Lair_Alchemist>
+						<eng>I need a proper laboratory. I really do.</eng>
+					</01_NPC_Lair_Alchemist>
+				</BNT_Doktor_Dampf_09>
+			</Doktor_Dampf>
+			<Egyeb_banter>
+				<BNT_TD_Ink_gate>
+					<01_Katarina>
+						<eng>I sense a disturbance in the Ink. A gate has opened around here.</eng>
+					</01_Katarina>
+				</BNT_TD_Ink_gate>
+			</Egyeb_banter>
+		</Lair_new>
+		<csatorna_deep>
+			<Free_Telsa>
+				<BNT_MQ13_dark_sewers>
+					<01_Katarina>
+						<eng>Another grim, reeking tunnel. You can't imagine how much I’ve missed this. Are you sure that this arrogant genius is worth the trouble?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>He might know a way to destroy the force walls. Or in any case he could be a valuable asset to the Resistance.</eng>
+					</02_VH>
+				</BNT_MQ13_dark_sewers>
+				<BNT_MQ13_giants>
+					<01_VH>
+						<eng>What's with the giants in the sewer system? They are too big to live down here.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Oh, it's a Borgovian thing. There used to be dragons in the dungeons, but they became extinct.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>What happened to them?</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>Adventuring parties mostly.</eng>
+					</04_Katarina>
+				</BNT_MQ13_giants>
+				<BNT_MQ13_Prisoner_seven>
+					<01_Katarina>
+						<eng>Have you noticed that your mysterious prisoner is never around when there is actual action?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>He is doing important research.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>What could be more important than beating up monsters?</eng>
+					</03_Katarina>
+				</BNT_MQ13_Prisoner_seven>
+				<BNT_MQ13_maintenance>
+					<01_Katarina>
+						<eng>Did you ever wonder who does the maintenance work in these ancient tunnels?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Honestly? No.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>But everything is so functional and deadly and… ah, nevermind.</eng>
+					</03_Katarina>
+				</BNT_MQ13_maintenance>
+				<BNT_MQ13_secretdoor>
+					<01_Katarina>
+						<eng>My ghostly senses are tingling.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Is there a trap inside?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>No, but there is something strange about this cell. I think the answer lies somewhere around here.</eng>
+					</03_Katarina>
+				</BNT_MQ13_secretdoor>
+				<BNT_MQ13_inception>
+					<01_VH>
+						<eng>Clever. A hidden prison inside a hidden prison!</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>We have to go deeper.</eng>
+					</02_Katarina>
+				</BNT_MQ13_inception>
+				<BNT_MQ13_Hulk_free>
+					<01_Sewer_deep_bedlam_behe_boss>
+						<eng>RAARH! I HATE freedom! I'm NOT worthy! I HATE myself! I HATE YOU! DIE!</eng>
+					</01_Sewer_deep_bedlam_behe_boss>
+				</BNT_MQ13_Hulk_free>
+				<BNT_POI02_Jack_the_ripper>
+					<01_Jack_the_ripper>
+						<eng>Let me out! I'm a well-known psychiatrist! I never ate anyone! That was all a lie!</eng>
+					</01_Jack_the_ripper>
+				</BNT_POI02_Jack_the_ripper>
+				<BNT_POI02_Jack_is_free>
+					<01_Jack_the_ripper>
+						<eng>Oh, yes. I have to go. I'm having an old friend for dinner.</eng>
+					</01_Jack_the_ripper>
+					<02_Katarina>
+						<eng>I think we just made a terrible mistake.</eng>
+					</02_Katarina>
+				</BNT_POI02_Jack_is_free>
+			</Free_Telsa>
+		</csatorna_deep>
+		<Szerpentin>
+			<Power_of_Perun>
+				<CUT_MQ14_The_serpentine>
+					<01_Katarina>
+						<eng>Wait! What are we doing here? You were supposed to take us to the plateau! Do you expect me to walk all the way up?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Katarina, could you just stop complaining about walking?</eng>
+					</02_VH>
+					<03_Koscsej>
+						<eng>This mountain once used to be the realm of Koschei the Deathless, the most powerful being who ever lived in Borgovia. The place is still bursting with his dark magic, so it has become the home for mighty entities like Perun and his kin. And it’s impossible to reach the peak by arcane means. Both of you must walk.</eng>
+					</03_Koscsej>
+					<04_VH>
+						<eng>Both of us? Aren't you coming with us?</eng>
+					</04_VH>
+					<05_Koscsej>
+						<eng>Your humble ally is too weak.  The years he spent in Fulmigati's test chambers left him broken.  And imagine how much help this man can be in Borgova, searching for the General's secrets. Good luck!</eng>
+					</05_Koscsej>
+				</CUT_MQ14_The_serpentine>
+				<BNT_MQ14_Katarina_duma>
+					<01_Katarina>
+						<eng>And he’s just gone! Arrogant Borgovians!</eng>
+					</01_Katarina>
+				</BNT_MQ14_Katarina_duma>
+				<CUT_MQ14_Guards_of_Giantwood>
+					<01_ice_golem_banter>
+						<eng>Turn back, stranger! You cannot pass.</eng>
+					</01_ice_golem_banter>
+					<02_Katarina>
+						<eng>Who died and made you the gatekeeper?</eng>
+					</02_Katarina>
+					<03_ice_golem_banter>
+						<eng>Countless warriors died here to protect this land. I am the representative of the  Hunters' Guild, the guardians of life and light.</eng>
+					</03_ice_golem_banter>
+					<04_Katarina>
+						<eng>Guardians of WHAT?</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>My name is Van Helsing, and I'm a monster hunter. I'm a proud member of the Guild. Let me through.</eng>
+					</05_VH>
+					<06_ice_golem_banter>
+						<eng>You can pass then. But beware: the forest beyond this point is protected by magical seals. Do not break the seals, otherwise you risk letting loose a terrible tempest.</eng>
+					</06_ice_golem_banter>
+					<07_VH>
+						<eng>I try to do my best.</eng>
+					</07_VH>
+				</CUT_MQ14_Guards_of_Giantwood>
+			</Power_of_Perun>
+			<Szerpentin_Poi>
+				<BNT_Prisoner_Seven_Trust_Issues2>
+					<01_Katarina>
+						<eng>I see you are still ignoring my advice about your mirror-faced friend.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Why shouldn’t I believe him? He’s been helping us all the time!</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Why are you so trusting? Because also mysterious and wears a mask? Is there a club for the likes of you? Do you have a secret handshake?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Enough, Katarina. Leave the man be.</eng>
+					</04_VH>
+				</BNT_Prisoner_Seven_Trust_Issues2>
+				<BNT_POI03_angrybirds>
+					<01_VH>
+						<eng>That was tough. Those were some truly angry birds!</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Don't be such a pig! They were probably just protecting their eggs.</eng>
+					</02_Katarina>
+				</BNT_POI03_angrybirds>
+				<BNT_POI03_Scarecrow_Brain>
+					<01_Katarina>
+						<eng>Now this poor thing needs a wizard who will give him a brain.</eng>
+					</01_Katarina>
+				</BNT_POI03_Scarecrow_Brain>
+				<BNT_POI03_backtobusiness>
+					<01_VH>
+						<eng>I have to say, Katarina, I really missed the wilderness.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Fresh air and good, old-fashioned monster slaying?</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>You know me too well, my lady.</eng>
+					</03_VH>
+				</BNT_POI03_backtobusiness>
+				<BNT_POI03_view_from_the_hill>
+					<01_VH>
+						<eng>Is that a Domovoy frozen in the ice?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>You must be mistaken. What would a Domovoy do down there?</eng>
+					</02_Katarina>
+				</BNT_POI03_view_from_the_hill>
+				<BNT_POI03_Katarina_cold>
+					<01_Katarina>
+						<eng>I'm... freezing... I've never felt so... cold...</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Don't give up, Katarina! We are almost there.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Got you!</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>You know I can't believe I fell for this again.</eng>
+					</04_VH>
+				</BNT_POI03_Katarina_cold>
+				<BNT_POI03_Mushroom_table>
+					<01_Katarina>
+						<eng>"Mushroom expert?" And a note. "Out for a walk."</eng>
+					</01_Katarina>
+				</BNT_POI03_Mushroom_table>
+				<BNT_POI03_notfar>
+					<01_Katarina>
+						<eng>Well, he didn't get too far.</eng>
+					</01_Katarina>
+				</BNT_POI03_notfar>
+				<BNT_POI03_Mushroom_experties>
+					<01_Katarina>
+						<eng>Look, I found a certificate from the Shadow Guild of Botanists, claiming that this man is a mushroom expert.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I guess naming the Guild "Uneducated" didn't have the desired ring to it, so they went for a bigger word.</eng>
+					</02_VH>					
+				</BNT_POI03_Mushroom_experties>
+				<BNT_POI03_The_choice>
+					<01_Katarina>
+						<eng>Are you insane? This creature was definitely a ghoul!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Trust me, I'm a monster hunter. Ghouls don't talk, they moan. He was a harmless ...and quite an ugly...old man.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>You will regret this, trust me!</eng>
+					</03_Katarina>
+				</BNT_POI03_The_choice>
+				<BNT_POI03_Katarina_echo>
+					<01_Katarina>
+						<eng>Echo! ... WHERE… ARE… WE?!</eng>
+					</01_Katarina>
+					<02_Echo>
+						<eng>Yooouuuu aaaaare looooost!</eng>
+					</02_Echo>	
+					<03_Katarina>
+						<eng>See? That’s your typical Borgovian echo. Unnatural, unhelpful but accurate.</eng>
+					</03_Katarina>				
+				</BNT_POI03_Katarina_echo>
+				<BNT_POI03_Bomb_activated>
+					<01_NPC_szerpentin_wounded_soldier>
+						<eng>Back off! Keep your distance! Now!</eng>
+					</01_NPC_szerpentin_wounded_soldier>					
+				</BNT_POI03_Bomb_activated>
+				<BNT_POI03_Bomb_master_alive>
+					<01_NPC_szerpentin_wounded_soldier>
+						<eng>Why did you ignore my instructions? Look at my clothes! It's all torn because of your incompetence!</eng>
+					</01_NPC_szerpentin_wounded_soldier>
+					<02_Katarina>
+						<eng>Can I talk to him in private? I'll be quick, I promise.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Just let it go.</eng>
+					</03_VH>					
+				</BNT_POI03_Bomb_master_alive>
+				<BNT_POI03_Bomb_master_dead>
+					<01_Katarina>
+						<eng>Our expert is dead. You know, the Borgovian education system really must be going downhill.</eng>
+					</01_Katarina>					
+				</BNT_POI03_Bomb_master_dead>
+				<BNT_POI03_icequeen>
+					<01_Katarina>
+						<eng>Oh, how I hate these spoiled brats!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Why do you hate them so much?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Well, they are all queens, for starters, and they get to play with snowstorms. It’s oh-so-easy when your father is Father Frost himself.</eng>
+					</03_Katarina>
+				</BNT_POI03_icequeen>
+				<BNT_POI03_deathless>
+					<01_VH>
+						<eng>You know, it’s strange that nobody told me about the legend of the Deathless earlier.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Oh, do you want me to tell you Borgovian fairy tales before I tuck you in?</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>As a hunter, I feel compelled to know about ancient, evil powers even if they’ve been dead for centuries.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>Great! Because the Deathless was just a Borgovian fairy tale to scare young vampires into eating their prey.</eng>
+					</04_Katarina>
+				</BNT_POI03_deathless>
+				<BNT_POI03_abandonedplaces>
+					<01_VH>
+						<eng>This whole area definitely looks depressing.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>There is poison in this soil, the taint of evil long gone.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Is this about that Deathless fellow who didn’t exist?</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>I don’t have to believe in him personally to be sure that powerful evil was lurking here for a long time.</eng>
+					</04_Katarina>
+				</BNT_POI03_abandonedplaces>
+				<BNT_POI03_gong_2>
+					<01_Katarina>
+						<eng>Now I know why the mortality rate is almost 100% among hunters.</eng>
+					</01_Katarina>					
+				</BNT_POI03_gong_2>
+				<BNT_POI03_desertedvillage>
+					<01_VH>
+						<eng>Something scared away the locals. Why would anyone live in a forbidden forest, anyway?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Nothing forces down prices than an ancient and evil presence in the woods.</eng>
+					</02_Katarina>
+				</BNT_POI03_desertedvillage>
+			</Szerpentin_Poi>	
+			<Csort_breathes>
+				<BNT_SQ13_inkbridge>
+					<01_VH>
+						<eng>A bridge leading straight into the Ink? That’s new.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>That man warned us. A powerful and evil magician presence dwelt in these mountains for centuries. That leaves scars.</eng>
+					</02_Katarina>
+				</BNT_SQ13_inkbridge>
+				<CUT_SQ13_incantation>
+					<01_Katarina>
+						<eng>Hmm. I suppose this might be the time to utter that silly incantation.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Ladies first!</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Right. Now you are a proper gentleman. Fine, let's do this. "FlooMe?"</eng>
+					</03_Katarina>
+				</CUT_SQ13_incantation>
+				<BNT_SQ13_dead_hunter>
+					<01_VH>
+						<eng>What is this? Little girls can be hunters now? That makes me so angry.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>It's a boy. And he does look like you a bit, you know.</eng>
+					</02_Katarina>
+				</BNT_SQ13_dead_hunter>
+			</Csort_breathes>
+			<Szerpentin_rockfall>
+				<BNT_event02_rockfall>
+					<01_Katarina>
+						<eng>Look at that! That's your usual luck with landslides.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>At least it didn’t tumble down on us. Let's find another way.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>We should go that cave. If our luck still keeps, there could be another exit to the higher slopes of the mountain.</eng>
+					</03_Katarina>
+				</BNT_event02_rockfall>				
+			</Szerpentin_rockfall>
+		</Szerpentin>
+		<cold_caverns>
+			<Cold_Caverns_POI>
+				<BNT_SQ14_batcountry>
+					<01_Katarina>
+						<eng>We can't stop here, Van Helsing! It's bat country!</eng>
+					</01_Katarina>
+				</BNT_SQ14_batcountry>
+				<BNT_SQ14_pile_of_bones>
+					<01_Katarina>
+						<eng>Why did all these people come here to die? And why didn’t they carry any valuables? That's strange.</eng>
+					</01_Katarina>
+				</BNT_SQ14_pile_of_bones>
+				<BNT_SQ14_pile_of_bones_loot>
+					<01_Katarina>
+						<eng>A heavy gold ring! Evil Borgovian wizards used these once. You know, to hide a piece of their soul inside.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>That's reassuring.</eng>
+					</02_VH>
+				</BNT_SQ14_pile_of_bones_loot>				
+				<BNT_SQ14_dangerzone>
+					<01_VH>
+						<eng>These mines must be a heaven for workplace inspectors. I can’t see a single handrail anywhere.</eng>
+					</01_VH>
+				</BNT_SQ14_dangerzone>
+				<BNT_SQ14_dead_wizard>
+					<01_VH>
+						<eng>Fighting with a staff AND a sword? What did he expect?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>I agree. You must decide if you are a wizard of a fighter.</eng>
+					</02_Katarina>
+				</BNT_SQ14_dead_wizard>
+				<BNT_POI04_Hiding_place>
+					<01_VH>
+						<eng>Did you see that? Something is moving in that mine cart above us.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>I'm on it.</eng>
+					</02_Katarina>
+				</BNT_POI04_Hiding_place>
+				<BNT_POI04_unlucky_domovoi>
+					<01_Katarina>
+						<eng>Oh my. That was an unlucky hiding place.</eng>
+					</01_Katarina>
+				</BNT_POI04_unlucky_domovoi>
+				<BNT_POI04_underdark>
+					<01_VH>
+						<eng>These tunnels must go deep. I wonder what lies beneath.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Hmm. There is a legend about a fellow with two swords living in the caves. He has silver hair.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>I might have heard about him. Is that the man who hunts down witches?</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>Maybe. Does your man have black skin and a panther?</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>No. Then he must be another one.</eng>
+					</05_VH>
+				</BNT_POI04_underdark>
+			</Cold_Caverns_POI>
+		</cold_caverns>
+		<Giantwood>
+			<Katarina>	
+				<BNT_SQ15_Finded_relic1>
+					<01_Katarina>
+						<eng>Look at that! It must be that famous Spiritwalker relic. Sadly it wouldn't go well with my attire, but it's incredibly powerful. We should keep it!</eng>
+					</01_Katarina>
+				</BNT_SQ15_Finded_relic1>
+				<BNT_SQ15_Finded_relic2>
+					<01_Katarina>
+						<eng>Look at that! An ancient bone relic. Sadly it wouldn't go well with my attire, but it's surprisingly powerful. It might come useful for you one day, don't you think?</eng>
+					</01_Katarina>
+				</BNT_SQ15_Finded_relic2>
+				<BNT_SQ15_Abandoned_city>
+					<01_Katarina>
+						<eng>Can you feel it? The air is tainted with unspoken words and the aftertaste of rage. Oh, just like the fights with my suitors, when I was still alive!</eng>
+					</01_Katarina>
+				</BNT_SQ15_Abandoned_city>
+				<BNT_SQ17_Hungarian_gulash>
+					<01_VH>
+						<eng>That stew smells good! It must be the famous Hungarian goulash!</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>The Hungarian goulash is a soup. Altough it looks like a stew.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>How could I live in this constant state of ignorance?</eng>
+					</03_VH>
+				</BNT_SQ17_Hungarian_gulash>
+				<BNT_SQ17_The_first_howl>
+					<01_Dark_spirit>
+						<eng>RAAAGGHH!</eng>
+					</01_Dark_spirit>
+					<02_Katarina>
+						<eng>I have a bad feeling about this. I hope it's not a girl with long, black hair.</eng>
+					</02_Katarina>
+				</BNT_SQ17_The_first_howl>
+				<BNT_SQ17_The_second_howl>
+					<01_Dark_spirit>
+						<eng>RAAAGGHH!</eng>
+					</01_Dark_spirit>
+					<02_Katarina>
+						<eng>What was the plan again?  You get yourself killed and then what?</eng>
+					</02_Katarina>
+				</BNT_SQ17_The_second_howl>
+				<BNT_MQ14_Closed_way>
+					<01_Katarina>
+						<eng>Someone doesn’t want us to enjoy the view from above.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>The harder they try to keep me away, the more determined I’ll become.</eng>
+					</02_VH>
+				</BNT_MQ14_Closed_way>
+			</Katarina>
+			<VH>
+				<BNT_MQ14_The_magical_seal>
+					<01_Katarina>
+						<eng>Van Helsing, have you ever seen a magical seal?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Of course I have. I'm an expert on the arcane, remember?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>It must have slipped my mind. So... what do they look like?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>A magical seal can be anything endowed with great occult powers. A simple lock, a statue, a tree. Even a frog waiting to be kissed back to a prince.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>In other words we are looking for some needles in a mountains-ized haystack. I was almost afraid that this was going to be easy.</eng>
+					</05_Katarina>
+				</BNT_MQ14_The_magical_seal>
+				<BNT_SQ15_Relic_and_totem>
+					<01_Katarina>
+						<eng>If the ghost was right about that ancient and powerful totem, it must be one of those magical seals that protect the plateau.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>It's possible. But my job description includes something about getting rid of ghosts. If we don't find the relic, I must consider destroying the totem.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>And what does your job description say about me?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>You are an exception. See paragraph 17B about valuable assets.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>I hate you.</eng>
+					</05_Katarina>
+				</BNT_SQ15_Relic_and_totem>
+				<BNT_SQ16_Gate_of_Perun>
+					<01_Katarina>
+						<eng>It looks like a door, but it's not an Inkgate.  And the runes are from the ancient past of Borgovia.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>This land once belonged to Koschei the Deathless. This could be one of his magical gates to terrible places.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>I only recognize two symbols. One means "star", the other means "gate".</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Which makes no sense. You clearly must be wrong.</eng>
+					</04_VH>
+				</BNT_SQ16_Gate_of_Perun>
+				<BNT_POI05_stupid_Helsing>
+					<01_VH>
+						<eng>That was a Hala, a frost spirit! The moonstone bound the creature to the body, but when I took it, I cut the demon loose.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>I was aware of that, you know. I only wanted to lure out that spirit.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Of course you did.</eng>
+					</03_VH>
+				</BNT_POI05_stupid_Helsing>
+				<BNT_Giantwood_Bridge>
+					<01_VH>
+						<eng>What is it with the public roads in Borgovia? I can hardly find a functioning bridge around here.</eng>
+					</01_VH>
+				</BNT_Giantwood_Bridge>
+				<BNT_POI08_Bells_jingling>
+					<Bells_jingling>
+						<eng></eng>
+					</Bells_jingling>
+					<01_Katarina>
+						<eng>Did you hear that? The sound of sleigh bells jingling?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>So what? It's probably a woodcutter.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Whatever it is, it must be flying over the treetops.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Then I'm ready to fight.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Wait... it's gone.</eng>
+					</05_Katarina>
+				</BNT_POI08_Bells_jingling>
+			</VH>
+			<Spiritwalker_boss1>	
+				<BNT_SQ17_human_sacrifice>
+					<01_Spiritwalker_boss1>
+						<eng>Leave now, stranger. You are disturbing  our ritual.</eng>
+					</01_Spiritwalker_boss1>
+				</BNT_SQ17_human_sacrifice>
+			</Spiritwalker_boss1>
+			<Hill_giant>
+				<BNT_POI07_Guard_of_the_bridge1>
+					<01_Giantwood_Hill_Giant_elit>
+						<eng>This is MY bridge! No trespassing, little mortal!</eng>
+					</01_Giantwood_Hill_Giant_elit>
+					<02_Katarina>
+						<eng>Sorry to interrupt,  but I'm a ghost, as you can see. Can I pass?</eng>
+					</02_Katarina>
+					<03_Giantwood_Hill_Giant_elit>
+						<eng>Huh...?!? I...uhm...well... You! Shall! Not! Pass!</eng>
+					</03_Giantwood_Hill_Giant_elit>							
+				</BNT_POI07_Guard_of_the_bridge1>
+			</Hill_giant>
+			<giantheads>
+				<BNT_POI06_giantheads>
+					<01_NPC_stonehead1>
+						<eng>Bah, did you see that?</eng>
+					</01_NPC_stonehead1>
+					<02_NPC_stonehead2>
+						<eng>Hmmmrf! That's what they call monster-hunting these days?</eng>
+					</02_NPC_stonehead2>
+					<03_NPC_stonehead1>
+						<eng>Remember the old hunters? My word, they were good.</eng>
+					</03_NPC_stonehead1>
+					<04_NPC_stonehead2>
+						<eng>These young ones... They are just dancing around.</eng>
+					</04_NPC_stonehead2>
+					<05_NPC_stonehead1>
+						<eng>Just give him his reward and let's get back to sleep.</eng>
+					</05_NPC_stonehead1>
+				</BNT_POI06_giantheads>
+				<BNT_MQ14_I_was_wrong>
+					<01_NPC_stonehead3>
+						<eng>Wait! No! I was wrong! Yes, there are wet stones in a river! Oh, I’m so sorry! </eng>
+					</01_NPC_stonehead3>
+				</BNT_MQ14_I_was_wrong>
+				<BNT_POI05_The_Rock>
+					<01_Katarina>
+						<eng>What is it? Another piece of rock?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>No, it is The Rock: capital T, capital R. Power, muscle strength and charisma, crystalized.</eng>
+					</02_VH>
+				</BNT_POI05_The_Rock>
+			</giantheads>
+			<domovoy>	
+				<BNT_POI09_domovoy_santa>
+					<01_Giantwood_Domovoy_santa>
+						<eng>Jingle bells... jingle bells... jingle all the...</eng>
+					</01_Giantwood_Domovoy_santa>
+					<02_Katarina>
+						<eng>Let's pretend that we saw nothing. Right?</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Yes. Yes, indeed.</eng>
+					</03_VH>
+				</BNT_POI09_domovoy_santa>
+			</domovoy>
+			<Giant_merchant>	
+				<BNT_POI08_No_more_raid>
+					<01_NPC_Giant_merchant>
+						<eng>No more raid! No things in bag for you! Umptee!</eng>
+					</01_NPC_Giant_merchant>
+				</BNT_POI08_No_more_raid>
+			</Giant_merchant>
+			<Guardian>	
+				<CUT_MQ14_Guards_of_Perun>
+					<01_Giantwood_Ice_Mage_elit_spec>
+						<eng>Van Helsing! So the winds have brought you here.</eng>
+					</01_Giantwood_Ice_Mage_elit_spec>
+					<02_VH>
+						<eng>How do you know my name?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Don't be humble. It doesn't suit you.</eng>
+					</03_Katarina>
+					<04_Giantwood_Ice_Mage_elit_spec>
+						<eng>Perun knows your name and so do we. You came here to set Perun free and use his power for yourself. We can't allow that, because that would unleash a terrible power. But we  know about your goal and we want to help. We could tap the power of the shackled storm for you.</eng>
+					</04_Giantwood_Ice_Mage_elit_spec>
+				</CUT_MQ14_Guards_of_Perun>
+			</Guardian>
+			<Spiritwalkers_drums>	
+				<BNT_POI08_first_drum>
+					<Dob_01>
+						<eng></eng>
+					</Dob_01>
+				</BNT_POI08_first_drum>
+				<BNT_POI08_first_drum_spiritwalkers>
+					<Dob_01>
+						<eng></eng>
+					</Dob_01>
+					<01_Spiritwalker_boss2>
+						<eng>Stop! The sound of the drums will bring doom to this land.</eng>
+					</01_Spiritwalker_boss2>
+				</BNT_POI08_first_drum_spiritwalkers>
+				<BNT_POI08_second_drum>
+					<Dob_02>
+						<eng></eng>
+					</Dob_02>
+				</BNT_POI08_second_drum>
+				<BNT_POI08_third_drum>
+					<Dob_03>
+						<eng></eng>
+					</Dob_03>
+				</BNT_POI08_third_drum>
+				<BNT_POI08_fourth_drum>
+					<Dob_04>
+						<eng></eng>
+					</Dob_04>
+				</BNT_POI08_fourth_drum>
+				<BNT_POI08_fifth_drum>
+					<Dob_05>
+						<eng></eng>
+					</Dob_05>
+					<Yeti_uvoltes>
+						<eng></eng>
+					</Yeti_uvoltes>
+					<01_VH>
+						<eng>Where is it? I can hear him roaring, but I don't see the beast.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>That's the definition of the Yeti. Don't expect more.</eng>
+					</02_Katarina>
+				</BNT_POI08_fifth_drum>
+			</Spiritwalkers_drums>
+		</Giantwood>
+		<Ink_glass>
+			<Chimera_land>
+				<BNT_MQ21_entering_workshop>
+					<01_Katarina>
+						<eng>Why would they need a laboratory in the Ink?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Maybe they were experimenting with opening doors to other worlds.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>That’s a recipe for disaster! How many lab accidents do mad scientists need to recognize that?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Until a lone hero to clean up their mess, I don’t expect them to change.</eng>
+					</04_VH>
+				</BNT_MQ21_entering_workshop>
+				<BNT_MQ21_Dangerous_monster>
+					<01_Katarina>
+						<eng>What were these? I’ve never seen anything like them before! And I’m from Borgovia.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I don't know, but they were dangerously territorial.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>I think they were dangerously cute.</eng>
+					</03_Katarina>
+				</BNT_MQ21_Dangerous_monster>
+				<BNT_MQ21_chimera_elder>
+					<01_VH>
+						<eng>This one was tough.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>And cute! In a bloodthirsty, vicious way.</eng>
+					</02_Katarina>
+				</BNT_MQ21_chimera_elder>
+				<BNT_MQ21_breeding_ground>
+					<01_VH>
+						<eng>I think it's safe to say that this laboratory is a breeding ground for these creatures.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Great! Anything but gates to other worlds.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Careful what you wish for.</eng>
+					</03_VH>
+				</BNT_MQ21_breeding_ground>
+				<BNT_MQ21_library>
+					<01_Katarina>
+						<eng>Oh, it's a library!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Look at those books bursting with knowledge.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>That explains the oversized brains swarming all over the place.</eng>
+					</03_Katarina>
+				</BNT_MQ21_library>
+				<BNT_MQ21_empty_workshop>
+					<01_Katarina>
+						<eng>This is supposed to be a secret government facility, but I haven't seen any soldiers around here.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Maybe the creatures ate their guardians.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>That's so adorable!</eng>
+					</03_Katarina>
+				</BNT_MQ21_empty_workshop>
+				<BNT_MQ21_essenceroom>
+					<01_Katarina>
+						<eng>I smell powerful magic around here.</eng>
+					</01_Katarina>
+				</BNT_MQ21_essenceroom>
+				<BNT_MQ21_essenceroom2>
+					<01_VH>
+						<eng>You are not the only one who can sniff out magic.</eng>
+					</01_VH>
+				</BNT_MQ21_essenceroom2>
+				<BNT_MQ21_idols>
+					<01_Katarina>
+						<eng>Would you just look at it? Another  game of revolving statues!</eng>
+					</01_Katarina>
+				</BNT_MQ21_idols>
+				<BNT_MQ21_Closed_door>
+					<01_Katarina>
+						<eng>This door can't be opened from this side.</eng>
+					</01_Katarina>
+				</BNT_MQ21_Closed_door>
+				<BNT_MQ21_Lost_chimera>
+					<01_Katarina>
+						<eng>Wait! What is this? Where did it go? Van Helsing! What did you do to my Chimera?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Nothing. It simply disappeared before I could finish the fight.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>We must find it! Fluffy! Where are you?</eng>
+					</03_Katarina>
+				</BNT_MQ21_Lost_chimera>
+			</Chimera_land>
+		</Ink_glass>
+		<Barrikados2>
+			<Counter_offensive>	
+				<CUT_MQ22_Enemy_outpost>
+					<01_barrikados2_captain_Vrikov>
+						<eng>Sir! Our soldiers tried to move into the Junction, but they met ferocious resistance everywhere. But there is any enemy outpost nearby where we could possibly break through.</eng>
+					</01_barrikados2_captain_Vrikov>
+					<02_VH>
+						<eng>Thank you, captain. Do you have anything else to report?</eng>
+					</02_VH>
+					<03_barrikados2_captain_Vrikov>
+						<eng>Yes, sir! We seized one of their great cannons, although we are low on munitions.  Anyway, now we can return their fire. Just tell our boys where to shoot.</eng>
+					</03_barrikados2_captain_Vrikov>
+				</CUT_MQ22_Enemy_outpost>
+				<CUT_MQ22_Scout_report>
+					<01_VH>
+						<eng>Prisoner Seven! Do you have any news from Harker’s lines?</eng>
+					</01_VH>
+					<02_Koscsej>
+						<eng>Of course. Your enemies have a field artillery nearby that covers this whole area. They also brought in a railway gun on the tracks that lead to the Launch Tower. It would be most desirable to destroy all of them.</eng>
+					</02_Koscsej>
+					<03_VH>
+						<eng>I’ll take care of them. Anything else?</eng>
+					</03_VH>
+					<04_Koscsej>
+						<eng>Yes. Harker’s captains are planning to take back the Ornithopter Launch Tower.</eng>
+					</04_Koscsej>
+					<05_Katarina>
+						<eng>So you are telling me that we should be at two places at once. Isn’t this just great? It’s a good thing that we have our own soldiers.</eng>
+					</05_Katarina>
+				</CUT_MQ22_Scout_report>
+				<CUT_MQ22_Again_this_machines>
+					<01_VH>
+						<eng>I see that they decided to play safe. Harker must have learned from Fulmigati’s example.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>The number of Doomsday Automatons you have to face indicates your success as a hunter. I’m so proud of you!</eng>
+					</02_Katarina>
+				</CUT_MQ22_Again_this_machines>
+				<BNT_MQ22_after_machines>
+					<01_VH>
+						<eng>And we are done here. Following your reasoning, the next time they’ll send twice as many Doomsday Devices.</eng>
+					</01_VH>
+				</BNT_MQ22_after_machines>
+			</Counter_offensive>
+			<Sidequest_banters>	
+				<BNT_MQ22_first_wanted_caught>
+					<01_VH>
+						<eng>And this is how we deal with war criminals.</eng>
+					</01_VH>
+				</BNT_MQ22_first_wanted_caught>
+				<BNT_MQ22_second_wanted_caught>
+					<01_Katarina>
+						<eng>You killed him too fast. I wanted to ask him why he chose this name.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Personally I just don't want to know.</eng>
+					</02_VH>
+				</BNT_MQ22_second_wanted_caught>
+				<BNT_MQ22_third_wanted_caught>
+					<01_Katarina>
+						<eng>These automatons are becoming increasingly evolved.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>One day they will rise against us. Just mark my words.</eng>
+					</02_VH>
+				</BNT_MQ22_third_wanted_caught>
+				<BNT_MQ22_bridges>
+					<01_Katarina>
+						<eng>Look at that! The last remaining bridge of Borgovia is gone.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I'm surprised that that they had at least a few bridges left.</eng>
+					</02_VH>
+				</BNT_MQ22_bridges>
+				<BNT_MQ22_artillery_defeated>
+					<01_VH>
+						<eng>Time to rain fire on our enemies. What do you think?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Hah! How do you like THIS, General? Getting a taste of your own medicine!</eng>
+					</02_Katarina>
+				</BNT_MQ22_artillery_defeated>
+				<BNT_MQ22_railwaygun_defeated>
+					<01_Katarina>
+						<eng>Dear Borgovian passengers! Please expect delays on the main lines until further notice. </eng>
+					</01_Katarina>
+				</BNT_MQ22_railwaygun_defeated>
+				<BNT_MQ22_at_the_gate>
+					<01_VH>
+						<eng>This is the gate that leads to the underground foundry.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Finally we are here. I thought I'd never see that place.</eng>
+					</02_Katarina>
+				</BNT_MQ22_at_the_gate>
+				<BNT_chimera_first>
+					<01_VH>
+						<eng>I had my doubts, but I must admit that this Chimera is extremely helpful.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Did you see how he tore his enemies into pieces? So playful!</eng>
+					</02_Katarina>
+				</BNT_chimera_first>
+				<BNT_POI10_thief_conversation>
+					<01_NPC_Suttogo_tolvaj1>
+						<eng>This accursed war hurts our business badly.</eng>
+					</01_NPC_Suttogo_tolvaj1>
+					<02_NPC_Suttogo_tolvaj2>
+						<eng>The most important thing now is to hide the loot. Tell me that everything goes according to the plan.</eng>
+					</02_NPC_Suttogo_tolvaj2>
+					<03_NPC_Suttogo_tolvaj1>
+						<eng>Of course. We packed the barrels with the stash and moved everything to the cellar. There is only one barrel left outside.</eng>
+					</03_NPC_Suttogo_tolvaj1>
+				</BNT_POI10_thief_conversation>
+				<BNT_POI10_the_last_barrel>
+					<01_NPC_Suttogo_tolvaj1>
+						<eng>Did you hear that?</eng>
+					</01_NPC_Suttogo_tolvaj1>
+					<02_NPC_Suttogo_tolvaj2>
+						<eng>Somebody found the last barrel! How dare they rob us?</eng>
+					</02_NPC_Suttogo_tolvaj2>
+					<03_NPC_Suttogo_tolvaj1>
+						<eng>Don't move, you idiot! What if they are soldiers?</eng>
+					</03_NPC_Suttogo_tolvaj1>
+				</BNT_POI10_the_last_barrel>
+				<BNT_POI10_Terminator_defeated>
+					<01_Katarina>
+						<eng>If next time someone asks if I’m Sarah Connor, you say no!</eng>
+					</01_Katarina>
+				</BNT_POI10_Terminator_defeated>
+			</Sidequest_banters>
+		</Barrikados2>
+		<Foundry>
+			<Clear_the_Foundry>	
+				<BNT_MQ22_Machine_parts1>
+					<01_Katarina>
+						<eng>Look at those colossal machine parts!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>They must be related to that mysterious project that Harker wanted to manufacture in this foundry.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>But was it worth all this sacrifice?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>I'm afraid we'll find out soon enough.</eng>
+					</04_VH>
+				</BNT_MQ22_Machine_parts1>
+				<BNT_MQ22_Machine_parts2>
+					<01_Katarina>
+						<eng>Would you look at these cogs? They are incredible!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>So this is why Harker needed the Foundry that bad. A machine like this would have been impossible to manufacture anywhere else.</eng>
+					</02_VH>
+				</BNT_MQ22_Machine_parts2>
+				<BNT_MQ22_Machine_parts3>
+					<01_Katarina>
+						<eng>Colossal machine parts again. And these are just the scraps they left here. I have a very bad feeling about this.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Considering the traditional Borgovian approach to engineering, I'd say that they were building a bigger Doomsday Device.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>And we both know why Harker would want a weapon like that.</eng>
+					</03_Katarina>
+				</BNT_MQ22_Machine_parts3>
+				<CUT_MQ22_Mysterious_plan>
+					<01_Katarina>
+						<eng>Take a look at these blueprints. They might give us some insights into Harker's mysterious project.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Hardly. I have no idea what these could be. Maybe blueprints for a gigantic machine… or several machines?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>I'll take these back to the Lair. It's swarming with creepy scientists anyway.</eng>
+					</03_Katarina>
+				</CUT_MQ22_Mysterious_plan>
+				<CUT_MQ22_You_are_fast>
+					<01_VH>
+						<eng>That was quick. You are much faster when you don't go shopping. Did you find out anything?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Our scientists were baffled. These are blueprints for a strange breed of a flamethrower and an energy cell. Or something like this. They lost me really quick.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>A weapon. Great. The question is… have they built it yet?</eng>
+					</03_VH>
+				</CUT_MQ22_You_are_fast>
+				<BNT_POI11_dead_terminator>
+					<01_VH>
+						<eng>He wont’t be back.</eng>
+					</01_VH>
+				</BNT_POI11_dead_terminator>
+			</Clear_the_Foundry>
+			<Katarina_Foundry>	
+				<BNT_POI11_Secretlab>
+					<01_Katarina>
+						<eng>Van Helsing! This door is slightly open. I think you really want to see what's inside!</eng>
+					</01_Katarina>
+				</BNT_POI11_Secretlab>
+			</Katarina_Foundry>
+			<Koscsej_Foundry>	
+				<CUT_MQ23_Something_is_wrong>
+					<01_Koscsej>
+						<eng>Van Helsing! The Lair is under heavy attack. Your people need you there.</eng>
+					</01_Koscsej>
+					<02_VH>
+						<eng>What? Did Harker breach the Lair?</eng>
+					</02_VH>
+					<03_Koscsej>
+						<eng>Not yet. But he must be close. This time he sent a whole army to the tunnels. And something is wrong. Worse than usual. The ground is trembling. The walls are close to cave in. People are panicking.</eng>
+					</03_Koscsej>
+					<04_Katarina>
+						<eng>That must be Harker's mysterious Doomsday Device! </eng>
+					</04_Katarina>
+					<05_Koscsej>
+						<eng>Your friend needs some time to find out the truth. Return to the Lair and wait for me there.</eng>
+					</05_Koscsej>
+				</CUT_MQ23_Something_is_wrong>
+			</Koscsej_Foundry>
+			<Foundry_POI>	
+				<BNT_POI12_Arthur_Detour_message>
+					<01_NPC_Princess_Sofia>
+						<eng>General Van Helsing! I am Princess Sofia. My father served your father in the war against the Vampire Lords. Now we need your help against the evil Harker. I have placed a rare artifact in my mechanical butler, Arthur. Help us! You are our only hope!</eng>
+					</01_NPC_Princess_Sofia>
+				</BNT_POI12_Arthur_Detour_message>
+				<BNT_Foundry_Half_life>
+					<01_Katarina>
+						<eng>Hey, that's not the symbol of our Resistance! Who painted that? Silly soldiers.</eng>
+					</01_Katarina>
+				</BNT_Foundry_Half_life>
+			</Foundry_POI>
+		</Foundry>
+		<DroppodBase>
+			<Squirrels>	
+				<BNT_squirrels>
+					<01_Katarina>
+						<eng>You know, squirrels can be frightening. Especially when you meet a whole army of them.</eng>
+					</01_Katarina>
+				</BNT_squirrels>
+				<BNT_squirrel_attack>
+					<01_Katarina>
+						<eng>We should go. NOW.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>They are just squirrels.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Yes, but this is Borgovia. They could summon a giant Dire Squirrel any time. Let's go. Now.</eng>
+					</03_Katarina>
+				</BNT_squirrel_attack>
+			</Squirrels>
+		</DroppodBase>
+		<City1>
+			<City1_story>	
+				<CUT_City1_Finish>
+					<01_VH>
+						<eng>Where is Harker?</eng>
+					</01_VH>
+					<02_Koscsej>
+						<eng>He was prepared for this exact moment, and now you have forced him to do the unthinkable. He fled through this gate.</eng>
+					</02_Koscsej>
+					<03_VH>
+						<eng>What are you talking about?</eng>
+					</03_VH>
+					<04_Koscsej>
+						<eng>This is a Gate of Perun. Harker had it transported here. His scientists wired it to their impossible machines to open a door. He is on his way to the quarantined part of the Giantwoods.</eng>
+					</04_Koscsej>
+					<05_Katarina>
+						<eng>So what? He fled, we won. Time to celebrate.</eng>
+					</05_Katarina>
+					<06_Koscsej>
+						<eng>He went to retrieve something that should never be found. The Death of Koschei the Immortal.</eng>
+					</06_Koscsej>
+					<07_VH>
+						<eng>That needs some more explanation. Come with us.</eng>
+					</07_VH>
+					<08_Koscsej>
+						<eng>I won’t go near that place. That is a task for heroes and madmen. But I’ll reach you through the Aerial Transmitter. I’ll be your guide. Go!</eng>
+					</08_Koscsej>
+				</CUT_City1_Finish>
+				<BNT_Harker_gate_closed>
+					<01_Machine>
+						<eng>You shall not enter! Authorized personnel only!</eng>
+					</01_Machine>
+				</BNT_Harker_gate_closed>
+			</City1_story>
+			<City1_POI>	
+				<BNT_city1_batman>
+					<01_Katarina>
+						<eng>Look, the Helsing-signal again! We are needed!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Our vampires are way too obsessed with bats.</eng>
+					</02_VH>
+				</BNT_city1_batman>
+				<BNT_City1_gyilkosok_senki>
+					<01_Katarina>
+						<eng>Look what the cat dragged in... straight from the depths of the Ink, as it seems.</eng>
+					</01_Katarina>
+				</BNT_City1_gyilkosok_senki>
+				<BNT_City1_gyilkosok_hannibal>
+					<01_Katarina>
+						<eng>I told you that it was a terrible mistake to let him free! But you never listen.</eng>
+					</01_Katarina>
+				</BNT_City1_gyilkosok_hannibal>
+				<BNT_City1_gyilkosok_ghoul>
+					<01_Katarina>
+						<eng>What did you tell me about this creature, hunter? That he was just a harmless old man? And you call yourself a hunter! I hate being right all the time!</eng>
+					</01_Katarina>
+				</BNT_City1_gyilkosok_ghoul>
+				<BNT_City1_gyilkosok_mindenki>
+					<01_Katarina>
+						<eng>What's this? The annual gathering for the society of creepy, sneaky, lying murderers? Great! Now you'll all get what you deserve!</eng>
+					</01_Katarina>
+				</BNT_City1_gyilkosok_mindenki>
+			</City1_POI>
+		</City1>
+		<Pokszikla>
+			<Pokszikla_story>	
+				<BNT_poksziklak_indulas>
+					<01_VH>
+						<eng>So here we are again, in the Realm of the Deathless.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Allow me a slight correction. We are in the black heart of his realm. I have a very bed feeling about this.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>We will find the hidden death of this Koschei and deal with Harker, and we are out of here.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>How do we recognize someone’s personal death? What does it look like?</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>I have no idea. Let’s say we follow Harker’s tracks.</eng>
+					</05_VH>
+				</BNT_poksziklak_indulas>
+				<BNT_poksziklak_Katarina_ellenvetes1>
+					<01_Katarina>
+						<eng>First you jump into that gate without hesitation, then you are willing to destroy the ancient magical protection placed on the land of the Deathless himself?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>You were the one who told me that the Deathless was only a myth. I’m not afraid of a legend.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>But I never said that he didn’t live at all! And he clearly left his mark on this land.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>And if Harker achieves his goal, the whole of Borgovia will look like this.</eng>
+					</04_VH>
+				</BNT_poksziklak_Katarina_ellenvetes1>
+				<BNT_we_are_close>
+					<01_VH>
+						<eng>We must be close to the place where Harker was heading. Get ready.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Just one thing… What are we going to do with Koschei’s death?</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Our priority is to assure that Harker can’t use it against us.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>So you have no idea. Good! That’s all I wanted to know.</eng>
+					</04_Katarina>
+				</BNT_we_are_close>
+				<BNT_poksziklak_altalanos01>
+					<01_Katarina>
+						<eng>I don’t understand this, Van Helsing. How could he be dead if his death is still around here?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>The Hunter’s Guild has several documented cases where magicians used this method to achieve invulnerability.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>And did you believe these stories?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Me? Never. But this is Borgovia. If this could happen anywhere, it’s here.</eng>
+					</04_VH>
+				</BNT_poksziklak_altalanos01>
+			</Pokszikla_story>
+			<Pokszikla_POI>	
+				<BNT_POI15_Scarecrow_pokszikla>
+					<01_Katarina>
+						<eng>See these big, brutal birds? They are not afraid of the scarecrow.  You should learn from them.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I'm not afraid. I just don't like scarecrows.</eng>
+					</02_VH>
+				</BNT_POI15_Scarecrow_pokszikla>
+				<BNT_POI15_Scarecrow_harpy>
+					<01_VH>
+						<eng>And that just goes to prove my point.</eng>
+					</01_VH>
+				</BNT_POI15_Scarecrow_harpy>
+				<CUT_POI14_Relic_steal_bad>
+					<01_Katarina>
+						<eng>So it wasn't our brightest idea to take all the offerings from the altars.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I have the firepower to deal with the consequences.</eng>
+					</02_VH>
+				</CUT_POI14_Relic_steal_bad>
+				<BNT_grave1>
+					<01_VH>
+						<eng>Kirill Kubin, visionary  bard. Died at the age 27.</eng>
+					</01_VH>
+				</BNT_grave1>
+				<BNT_grave2>
+					<01_Katarina>
+						<eng>Iacov Lobsky, Mandolin Player of the Devil. Died at the age 27.</eng>
+					</01_Katarina>
+				</BNT_grave2>
+				<BNT_grave3>
+					<01_VH>
+						<eng>Mariya Chopleva, who sang like a nightingale. Died at the age 27.</eng>
+					</01_VH>
+				</BNT_grave3>
+				<BNT_grave4>
+					<01_Katarina>
+						<eng>Dimitry Norisov, Meistersinger. Died at the age 27.</eng>
+					</01_Katarina>
+				</BNT_grave4>
+				<BNT_grave5>
+					<01_VH>
+						<eng>Arkady "Bagpipe" Strenov . Died at the age 27.</eng>
+					</01_VH>
+				</BNT_grave5>
+				<BNT_grave6>
+					<01_Katarina>
+						<eng>Irina Sokolova, Queen of Harpsichord. Died at the age 27.</eng>
+					</01_Katarina>
+				</BNT_grave6>
+				<BNT_grave7>
+					<01_VH>
+						<eng>Josef Strasse, The Grand Master of Violin. Died at the age 27.</eng>
+					</01_VH>
+				</BNT_grave7>
+				<BNT_grave8>
+					<01_Katarina>
+						<eng>Wolfgang Amadeus, Genius Composer and Piano Player. Died at the age 27.</eng>
+					</01_Katarina>
+				</BNT_grave8>
+				<BNT_grave9>
+					<01_VH>
+						<eng>Fedor Fedovorich, the God of Tuba. Died at the age 27.</eng>
+					</01_VH>
+				</BNT_grave9>
+				<BNT_grave10>
+					<01_Katarina>
+						<eng>Boris Yaroslav,Flute Player of Heaven. Died at the age of 27.</eng>
+					</01_Katarina>
+				</BNT_grave10>
+				<BNT_POI15_grave_reaction>
+					<01_Katarina>
+						<eng>So it's a graveyard for famous musicians. They  were real celebrities back in the day, you know.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>And they died at the same age. Remind me never to be a famous musician in Borgovia.</eng>
+					</02_VH>
+				</BNT_POI15_grave_reaction>
+			</Pokszikla_POI>
+		</Pokszikla>
+		<Final_bossfight>
+			<Koscsej_bucsu>	
+				<BNT_Prisoner_seven_leaves>
+					<01_Koscsej>
+						<eng>Van Helsing, I am so grateful. You prevented Harker from using the greatest arcane power in Borgovia… and you basically handed it to me on a plate. It still needs a lot of work, but trust me: I will do wonders with it. Please forgive me if I skip the part where I tell you how I used your truly admirable fight for freedom to achieve my goal. I presume our duel afterwards would have been fantastic, but this spell only allows me a short time here before it drags me away. I suppose we'll meet again.</eng>
+					</01_Koscsej>
+				</BNT_Prisoner_seven_leaves>
+			</Koscsej_bucsu>
+		</Final_bossfight>
+		<General>
+			<The_siege_general>
+				<BNT_MQ12_general01>
+					<01_Resistance_soldier>
+						<eng>Fear not, lads! Van Helsing is here!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general01>
+				<BNT_MQ12_general02>
+					<01_Resistance_soldier>
+						<eng>I’m not sure we can hold out for much longer!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general02>
+				<BNT_MQ12_general03>
+					<01_Resistance_soldier>
+						<eng>Hah! Harker will run away screaming!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general03>
+				<BNT_MQ12_general04>
+					<01_Resistance_soldier>
+						<eng>That crippled General has no chance against us!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general04>
+				<BNT_MQ12_general05>
+					<01_Resistance_soldier>
+						<eng>Fear not, lads! Van Helsing is here!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general05>
+				<BNT_MQ12_general06>
+					<01_Resistance_soldier>
+						<eng>Sir, we are under heavy attack!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general06>
+				<BNT_MQ12_general07>
+					<01_Resistance_soldier>
+						<eng>I’ve never seen anything like that!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general07>
+				<BNT_MQ12_general08>
+					<01_Resistance_soldier>
+						<eng>Join the Resistance, they said… it will be fun, they said…</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general08>
+				<BNT_MQ12_general09>
+					<01_Resistance_soldier>
+						<eng>Don’t despair! Fight for a peaceful Borgovia!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general09>
+				<BNT_MQ12_general10>
+					<01_Resistance_soldier>
+						<eng>Freedom to Borgovia!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general10>
+				<BNT_MQ12_general11>
+					<01_Resistance_soldier>
+						<eng>Kill the killing machines!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general11>
+				<BNT_MQ12_general12>
+					<01_Resistance_soldier>
+						<eng>Viva le Resistance!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general12>
+				<BNT_MQ12_general13>
+					<01_Resistance_soldier>
+						<eng>Van Helsing! Right on time!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general13>
+				<BNT_MQ12_general14>
+					<01_Resistance_soldier>
+						<eng>We are doomed!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general14>
+				<BNT_MQ12_general15>
+					<01_Resistance_soldier>
+						<eng>Oh, heavens, they are using the Grand Mortars!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general15>
+				<BNT_MQ12_general16>
+					<01_Resistance_soldier>
+						<eng>Finally! The one-man army is here!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general16>
+				<BNT_MQ12_general17>
+					<01_Resistance_soldier>
+						<eng>Did you see those weapons?</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general17>
+				<BNT_MQ12_general18>
+					<01_Resistance_soldier>
+						<eng>Are we doomed yet?</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general18>
+				<BNT_MQ12_general19>
+					<01_Resistance_soldier>
+						<eng>Ready for battle! Let's attack!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general19>
+				<BNT_MQ12_general20>
+					<01_Resistance_soldier>
+						<eng>Good day to fight, hunter.</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general20>
+				<BNT_MQ12_general21>
+					<01_Resistance_soldier>
+						<eng>Reporting for duty!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general21>
+				<BNT_MQ12_general22>
+					<01_Resistance_soldier>
+						<eng>Are you going to give me orders?</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general22>
+				<BNT_MQ12_general23>
+					<01_Resistance_soldier>
+						<eng>Is something burning? Is it Borgova?</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_general23>
+			</The_siege_general>
+			<The_siege_start_wave>
+				<BNT_MQ12_startwave01>
+					<01_Resistance_soldier>
+						<eng>Good work, boys! But don’t get too comfortable yet.</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_startwave01>
+				<BNT_MQ12_startwave02>
+					<01_Resistance_soldier>
+						<eng>Keep your eyes peeled, soldiers! The General won’t give up that easily.</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_startwave02>
+				<BNT_MQ12_startwave03>
+					<01_Resistance_soldier>
+						<eng>Take a short break! There must be more where these things came from.</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_startwave03>
+			</The_siege_start_wave>
+			<The_siege_broken_line>
+				<BNT_MQ12_brokenline01>
+					<01_Resistance_soldier>
+						<eng>Sir! The enemy has breached our defenses!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_brokenline01>
+				<BNT_MQ12_brokenline02>
+					<01_Resistance_soldier>
+						<eng>Van Helsing! Harker’s troops got through the lines!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_brokenline02>
+				<BNT_MQ12_brokenline03>
+					<01_Resistance_soldier>
+						<eng>Sir! The General’s soldiers are moving in!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_brokenline03>
+				<BNT_MQ12_brokenline04>
+					<01_Resistance_soldier>
+						<eng>A new wave? And I still didn't pick up the kids!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_brokenline04>
+			</The_siege_broken_line>
+			<The_siege_endwave>
+				<BNT_MQ12_endwave01>
+					<01_Resistance_soldier>
+						<eng>Yes! We did it!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_endwave01>
+				<BNT_MQ12_endwave02>
+					<01_Resistance_soldier>
+						<eng>Conquer this, General!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_endwave02>
+				<BNT_MQ12_endwave03>
+					<01_Katarina>
+						<eng>Nice work, mortal boys. You fought like true Borgovians.</eng>
+					</01_Katarina>
+				</BNT_MQ12_endwave03>
+				<BNT_MQ12_endwave04>
+					<01_Resistance_soldier>
+						<eng>Tap some barrels of rum, lads!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_endwave04>
+				<BNT_MQ12_endwave05>
+					<01_Resistance_soldier>
+						<eng>Hurray!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_endwave05>
+				<BNT_MQ12_endwave06>
+					<01_Resistance_soldier>
+						<eng>Flawless victory!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_endwave06>
+				<BNT_MQ12_endwave07>
+					<01_Resistance_soldier>
+						<eng>Yes! We might even make it!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_endwave07>
+				<BNT_MQ12_endwave08>
+					<01_Resistance_soldier>
+						<eng>Good work, boys!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_endwave08>
+				<BNT_MQ12_endwave09>
+					<01_Resistance_soldier>
+						<eng>Told you, lads!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_endwave09>
+				<BNT_MQ12_endwave10>
+					<01_Resistance_soldier>
+						<eng>That's it! Old fashioned muscle against weird machines!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_endwave10>
+				<BNT_MQ12_endwave11>
+					<01_Resistance_soldier>
+						<eng>Great! Could we tap those barrels of rum already?</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_endwave11>
+			</The_siege_endwave>
+			<Running_man>
+				<BNT_MQ12_runningman01>
+					<01_Running_NPC>
+						<eng>To the hiding place! Go!</eng>
+					</01_Running_NPC>
+				</BNT_MQ12_runningman01>
+				<BNT_MQ12_runningman02>
+					<01_Running_NPC>
+						<eng>Run! Run as fast as you can!</eng>
+					</01_Running_NPC>
+				</BNT_MQ12_runningman02>
+				<BNT_MQ12_runningman03>
+					<01_Running_NPC>
+						<eng>Go, go, go!</eng>
+					</01_Running_NPC>
+				</BNT_MQ12_runningman03>
+				<BNT_MQ12_runningman04>
+					<01_Running_NPC>
+						<eng>Don’t look back!</eng>
+					</01_Running_NPC>
+				</BNT_MQ12_runningman04>
+				<BNT_MQ12_runningman05>
+					<01_Running_NPC>
+						<eng>Straight to the Lair! Move!</eng>
+					</01_Running_NPC>
+				</BNT_MQ12_runningman05>
+				<BNT_MQ12_runningman06>
+					<01_Running_NPC>
+						<eng>Someone call Van Helsing!</eng>
+					</01_Running_NPC>
+				</BNT_MQ12_runningman06>
+			</Running_man>
+			<Running_women>
+				<BNT_MQ12_runningwomen01>
+					<01_Running_NPC>
+						<eng>Run, boys, run!</eng>
+					</01_Running_NPC>
+				</BNT_MQ12_runningwomen01>
+				<BNT_MQ12_runningwomen02>
+					<01_Running_NPC>
+						<eng>I can’t take this anymore!</eng>
+					</01_Running_NPC>
+				</BNT_MQ12_runningwomen02>
+				<BNT_MQ12_runningwomen03>
+					<01_Running_NPC>
+						<eng>Are the children safe?</eng>
+					</01_Running_NPC>
+				</BNT_MQ12_runningwomen03>
+				<BNT_MQ12_runningwomen04>
+					<01_Running_NPC>
+						<eng>Run! Run! Run!</eng>
+					</01_Running_NPC>
+				</BNT_MQ12_runningwomen04>
+				<BNT_MQ12_runningwomen05>
+					<01_Running_NPC>
+						<eng>Lady Katarina, where are you?</eng>
+					</01_Running_NPC>
+				</BNT_MQ12_runningwomen05>
+				<BNT_MQ12_runningwomen06>
+					<01_Running_NPC>
+						<eng>We are almost there!</eng>
+					</01_Running_NPC>
+				</BNT_MQ12_runningwomen06>
+			</Running_women>
+			<Rescue_Vlados_general>
+				<BNT_MQ12_RVgeneral01>
+					<01_Resistance_soldier>
+						<eng>They have taken Vlados!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_RVgeneral01>
+				<BNT_MQ12_RVgeneral02>
+					<01_Resistance_soldier>
+						<eng>Cound Vlados is gone!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_RVgeneral02>
+				<BNT_MQ12_RVgeneral03>
+					<01_Resistance_soldier>
+						<eng>Someone stop these elevators!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_RVgeneral03>
+				<BNT_MQ12_RVgeneral04>
+					<01_Resistance_soldier>
+						<eng>They are unstoppable!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_RVgeneral04>
+				<BNT_MQ12_RVgeneral05>
+					<01_Resistance_soldier>
+						<eng>They are swarming us from below!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ12_RVgeneral05>
+			</Rescue_Vlados_general>
+			<Csatorna_Prisoners_general>
+				<BNT_MQ13_prisoner_general01>
+					<01_Resistance_soldier>
+						<eng>Thank you, Van Helsing!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ13_prisoner_general01>
+				<BNT_MQ13_prisoner_general02>
+					<01_Resistance_soldier>
+						<eng>They will pay for this!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ13_prisoner_general02>
+				<BNT_MQ13_prisoner_general03>
+					<01_Resistance_soldier>
+						<eng>Oh, great, that's so great!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ13_prisoner_general03>
+				<BNT_MQ13_prisoner_general04>
+					<01_Resistance_soldier>
+						<eng>Now we can show Harker!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ13_prisoner_general04>
+				<BNT_MQ13_prisoner_general05>
+					<01_Resistance_soldier>
+						<eng>Back to the front lines!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ13_prisoner_general05>
+				<BNT_MQ13_prisoner_general06>
+					<01_Resistance_soldier>
+						<eng>Finally free!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ13_prisoner_general06>
+				<BNT_MQ13_prisoner_general07>
+					<01_Resistance_soldier>
+						<eng>Hurrah! Hurrah!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ13_prisoner_general07>
+				<BNT_MQ13_prisoner_general08>
+					<01_Resistance_soldier>
+						<eng>Free! Free at last! MWUHAHAHAHA!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ13_prisoner_general08>
+			</Csatorna_Prisoners_general>
+			<Giant_Idol_generals>
+				<BNT_POI06_Giant_Idol01>
+					<01_Giant_Idol>
+						<eng>Don’t touch me!</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol01>
+				<BNT_POI06_Giant_Idol02>
+					<01_Giant_Idol>
+						<eng>If I had legs, you’d run for your life!</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol02>
+				<BNT_POI06_Giant_Idol03>
+					<01_Giant_Idol>
+						<eng>Get away from here!</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol03>
+				<BNT_POI06_Giant_Idol04>
+					<01_Giant_Idol>
+						<eng>It’s a sacred place! Leave now!</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol04>
+				<BNT_POI06_Giant_Idol05>
+					<01_Giant_Idol>
+						<eng>What are you doing here, little man?!</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol05>
+				<BNT_POI06_Giant_Idol06>
+					<01_Giant_Idol>
+						<eng>The Deathless ruled this land and he will return.</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol06>
+				<BNT_POI06_Giant_Idol07>
+					<01_Giant_Idol>
+						<eng>The Deathless gave us voice.</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol07>
+				<BNT_POI06_Giant_Idol08>
+					<01_Giant_Idol>
+						<eng>The Deathless gave us power.</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol08>
+				<BNT_POI06_Giant_Idol09>
+					<01_Giant_Idol>
+						<eng>The Deathless is long gone but his power remains.</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol09>
+				<BNT_POI06_Giant_Idol10>
+					<01_Giant_Idol>
+						<eng>The Deathless was the night and the icy wind.</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol10>
+				<BNT_POI06_Giant_Idol11>
+					<01_Giant_Idol>
+						<eng>The Deathless was the master of the Ink.</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol11>
+				<BNT_POI06_Giant_Idol12>
+					<01_Giant_Idol>
+						<eng>The Deathless was kind to us. He was cruel to everyone else.</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol12>
+				<BNT_POI06_Giant_Idol13>
+					<01_Giant_Idol>
+						<eng>You are treshpasling… threesplussing… on our land!</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol13>
+				<BNT_POI06_Giant_Idol14>
+					<01_Giant_Idol>
+						<eng>Hmm… what century is it?</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol14>
+				<BNT_POI06_Giant_Idol15>
+					<01_Giant_Idol>
+						<eng>Did I fall asleep? Again?</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol15>
+				<BNT_POI06_Giant_Idol16>
+					<01_Giant_Idol>
+						<eng>* YAWN * Is it the end of the world yet?</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol16>
+				<BNT_POI06_Giant_Idol17>
+					<01_Giant_Idol>
+						<eng>It’s a rock and a hard place! It is!</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol17>
+				<BNT_POI06_Giant_Idol18>
+					<01_Giant_Idol>
+						<eng>We are gifted with the Sight. Gifted.</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol18>
+				<BNT_POI06_Giant_Idol19>
+					<01_Giant_Idol>
+						<eng>I see the future for you, and it’s pain!</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol19>
+				<BNT_POI06_Giant_Idol20>
+					<01_Giant_Idol>
+						<eng>I see bloody battles in your future!</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol20>
+				<BNT_POI06_Giant_Idol21>
+					<01_Giant_Idol>
+						<eng>I see a handsome man in your future!</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol21>
+				<BNT_POI06_Giant_Idol22>
+					<01_Giant_Idol>
+						<eng>Your past is a muddy lake, little man.</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol22>
+				<BNT_POI06_Giant_Idol23>
+					<01_Giant_Idol>
+						<eng>We are the mountain. You can’t fight us.</eng>
+					</01_Giant_Idol>
+				</BNT_POI06_Giant_Idol23>
+			</Giant_Idol_generals>
+			<Barrikados2_general>
+				<BNT_MQ22_general01>
+					<01_Resistance_soldier>
+						<eng>For victory!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ22_general01>
+				<BNT_MQ22_general02>
+					<01_Resistance_soldier>
+						<eng>Teach them a lesson!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ22_general02>
+				<BNT_MQ22_general03>
+					<01_Resistance_soldier>
+						<eng>We will take this city back!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ22_general03>
+				<BNT_MQ22_general04>
+					<01_Resistance_soldier>
+						<eng>Onward! Onward!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ22_general04>
+				<BNT_MQ22_general05>
+					<01_Resistance_soldier>
+						<eng>This time we will win!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ22_general05>
+				<BNT_MQ22_general06>
+					<01_Resistance_soldier>
+						<eng>How do you like THIS, Harker's boys?</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ22_general06>
+				<BNT_MQ22_general07>
+					<01_Resistance_soldier>
+						<eng>Fear not! Victory is close!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ22_general07>
+				<BNT_MQ22_general08>
+					<01_Resistance_soldier>
+						<eng>To the Foundry!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ22_general08>
+				<BNT_MQ22_general09>
+					<01_Resistance_soldier>
+						<eng>Move! Move!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ22_general09>
+				<BNT_MQ22_general10>
+					<01_Resistance_soldier>
+						<eng>Our day has come!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ22_general10>
+				<BNT_MQ22_general11>
+					<01_Resistance_soldier>
+						<eng>Come on, lads! We are so close!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ22_general11>
+				<BNT_MQ22_general12>
+					<01_Resistance_soldier>
+						<eng>You can't beat the Resistance!</eng>
+					</01_Resistance_soldier>
+				</BNT_MQ22_general12>
+			</Barrikados2_general>
+			<POI07_Guard_of_the_bridge2>
+				<BNT_POI07_Guard_of_the_bridge2>
+					<eng>I will crush you! Crush, crush!</eng>
+				</BNT_POI07_Guard_of_the_bridge2>
+			</POI07_Guard_of_the_bridge2>
+			<POI07_Guard_of_the_bridge3>	
+				<BNT_POI07_Guard_of_the_bridge3>
+					<eng>Stomp! Stomp! How do you like that?</eng>
+				</BNT_POI07_Guard_of_the_bridge3>
+			</POI07_Guard_of_the_bridge3>
+			<POI07_Guard_of_the_bridge4>
+				<BNT_POI07_Guard_of_the_bridge4>
+					<eng>I kill you ALL! ALL!</eng>
+				</BNT_POI07_Guard_of_the_bridge4>
+			</POI07_Guard_of_the_bridge4>
+			<POI09_domovoy_first>
+				<BNT_POI09_domovoy_first>
+					<eng>Surprise! It’s a surprise! Ehehhehe!</eng>
+				</BNT_POI09_domovoy_first>
+			</POI09_domovoy_first>
+			<Final_bossfight>
+				<BNT_Harker01>
+					<01_General_Harker>
+						<eng>Stand down, Van Helsing!</eng>
+					</01_General_Harker>
+				</BNT_Harker01>
+				<BNT_Harker02>
+					<01_General_Harker>
+						<eng>Van Helsing! Surrender!</eng>
+					</01_General_Harker>
+				</BNT_Harker02>
+				<BNT_Harker03>
+					<01_General_Harker>
+						<eng>Van Helsing! You don't know what you are doing!</eng>
+					</01_General_Harker>
+				</BNT_Harker03>
+				<BNT_Harker04>
+					<01_General_Harker>
+						<eng>Hunter! Put down your weapons and we can end this!</eng>
+					</01_General_Harker>
+				</BNT_Harker04>
+				<BNT_Harker05>
+					<01_General_Harker>
+						<eng>Listen! We are both fighting for Borgovia! We should end this!</eng>
+					</01_General_Harker>
+				</BNT_Harker05>
+				<BNT_Harker06>
+					<01_General_Harker>
+						<eng>We need this ancient power, Van Helsing! You and me both!</eng>
+					</01_General_Harker>
+				</BNT_Harker06>
+				<BNT_Harker07>
+					<01_General_Harker>
+						<eng>Don't make me destroy you, hunter!</eng>
+					</01_General_Harker>
+				</BNT_Harker07>
+				<BNT_Harker08>
+					<01_General_Harker>
+						<eng>You are a worthy opponent, Van Helsing! But this has to end here!</eng>
+					</01_General_Harker>
+				</BNT_Harker08>
+				<BNT_Harker09>
+					<01_General_Harker>
+						<eng>I'm warning you, hunter! Stand down!</eng>
+					</01_General_Harker>
+				</BNT_Harker09>
+				<BNT_Harker10>
+					<01_General_Harker>
+						<eng>This is your last chance, Van Helsing!</eng>
+					</01_General_Harker>
+				</BNT_Harker10>
+				<BNT_Harker11>
+					<01_General_Harker>
+						<eng>Trust me, hunter! I will kill you if I have to!</eng>
+					</01_General_Harker>
+				</BNT_Harker11>
+				<BNT_Harker12>
+					<01_General_Harker>
+						<eng>Don't make this difficult for us, hunter!</eng>
+					</01_General_Harker>
+				</BNT_Harker12>
+			</Final_bossfight>
+		</General>
+		<Tutorial>
+			<CUT_TUT_Start_1>
+				<01_Katarina>
+					<eng>Now that's what I call an explosion! It blew us straight into the tunnels, Van Helsing... Van Helsing?!</eng>
+				</01_Katarina>
+				<02_Katarina>
+					<eng>No! Don’t you die on me! I’m too young to haunt the same place for eternity!</eng>
+				</02_Katarina>
+				<03_VH>
+					<eng>That’s... touching... Katarina…</eng>
+				</03_VH>
+				<04_Katarina>
+					<eng>Don’t give up! You have just defeated your first villain! You have so many things ahead of you!</eng>
+				</04_Katarina>
+				<05_VH>
+					<eng>I’m not dying! I’m just stuck!</eng>
+				</05_VH>
+			</CUT_TUT_Start_1>
+			<CUT_TUT_Start_2>
+				<01_Katarina>
+					<eng>What is this? Who are you? Stay back!</eng>
+				</01_Katarina>
+				<02_Koscsej>
+					<eng>Move aside.</eng>
+				</02_Koscsej>
+				<03_Katarina>
+					<eng>I’m warning you!</eng>
+				</03_Katarina>
+				<04_Koscsej>
+					<eng>You’re powerless for the moment. Please, move aside.</eng>
+				</04_Koscsej>
+			</CUT_TUT_Start_2>
+			<CUT_TUT_Start_3>
+				<01_VH>
+					<eng>Well, that was fun... Katarina, what’s going on? Who is this... Is it a man?</eng>
+				</01_VH>
+				<02_Katarina>
+					<eng>A troublesome intruder! He just appeared out of nowhere and...</eng>
+				</02_Katarina>
+				<03_Koscsej>
+					<eng>...and humbly gave assistance to Van Helsing, the great liberator of Borgova.</eng>
+				</03_Koscsej>
+				<04_VH>
+					<eng>Do I know you?</eng>
+				</04_VH>
+				<05_Koscsej>
+					<eng>Hurry up. This structure may collapse at any moment.</eng>
+				</05_Koscsej>
+			</CUT_TUT_Start_3>
+			<CUT_TUT_Start_4>
+				<01_Katarina>
+					<eng>How rude! What kind of savior does that?</eng>
+				</01_Katarina>
+				<02_VH>
+					<eng>That’s the least of our concerns. He’s right, the building is crumbling. We must leave.</eng>
+				</02_VH>
+			</CUT_TUT_Start_4>
+			<BNT_TUT_Equipment>
+				<01_VH>
+					<eng>Have you seen my equipment around here?</eng>
+				</01_VH>
+				<02_Katarina>
+					<eng>Some of your things are scattered on the other side of the hall.</eng>
+				</02_Katarina>
+			</BNT_TUT_Equipment>
+			<BNT_TUT_New_task>
+				<01_VH>
+					<eng>I feel much better now.</eng>
+				</01_VH>
+				<02_Katarina>
+					<eng>And finally you look the part.</eng>
+				</02_Katarina>
+				<03_VH>
+					<eng>It’s not the equipment that makes the hunter, you know that, right?</eng>
+				</03_VH>
+				<04_Katarina>
+					<eng>But it can’t hurt when you are facing down a horde.</eng>
+				</04_Katarina>
+			</BNT_TUT_New_task>
+			<CUT_TUT_ROOM_1_1>
+				<01_Koscsej>
+					<eng>You made it out. Good. You will find an Inkgate at the end of the next hallway. It will take you to your Secret Lair.</eng>
+				</01_Koscsej>
+				<02_VH>
+					<eng>Hold on. First I want to know who you are.</eng>
+				</02_VH>
+				<03_Katarina>
+					<eng>And perhaps you could explain why you are so helpful! I always find that suspicious in a masked creature.</eng>
+				</03_Katarina>
+				<04_Koscsej>
+					<eng>The mask hides deformations and the scars, the reminders of years of captivity in a lab.</eng>
+				</04_Koscsej>
+				<05_VH>
+					<eng>You were a test subject?</eng>
+				</05_VH>
+				<06_Koscsej>
+					<eng>Fulmigati’s favorite. Once a powerful being, now only a husk of my former self. Until your heroic deeds brought chaos to the prison... and so I escaped.</eng>
+				</06_Koscsej>
+				<07_VH>
+					<eng>You are doing this out of gratitude?</eng>
+				</07_VH>
+				<08_Koscsej>
+					<eng>And revenge. Though the Professor is dead, his heritage and his allies still remain. This tortured soul wants them to suffer!</eng>
+				</08_Koscsej>
+				<09_VH>
+					<eng>So you’re proposing...</eng>
+				</09_VH>
+				<10_Koscsej>
+					<eng>I must take my leave. We’ll talk more later.</eng>
+				</10_Koscsej>
+			</CUT_TUT_ROOM_1_1>
+			<CUT_TUT_ROOM_1_2>
+				<01_Katarina>
+					<eng>Hah! He did it again! And the way he talks... annoying.</eng>
+				</01_Katarina>
+				<02_VH>
+					<eng>I’m sure he will return. Let’s go.</eng>
+				</02_VH>
+			</CUT_TUT_ROOM_1_2>
+			<BNT_TUT_PreRage>
+				<01_VH>
+					<eng>Mindless mechanical fiends! I’ve had enough of you! Die!</eng>
+				</01_VH>
+			</BNT_TUT_PreRage>
+			<BNT_TUT_LevelUp>
+				<01_Katarina>
+					<eng>Feeling better?</eng>
+				</01_Katarina>
+				<02_VH>
+					<eng>Almost. I just need to pull myself together.</eng>
+				</02_VH>
+				<03_Katarina>
+					<eng>Hurry up. I’m anxious to get home. And by home I mean our lair in the dungeon. Obviously.</eng>
+				</03_Katarina>
+			</BNT_TUT_LevelUp>
+			<CUT_TUT_Teleport_1>
+				<01_Katarina>
+					<eng>Is it me or has our secret lair changed quite a bit?</eng>
+				</01_Katarina>
+				<02_Monster_1>
+					<eng>Look! Humans! They must have used the Inkgate too. Now they’re trapped here like us.</eng>
+				</02_Monster_1>
+				<03_Monster_2>
+					<eng>Good. I’m hungry.</eng>
+				</03_Monster_2>
+			</CUT_TUT_Teleport_1>
+			<CUT_TUT_Room_3>
+				<01_Koscsej>
+					<eng>Your servant begs your pardon for bringing bad news. But there could be problems.</eng>
+				</01_Koscsej>
+				<02_VH>
+					<eng>You don’t say.</eng>
+				</02_VH>
+				<03_Koscsej>
+					<eng>This place has a powerful device, a marvel of weird science. It binds this patch of the Ink into a loop that won’t let anyone escape.</eng>
+				</03_Koscsej>
+				<04_VH>
+					<eng>You seem to be able to come and go as you please.</eng>
+				</04_VH>
+				<05_Koscsej>
+					<eng>I have a particularly strong connection to the Ink. The one thing my captors weren’t able to take away.</eng>
+				</05_Koscsej>
+				<06_VH>
+					<eng>Then get us out! Take us with you!</eng>
+				</06_VH>
+				<07_Koscsej>
+					<eng>That’s beyond this one’s powers. But a temporary portal could take you close to the device. Once you defeat its guardians, we can disable it.</eng>
+				</07_Koscsej>
+				<08_VH>
+					<eng>Why should I trust you?</eng>
+				</08_VH>
+				<09_Koscsej>
+					<eng>Trust is overrated. You can take that on trust. The portal will remain active until you leave this area.</eng>
+				</09_Koscsej>
+			</CUT_TUT_Room_3>
+			<BNT_TUT_room_3>
+				<01_Katarina>
+					<eng>I don’t trust that “humble creature”. I bet we could find a way out of this room on our own.</eng>
+				</01_Katarina>
+			</BNT_TUT_room_3>
+			<BNT_TUT_teleport_2_target>
+				<01_VH>
+					<eng>That’s the other side of the stranger’s portal. At least we know he wasn’t trying to trap us in the Ink.</eng>
+				</01_VH>
+				<02_Katarina>
+					<eng>Do we?</eng>
+				</02_Katarina>
+			</BNT_TUT_teleport_2_target>
+			<CUT_TUT_Room_4_1>
+				<01_Koscsej>
+					<eng>I’ll disable the device and you can go. Be ready.</eng>
+				</01_Koscsej>
+				<02_VH>
+					<eng>Ready for what?</eng>
+				</02_VH>
+				<03_Koscsej>
+					<eng>A storm is coming, Van Helsing. You may find that your work is far from done.</eng>
+				</03_Koscsej>
+				<04_Katarina>
+					<eng>When is it ever?</eng>
+				</04_Katarina>
+				<05_Koscsej>
+					<eng>Fulmigati’s army has withdrawn. Somebody is calling them back. They are still a chaotic mess, but they will regroup. Somebody wants to see you fall.</eng>
+				</05_Koscsej>
+				<06_Katarina>
+					<eng>Nothing new about that.</eng>
+				</06_Katarina>
+				<07_Koscsej>
+					<eng>An alliance is what you need. This tormented body is no longer able to fight but my powers allow me to discover secrets. I can be your master spy and you can let me have retribution.</eng>
+				</07_Koscsej>
+				<08_VH>
+					<eng>But if we’re to be allies, at least tell me your name.</eng>
+				</08_VH>
+				<09_Koscsej>
+					<eng>A name... Yes, I used to have one. But that person was killed a long time ago. This wretched ruin of a man standing here is merely called Prisoner Seven.</eng>
+				</09_Koscsej>
+			</CUT_TUT_Room_4_1>
+			<CUT_TUT_Room_4_2>
+				<01_Katarina>
+					<eng>He is the most impolite mysterious stranger ever! And that whole doom and gloom attitude, can you believe it?</eng>
+				</01_Katarina>
+				<02_VH>
+					<eng>I don’t know... He might be right. Something’s up, I can feel it.</eng>
+				</02_VH>
+			</CUT_TUT_Room_4_2>
+		</Tutorial>
+		<BossC2>
+			<BNT_Ch2_bossfight_start>
+				<01_Katarina>
+					<eng>Oh… my.  Who said that it was not a  doomsday device? "Just a drilling machine!"</eng>
+				</01_Katarina>
+				<02_VH>
+					<eng>I was wrong. Does it mean that Harker considers me a real hunter now?</eng>
+				</02_VH>
+			</BNT_Ch2_bossfight_start>
+			<BNT_core>
+				<01_Katarina>
+					<eng>That's more like it! The friendly, predictable mad scientist attitude.</eng>
+				</01_Katarina>
+			</BNT_core>
+			<BNT_shield>
+				<01_VH>
+					<eng>Harker must have forced all these sensible modifications on the scientists.</eng>
+				</01_VH>
+				<02_Katarina>
+					<eng>They must have hated him for that. I do.</eng>
+				</02_Katarina>
+			</BNT_shield>
+		</BossC2>
+	</SimplifiedConversation>
+	<ScriptedSentences>
+		<CH3_Boss_text_1>
+			<eng>The battle has already begun!</eng>
+		</CH3_Boss_text_1>
+		<CH3_Boss_text_2>
+			<eng>The mad Queen attacks everyone who enters the glade. She has an inexhaustible army of dryads, but if you can reach her, she can be killed.</eng>
+		</CH3_Boss_text_2>
+		<CH3_Boss_text_3>
+			<eng>You'll face two enemies at the same time.</eng>
+		</CH3_Boss_text_3>
+		<CH3_Boss_text_4>
+			<eng>Harker is hiding behind his indestructible Force Wall, but if you kill his soldiers, he is nothing without his army.</eng>
+		</CH3_Boss_text_4>
+		<CH3_Boss_text_5>
+			<eng>You'll need to choose your strategy wisely.</eng>
+		</CH3_Boss_text_5>
+	</ScriptedSentences>
+</Root>

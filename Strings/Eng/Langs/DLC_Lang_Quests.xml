@@ -1,0 +1,130 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quests>
+		<Ch1_The_hive>
+			<Name>
+				<eng>The Priest's lost relic</eng>
+			</Name>
+			<desc>
+				<eng>The Priest in Markovna asked for my help. There is a relic that was stolen from him and he needs it back. I must descend into the ink through one of the Dark Pits in the Gallowsbog and retrieve the relic.</eng>
+			</desc>
+			<main>
+				<eng>Recover the relic!</eng>
+			</main>
+			<go_back>
+				<eng>Talk to the Priest in the village!</eng>
+			</go_back>
+			<completed>
+				<eng>I retrieved the lost relic for the Priest in Markovna village.</eng>
+			</completed>
+		</Ch1_The_hive>
+		<Ch1_The_hiding_machines>
+			<Name>
+				<eng>Lurking hunter-machines</eng>
+			</Name>
+			<desc>
+				<eng>Captain Ilyia mentioned that there are some nasty hunter-machines lurking at the old battlefield in the Gallowsbog. The mayor offers a reward for anyone who destroys them. I guess that's me.</eng>
+			</desc>
+			<main>
+				<eng>Destroy the hunter-machines! ([Destr_Hunt_mach]/4)</eng>
+			</main>
+			<go_back>
+				<eng>Talk to captain Ilyia!</eng>
+			</go_back>
+			<completed>
+				<eng>I destroyed the hunter-machines lurking in Gallowsbog.</eng>
+			</completed>
+		</Ch1_The_hiding_machines>
+		<Ch2_The_rival_mages>
+			<Name>
+				<eng>Gentleman Rivalry</eng>
+			</Name>
+			<desc>
+				<eng>A Pale Gentleman asked me to eliminate his rivals. I accepted the task.</eng>
+			</desc>
+			<main>
+				<eng>Eliminate the Pale Gentleman's rivals!</eng>
+			</main>
+			<go_back>
+				<eng>Go back to the Pale Gentleman!</eng>
+			</go_back>
+			<completed>
+				<eng>I eliminated all the Pale Gentleman's rivals.</eng>
+			</completed>		
+		</Ch2_The_rival_mages>
+		<Ch2_The_test_machines>
+			<Name>
+				<eng>New war machines</eng>
+			</Name>
+			<desc>
+				<eng>The testing of new war machines was reported deep in the tunnel system. I better find out more about them and stop the tests if I can.</eng>
+			</desc>
+			<main>
+				<eng>Find and destroy the new war machines!</eng>
+			</main>
+			<completed>
+				<eng>I hunted down and destroyed the new war machines in the tunnels.</eng>
+			</completed>
+		</Ch2_The_test_machines>
+		<Ch3_The_ink_machines>
+			<Name>
+				<eng>Rogue hunter-machines</eng>
+			</Name>
+			<desc>
+				<eng>Apparently, a batch of Professor Von Sturm's experimental machines were given intelligence and they became aggressive. I am to travel to their ink hideout and take care of them.</eng>
+			</desc>
+			<main>
+				<eng>Eliminate the King of machines!</eng>
+			</main>
+			<go_back>
+				<eng>Go back to Todor Schimko!</eng>
+			</go_back>
+			<completed>
+				<eng>I destroyed the King of machines in their Ink hideout.</eng>
+			</completed>		
+		</Ch3_The_ink_machines>
+		<Ch3_Dark_ritual>
+			<Name>
+				<eng>A Dark ritual</eng>
+			</Name>
+			<desc>
+				<eng>A Pale Gentleman wants me to sacrifice some regular ghouls, thus summon an ancient ghoul and then retrieve its rotting heart.</eng>
+			</desc>
+			<main>
+				<eng>Sacrifice the first ghoul in the circle!</eng>
+			</main>
+			<second_sacrifice>
+				<eng>Sacrifice the second ghoul in the circle!</eng>
+			</second_sacrifice>
+			<third_sacrifice>
+				<eng>Sacrifice the third ghoul in the circle!</eng>
+			</third_sacrifice>
+			<fourth_sacrifice>
+				<eng>Sacrifice the fourth ghoul in the circle!</eng>
+			</fourth_sacrifice>
+			<fifth_sacrifice>
+				<eng>Sacrifice the fifth ghoul in the circle!</eng>
+			</fifth_sacrifice>
+			<kill>
+				<eng>Kill the ancient ghoul!</eng>
+			</kill>
+			<kill2>
+				<eng>Kill the Pale Gentleman!</eng>
+			</kill2>
+			<go_back>
+				<eng>Return to the Pale Gentleman!</eng>
+			</go_back>
+			<Prevent>
+				<eng>Prevent the sacrifices ([necro_remaining]/5)</eng>
+			</Prevent>
+			<completed>
+				<eng>I finished this shady deal with the Pale Gentleman once and for all.</eng>
+			</completed>
+		</Ch3_Dark_ritual>
+	</Quests>
+</Root>

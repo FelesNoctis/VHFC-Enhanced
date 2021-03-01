@@ -1,0 +1,3010 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<SimplifiedConversation>
+		<GorgonPass>
+			<Bandits>
+				<banter_bridge_reached_and_cleared>
+					<01_Katarina>
+						<eng>Oh, my. That was… stupid.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I’m impressed, actually. They do have a sense of theatrics.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>We could still fly over the chasm.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Really?</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Oh, right. I sometimes forget how human you are.</eng>
+					</05_Katarina>
+					<06_VH>
+						<eng>We should follow the normal pathway there.</eng>
+					</06_VH>			
+				</banter_bridge_reached_and_cleared>
+				<banter_bandits_at_bridge>
+					<01_BanditAtBridge1>
+						<eng>Kill the stranger!</eng>
+					</01_BanditAtBridge1>
+					<02_BanditAtBridge2>
+						<eng>No, no, not him again!</eng>
+					</02_BanditAtBridge2>
+					<03_BanditAtBridge2>
+						<eng>He... he has a ghost!</eng>
+					</03_BanditAtBridge2>
+					<04_BanditAtBridge1>
+						<eng>Charge! Charge!</eng>
+					</04_BanditAtBridge1>
+					<05_BanditAtBridge3>
+						<eng>Bury him in the woods!</eng>
+					</05_BanditAtBridge3>
+					<06_BanditAtBridge4>
+						<eng>I want the hat!</eng>
+					</06_BanditAtBridge4>
+					<07_BanditAtBridge5>
+						<eng>I want the ghost!</eng>
+					</07_BanditAtBridge5>			
+				</banter_bandits_at_bridge>
+			</Bandits>
+			<Domovoi>
+				<banter_domovoi_spotted>
+					<01_Katarina>
+						<eng>Look a domovoi! With a bag full of treasure!</eng>
+					</01_Katarina>								
+				</banter_domovoi_spotted>
+				<banter_suicidedomovoi>
+					<01_Katarina>
+						<eng>What’s the matter with him?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>He looked like he had seen a ghost.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Don’t blame this on me! You started chasing him!</eng>
+					</03_Katarina>
+				</banter_suicidedomovoi>
+			</Domovoi>
+			<guard>
+				<banter_guardmumble1>
+					<01_Guard_falu>
+						<eng>The gate is open. What are you waiting for?</eng>
+					</01_Guard_falu>
+				</banter_guardmumble1>
+				<banter_guardmumble2>
+					<01_Guard_falu>
+						<eng>Move along! You are slowing down the line!</eng>
+					</01_Guard_falu>
+				</banter_guardmumble2>
+				<banter_guardmumble3>
+					<01_Guard_falu>
+						<eng>I said… that… you can… enter… the village!</eng>
+					</01_Guard_falu>
+				</banter_guardmumble3>
+				<banter_guardmumble4>
+					<01_Guard_falu>
+						<eng>What’s the holdup?</eng>
+					</01_Guard_falu>
+				</banter_guardmumble4>
+				<banter_guardmumble_coward1>
+					<01_Guard_falu>
+						<eng>Monsters everywhere and they only give me a single spear?</eng>
+					</01_Guard_falu>
+				</banter_guardmumble_coward1>
+				<banter_guardmumble_coward2>
+					<01_Guard_falu>
+						<eng>I wish I was at the tavern now...</eng>
+					</01_Guard_falu>
+				</banter_guardmumble_coward2>
+				<banter_guardmumble_coward3>
+					<01_Guard_falu>
+						<eng>Be a guard, they said... the monsters are peaceful now, they said...</eng>
+					</01_Guard_falu>
+				</banter_guardmumble_coward3>
+				<banter_guardmumble_coward4>
+					<01_Guard_falu>
+						<eng>I’m freezing. I hate my job.</eng>
+					</01_Guard_falu>
+				</banter_guardmumble_coward4>
+				<banter_guardmumble_coward5>
+					<01_Guard_falu>
+						<eng>I really should have married the mayor’s daughter.</eng>
+					</01_Guard_falu>
+				</banter_guardmumble_coward5>
+				<banter_guardmumble_coward6>
+					<01_Guard_falu>
+						<eng>Who… who is there?! …Oh, just a shadow.</eng>
+					</01_Guard_falu>
+				</banter_guardmumble_coward6>
+				<banter_guardmumble_coward7>
+					<01_Guard_falu>
+						<eng>Hold it! (pause) You are just a shadow... aren’t you?</eng>
+					</01_Guard_falu>
+				</banter_guardmumble_coward7>
+			</guard>
+			<Other>
+				<Start>
+					<01_BanditGreet2>
+						<eng>How did he survive that?</eng>
+					</01_BanditGreet2>
+					<02_BanditGreet1>
+						<eng>I don’t care! Get him!</eng>
+					</02_BanditGreet1>
+					<03_VH>
+						<eng>Katarina, shouldn’t you help me out with this? </eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>Please. They are just some ragged outlaws! See? It wasn’t that difficult, was it?</eng>
+					</04_Katarina>		
+					<05_VH>
+						<eng>So this is how they welcome folk around here?</eng>
+					</05_VH>
+					<06_Katarina>
+						<eng>Yes. Why? It is an ancient and venerable tradition.</eng>
+					</06_Katarina>
+				</Start>
+				<dialogue_letter>
+					<01_VH>
+						<eng>I suspect that there are some dark forces in work around here.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Of course there are. We are in Borgovia, remember?</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>No… I mean, this is different. Somebody broke the Pact that my father created between monsters and mortals.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>Let me guess… and they are going to pay for this.</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>I’d say that someone has some serious explaining to do.</eng>
+					</05_VH>
+				</dialogue_letter>
+				<banter_niceview>
+					<01_VH>
+						<eng>This forest will swallow us whole and spit out my bones.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>And still no sign of a decent inn.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Why would you need an inn? You are a ghost.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>So I’m supposed to spend the rest of my nights among the trees as a peasant girl who’s been lost in the woods?</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>I’d love the idea.</eng>
+					</05_VH>
+				</banter_niceview>
+			</Other>
+		</GorgonPass>
+
+		<Markovna>
+			<Alchemist>
+				<BNT_mar_alchemist01>
+					<01_Alchemist_falu>
+						<eng>Mmmmfff!</eng>
+					</01_Alchemist_falu>						
+				</BNT_mar_alchemist01>
+				<BNT_mar_alchemist02>
+					<01_Alchemist_falu>
+						<eng>Ach, my friend! Do you... have my bag?</eng>
+					</01_Alchemist_falu>
+					<02_VH>
+						<eng>Not yet. Please, be patient.</eng>
+					</02_VH>						
+				</BNT_mar_alchemist02>
+				<BNT_mar_alchemist03>
+					<01_Alchemist_falu>
+						<eng>I wish you luck, stranger. You'll need that in Borgova.</eng>
+					</01_Alchemist_falu>									
+				</BNT_mar_alchemist03>
+			</Alchemist>
+			<Foguard>
+				<BNT_foguard02>
+					<01_Guard_falu>
+						<eng>Everything is in order. Move along, please.</eng>
+					</01_Guard_falu>						
+				</BNT_foguard02>
+				<BNT_foguard03>
+					<01_Guard_falu>
+						<eng>I’m waiting for my men. I’ll talk to you later.</eng>
+					</01_Guard_falu>						
+				</BNT_foguard03>
+				<BNT_foguard04>
+					<01_Guard_falu>
+						<eng>I used to be a monster hunter like you, but I took a... umm... nothing.</eng>
+					</01_Guard_falu>						
+				</BNT_foguard04>
+				<BNT_foguard05>
+					<01_Guard_falu>
+						<eng>Have you tasted our famous Borgovian pine vodka yet?</eng>
+					</01_Guard_falu>						
+				</BNT_foguard05>
+				<BNT_foguard06>
+					<01_Guard_falu>
+						<eng>A good day to you. And the fair undead lady as well.</eng>
+					</01_Guard_falu>						
+				</BNT_foguard06>
+			</Foguard>
+			<Major>
+				<BNT_mar_major01>
+					<01_Major_falu>
+						<eng>Thanks for everything, hunter and good luck to you. Few dare to enter the swamp and even fewer make it to the Inkgate.</eng>
+					</01_Major_falu>						
+				</BNT_mar_major01>
+				<BNT_mar_major02>
+					<01_Major_falu>
+						<eng>When this is over, you should visit us again.</eng>
+					</01_Major_falu>						
+				</BNT_mar_major02>
+				<BNT_mar_major03>
+					<01_Major_falu>
+						<eng>I wish things got back to the way they used to be.</eng>
+					</01_Major_falu>						
+				</BNT_mar_major03>
+				<BNT_mar_major04>
+					<01_Major_falu>
+						<eng>You know, there was a time when you only had to fear the monsters in the night...</eng>
+					</01_Major_falu>						
+				</BNT_mar_major04>
+				<BNT_mar_major05>
+					<01_Major_falu>
+						<eng>I’m really glad that you are here, hunter.</eng>
+					</01_Major_falu>						
+				</BNT_mar_major05>
+				<BNT_mar_major06>
+					<01_Major_falu>
+						<eng>Take a look around! Have a pint on me!</eng>
+					</01_Major_falu>						
+				</BNT_mar_major06>
+				<BNT_mar_major07>
+					<01_Major_falu>
+						<eng>It’s a nice little place, isn’t it?</eng>
+					</01_Major_falu>
+				</BNT_mar_major07>
+			</Major>
+			<Priest>
+				<BNT_priest01>
+					<01_Village_Priest>
+						<eng>Only your faith can save you from the monsters!</eng>
+					</01_Village_Priest>						
+				</BNT_priest01>
+				<BNT_priest02>
+					<01_Village_Priest>
+						<eng>Repent! The end is nigh!</eng>
+					</01_Village_Priest>						
+				</BNT_priest02>
+				<BNT_priest03>
+					<01_Village_Priest>
+						<eng>This forest is my temple.</eng>
+					</01_Village_Priest>						
+				</BNT_priest03>
+				<BNT_priest04>
+					<01_Village_Priest>
+						<eng>I will pray for you.</eng>
+					</01_Village_Priest>						
+				</BNT_priest04>
+				<BNT_priest05>
+					<01_Village_Priest>
+						<eng>Science! Smells like brimstone!</eng>
+					</01_Village_Priest>						
+				</BNT_priest05>
+				<BNT_priest06>
+					<01_Village_Priest>
+						<eng>Have you said your prayers today?</eng>
+					</01_Village_Priest>						
+				</BNT_priest06>
+				<BNT_priest_night01>
+					<01_Village_Priest>
+						<eng>Bah! Your father and that awful Pact!</eng>
+					</01_Village_Priest>						
+				</BNT_priest_night01>
+				<BNT_priest_night02>
+					<01_Village_Priest>
+						<eng>See what happens when you loose faith?</eng>
+					</01_Village_Priest>						
+				</BNT_priest_night02>
+				<BNT_priest_night03>
+					<01_Village_Priest>
+						<eng>Borgovians made friends with the beasts! This is a wake-up call!</eng>
+					</01_Village_Priest>						
+				</BNT_priest_night03>
+				<BNT_priest_night04>
+					<01_Village_Priest>
+						<eng>Let us pray! Pray!</eng>
+					</01_Village_Priest>						
+				</BNT_priest_night04>
+				<BNT_priest_night05>
+					<01_Village_Priest>
+						<eng>Fear no evil!</eng>
+					</01_Village_Priest>						
+				</BNT_priest_night05>
+				<BNT_priest_night06>
+					<01_Village_Priest>
+						<eng>Ring, ring, ring the bells!</eng>
+					</01_Village_Priest>						
+				</BNT_priest_night06>
+			</Priest>
+			<Shopkeeper>
+				<BNT_shopkeeper01>
+					<01_Village_Shopkeeper>
+						<eng>Welcome back, stranger! Have you managed to find anything for me?</eng>
+					</01_Village_Shopkeeper>
+					<02_VH>
+						<eng>I'm still looking.</eng>
+					</02_VH>
+				</BNT_shopkeeper01>
+				<BNT_shopkeeper02>
+					<01_Village_Shopkeeper>
+						<eng>You know... you remind me of someone.</eng>
+					</01_Village_Shopkeeper>
+					<02_VH>
+						<eng>I have no idea what you are talking about.</eng>
+					</02_VH>									
+				</BNT_shopkeeper02>
+			</Shopkeeper>
+			<Hirdetotabla>
+				<BNT_Hirdetotabla1>
+					<01_VH>
+						<eng>The mayor has ordered a curfew. The monsters have been trying to sneak into the village during the night.</eng>
+					</01_VH>						
+					<02_Katarina>
+						<eng>You know, this brings back some great childhood memories.</eng>
+					</02_Katarina>						
+				</BNT_Hirdetotabla1>
+				<BNT_Hirdetotabla2>
+					<01_VH>
+						<eng>A girl and a boy lost in the woods, Hansel and...</eng>
+					</01_VH>						
+					<02_Katarina>
+						<eng>I think your father already covered that one ages ago.</eng>
+					</02_Katarina>						
+				</BNT_Hirdetotabla2>
+				<BNT_Hirdetotabla3>
+					<01_VH>
+						<eng>Adventuring party needs a healer... What is this?!</eng>
+					</01_VH>						
+					<02_Katarina>
+						<eng>I haven't a clue.</eng>
+					</02_Katarina>						
+				</BNT_Hirdetotabla3>
+				<BNT_Hirdetotabla4>
+					<01_Katarina>
+						<eng>REWARD! Stolen magic ring! Coming from a set of 20, this one is the most powerful...</eng>
+					</01_Katarina>						
+					<02_VH>
+						<eng>Leave it. I don’t care about lost trinkets.</eng>
+					</02_VH>						
+				</BNT_Hirdetotabla4>
+				<BNT_Hirdetotabla5>
+					<01_VH>
+						<eng>Enjoy the bathhouses of the Elisabeth Bathory Rejuvenation Palace…  I don’t think so.</eng>
+					</01_VH>						
+					<02_Katarina>
+						<eng>Which reminds me that you never rest. It will take its toll, heed my words!</eng>
+					</02_Katarina>						
+				</BNT_Hirdetotabla5>
+				<BNT_Hirdetotabla6>
+					<01_Katarina>
+						<eng>A hat, a leather coat and a whip for sale. Good condition, slightly worn.</eng>
+					</01_Katarina>						
+					<02_VH>
+						<eng>I already have a hat. Still, a whip could have been useful at the bridge.</eng>
+					</02_VH>						
+				</BNT_Hirdetotabla6>
+			</Hirdetotabla>
+			<Reszeg>
+				<banter_reszeg1>
+					<01_villager_reszeg>
+						<eng>I’m not… notta… drunk. Jusssst.. resting.</eng>
+					</01_villager_reszeg>
+				</banter_reszeg1>
+				<banter_reszeg2>
+					<01_villager_reszeg>
+						<eng>Oi! Stop bothering me!</eng>
+					</01_villager_reszeg>
+				</banter_reszeg2>
+				<banter_reszeg3>
+					<01_villager_reszeg>
+						<eng>Isssa… issa… full of stars!</eng>
+					</01_villager_reszeg>
+				</banter_reszeg3>
+				<banter_reszeg_dragako>
+					<01_villager_reszeg>
+						<eng>I... I hadda... beautiful diamond. And I gave it to the goat. The goat was… hungry. I was... a wee bit... drunk.</eng>
+					</01_villager_reszeg>
+				</banter_reszeg_dragako>
+				<banter_reszeg_kecske>
+					<01_villager_reszeg>
+						<eng>The goat went away. To the forest, I reckon. To the riverbank. He is thirsty. I’m thirsty!</eng>
+					</01_villager_reszeg>
+				</banter_reszeg_kecske>
+			</Reszeg>
+			<Cow_2Head>
+				<banter_Cow_2Head1>
+					<01_Cow_2Head>
+						<eng>Mooo!</eng>
+					</01_Cow_2Head>
+				</banter_Cow_2Head1>
+				<banter_Cow_2Head2>
+					<01_Cow_2Head>
+						<eng>Mooo?</eng>
+					</01_Cow_2Head>
+				</banter_Cow_2Head2>
+				<banter_Cow_2Head3>
+					<01_Cow_2Head>
+						<eng>Moo. I said Moo.</eng>
+					</01_Cow_2Head>
+				</banter_Cow_2Head3>
+				<banter_Cow_2Head4>
+					<01_Cow_2Head>
+						<eng>Mm... Fine, yes, I can talk. So what?</eng>
+					</01_Cow_2Head>
+				</banter_Cow_2Head4>
+				<banter_Cow_2Head5>
+					<01_Cow_2Head>
+						<eng>Leave me be.</eng>
+					</01_Cow_2Head>
+				</banter_Cow_2Head5>
+				<banter_Cow_2Head6>
+					<01_Cow_2Head>
+						<eng>Mooo you.</eng>
+					</01_Cow_2Head>
+				</banter_Cow_2Head6>
+			</Cow_2Head>
+			<Orult>
+				<banter_orult_katt1>
+					<01_Village_orult>
+						<eng>They are watching us! Mighty creatures control us from above!</eng>
+					</01_Village_orult>
+				</banter_orult_katt1>
+				<banter_orult_katt2>
+					<01_Village_orult>
+						<eng>Did you see that!? SOMETHING POKED ME!!</eng>
+					</01_Village_orult>
+				</banter_orult_katt2>
+				<banter_orult_katt3>
+					<01_Village_orult>
+						<eng>AAY! IT HAPPENED AGAIN! IT HURTS!</eng>
+					</01_Village_orult>
+				</banter_orult_katt3>
+				<banter_orult_katt4>
+					<01_Village_orult>
+						<eng>It tickles.</eng>
+					</01_Village_orult>
+				</banter_orult_katt4>
+				<banter_orult_katt5>
+					<01_Village_orult>
+						<eng>Now it hurts again. Stop it, whatever you are!</eng>
+					</01_Village_orult>
+				</banter_orult_katt5>
+				<banter_orult_katt6>
+					<01_Village_orult>
+						<eng>What if I told you that we are not even real?</eng>
+					</01_Village_orult>
+				</banter_orult_katt6>
+			</Orult>
+			<Statue_pedestal>
+				<BNT_pedestal00>
+					<01_VH>
+						<eng>I think we need all three... whatever that’s missing from here.</eng>
+					</01_VH>
+				</BNT_pedestal00>
+				<BNT_pedestal01>
+					<01_VH>
+						<eng>It fits!</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Then you only need two.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Two what?</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>How should I know?</eng>
+					</04_Katarina>
+				</BNT_pedestal01>
+				<BNT_pedestal02>
+					<01_VH>
+						<eng>We are getting closer. To something.</eng>
+					</01_VH>
+				</BNT_pedestal02>	
+				<BNT_pedestal03>
+					<01_VH>
+						<eng>It’s a key.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Great! Now you only have to find the door.</eng>
+					</02_Katarina>
+				</BNT_pedestal03>			
+			</Statue_pedestal>			
+			<Statue_guard>
+				<BNT_statue_guard01>
+					<01_VH>
+						<eng>Who was this man?</eng>
+					</01_VH>
+					<02_Village_guard_statue_cr>
+						<eng>This is the statue of King Borislav, the Just.</eng>
+					</02_Village_guard_statue_cr>
+					<03_Katarina>
+						<eng>Just Borislav, as we say around here.</eng>
+					</03_Katarina>
+					<04_Village_guard_statue_cr>
+						<eng>He used to be a great king. The last mortal who could rule Borgovia… before he disappeared into the Ink.</eng>
+					</04_Village_guard_statue_cr>
+					<05_VH>
+						<eng>And why are there empty holes at his feet?</eng>
+					</05_VH>
+					<06_Village_guard_statue_cr>
+						<eng>That, my friend, is a true mystery.</eng>
+					</06_Village_guard_statue_cr>
+				</BNT_statue_guard01>
+				<BNT_statue_guard02>
+					<01_Village_guard_statue_cr>
+						<eng>They just don’t have kings like him anymore. No, sir.</eng>
+					</01_Village_guard_statue_cr>
+				</BNT_statue_guard02>
+				<BNT_statue_guard03>
+					<01_Village_guard_statue_cr>
+						<eng>Did you know that Borislav built a flying machine? True story.</eng>
+					</01_Village_guard_statue_cr>
+				</BNT_statue_guard03>
+				<BNT_statue_guard04>
+					<01_Village_guard_statue_cr>
+						<eng>My nanny told me that Borislav could open the secret doors to the magical lands.</eng>
+					</01_Village_guard_statue_cr>
+				</BNT_statue_guard04>
+				<BNT_statue_guard05>
+					<01_Village_guard_statue_cr>
+						<eng>Have you heard the tale of Borislav and the talking dogs?</eng>
+					</01_Village_guard_statue_cr>
+				</BNT_statue_guard05>
+				<BNT_statue_guard06>
+					<01_Village_guard_statue_cr>
+						<eng>So one day Borislav went to the market in disguise… no, wait, you must have heard this one.</eng>
+					</01_Village_guard_statue_cr>
+				</BNT_statue_guard06>
+				<BNT_statue_guard07>
+					<01_Village_guard_statue_cr>
+						<eng>Borislav never married. He was in love with Borgovia, you know.</eng>
+					</01_Village_guard_statue_cr>
+				</BNT_statue_guard07>
+			</Statue_guard>
+			<VillageWell>
+				<BNT_VillageWell>
+					<01_VH>
+						<eng>What is that?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>You didn’t recognize it? That’s the Ink!</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>The dark material of creation and dreams? But that’s a myth.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>Borgovia is the only place where the Ink leaks through the cracks of the world.</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>So you can enter the Ink here? </eng>
+					</05_VH>
+					<06_Katarina>
+						<eng>Yes. And then you can travel below or behind this world and appear at certain places. That’s the Inkwalk.</eng>
+					</06_Katarina>
+					<07_VH>
+						<eng>Oh, you mean teleport.</eng>
+					</07_VH>
+					<08_Katarina>
+						<eng>That is such a clichéd word.</eng>
+					</08_Katarina>
+				</BNT_VillageWell>							
+			</VillageWell>
+		</Markovna>
+
+		<Croakwood>
+			<Ghost>
+				<altar_visited>
+					<01_Katarina>
+						<eng>Oh... a sacred altar! Maybe we shouldn’t go too close...</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>You don’t have to worry. You’re bound to me. Sacred places only affect wandering ghosts.</eng>
+					</02_VH>
+				</altar_visited>
+				<Towards_hanged_man_banter>
+					<01_Katarina>
+						<eng>So we’re showing him how he died?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>You have a problem with that?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>No, I’m curious. I was never shown my own death, I’m anxious to see how this experiment ends.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>That’s cold. Even for a ghost.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Well if you’re so squeamish, don’t do it. Take him to a sacred place and help him to go into the light or something!</eng>
+					</05_Katarina>
+					<06_VH>
+						<eng>Perhaps I should. One “corporeally impaired being” is more than enough around here.</eng>
+					</06_VH>
+				</Towards_hanged_man_banter>
+				<Ghost_sighted_banter>
+					<01_VH>
+						<eng>Another dead soul.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Don’t say dead soul. We’re not dead souls, we’re... “corporeally impaired” beings.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>I try to keep that in mind.</eng>
+					</03_VH>
+				</Ghost_sighted_banter>
+				<BNT_cro_postvengeful>
+					<01_VH>
+						<eng>So that’s how vengeful spirits are born... By meeting tactless spirits.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Well I blame you!</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Yes... I blame myself too.</eng>
+					</03_VH>									
+				</BNT_cro_postvengeful>		
+				<Towards_altar_banter>
+					<01_Katarina>
+						<eng>Are we taking him to the altar?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>That’s the idea.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>I don’t care for that. I think we should find where he died and show it to him instead.</eng>
+					</03_Katarina>									
+					<04_VH>
+						<eng>Hoping to find a soul mate...?</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Please... He’s way beneath my standing. Although, he would probably be better company than I currently have.</eng>
+					</05_Katarina>									
+					<06_VH>
+						<eng>*mutters incomprehensibly*</eng>
+					</06_VH>
+				</Towards_altar_banter>		
+				<hanged_man_visited>
+					<01_Katarina>
+						<eng>You really should consider brightening up your home with one of these.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Looks like a villager. Poor devil was robbed and hanged.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>It happened recently. His aura is still glowing faintly.</eng>
+					</03_Katarina>									
+				</hanged_man_visited>		
+				<Hanged_man_after_banter>
+					<01_Katarina>
+						<eng>Aren’t you going to bury him?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>We don’t have time. Once the forest is safe, I’ll tell the villagers he’s here.</eng>
+					</02_VH>
+				</Hanged_man_after_banter>				
+				<BNT_cro_ghostaltar>
+					<01_ghost>
+						<eng>I... understand... Thank youuu...</eng>
+					</01_ghost>
+					<02_Katarina>
+						<eng>When I’m ready to go... Will you help me go like that...? Will you take me here...?</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>If that is your wish.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>Ah, Van Helsing! You DO love me! Come here you...</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>Don’t you even try.</eng>
+					</05_VH>						
+				</BNT_cro_ghostaltar>
+				<BNT_cro_ghosthanged>
+					<01_ghost>
+						<eng>Is that... me?</eng>
+					</01_ghost>
+					<02_Katarina>
+						<eng>Yes. You were murdered.</eng>
+					</02_Katarina>
+					<03_ghost>
+						<eng>I was... murdered!? </eng>
+					</03_ghost>
+					<04_Katarina>
+						<eng>You should be avenged. Perhaps…</eng>
+					</04_Katarina>
+					<05_ghost>
+						<eng>I should... be avenged! I MUST avenge myself!! YOU SHALL ALL PAY!!! RRRRRRAAARGHHH!!!</eng>
+					</05_ghost>						
+				</BNT_cro_ghosthanged>
+			</Ghost>
+			<Gypsies>
+				<BNT_cro_gypsy01>
+					<01_Gypsy_leader>
+						<eng>Do you have that trophy, my hunter friend?</eng>
+					</01_Gypsy_leader>
+					<02_VH>
+						<eng>Be patient. A hunter always keeps his word.</eng>
+					</02_VH>						
+				</BNT_cro_gypsy01>
+				<BNT_cro_Marko_01>
+					<01_Marko>
+						<eng>What brings you here, mysterious stranger?</eng>
+					</01_Marko>
+				</BNT_cro_Marko_01>
+				<BNT_cro_Marko_02>
+					<01_Marko>
+						<eng>Welcome to the Traveling Emporium of the Romany Prince!</eng>
+					</01_Marko>
+				</BNT_cro_Marko_02>
+				<BNT_cro_Marko_03>
+					<01_Marko>
+						<eng>Are you hungry? We have fresh, hot hedgehog for dinner!</eng>
+					</01_Marko>
+				</BNT_cro_Marko_03>
+				<BNT_cro_Marko_04>
+					<01_Marko>
+						<eng>The secrets of the Pharaoh? The keys to the lost tombs? We have them all!</eng>
+					</01_Marko>
+				</BNT_cro_Marko_04>
+				<BNT_cro_Marko_05>
+					<01_Marko>
+						<eng>So this is your purse? Well, I found it for you!</eng>
+					</01_Marko>
+				</BNT_cro_Marko_05>
+				<BNT_cro_Saffi_01>
+					<01_Saffi>
+						<eng>Dance with me, handsome stranger!</eng>
+					</01_Saffi>
+				</BNT_cro_Saffi_01>
+				<BNT_cro_Saffi_02>
+					<01_Saffi>
+						<eng>Give me your hand. I’ll tell you your future... for free.</eng>
+					</01_Saffi>
+				</BNT_cro_Saffi_02>
+				<BNT_cro_Saffi_03>
+					<01_Saffi>
+						<eng>What do you need? Love potions?... No, I don’t think so.</eng>
+					</01_Saffi>
+				</BNT_cro_Saffi_03>
+				<BNT_cro_Saffi_04>
+					<01_Saffi>
+						<eng>I can turn your enemies into frogs. Just ask me... nicely.</eng>
+					</01_Saffi>
+				</BNT_cro_Saffi_04>
+				<BNT_cro_Saffi_05>
+					<01_Saffi>
+						<eng>Come closer, stranger… You are not afraid of me, are you?</eng>
+					</01_Saffi>
+				</BNT_cro_Saffi_05>
+				<BNT_cro_Mihai_01>
+					<01_Mihai>
+						<eng>Believe me… I know your favorite song. Listen!</eng>
+					</01_Mihai>
+				</BNT_cro_Mihai_01>
+				<BNT_cro_Mihai_02>
+					<01_Mihai>
+						<eng>Have you heard this one? No?</eng>
+					</01_Mihai>
+				</BNT_cro_Mihai_02>
+				<BNT_cro_Mihai_03>
+					<01_Mihai>
+						<eng>What do you want to hear? Just tell me, my friend!</eng>
+					</01_Mihai>
+				</BNT_cro_Mihai_03>
+			</Gypsies>
+			<Wishing_well>
+				<Wishing_well_coin_throw>
+					<01_VH>
+						<eng>So, here's an ancient coin. Let's make a wish!</eng>
+					</01_VH>
+				</Wishing_well_coin_throw>
+				<Wishing_well_coin>
+					<01_VH>
+						<eng>It’s not quite what I had in mind.</eng>
+					</01_VH>
+				</Wishing_well_coin>
+				<Wishing_well_no_coin>
+					<01_Katarina>
+						<eng>This looks like a wishing well.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Hmm... It’s not working.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>First you have to throw a very old coin into the water.</eng>
+					</03_Katarina>					
+				</Wishing_well_no_coin>
+				<Wishing_well_info>
+					<01_Katarina>
+						<eng>Look, a wishing well! They used to throw old coins into the water.</eng>
+					</01_Katarina>
+				</Wishing_well_info>
+			</Wishing_well>
+			<Hidden_treasure>
+				<Katarina_hidden_treasure>
+					<eng>Just don’t stick around until somebody discovers that it’s gone.</eng>
+				</Katarina_hidden_treasure>
+				<VH_hidden_treasure>
+					<eng>Hidden treasure in the woods? Very traditional, I like it.</eng>
+				</VH_hidden_treasure>
+				<Outlaw_eavesdrop>
+					<eng>... robbed that village ... loot ... he tells me ... the hidden treasure ...</eng>
+				</Outlaw_eavesdrop>
+				<01_Outlaw_1>
+					<eng>So I put a knife to his throat! Honest.</eng>
+				</01_Outlaw_1>
+				<02_Outlaw_2>
+					<eng>What?! You threatened the boss?</eng>
+				</02_Outlaw_2>
+				<03_Outlaw_1>
+					<eng>Aye! And he sang like bird.</eng>
+				</03_Outlaw_1>
+				<04_Outlaw_2>
+					<eng>So where did he hide our treasure?</eng>
+				</04_Outlaw_2>
+				<05_Outlaw_1>
+					<eng>In the forest. At the werewolf totem pole.</eng>
+				</05_Outlaw_1>
+				<Katarina_finders_keepers>
+					<eng>Hah! Too late. Finders keepers!</eng>
+				</Katarina_finders_keepers>
+			</Hidden_treasure>
+			<Excalibur>
+				<Excalibur_no_oil>
+					<01_Katarina>
+						<eng>A sword in the stone? Why does this sound so familiar?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I can’t pull it out. I need some weapon oil.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Or maybe you are not the right person.</eng>
+					</03_Katarina>					
+				</Excalibur_no_oil>
+				<Excalibur_taken>
+					<01_Katarina>
+						<eng>A sword in the stone? How could you pull it out?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Did it occur to you that this weapon was meant for me?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Nah! You used some weapon oil! You know, Van Helsing, you almost had me there.</eng>
+					</03_Katarina>					
+				</Excalibur_taken>
+				<Excalibur_oil>
+					<01_VH>
+						<eng>I told you that I only need some weapon oil.</eng>
+					</01_VH>
+				</Excalibur_oil>
+			</Excalibur>
+			<Other>
+				<Footprints_banter>
+					<01_Katarina>
+						<eng>I heard that high in the mountains, where the snow never melts, the giants live. Sometimes they come down to hunt in this forest.</eng>
+					</01_Katarina>
+				</Footprints_banter>
+				<BNT_cro_buzamezo>
+					<01_VH>
+						<eng>I never liked scarecrows.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>I wish I could make a joke about your childish worries, but the werewolves seem to agree with you. See how they avoid the scarecrow?</eng>
+					</02_Katarina>
+				</BNT_cro_buzamezo>
+				<gold_coin>
+					<01_VH>
+						<eng>That doesn’t look like an ordinary gold coin.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Keep that in mind when you need something extraordinary.</eng>
+					</02_Katarina>
+				</gold_coin>
+				<robbed_wagon1>
+					<01_Katarina>
+						<eng>Ooh, a gruesome puzzle! Let me see... the wagon was attacked by the... soldiers...</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>...and werewolves.</eng>
+					</02_VH>
+				</robbed_wagon1>
+				<robbed_wagon2>
+					<01_Katarina>
+						<eng>No. The distribution of the pawprints is all wrong. They just rushed in and out.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Did you just say distribution?</eng>
+					</02_VH>
+				</robbed_wagon2>
+				<robbed_wagon3>
+					<01_Katarina>
+						<eng>And this track here...</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>...is deeper. The beast was carrying someone... I’m impressed.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>As you should be.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Right. Let’s go find us a werewolf lair.</eng>
+					</04_VH>
+				</robbed_wagon3>
+				<werewolf_lair_found>
+					<01_VH>
+						<eng>The pack leader must be hiding in this hole.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Promise me you won’t start with one of your monologues.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>I am the hunter. I must make an impression here.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>They will tear you apart.</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>Trust me. They always listen.</eng>
+					</05_VH>
+				</werewolf_lair_found>
+				<Scarecrow_death>
+					<01_Katarina>
+						<eng>One less childhood trauma to cope with, right?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>The best way to fight your demons is to beat them senseless.</eng>
+					</02_VH>
+				</Scarecrow_death>
+			</Other>
+		</Croakwood>
+
+		<GallowsBog>
+			<Red_Button>
+				<Red_Button1>
+					<01_Katarina>
+						<eng>Look, a red button.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Astonishing observation.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Why don’t you push it?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Because it’s a bad idea.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>But... I want to see what it does!</eng>
+					</05_Katarina>
+					<06_VH>
+						<eng>I don’t.</eng>
+					</06_VH>
+				</Red_Button1>
+				<Red_Button2>
+					<01_Katarina>
+						<eng>Van Helsing...?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Yes?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>You’re fearless, right?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Only fools have no fear.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>So... You’re afraid of buttons then...?</eng>
+					</05_Katarina>
+					<06_VH>
+						<eng>*Sigh* We’re not going to push the button!</eng>
+					</06_VH>
+					<07_Katarina>
+						<eng>Please!</eng>
+					</07_Katarina>
+				</Red_Button2>		
+			</Red_Button>
+			<Wisp>
+				<Pesky_Wisp>
+					<01_Katarina>
+						<eng>Look, a Borgovian lightmote!</eng>
+					</01_Katarina>
+				</Pesky_Wisp>
+				<Following_the_Wisp>
+					<01_Katarina>
+						<eng>Are you sure you want to follow that light? You must have heard the tales.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>About the hunter who’s not afraid of lights?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>The other one, who gets killed and leaves a beautiful ghost bound to a corpse with a big hat.</eng>
+					</03_Katarina>
+				</Following_the_Wisp>
+				<Wisp_Katarina_I_Told_You>
+					<01_Katarina>
+						<eng>I hate to say I told you so.</eng>
+					</01_Katarina>
+				</Wisp_Katarina_I_Told_You>		
+			</Wisp>
+			<Frog_Statue>
+				<The_Frog_Statue>
+					<01_Katarina>
+						<eng>That’s clever! So you can move the idol... um... for totally mysterious reasons.</eng>
+					</01_Katarina>
+				</The_Frog_Statue>
+				<Big_Frog_Statue>
+					<01_Katarina>
+						<eng>This statue looks really special. I bet he used to be a great Vodyanoy king.</eng>
+					</01_Katarina>
+				</Big_Frog_Statue>		
+			</Frog_Statue>
+			<Spirit>
+				<Spirit_Activate_Runestone>
+					<01_VH>
+						<eng>Well, that was strange. I felt a burst of energy from the stone.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>You don’t fiddle with ancient runestones in Borgovia. You might accidentally summon something.</eng>
+					</02_Katarina>
+				</Spirit_Activate_Runestone>
+				<Spirit_Summon_Spirit>
+					<erdoszellem_felebred>
+						<eng></eng>
+					</erdoszellem_felebred>
+					<01_Katarina>
+						<eng>Did you hear that? The call of a forest spirit!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>What forest spirit?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>The one you summoned from the stones! I told you so! Now you must deal with it.</eng>
+					</03_Katarina>
+				</Spirit_Summon_Spirit>
+			</Spirit>
+			<Professor_Toad>
+				<BNT_Professor_Toad01>
+					<01_Professor_Toad>
+						<eng>If you happen to find any ancient vodyanoy remains, I’ll buy them from you. I’m planning to open a museum.</eng>
+					</01_Professor_Toad>
+				</BNT_Professor_Toad01>
+				<BNT_Professor_Toad02>
+					<01_Professor_Toad>
+						<eng>You really should visit our ancient runestones. They’re exquisite!</eng>
+					</01_Professor_Toad>
+				</BNT_Professor_Toad02>
+				<BNT_Professor_Toad03>
+					<01_Professor_Toad>
+						<eng>I heard wolves howling in the southeast. I thought they didn’t live around here.</eng>
+					</01_Professor_Toad>
+				</BNT_Professor_Toad03>
+				<BNT_Professor_Toad04>
+					<01_Professor_Toad>
+						<eng>If I hear anything interesting, I’ll be sure to let you know!</eng>
+					</01_Professor_Toad>
+				</BNT_Professor_Toad04>		
+			</Professor_Toad>
+			<Dreadknecht_Camp>
+				<What_is_this_Camp>
+					<01_Katarina>
+						<eng>What is this place?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>It must be important... considering that the guards are trying to kill us.</eng>
+					</02_VH>
+				</What_is_this_Camp>
+				<This_is_Dreadknecht_Camp>
+					<01_Katarina>
+						<eng>This must be the camp the blacksmith told us about.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Time to play with the toy soldiers!</eng>
+					</02_VH>
+				</This_is_Dreadknecht_Camp>
+			</Dreadknecht_Camp>
+			<Falank>
+				<Falank_info>
+					<01_Katarina>
+						<eng>Yech, a Great Gluttoner idol...</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Gluttoner...?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>A vodyanoy god. The froglings throw bones into the mouth and pray for a miracle. Silly creatures.</eng>
+					</03_Katarina>
+				</Falank_info>
+				<Falank_no_food>
+					<01_Katarina>
+						<eng>I think you have to be dead for your bones to count...</eng>
+					</01_Katarina>
+				</Falank_no_food>
+			</Falank>
+			<Hunting_Party>
+				<Ancient_wp_reached>
+					<01_Frog_c_boss_nagyerdo>
+						<eng>Are all the prisoners through?</eng>
+					</01_Frog_c_boss_nagyerdo>
+					<02_vrikolak_cutscene>
+						<eng>Yes, Magister! We shall deliver them to the lab tomorrow.</eng>
+					</02_vrikolak_cutscene>
+					<03_Frog_c_boss_nagyerdo>
+						<eng>Today. Professor Fulmigati doesn’t like to wait.</eng>
+					</03_Frog_c_boss_nagyerdo>
+					<04_vrikolak_cutscene>
+						<eng>Of... of course, Magister!</eng>
+					</04_vrikolak_cutscene>
+					<05_Frog_c_boss_nagyerdo>
+						<eng>On your way then.</eng>
+					</05_Frog_c_boss_nagyerdo>
+				</Ancient_wp_reached>
+				<Ancient_wp_reached2>
+					<01_Frog_c_boss_nagyerdo>
+						<eng>As for you in the shadows, I trust you found all this interesting.</eng>
+					</01_Frog_c_boss_nagyerdo>
+					<02_VH>
+						<eng>Indeed. But I still have questions. Like who and what you are.</eng>
+					</02_VH>
+					<03_Frog_c_boss_nagyerdo>
+						<eng>Oh, you don’t need to worry about such things anymore, hunter.</eng>
+					</03_Frog_c_boss_nagyerdo>
+					<04_Katarina>
+						<eng>Oh, this will be fun!</eng>
+					</04_Katarina>
+					<05_Frog_c_boss_nagyerdo>
+						<eng>Minions, attack!</eng>
+					</05_Frog_c_boss_nagyerdo>
+				</Ancient_wp_reached2>
+				<Ancient_wp_activated>
+					<01_Katarina>
+						<eng>What is this abomination?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Looks like something created in a laboratory.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>So it must be true after all. My dear Borgova became a playground for evil scientists.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>No wonder that the good old-fashioned monsters became a dying breed.</eng>
+					</04_VH>
+				</Ancient_wp_activated>
+			</Hunting_Party>
+		</GallowsBog>
+
+		<GorgonPass_v2>
+			<Other>
+				<Ch1_DealWithThePriest>
+					<01_VH>
+						<eng>What have you done, you monster?</eng>
+					</01_VH>
+					<02_Village_Priest_soldier>
+						<eng>You! Your father and that awful Pact! Borgovians have abandoned their faith and made friends with the beasts! This was a wake-up call!</eng>
+					</02_Village_Priest_soldier>
+					<03_VH>
+						<eng>Tell that to the people who died because of your evil allies.</eng>
+					</03_VH>
+					<04_Village_Priest_soldier>
+						<eng>I only wanted to show them that the monsters are dangerous!</eng>
+					</04_Village_Priest_soldier>
+					<05_VH>
+						<eng>I think you have accomplished that. Off with you!</eng>
+					</05_VH>
+				</Ch1_DealWithThePriest>
+			</Other>
+		</GorgonPass_v2>
+
+		<Cave>
+			<Other>
+				<banter_cave_entrance>
+					<01_Katarina>
+						<eng>This where they used to mine orichalcum, the metal with magical properties.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Do you see any mine carts? It would be much easier to cross the tunnels.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>No! You know that it always escalates into a mine-cart chase! And we don’t want that, do we?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>No, we don’t.</eng>
+					</04_VH>
+				</banter_cave_entrance>
+			</Other>
+		</Cave>
+
+		<Cave_boss>
+			<Other>
+				<banter_worm_boss>
+					<01_VH>
+						<eng>Look at that! That must be another creature from the laboratories.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>I think it was only created to dig tunnels. It’s not evil.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Great! So it won’t tear me apart.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>I didn’t say that.</eng>
+					</04_Katarina>
+				</banter_worm_boss>
+				<banter_worm_boss_over>
+					<01_VH>
+						<eng>Well, that was a tough one.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Your father would be proud.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>My father would only lecture me on my sloppy fighting stance.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>I know. But it felt like the right thing to say.</eng>
+					</04_Katarina>
+				</banter_worm_boss_over>
+				<banter_worm_cave_exit>
+					<01_Katarina>
+						<eng>That’s the exit? What is this, anyway?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>A ropeway conveyor that transports minerals to Borgova. We don’t have to walk, after all.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Happy now? You can ride a mine-cart after all.</eng>
+					</03_Katarina>
+				</banter_worm_cave_exit>
+			</Other>
+			<Katarina>
+				<Fura_machines>
+					<01_Katarina>
+						<eng>Ooh! What do these machines do? Could we turn them on, please?</eng>
+					</01_Katarina>
+				</Fura_machines>
+				<Electric_contact_done>
+					<01_Katarina>
+						<eng>That is spectacular, but quite useless. Turn on the other machines too!</eng>
+					</01_Katarina>
+				</Electric_contact_done>
+				<Turn_on_central_machine>
+					<01_Katarina>
+						<eng>The main machine is next. This is getting exciting!</eng>
+					</01_Katarina>
+				</Turn_on_central_machine>
+				<Monster_paralyzed>
+					<01_Katarina>
+						<eng>Hit it! What are you waiting for?!  It’s paralyzed!</eng>
+					</01_Katarina>
+				</Monster_paralyzed>
+				<Activate_the_electric_machines>
+					<01_Katarina>
+						<eng>This is not working! Trust my instincts and turn on those strange machines!</eng>
+					</01_Katarina>
+				</Activate_the_electric_machines>
+			</Katarina>
+		</Cave_boss>
+
+		<Dreadworks>
+			<Other>
+				<Find_a_shewer_entrance>
+					<01_VH>
+						<eng>Any ideas where my father’s secret lair could be?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>I’m thinking! They’ve turned this neighborhood into a factory! The lair is deep down in the ancient maze below the city. We should go to the underground tunnels.</eng>
+					</02_Katarina>
+				</Find_a_shewer_entrance>
+				<Energy_Wall_1>
+					<01_Katarina>
+						<eng>Look! Those strange walls of force again. Do you want me to see what’s beyond them?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>No. Let’s find another way.</eng>
+					</02_VH>
+				</Energy_Wall_1>
+				<New_redbutton_2>
+					<01_Katarina>
+						<eng>Well, well, isn’t that another red button? If I had a body, I would most certainly press it.</eng>
+					</01_Katarina>
+				</New_redbutton_2>
+				<This_is_a_trap>
+					<01_Katarina>
+						<eng>Something is wrong with this place. Can’t you feel it?</eng>
+					</01_Katarina>
+				</This_is_a_trap>
+				<Mouse_trap>
+					<01_Katarina>
+						<eng>Well done! You walked straight into a mousetrap. Imagine your father’s face when he learns about this!</eng>
+					</01_Katarina>
+				</Mouse_trap>
+				<Energy_Wall_2>
+					<01_Katarina>
+						<eng>I hate these force walls.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Why? Do they disrupt your ghostly body?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>They make a mess of my hair. Look at me!</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>And we can’t have that. Let’s find another way.</eng>
+					</04_VH>
+				</Energy_Wall_2>
+				<Look_a_shewer_Entrance>
+					<01_Katarina>
+						<eng>Look! Down there. An entrance to the tunnels!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Sewage tunnels. Splendid.</eng>
+					</02_VH>
+				</Look_a_shewer_Entrance>
+				<Filthy_Helsing>
+					<01_Katarina>
+						<eng>What are you doing? That’s gross. At least your father had some sort of dignity.</eng>
+					</01_Katarina>
+				</Filthy_Helsing>
+				<Dreadworks_banter>
+					<01_VH>
+						<eng>My word! Look at this factory. This is…</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Horrible!</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>I understand if you are upset about the changes...</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>Do you have any idea what this filthy air is going to do to my clothes? I’m heartbroken.</eng>
+					</04_Katarina>
+				</Dreadworks_banter>
+			</Other>
+			<Domovoi_Baggins>
+				<Domovoi_Baggins_1>
+					<01_Domovoi_Baggins>
+						<eng>My… prrrecciiouusshhh… it’s… ours… the prrrecciiouusshhh…!</eng>
+					</01_Domovoi_Baggins>
+				</Domovoi_Baggins_1>
+				<Domovoi_Baggins_2>
+					<01_Domovoi_Baggins>
+						<eng>Go away! Leave this Domovoy! We mustn’t let him have it, no!</eng>
+					</01_Domovoi_Baggins>
+				</Domovoi_Baggins_2>
+				<Domovoi_Baggins_3>
+					<01_Domovoi_Baggins>
+						<eng>Cruel men hurts us, my precious, but we take care of us, we do!</eng>
+					</01_Domovoi_Baggins>
+				</Domovoi_Baggins_3>
+			</Domovoi_Baggins>
+			<Engineer>
+				<Need_some_electric_coil>
+					<01_Engineer>
+						<eng>Ah, great! Fate sent a mysterious stranger to set me free!</eng>
+					</01_Engineer>
+					<02_Katarina>
+						<eng>If “Fate” is another name for a dandy vampire called Vlados, then you are right.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>We need you to fix the generator at our secret lair. We have no experience with the wonders of modern science.</eng>
+					</03_VH>
+					<04_Engineer>
+						<eng>That ancient piece of junk? Impossible. We’d need at least four electric coils and we don’t have any.</eng>
+					</04_Engineer>
+					<05_Katarina>
+						<eng>And where can we get these... electric toys?</eng>
+					</05_Katarina>
+					<06_Engineer>
+						<eng>The machine-knights use them as a power source. You’ll surely find the coils in their warehouse and there must be some more around here. I’ll switch on the elevators. Bring the coils to your… well… lair - I’ll be there.</eng>
+					</06_Engineer>
+				</Need_some_electric_coil>
+				<I_need_four_coil>
+					<01_Engineer>
+						<eng>I see you're making progress. Good. Still, we need all of them!</eng>
+					</01_Engineer>
+				</I_need_four_coil>
+			</Engineer>
+			<Vlados>
+				<First_Meet_Vlados>
+					<01_Vlados>
+						<eng>Meeester Van Helsing, I presume?</eng>
+					</01_Vlados>
+					<02_VH>
+						<eng>A vampire? Really?</eng>
+					</02_VH>
+					<03_Vlados>
+						<eng>Tsk-tsk! That was uncalled for, sir. I didn’t comment on the absence of your father, did I? We sent the letter to him.</eng>
+					</03_Vlados>
+					<04_Katarina>
+						<eng>You’ve got yourself a younger Van Helsing. In mint condition, only slightly battered.</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>Although your letter could have been less cryptic, I gather that you need me to defeat some mad scientists.</eng>
+					</05_VH>
+					<06_Vlados>
+						<eng>Just one, my friend. Professor Fulmigati killed the others, I’m afraid. But I assure you, he is remarkably insane.</eng>
+					</06_Vlados>
+					<07_VH>
+						<eng>And how are you planning to destroy him?</eng>
+					</07_VH>
+					<08_Vlados>
+						<eng>One step at a time, my dear friend. First, take a look around.</eng>
+					</08_Vlados>
+				</First_Meet_Vlados>
+				<Vlados_banters1>
+					<01_Vlados>
+						<eng>I am Count Vlados… and I bid you welcome!</eng>
+					</01_Vlados>
+				</Vlados_banters1>
+				<Vlados_banters2>
+					<01_Vlados>
+						<eng>Don’t you find the pitter-patter of the sewage pipes simply enchanting?… Yes, I am a poet, how observant of you!</eng>
+					</01_Vlados>
+				</Vlados_banters2>
+				<Vlados_banters3>
+					<01_Vlados>
+						<eng>Why am I here? These people needed a hero! … So I’m in charge until we find one.</eng>
+					</01_Vlados>
+				</Vlados_banters3>
+				<Vlados_banters4>
+					<01_Vlados>
+						<eng>Such a charming place, isn’t it?</eng>
+					</01_Vlados>
+				</Vlados_banters4>
+			</Vlados>
+			<Saffi_in_lair>
+				<Saffi_and_Gaspar>
+					<01_Katarina>
+						<eng>Look! I know them!</eng>
+					</01_Katarina>
+					<02_Saffi_in_lair>
+						<eng>Help! Help us, hunter!</eng>
+					</02_Saffi_in_lair>
+					<03_VH>
+						<eng>What are you doing here?</eng>
+					</03_VH>
+					<04_Saffi_in_lair>
+						<eng>The soldier-machines attacked our camp. They killed our friends and dragged us to the city. We escaped, but they are chasing us. We need to hide!</eng>
+					</04_Saffi_in_lair>
+					<05_Katarina>
+						<eng>How awful! You know, we also had a terrible journey. Mad battles in a stinky cave, a ride through the air in a rusty bucket…</eng>
+					</05_Katarina>
+					<06_VH>
+						<eng>Katarina! My father’s secret lair must be close. Go to the underground tunnels and try to find the place. We'll follow you later.</eng>
+					</06_VH>
+					<07_Saffi_in_lair>
+						<eng>That’s really kind of you. But... what about you, handsome? Are you going to be safe out here?</eng>
+					</07_Saffi_in_lair>
+					<08_VH>
+						<eng>You don’t have to worry about me, my lady. I was born to fight.</eng>
+					</08_VH>
+					<09_Katarina>
+						<eng>Stop this, please, or I will alert the toy soldiers myself.</eng>
+					</09_Katarina>
+				</Saffi_and_Gaspar>
+			</Saffi_in_lair>
+			<Matthias>
+				<Shopkeeper_cutscene>
+					<01_Matthias>
+						<eng>You won’t take me alive! Vive la Resistance!</eng>
+					</01_Matthias>
+					<02_Dreadknecht1>
+						<eng>Surrender, disobedient citizen!</eng>
+					</02_Dreadknecht1>
+					<03_Dreadknecht2>
+						<eng>Take us… to your… leader!</eng>
+					</03_Dreadknecht2>
+				</Shopkeeper_cutscene>
+			</Matthias>
+		</Dreadworks>
+
+		<Ink_monsta>
+			<Katarina>	
+				<This_is_wrong_place>
+					<01_Katarina>
+						<eng>I have a feeling we’re not in Borgovia any more.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Something was wrong with the gate. The Ink is growing restless. Can you feel it?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Is this my cue to say… “Oh no! We are trapped here for ETERNITY”?!</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Not yet. There must be a way out of here.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Right, the official Van Helsing motto.</eng>
+					</05_Katarina>
+				</This_is_wrong_place>
+				<BNT_Blood_rabbit_cutscene>
+					<01_Katarina>
+						<eng>A dreadful massacre! Who did this?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>You are looking at it.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Behind the rabbit?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>It is the rabbit.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Don’t try to be funny.</eng>
+					</05_Katarina>
+					<06_VH>
+						<eng>I wouldn’t dream of it.</eng>
+					</06_VH>
+				</BNT_Blood_rabbit_cutscene>
+			</Katarina>
+		</Ink_monsta>
+
+		<Lair>
+			<Saffi_in_lair>
+				<Lazy_monster_hunter>
+					<01_Saffi_in_lair>
+						<eng>Where are the bones, handsome? Admit it, hunter, it’s not that easy.</eng>
+					</01_Saffi_in_lair>
+				</Lazy_monster_hunter>
+				<Saffi_stock_line1>
+					<01_Saffi_in_lair>
+						<eng>I simply love the big city!</eng>
+					</01_Saffi_in_lair>
+				</Saffi_stock_line1>
+				<Saffi_stock_line2>
+					<01_Saffi_in_lair>
+						<eng>So many heartbroken people, so many potions sold.</eng>
+					</01_Saffi_in_lair>
+				</Saffi_stock_line2>
+				<Saffi_stock_line3>
+					<01_Saffi_in_lair>
+						<eng>When this is over, I want to open my own shop.</eng>
+					</01_Saffi_in_lair>
+				</Saffi_stock_line3>
+				<Saffi_stock_line4>
+					<01_Saffi_in_lair>
+						<eng>Come closer, handsome.</eng>
+					</01_Saffi_in_lair>
+				</Saffi_stock_line4>
+				<Saffi_stock_line5>
+					<01_Saffi_in_lair>
+						<eng>Oh, you look tired.</eng>
+					</01_Saffi_in_lair>
+				</Saffi_stock_line5>
+				<Saffi_stock_line6>
+					<01_Saffi_in_lair>
+						<eng>Sometimes I miss the campfire and the music.</eng>
+					</01_Saffi_in_lair>
+				</Saffi_stock_line6>				
+			</Saffi_in_lair>
+			<Gaspar_in_Lair>
+				<Gaspar_stock_line1>
+					<01_Gaspar_in_Lair>
+						<eng>I wish I could explore these tunnels!</eng>
+					</01_Gaspar_in_Lair>
+				</Gaspar_stock_line1>						
+				<Gaspar_stock_line2>
+					<01_Gaspar_in_Lair>
+						<eng>I bet this maze is full of secret treasures.</eng>
+					</01_Gaspar_in_Lair>
+				</Gaspar_stock_line2>			
+				<Gaspar_stock_line3>
+					<01_Gaspar_in_Lair>
+						<eng>So many new monsters for my Traveling Emporium!</eng>
+					</01_Gaspar_in_Lair>
+				</Gaspar_stock_line3>			
+				<Gaspar_stock_line4>
+					<01_Gaspar_in_Lair>
+						<eng>I miss being on the road, you know. </eng>
+					</01_Gaspar_in_Lair>
+				</Gaspar_stock_line4>			
+				<Gaspar_stock_line5>
+					<01_Gaspar_in_Lair>
+						<eng>I miss the wind and the sun! I miss freedom!</eng>
+					</01_Gaspar_in_Lair>
+				</Gaspar_stock_line5>			
+				<Gaspar_stock_line6>
+					<01_Gaspar_in_Lair>
+						<eng>I will collect strange machines. That’s the future.</eng>
+					</01_Gaspar_in_Lair>
+				</Gaspar_stock_line6>			
+				<Gaspar_stock_line7>
+					<01_Gaspar_in_Lair>
+						<eng>Would you like to earn some money? I’ve come up with a great little earner.</eng>
+					</01_Gaspar_in_Lair>
+				</Gaspar_stock_line7>
+			</Gaspar_in_Lair>						
+			<Matthias>				
+				<Matthias_stock_line1>
+					<01_Matthias>
+						<eng>Ha! Time to teach’em a lesson!</eng>
+					</01_Matthias>
+				</Matthias_stock_line1>
+				<Matthias_stock_line2>
+					<01_Matthias>
+						<eng>This reminds me of my army days.</eng>
+					</01_Matthias>
+				</Matthias_stock_line2>
+				<Matthias_stock_line3>
+					<01_Matthias>
+						<eng>I might have something for ya!</eng>
+					</01_Matthias>
+				</Matthias_stock_line3>							
+			</Matthias>			
+			<Arkady>				
+				<Arkady_stock_line1>
+					<01_Arkady>
+						<eng>Don’t be alarmed by my appearance.</eng>
+					</01_Arkady>
+				</Arkady_stock_line1>
+				<Arkady_stock_line2>
+					<01_Arkady>
+						<eng>I’m simply meeting a demand, you know.</eng>
+					</01_Arkady>
+				</Arkady_stock_line2>
+				<Arkady_stock_line3>
+					<01_Arkady>
+						<eng>Do you need anything? Just ask me.</eng>
+					</01_Arkady>
+				</Arkady_stock_line3>
+				<Arkady_stock_line4>
+					<01_Arkady>
+						<eng>Weapons? Liquor? Explosives?</eng>
+					</01_Arkady>
+				</Arkady_stock_line4>											
+			</Arkady>			
+			<Todor_Schimko>				
+				<Todor_stock_line1>
+					<01_Todor_Schimko>
+						<eng>It is time to use science for a good cause.</eng>
+					</01_Todor_Schimko>
+				</Todor_stock_line1>
+				<Todor_stock_line2>
+					<01_Todor_Schimko>
+						<eng>Elyctricity is the way of the future, you know.</eng>
+					</01_Todor_Schimko>
+				</Todor_stock_line2>
+				<Todor_stock_line3>
+					<01_Todor_Schimko>
+						<eng>I have some new designs in the works. But they are not ready yet.</eng>
+					</01_Todor_Schimko>
+				</Todor_stock_line3>															
+			</Todor_Schimko>			
+			<Dr_Dampf>				
+				<Dr_Dampf_stock_line1>
+					<01_Dr_Dampf>
+						<eng>Behind every great invention there is a demolished lab.</eng>
+					</01_Dr_Dampf>
+				</Dr_Dampf_stock_line1>
+				<Dr_Dampf_stock_line2>
+					<01_Dr_Dampf>
+						<eng>Cogs und lightning und steam! I can build it!</eng>
+					</01_Dr_Dampf>
+				</Dr_Dampf_stock_line2>
+				<Dr_Dampf_stock_line3>
+					<01_Dr_Dampf>
+						<eng>*cackling* Yes! It will work this time!</eng>
+					</01_Dr_Dampf>
+				</Dr_Dampf_stock_line3>
+				<Dr_Dampf_stock_line4>
+					<01_Dr_Dampf>
+						<eng>That will teach them a lesson!</eng>
+					</01_Dr_Dampf>
+				</Dr_Dampf_stock_line4>															
+			</Dr_Dampf>			
+			<Engineer>				
+				<Engineer_stock_line1>
+					<01_Engineer>
+						<eng>…And what if we put a valve into the generator…</eng>
+					</01_Engineer>
+				</Engineer_stock_line1>
+				<Engineer_stock_line2>
+					<01_Engineer>
+						<eng>…So the lever goes into that slot, and then… it might work.</eng>
+					</01_Engineer>
+				</Engineer_stock_line2>
+				<Engineer_stock_line3>
+					<01_Engineer>
+						<eng>Can you smell the oil and the grease? Isn’t it wonderful?</eng>
+					</01_Engineer>
+				</Engineer_stock_line3>
+				<Engineer_stock_line4>
+					<01_Engineer>
+						<eng>Bring me a hammer and a wrench, and I’ll fix anything!</eng>
+					</01_Engineer>
+				</Engineer_stock_line4>															
+			</Engineer>			
+			<Rebel_soldier>				
+				<Rebel_stock_line1>
+					<01_Rebel_soldier>
+						<eng>Vive la Resistance!</eng>
+					</01_Rebel_soldier>
+				</Rebel_stock_line1>
+				<Rebel_stock_line2>
+					<01_Rebel_soldier>
+						<eng>Down with Science!</eng>
+					</01_Rebel_soldier>
+				</Rebel_stock_line2>
+				<Rebel_stock_line3>
+					<01_Rebel_soldier>
+						<eng>For Borgovia!</eng>
+					</01_Rebel_soldier>
+				</Rebel_stock_line3>
+				<Rebel_stock_line4>
+					<01_Rebel_soldier>
+						<eng>I’m waiting for your orders, sir.</eng>
+					</01_Rebel_soldier>
+				</Rebel_stock_line4>
+				<Rebel_stock_line5>
+					<01_Rebel_soldier>
+						<eng>We are ready!</eng>
+					</01_Rebel_soldier>
+				</Rebel_stock_line5>
+				<Rebel_stock_line6>
+					<01_Rebel_soldier>
+						<eng>Everything is in order.</eng>
+					</01_Rebel_soldier>
+				</Rebel_stock_line6>
+				<Rebel_stock_line7>
+					<01_Rebel_soldier>
+						<eng>I never thought that I’d be fighting alongside a vampire. Modern times!</eng>
+					</01_Rebel_soldier>
+				</Rebel_stock_line7>
+				<Rebel_stock_line8>
+					<01_Rebel_soldier>
+						<eng>Everything is quiet.</eng>
+					</01_Rebel_soldier>
+				</Rebel_stock_line8>																			
+			</Rebel_soldier>						
+			<Katarina>	
+				<BNT_Lair_protection_Failed>
+					<01_VH>
+						<eng>It’s time to retreat to the Lair.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>What?! I didn’t even know that “retreat” was part of your vocabulary.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>I see minions swarming towards the Lair. Breda must be there. We are wasting our time here!</eng>
+					</03_VH>
+				</BNT_Lair_protection_Failed>
+				<BNT_Lair_protection_Done>
+					<01_Katarina>
+						<eng>And they call this an assault? It was as easy as eating pie.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Katarina, you don’t eat pie and I have a bad feeling about this. Where is Breda?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>In Borgovia, villains tend to use their cunning plans as often as possible…</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>I knew it! So they are sneaking into the Lair behind our backs!</eng>
+					</04_VH>
+				</BNT_Lair_protection_Done>
+				<Breda_is_here>
+					<01_Katarina>
+						<eng>I love it when I’m right! Breda is here!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Look at this creature! It’s something new. So, the first rule of monster hunting: proceed with caution!</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>There are rules to monster hunting? You never told me that.</eng>
+					</03_Katarina>
+				</Breda_is_here>
+				<Lair_carpets>
+					<01_Katarina>
+						<eng>You know, I was thinking about the secret lair.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>It will be the perfect hideout.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>I was just thinking that some nice carpets could do wonders with the place.</eng>
+					</03_Katarina>
+				</Lair_carpets>
+				<Sewers_banter1>
+					<01_VH>
+						<eng>Tunnels. Sewage. Here we come.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Home, sweet home.</eng>
+					</02_Katarina>
+				</Sewers_banter1>
+				<Sewers_banter2>
+					<01_Katarina>
+						<eng>This maze was a secret underground temple of some ancient evil god.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>It has still retained some of its charm.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>I used to sneak down here and dance around the obsidian altars.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>As a ghost?</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>No, it was before that. I was a wild girl and I fell into wrong company. And it was great!</eng>
+					</05_Katarina>
+				</Sewers_banter2>				
+			</Katarina>
+			<VH>
+				<Breda_is_dead>
+					<01_VH>
+						<eng>And when I thought that I had seen everything this town could offer me, I have to defeat a mechanical godling.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>I’d pity this poor creature, but not after a fight like this.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Let’s see what the professor can do without his general’s help.</eng>
+					</03_VH>
+				</Breda_is_dead>
+				<Alchemist_banter>
+					<01_VH>
+						<eng>You look familiar.</eng>
+					</01_VH>
+					<02_Alchemist_Lair>
+						<eng>Ach! It must be the mask. Different scientist, same lab accident.</eng>
+					</02_Alchemist_Lair>
+				</Alchemist_banter>				
+				<Chapter2_end>
+					<01_Katarina>
+						<eng>We defeated the Professor’s mechanical general and destroyed an army. So what have you got planned for the rest of the day?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>We must strike back while they're still licking their wounds.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Finally! Vengeance and mayhem! Now this is more like the Borgovia I used to know.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Fulmigati is hiding and plotting somewhere in the Old Town. This time we will pay him a visit.</eng>
+					</04_VH>					
+				</Chapter2_end>
+			</VH>
+		</Lair>
+
+		<Viztisztito1>
+			<Katarina>
+				<Lair_witch_1>
+					<01_Katarina>
+						<eng>A strange rat bone. Great. Still, somebody could use it in the Secret Lair. They all looked a bit desperate.</eng>
+					</01_Katarina>
+				</Lair_witch_1>
+				<Lair_witch_2>
+					<01_Katarina>
+						<eng>I’m getting bored with this filthy job. Let’s go back to the Lair and ask Saffi what we can do with them.</eng>
+					</01_Katarina>
+				</Lair_witch_2>
+				<Angry_monsters>
+					<orjonges>
+						<eng></eng>
+					</orjonges>
+					<01_Katarina>
+						<eng>Judging by the noise we blew up the outflow.</eng>
+					</01_Katarina>
+				</Angry_monsters>
+				<Fishing_bait>
+					<01_Katarina>
+						<eng>Looks like good bait. Let’s go fishing, shall we?</eng>
+					</01_Katarina>
+				</Fishing_bait>
+				<Fish_food>
+					<01_Katarina>
+						<eng>Now that’s a mean looking fish.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Strange... For some reason I feel like I should... *feed* it to you... Do you want it?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>*Gasp* What?! Even if I did, who knows what it would do to me?? I could turn into a... a spider or a... wooden chest with teeth! If you want to experiment, give it to that scrawny cat!</eng>
+					</03_Katarina>
+				</Fish_food>
+				<Poison_in_air>
+					<01_VH>
+						<eng>What… is…  What is this smell? It burns… my lungs!</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>The gas, I presume?</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>It’s supposed to affect my mind!</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>Well, this thing is still experimental, isn’t it?</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>How… (cough)… comforting!</eng>
+					</05_VH>
+				</Poison_in_air>
+				<Working_list_1>
+					<01_VH>
+						<eng>Hmm... This looks like a scientific work schedule for the masterminds.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Really? What does it say?</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>“Law of conservation of mana – DISPROVED”</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>Ugh, boring. Stop reading.</eng>
+					</04_Katarina>					
+				</Working_list_1>
+				<Working_list_2>
+					<01_VH>
+						<eng>“Existence of the Biggs-Hozon particle – VERIFIED”</eng>
+					</01_VH>										
+				</Working_list_2>
+				<Working_list_3>
+					<01_VH>
+						<eng>“Theory of Binary Reality - CONFIRMED“</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Boooring!</eng>
+					</02_Katarina>										
+				</Working_list_3>
+				<Working_list_4>					
+					<01_Katarina>
+						<eng>What else is on the list? Did they have any interesting projects?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>This one says… “The answer to life, universe and everything”. It’s ticked off. But there is only a number.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>What number?</eng>						
+					</03_Katarina>
+					<04_VH>
+						<eng>42</eng>
+					</04_VH>										
+				</Working_list_4>				
+				<Working_list_5>
+					<01_VH>
+						<eng>“Analysis conducted on the workings of the female brain”. According to the notes, they tried modern science and arcane lore, but still they couldn’t solve the problem.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>They should have asked a real woman first. We are a mystery that even masterminds can’t solve.</eng>
+					</02_Katarina>										
+				</Working_list_5>				
+				<Go_back_to_Lair>
+					<01_Katarina>
+						<eng>I think we are done here. Time to return to the lair.</eng>
+					</01_Katarina>
+				</Go_back_to_Lair>
+				<Werewolf_hunters>
+					<01_Katarina>
+						<eng>Here they are! They killed that poor beast!</eng>
+					</01_Katarina>
+				</Werewolf_hunters>
+				<Borgovian_nights>				
+					<01_Katarina>
+						<eng>I’m disappointed. Where are my dark and stormy Borgovian nights? And days.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Look around. Machines belching smoke, polluting the sky… no wonder the weather is mad.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>But that’s just silly. No, I think that the scientists stole the lighting from the storms to make the sparkling machines.</eng>						
+					</03_Katarina>
+					<04_VH>
+						<eng>On second thoughts, that sounds much more scientific.</eng>
+					</04_VH>										
+				</Borgovian_nights>
+				<Katarina_past>				
+					<01_VH>
+						<eng>How does it feel to return to the place where you grew up?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Are you insulting me now?</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>What did I say this time?</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>This was the most depraved neighborhood! I lived in a palace in the Old Town!</eng>						
+					</04_Katarina>
+					<05_VH>
+						<eng>Let’s just pretend that this conversation didn’t happen.</eng>
+					</05_VH>										
+				</Katarina_past>
+			</Katarina>
+			<Beggar>
+				<Greatful_beggar>
+					<01_Beggar>
+						<eng>A good day to you, stranger!</eng>
+					</01_Beggar>
+				</Greatful_beggar>
+				<Greatful_beggar1>
+					<01_Beggar>
+						<eng>Keep up the good work, hunter!</eng>
+					</01_Beggar>
+				</Greatful_beggar1>
+				<Greatful_beggar2>
+					<01_Beggar>
+						<eng>Best of luck!</eng>
+					</01_Beggar>
+				</Greatful_beggar2>
+				<Greatful_beggar3>
+					<01_Beggar>
+						<eng>What? I’m just waiting on a friend!</eng>
+					</01_Beggar>
+				</Greatful_beggar3>
+				<Greatful_beggar4>
+					<01_Beggar>
+						<eng>Busy day, huh?</eng>
+					</01_Beggar>
+				</Greatful_beggar4>
+				<Greatful_beggar5>
+					<01_Beggar>
+						<eng>I’m fine, I’m fine. Thanks for asking.</eng>
+					</01_Beggar>
+				</Greatful_beggar5>
+				<Greatful_beggar6>
+					<01_Beggar>
+						<eng>I... I think I’m ready to start a new life.</eng>
+					</01_Beggar>
+				</Greatful_beggar6>
+			</Beggar>
+			<varoslako_1>
+				<I_am_thirsty>
+					<01_varoslako_1>
+						<eng>We need water! Would you help us, please?</eng>
+					</01_varoslako_1>
+				</I_am_thirsty>
+			</varoslako_1>
+			<varoslako_2>
+				<Kill_the_dark_Alchemist>
+					<01_varoslako_2>
+						<eng>Oh no! You must kill the Grand Alchemist!</eng>
+					</01_varoslako_2>
+				</Kill_the_dark_Alchemist>
+				<Kill_the_city_monsters>
+					<01_varoslako_2>
+						<eng>Good hunting!</eng>
+					</01_varoslako_2>
+				</Kill_the_city_monsters>
+			</varoslako_2>
+			<Alchemist_Lair>
+				<Werewolf_is_gone>
+					<01_Alchemist_Lair>
+						<eng>It has struck midnight! Too late, my friend, that werewolf has already left Borgova. Sad, so sad.</eng>
+					</01_Alchemist_Lair>
+				</Werewolf_is_gone>
+			</Alchemist_Lair>
+			<Csempesz>
+				<Werewolf_not_here>
+					<01_Csempesz>
+						<eng>Can’t help you, sir. The wolf-man is not here.</eng>
+					</01_Csempesz>
+				</Werewolf_not_here>
+			</Csempesz>
+		</Viztisztito1>
+		
+		<Viztisztito2>
+			<Katarina>
+				<Bridge_controller_machine>
+					<01_Katarina>
+						<eng>The bridges are up. I sense the same weird energy from them I felt at the invisible walls. Do you see that machine? That must be operating the bridges.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>But how do we destroy something that big?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Let’s pretend for a moment that I didn’t hear that from a hunter. If you ask me, we have to find the controls first.</eng>
+					</03_Katarina>
+				</Bridge_controller_machine>
+				<Bridge_Overcharge_Regulator>
+					<01_Katarina>
+						<eng>This must control the flow of the elyctricity that operates the bridges.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>How come a ghost lady suddenly becomes an expert in modern mechanics?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Oh, I’m so sorry! Should I return to the lair to finish my embroidery?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>All right! I’ll turn it up to  maximum, so the whole thing will explode.</eng>
+					</04_VH>
+				</Bridge_Overcharge_Regulator>
+			</Katarina>
+			<Suttogo_alchemist>
+				<Kihallgatott_csevej>
+					<01_Suttogo_alchemist>
+						<eng>Useless imbecile! Where is my essence shipment?</eng>
+					</01_Suttogo_alchemist>
+					<02_Suttogo_apprentice>
+						<eng>S-sorry master, I had no choice! A group of soldiers came by and I had to hide it by the portal near the mansion.</eng>
+					</02_Suttogo_apprentice>
+					<03_Suttogo_alchemist>
+						<eng>Argh! Must I do everything myself!? *sigh* Alright. Calm... Yes. Collect it... OK. Now get out of my sight!!!</eng>
+					</03_Suttogo_alchemist>
+				</Kihallgatott_csevej>
+			</Suttogo_alchemist>
+			<Beggar_king>
+				<Beggar_king_cutscene>
+					<01_Beggar_king>
+						<eng>Come closer, you puppets! Catch me if you can!</eng>
+					</01_Beggar_king>
+					<02_Vampire_Hunter>
+						<eng>You are a wanted man, dead or alive. And I’m fine with you being dead, you dirty beggar.</eng>
+					</02_Vampire_Hunter>
+					<03_Beggar_king>
+						<eng>Look! There is a hunter behind your back!</eng>
+					</03_Beggar_king>
+					<04_Vampire_Hunter>
+						<eng>Hehehe... The oldest trick in the book! What do you take me for?</eng>
+					</04_Vampire_Hunter>
+				</Beggar_king_cutscene>
+				<Next_time_hunter>
+					<01_Beggar_king>
+						<eng>It’s great to have you here, hunter. See you next time.</eng>
+					</01_Beggar_king>
+				</Next_time_hunter>
+			</Beggar_king>
+		</Viztisztito2>
+		
+		<Csatorna_kiserletitelep>
+			<Katarina>
+				<Research_lab>
+					<01_Katarina>
+						<eng>This research facility makes me nervous.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Why? You used to haunt abandoned places like this.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Oh, give me a crumbling palace any day. But abandoned laboratories are cold… and full of pain.</eng>
+					</03_Katarina>
+				</Research_lab>
+				<Dreadknecht_statues>
+					<01_Katarina>
+						<eng>Why aren’t they moving? Are they just toy soldiers for giants?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Or the same killing machines we know so well… but they need elyctricity.</eng>
+					</02_VH>
+				</Dreadknecht_statues>
+				<More_inactive_soldier>
+					<01_Katarina>
+						<eng>Oh, these things look fully functional, it’s just that they don’t move. I don’t like this.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Which reminds me… if you find a red button, I won’t push it. I swear.</eng>
+					</02_VH>
+				</More_inactive_soldier>
+				<Inactive_controller>
+					<01_Katarina>
+						<eng>Another weird device? What does it do? It’s a pity that it looks dead, just like the soldier-machines.</eng>
+					</01_Katarina>
+				</Inactive_controller>
+				<Destroyed_controller>
+					<01_Katarina>
+						<eng>Stop it! Leave that switch alone. The machine is already broken.</eng>
+					</01_Katarina>
+				</Destroyed_controller>
+				<Main_controller>
+					<01_Katarina>
+						<eng>Look at this! I bet that this is the main switch of the laboratory. And a main switch is another “red button" really, don’t you think?</eng>
+					</01_Katarina>
+				</Main_controller>
+				<Energy_is_active>
+					<01_Katarina>
+						<eng>Good work, hunter. You are a true mechanical prodigy! Now the whole laboratory is fully functional…</eng>
+					</01_Katarina>
+				</Energy_is_active>
+			</Katarina>
+			<VH>
+				<Inactive_Inkgate>
+					<01_VH>
+						<eng>This Inkgate is closed. Where do you open these portals, I wonder?</eng>
+					</01_VH>
+				</Inactive_Inkgate>
+			</VH>
+		</Csatorna_kiserletitelep>
+
+		<Viztisztito3>
+			<Katarina>
+				<Lair_witch_3>
+					<01_Katarina>
+						<eng>What are you doing with this ugly and stinky weed? Oh, wait… are you picking flowers for that Romany girl?</eng>
+					</01_Katarina>
+				</Lair_witch_3>
+				<third_swamp_flower>
+					<01_Katarina>
+						<eng>Where is it? Show yourself, monster!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>What are you talking about? What monster?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>The creature that controls your mind and made you pick up that flower!</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Why? Why can’t a man simply admire nature?</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Because that man is you?</eng>
+					</05_Katarina>
+				</third_swamp_flower>
+				<fifth_swamp_flower>
+					<01_Katarina>
+						<eng>You did it again! Another flower!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Katarina, stop pestering me. Nothing is wrong with me.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>That thought is perhaps even more unsettling.</eng>
+					</03_Katarina>
+				</fifth_swamp_flower>
+				<sixth_swamp_flower>
+					<01_Katarina>
+						<eng>Admit it! You are gathering a bouquet for pretty Saffi.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>And? She brews potions. And these strange flowers could be useful ingredients.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>You can explain everything.</eng>
+					</03_Katarina>
+				</sixth_swamp_flower>
+				<Lair_witch_4>
+					<01_Katarina>
+						<eng>Enough of this nonsense! You have a whole, stinky bouquet. Take it to Saffi.</eng>
+					</01_Katarina>
+				</Lair_witch_4>
+				<The_domovoj_corpse>
+					<01_Katarina>
+						<eng>Wait! This Domovoy looks familiar from the Gorgon Pass.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I don’t know… these little fellows all look the same to me. He certainly looks like he was scared to death.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>I have no idea what you are talking about.</eng>
+					</03_Katarina>
+				</The_domovoj_corpse>
+			</Katarina>
+			<VH>
+				<second_swamp_flower>
+					<01_VH>
+						<eng>Be a hunter, they said. Kill the monsters, they said. No one said anything about flowers!</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>I can’t tell you how much I’m enjoying this.</eng>
+					</02_Katarina>
+				</second_swamp_flower>
+				<fourth_swamp_flower>
+					<01_VH>
+						<eng>This is awful. Tell me: why am I picking flowers?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Because you still can’t say no to a beautiful girl.</eng>
+					</02_Katarina>
+				</fourth_swamp_flower>
+				<seventh_swamp_flower>
+					<01_Katarina>
+						<eng>You are awfully quiet.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I’m trying to imagine the flowers as monster trophies.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>And does it work?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Sadly not in the slightest.</eng>
+					</04_VH>
+				</seventh_swamp_flower>
+				<Lair_is_under_attack>
+					<01_Electriferous_Behemoth>
+						<eng>Rawr! Fooled you, hunter! The mighty Breda will hit you where it hurts the most!</eng>
+					</01_Electriferous_Behemoth>
+					<02_VH>
+						<eng>By denying me the pleasure of hunting him down?</eng>
+					</02_VH>
+					<03_Electriferous_Behemoth>
+						<eng>*sniggering* You have such a nice secret lair down there. It would be a shame if something happened to it! HAHAHA...</eng>
+					</03_Electriferous_Behemoth>
+					<04_VH>
+						<eng>Ah! A cunning plan! Our adversary is getting imaginative.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>So this was only a decoy? We should return to the Lair before Breda arrives.</eng>
+					</05_Katarina>
+				</Lair_is_under_attack>
+			</VH>
+			<wounded_soldier>
+				<Too_late_just_go>
+					<01_wounded_soldier>
+						<eng>Too late... You... can’t... help me. Go!</eng>
+					</01_wounded_soldier>
+				</Too_late_just_go>
+			</wounded_soldier>
+			
+			<Weapon_smuggler>
+				<Shipment_under_attack>
+					<01_Weapon_smuggler>
+						<eng>Our enemies know about the shipment! Defend the weapons!</eng>
+					</01_Weapon_smuggler>
+					<02_Katarina>
+						<eng>Why am I not even surprised?</eng>
+					</02_Katarina>
+				</Shipment_under_attack>
+				<Weapon_shipment_unloading>
+					<01_Weapon_smuggler>
+						<eng>We are unloading the cargo. It could take a while.</eng>
+					</01_Weapon_smuggler>
+				</Weapon_shipment_unloading>
+				<Weapon_smuggler_stock_line1>
+					<01_Weapon_smuggler>
+						<eng>What do you want?</eng>
+					</01_Weapon_smuggler>
+				</Weapon_smuggler_stock_line1>
+				<Weapon_smuggler_stock_line2>
+					<01_Weapon_smuggler>
+						<eng>Wha' another inspection? </eng>
+					</01_Weapon_smuggler>
+				</Weapon_smuggler_stock_line2>
+				<Weapon_smuggler_stock_line3>
+					<01_Weapon_smuggler>
+						<eng>I’m just standing here, enjoying the view.</eng>
+					</01_Weapon_smuggler>
+				</Weapon_smuggler_stock_line3>
+				<Weapon_smuggler_stock_line4>
+					<01_Weapon_smuggler>
+						<eng>Nice weather, ain’t it?</eng>
+					</01_Weapon_smuggler>
+				</Weapon_smuggler_stock_line4>
+				<Weapon_smuggler_stock_line5>
+					<01_Weapon_smuggler>
+						<eng>Was that a secret hand sign? No? Erm... My bad.</eng>
+					</01_Weapon_smuggler>
+				</Weapon_smuggler_stock_line5>
+				<Weapon_smuggler_stock_line6>
+					<01_Weapon_smuggler>
+						<eng>You must be confusing me with someone else.</eng>
+					</01_Weapon_smuggler>
+				</Weapon_smuggler_stock_line6>
+			</Weapon_smuggler>
+			
+			<Rebel_1>
+				<Orichalcum_shipment>
+					<01_Katarina>
+						<eng>Look, a Resistance fighter! He is eagerly resisting the urge to fight.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>What brings you here, my friend?</eng>
+					</02_VH>
+					<03_Rebel_1>
+						<eng>I have important news for Count Vlados. Two more orichalcum shipments have arrived at the Industrial Port. If the crate reaches the Professor, he can build more Doomsday Automatons. We have to capture the shipments!</eng>
+					</03_Rebel_1>
+					<04_VH>
+						<eng>The Resistance fighters are trying to break through Fulmigati’s last lines of defense in the Old Town. I doubt that Vlados could spare an army. I’ll take care of it.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Yes! The famous Van Helsing theorem again! One hunter plus a ghost equals… an army.</eng>
+					</05_Katarina>
+				</Orichalcum_shipment>
+				<Not_enough_soldier>
+					<01_Rebel_1>
+						<eng>We don’t have enough men to capture the shipments!</eng>
+					</01_Rebel_1>
+				</Not_enough_soldier>
+			</Rebel_1>
+			<Inventor>
+				<No_more_help>
+					<01_Inventor>
+						<eng>I can’t help you any more.</eng>
+					</01_Inventor>
+				</No_more_help>
+				<No_more_help_2>
+					<01_Inventor>
+						<eng>I’m afraid that was all that I could do.</eng>
+					</01_Inventor>
+				</No_more_help_2>
+				<No_more_help_3>
+					<01_Inventor>
+						<eng>I wish I could help more. But I can’t.</eng>
+					</01_Inventor>
+				</No_more_help_3>
+			</Inventor>
+		</Viztisztito3>
+
+		<Old_town>
+			<Rebel_npc_1>	
+				<Getting_blamed>
+					<01_Rebel_npc_1>
+						<eng>You! You killed my friends, hunter!</eng>
+					</01_Rebel_npc_1>
+				</Getting_blamed>
+				<Please_rescue_the_rebels>
+					<01_Rebel_npc_1>
+						<eng>Please, hurry! My friends are in grave danger.</eng>
+					</01_Rebel_npc_1>
+				</Please_rescue_the_rebels>
+			</Rebel_npc_1>
+			<Katarina>	
+				<Closed_street_1>
+					<01_Katarina>
+						<eng>A force wall?  That’s clever. Also annoying. We should find another way.</eng>
+					</01_Katarina>
+				</Closed_street_1>
+				<Closed_street_4>
+					<01_Katarina>
+						<eng>I’ve had it with these stupid force walls! We’ll never get to Fulmigati. We must find another way.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I don’t really like asking for help, but I would suggest that we talk with our engineer friend.</eng>
+					</02_VH>
+				</Closed_street_4>
+				<Lamp_post>
+					<01_VH>
+						<eng>What is this? The Professor is installing elyctricity in the Ink?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Or this is a magical landmark. If you pass this post, you might find strange adventures in the haze beyond.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Oh, not now. I have enough incredible adventures to deal with in Borgova.</eng>
+					</03_VH>
+				</Lamp_post>
+			</Katarina>
+			<VH>
+				<Closed_street_2>
+					<01_VH>
+						<eng>Hmm. This street is also closed. Fulmigati must be really scared of us.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Or he needs time to prepare something nasty. Oh wait, it’s the same thing, isn’t it?</eng>
+					</02_Katarina>
+				</Closed_street_2>
+				<Closed_street_3>
+					<01_VH>
+						<eng>I can’t believe this! What’s with the Professor and the force walls?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>And not a single switch in sight that we could destroy to make them disappear.</eng>
+					</02_Katarina>
+				</Closed_street_3>
+			</VH>
+			<Borislav_statue>	
+				<Another_statue>
+					<01_Katarina>
+						<eng>Look, another statue. It’s just like the one in Markovna. With the empty holes at its feet and all.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Let’s take a look.</eng>
+					</02_VH>
+				</Another_statue>
+				<BNT_pedestal04>
+					<01_VH>
+						<eng>Alright, that’s one.</eng>
+					</01_VH>
+				</BNT_pedestal04>
+				<BNT_pedestal05>
+					<01_VH>
+						<eng>Just one more.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>And who knows how many more statues...</eng>
+					</02_Katarina>
+				</BNT_pedestal05>
+				<BNT_pedestal06>
+					<01_Katarina>
+						<eng>Look, an ink portal has opened! Let’s see where it leads!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Guess what? I agree. I’m simply too curious to see what all this was all about.</eng>
+					</02_VH>
+				</BNT_pedestal06>
+				<Borislav_statue_cutscene>
+					<01_VH>
+						<eng>Another statue? This must be a joke.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>No, look... I think this is King Borislav’s heritage! Left here for another champion like him. Just like the legend says.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>What legend? You failed to mention *that* before...</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>Who would have thought that it was true?</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>You should know better. Prophecies and legends are ALWAYS true.</eng>
+					</05_VH>
+				</Borislav_statue_cutscene>
+				<Statue_knockback>
+					<01_Katarina>
+						<eng>Oh, I forgot. The legend speaks about a magical ward.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Hmmm... Does it say how to we can get through?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>I don’t remember. But I do sense similar magic beyond. Perhaps the answer’s there.</eng>
+					</03_Katarina>
+				</Statue_knockback>
+				<Nomore_knockback>
+					<01_Katarina>
+						<eng>That’s it! I don’t sense the ward anymore. Let’s take the treas... I mean, let’s claim the heritage.</eng>
+					</01_Katarina>
+				</Nomore_knockback>
+				<Borislav_treasure_cutscene>
+					<01_Treasurehunter_Boss>
+						<eng>At last, Borislav’s power is mine! The world shall soon be at my mercy! MWHAHAHAHAAA!!!</eng>
+					</01_Treasurehunter_Boss>
+					<02_Katarina>
+						<eng>Now that’s a proper Borgovian villain! It’s a shame we have to finish him.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>I’ve never thought that I’d agree with that.</eng>
+					</03_VH>
+				</Borislav_treasure_cutscene>
+			</Borislav_statue>
+		</Old_town>
+		
+		<Noticeboard_banters>
+			<Hirdetotabla>	
+				<Noticeboard_banter_1>
+					<01_VH>
+						<eng>Warning, citizens! Experimental soldier-machines on the run! If you see the latest Nexus Six automatons, avoid them at all cost and contact your local constabulary.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>You could hunt them down.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Nah. Not my department.</eng>
+					</03_VH>
+				</Noticeboard_banter_1>
+				<Noticeboard_banter_2>
+					<01_VH>
+						<eng>Due to the large amounts of toxic material present in the sewage system, we strongly forbid the disposal of any unwanted pets in the tunnels.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Hmm. What could have been the reason?</eng>
+					</02_Katarina>
+				</Noticeboard_banter_2>
+				<Noticeboard_banter_3>
+					<01_VH>
+						<eng>Sewage tunnel number 17 closed down for pest control. Giant alligators reported in the sewers.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Well, it could be worse. At least they are not turtles.</eng>
+					</02_Katarina>
+				</Noticeboard_banter_3>
+				<Noticeboard_banter_4>
+					<01_Katarina>
+						<eng>Curfew in order. Violators will be incarcerated.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Or used for experiments.  Always read the fine print.</eng>
+					</02_VH>
+				</Noticeboard_banter_4>
+				<Noticeboard_banter_5>
+					<01_VH>
+						<eng>“Science NEEDS you! Volunteer at the Ministry of Science, earn some money and enjoy our delicious pastries after the trials.”</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>There is a scribbled note under this.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>“The cake is a lie”, and five exclamation marks?</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>I wonder what that means.</eng>
+					</04_Katarina>
+				</Noticeboard_banter_5>
+				<Noticeboard_banter_6>
+					<01_VH>
+						<eng>Order your meals from the Da Vinci Ristorante! Our errand boys will deliver piping hot, fresh dishes to your doorstep!</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>It’s a clever idea. But mark my words, it will never catch on.</eng>
+					</02_Katarina>
+				</Noticeboard_banter_6>
+				<Noticeboard_banter_7>
+					<01_VH>
+						<eng>Experienced Occultist needed to join our Professional Team of Ghost-Seekers. We use Scientific Methods and Devices. Contact Dr. Wenkmann at the Hotel Borgova.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>I wish I could have a few words with those fellows.</eng>
+					</02_Katarina>
+				</Noticeboard_banter_7>
+				<Noticeboard_banter_8>
+					<01_VH>
+						<eng>The Grand Science Fair of Borgova is opening at the Palace of Machines! Behold the new specimen of the automatons, the Mechanical Colossus!</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Ah, that sounds interesting. I’d like to see that.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>I’m sure we’ll have the opportunity.</eng>
+					</03_VH>
+				</Noticeboard_banter_8>
+				<Noticeboard_banter_9>
+					<01_VH>
+						<eng>Sewage workers needed immediately? Boring.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Wait, it goes on. “Requirement: strong physique, fearless nature. Immunity to poison is an advantage.”</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>On second thought, I should charge them for the hard work I did in the tunnels.</eng>
+					</03_VH>
+				</Noticeboard_banter_9>
+				<Noticeboard_banter_10>
+					<01_VH>
+						<eng>Have your personal photographs taken in our portrait studio!</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Another invention that discriminates against the undead. Think about vampires. Or me. I always look blurry.</eng>
+					</02_Katarina>
+				</Noticeboard_banter_10>
+				<Noticeboard_banter_11>
+					<01_Katarina>
+						<eng>“The Carnival of Seven Wonders has come to Borgovia! Come and see the most unbelievable creatures and stunning performances.” That sounds intriguing.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I doubt it. There will be clowns. I hate clowns.</eng>
+					</02_VH>
+				</Noticeboard_banter_11>
+				<Noticeboard_banter_12>
+					<01_Katarina>
+						<eng>This one looks hand-printed.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Long live the bourgeois bloodsucking aristocracy! Down with the Scientocracy!</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Where were these people when I was a young ghost and the commoners always tried to burn down the palaces of the noble undead?</eng>
+					</03_Katarina>
+				</Noticeboard_banter_12>
+				<Noticeboard_banter_13>
+					<01_Katarina>
+						<eng>Ah! The Annual Ball of the Borgovian Secret Societies! Music & Dance! We should really go.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Sorry, but I don’t know any secret handshakes.</eng>
+					</02_VH>
+				</Noticeboard_banter_13>
+				<Noticeboard_banter_14>
+					<01_VH>
+						<eng>Sleepy? Try the Cocoa Coal Fizzy Drink. Contains tar, sugar, ground coffee beans and a Secret Ingredient!</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>That sounds terrible. Why would anyone drink that?</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>It has a secret ingredient. In capital letters. Must be good.</eng>
+					</03_VH>
+				</Noticeboard_banter_14>
+				<Noticeboard_banter_15>
+					<01_Katarina>
+						<eng>Forget those outdated matches and use Fulmigati’s Patented Phosphorous Flame-maker. No more wet firewood!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>But plenty of burn-marks on me.</eng>
+					</02_VH>
+				</Noticeboard_banter_15>
+				<Noticeboard_banter_16>
+					<01_VH>
+						<eng>Amuse your guests with Fulmigati’s Elyctrical Spark-Thrower!</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Define “amuse”.</eng>
+					</02_Katarina>
+				</Noticeboard_banter_16>
+				<Noticeboard_banter_17>
+					<01_VH>
+						<eng>The Von Sturm Phonograph brings a grand orchestra to your dining-room.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>But how? What is a phonograph, anyway?</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Beats me. Maybe a device that shrinks the musicians?</eng>
+					</03_VH>
+				</Noticeboard_banter_17>
+				<Noticeboard_banter_18>
+					<01_VH>
+						<eng>Problems with your plumbing? Signori Mario and Luigi will come to your rescue!</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>I didn’t want to bring this up, but you know, those ancient drains in the lair are a disgrace.</eng>
+					</02_Katarina>
+				</Noticeboard_banter_18>
+				<Noticeboard_banter_19>
+					<01_Katarina>
+						<eng>Afraid of burglars? Try our new Improved Guard Animals to make sure your sleep is not disturbed.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>That probably felt like a good idea at the time.</eng>
+					</02_VH>
+				</Noticeboard_banter_19>
+				<Noticeboard_banter_20>
+					<01_VH>
+						<eng>Ye Olde Curiosity Book-Shoppe! Rare tomes by Mister Abdul Alhazred!</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>And no money-back guarantee.</eng>
+					</02_Katarina>
+				</Noticeboard_banter_20>
+			</Hirdetotabla>
+		</Noticeboard_banters>
+
+		<Final_battle>
+			<Fulmigati>	
+				<The_Final_battle>
+					<01_Fulmigati>
+						<eng>Here we are at last! Congratulations, Mr. Van Helsing! You’ve managed to play our little game right to the end.</eng>
+					</01_Fulmigati>
+					<02_VH>
+						<eng>Do you think that this is a game?</eng>
+					</02_VH>
+					<03_Fulmigati>
+						<eng>Of course it is, the oldest one in the book! The hero and the villain!</eng>
+					</03_Fulmigati>
+					<04_Katarina>
+						<eng>What? He is clearly insane.</eng>
+					</04_Katarina>
+					<05_Fulmigati>
+						<eng>There can be only one!</eng>
+					</05_Fulmigati>
+					<06_Katarina>
+						<eng>Please, make him stop before we drown in clichés.</eng>
+					</06_Katarina>
+					<07_VH>
+						<eng>With pleasure.</eng>
+					</07_VH>
+				</The_Final_battle>
+				<Fulmigati_banter_1>
+					<01_Fulmigati>
+						<eng>They didn’t call me mad! Never! But I’ll show them all! I’LL SHOW THEM!</eng>
+					</01_Fulmigati>
+				</Fulmigati_banter_1>
+				<Fulmigati_banter_2>
+					<01_Fulmigati>
+						<eng>I don’t expect you to talk, Mr. Van Helsing. I expect you to die!</eng>
+					</01_Fulmigati>
+				</Fulmigati_banter_2>
+				<Fulmigati_banter_3>
+					<01_Fulmigati>
+						<eng>You underestimate the power of SCIENCE!</eng>
+					</01_Fulmigati>
+				</Fulmigati_banter_3>
+				<Fulmigati_banter_4>
+					<01_Fulmigati>
+						<eng>Ever danced with a giant machine in the pale moonlight?</eng>
+					</01_Fulmigati>
+				</Fulmigati_banter_4>
+				<Fulmigati_banter_5>
+					<01_Fulmigati>
+						<eng>You wouldn’t hit a man in a giant robot, would you?</eng>
+					</01_Fulmigati>
+				</Fulmigati_banter_5>
+				<Fulmigati_banter_6>
+					<01_Fulmigati>
+						<eng>You and me, Van Helsing! And our problem! The Final Problem!</eng>
+					</01_Fulmigati>
+				</Fulmigati_banter_6>
+				<Fulmigati_banter_7>
+					<01_Fulmigati>
+						<eng>My plan is… sheer simplicity in its elegance!</eng>
+					</01_Fulmigati>
+				</Fulmigati_banter_7>				
+				<Fulmigati_banter_9>
+					<01_Fulmigati>
+						<eng>This… is… SCIENCE!!!</eng>
+					</01_Fulmigati>
+				</Fulmigati_banter_9>
+				<Fulmigati_banter_10>
+					<01_Fulmigati>
+						<eng>How do you like this experiment, Mr. Van Helsing?</eng>
+					</01_Fulmigati>
+				</Fulmigati_banter_10>
+				<Fulmigati_banter_11>
+					<01_Fulmigati>
+						<eng>I’m going to enjoy watching you FRY, Mr. Van Helsing.</eng>
+					</01_Fulmigati>
+				</Fulmigati_banter_11>
+				<Fulmigati_banter_12>
+					<01_Fulmigati>
+						<eng>When Borgova is in ashes, you have my permission to… retire?</eng>
+					</01_Fulmigati>
+				</Fulmigati_banter_12>
+				<Fulmigati_banter_13>
+					<01_Fulmigati>
+						<eng>When the testing is over, you’ll be… an ex-hunter!</eng>
+					</01_Fulmigati>
+				</Fulmigati_banter_13>
+				<Fulmigati_wounded_1>
+					<01_Fulmigati>
+						<eng>I’m melting! I’m melting!</eng>
+					</01_Fulmigati>
+				</Fulmigati_wounded_1>
+				<Fulmigati_wounded_2>
+					<01_Fulmigati>
+						<eng>Don’t do this! Join me, and together we can rule Borgova!</eng>
+					</01_Fulmigati>
+				</Fulmigati_wounded_2>
+				<Fulmigati_wounded_3>
+					<01_Fulmigati>
+						<eng>You wouldn’t rob an old man of his killer automaton, would you?</eng>
+					</01_Fulmigati>
+				</Fulmigati_wounded_3>
+				<Fulmigati_wounded_4>
+					<01_Fulmigati>
+						<eng>No! Noooo! Noooooooo!</eng>
+					</01_Fulmigati>
+				</Fulmigati_wounded_4>
+			</Fulmigati>
+			<Van_Helsing>
+				<Building_will_collapse>
+					<01_VH>
+							<eng>What is this rumble…? Oh, for the love of…! These mad scientists and their nasty surprises! Katarina, out! Fulmigati’s death must have triggered a self-destruction sequence. The building will collapse!</eng>
+					</01_VH>
+				</Building_will_collapse>
+			</Van_Helsing>
+		</Final_battle>
+
+		<General>
+			<Katarina>
+				<GoShopping1>
+					<01_Katarina>
+						<eng>I won’t go. Only joking, I’ll do it.</eng>
+					</01_Katarina>
+				</GoShopping1>
+				<GoShopping2>
+					<01_Katarina>
+						<eng>But I’ll miss all the fun!</eng>
+					</01_Katarina>
+				</GoShopping2>
+				<GoShopping3>
+					<01_Katarina>
+						<eng>I’ll be back!</eng>
+					</01_Katarina>
+				</GoShopping3>
+				<GoShopping4>
+					<01_Katarina>
+						<eng>Can I buy some candy too?</eng>
+					</01_Katarina>
+				</GoShopping4>
+				<GoShopping5>
+					<01_Katarina>
+						<eng>You’re trusting me with your money...?</eng>
+					</01_Katarina>
+				</GoShopping5>
+				<GoShopping6>
+					<01_Katarina>
+						<eng>Don’t get killed while I’m gone.</eng>
+					</01_Katarina>
+				</GoShopping6>
+				<GoShopping7>
+					<01_Katarina>
+						<eng>Hahaha! You’ll never see these things again!</eng>
+					</01_Katarina>
+				</GoShopping7>
+				<GoShopping8>
+					<01_Katarina>
+						<eng>Trying to get rid of me? Don’t you know it’s futile?</eng>
+					</01_Katarina>
+				</GoShopping8>
+				<GoShopping9>
+					<01_Katarina>
+						<eng>Slave driver! Next time you go and I’ll do nothing.</eng>
+					</01_Katarina>
+				</GoShopping9>
+				<BackFromShopping1>
+					<01_Katarina>
+						<eng>I’m back. Missed me?</eng>
+					</01_Katarina>
+				</BackFromShopping1>
+				<BackFromShopping2>
+					<01_Katarina>
+						<eng>Honey, I’m home!</eng>
+					</01_Katarina>
+				</BackFromShopping2>
+				<BackFromShopping3>
+					<01_Katarina>
+						<eng>I got robbed on the way back. All the money’s gone. *giggles*</eng>
+					</01_Katarina>
+				</BackFromShopping3>
+				<BackFromShopping4>
+					<01_Katarina>
+						<eng>I bought myself a new pair of shoes. I hope you don’t mind.</eng>
+					</01_Katarina>
+				</BackFromShopping4>
+				<BackFromShopping5>
+					<01_Katarina>
+						<eng>Have you seen a stranger with a ridiculous hat?</eng>
+					</01_Katarina>
+				</BackFromShopping5>
+				<BackFromShopping6>
+					<01_Katarina>
+						<eng>Hey! I’m a princess trapped by an evil man. If you free me... Oh... it’s you.</eng>
+					</01_Katarina>
+				</BackFromShopping6>
+				<BackFromShopping7>
+					<01_Katarina>
+						<eng>Special delivery!</eng>
+					</01_Katarina>
+				</BackFromShopping7>
+				<BackFromShopping8>
+					<01_Katarina>
+						<eng>Here’s your gold. I already took my 20%. Hahaha, made you look!</eng>
+					</01_Katarina>
+				</BackFromShopping8>
+				<BackFromShopping9>
+					<01_Katarina>
+						<eng>If you send me away one more time, I’ll be free! Oh I wish...</eng>
+					</01_Katarina>
+				</BackFromShopping9>
+				<WolfDenSigils1>
+					<01_Katarina>
+						<eng>What are you waiting for? Should I destroy these sigils or what?</eng>
+					</01_Katarina>
+				</WolfDenSigils1>
+				<WolfDenSigils2>
+					<01_Katarina>
+						<eng>Aren’t you forgetting something? Like destroying these sigils?</eng>
+					</01_Katarina>
+				</WolfDenSigils2>
+			</Katarina>
+			<Olomkatona>
+				<01_Olomkatona>
+					<eng>Aim!</eng>
+				</01_Olomkatona>
+				<02_Olomkatona>
+					<eng>Fire!</eng>
+				</02_Olomkatona>
+				<03_Olomkatona>
+					<eng>For progress and science!</eng>
+				</03_Olomkatona>
+				<04_Olomkatona>
+					<eng>Halt!</eng>
+				</04_Olomkatona>
+				<05_Olomkatona>
+					<eng>Halt! Suspicious citizen detected!</eng>
+				</05_Olomkatona>
+				<06_Olomkatona>
+					<eng>Identify yourself!</eng>
+				</06_Olomkatona>
+				<07_Olomkatona>
+					<eng>Move out!</eng>
+				</07_Olomkatona>
+				<08_Olomkatona>
+					<eng>Stop!</eng>
+				</08_Olomkatona>
+				<09_Olomkatona>
+					<eng>Surrender!</eng>
+				</09_Olomkatona>
+				<10_Olomkatona>
+					<eng>Terminate your hostile behavior.</eng>
+				</10_Olomkatona>
+			</Olomkatona>
+		</General>
+
+	</SimplifiedConversation>
+</Root>

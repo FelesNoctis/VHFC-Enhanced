@@ -1,0 +1,1354 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quests>
+		<Tutorial_objective>
+			<Name>
+				<eng>Beneath the Palace</eng>
+			</Name>
+			<desc>
+				<eng>It seems the reward for defeating a mad scinetist and his army of abominations is getting buried under a heap of smoldering rubble. Fortunately someone helped out me for a change. But I must still find my way out of the basement of the Palace of Machines.</eng>
+			</desc>
+			<main>
+				<eng>Find your way back to the Lair</eng>
+			</main>
+			<Equipment>
+				<eng>Gather your equipment</eng>
+			</Equipment>
+			<Completed>
+				<eng>My new ally - Prisoner Seven - assisted me in finding my way home. He also gave me grave news: a new threat is on the horizon and I must prepare. No rest for the heroic, I suppose.</eng>
+			</Completed>
+		</Tutorial_objective>
+		<Ch1_Clear_the_streets>
+			<Name>
+				<eng>Clear out Viaduct Junction</eng>
+			</Name>
+			<desc>
+				<eng>General Harker deployed infiltrator units behind our defense lines and they are wreaking havoc. I must eliminate them.</eng>
+			</desc>
+			<main>
+				<eng>Eliminate the infiltrator units</eng>
+			</main>
+			<Completed>
+				<eng>General Harker deployed infiltrator units behind our lines, but I was able to eliminate them before they caused too much damage.</eng>
+			</Completed>
+		</Ch1_Clear_the_streets>
+		<Ch1_The_siege>
+			<Name>
+				<eng>The Siege</eng>
+			</Name>
+			<desc>
+				<eng>General Harker's army has us besieged in Viaduct Junction, the the factory district of Borgova. The enemy is using force domes to protect their staging areas, and that puts us on the defensive for now. My trusty vampire ally, Vlados is trying to find a way to disable these domes and we must hold out until he succeeds. Hopefully, he will succeed.</eng>
+			</desc>
+			<main>
+				<eng>Speak with Commander Petrov</eng>
+			</main>
+			<Listen>
+				<eng>Hear the commander's report!</eng>
+			</Listen>
+			<Talk>
+				<eng>Talk to Commander Petrov!</eng>
+			</Talk>
+			<Return>
+				<eng>Go back to the commander and get ready for battle!</eng>
+			</Return>
+			<Retreat>
+				<eng>Cover the retreat!</eng>
+			</Retreat>
+			<Defend>
+				<eng>Defend Viaduct Junction</eng>
+			</Defend>
+			<Completed>
+				<eng>We held out as long as possible but our efforts weren't enough today. General Harker has control over the rails leading to the Foundry.</eng>
+			</Completed>
+		</Ch1_The_siege>
+		<Ch1_The_first_wave>
+			<Name>
+				<eng>The first wave</eng>
+			</Name>
+			<desc>
+				<eng>The enemy offensive is imminent. We must prepare our defenses.</eng>
+			</desc>
+			<main>
+				<eng>Give orders to your soldiers in the first line of defense!</eng>
+			</main>
+			<Go_back>
+				<eng>Go back to the commander and get ready for battle</eng>
+			</Go_back>
+			<Repel1>
+				<eng>Repel the first wave of attack!</eng>
+			</Repel1>
+			<Completed>
+				<eng>The first wave of attack was succesfully repelled.</eng>
+			</Completed>
+		</Ch1_The_first_wave>
+		<Ch1_First_line_of_defense>
+			<Name>
+				<eng>Troubles of the first line</eng>
+			</Name>
+			<desc>
+				<eng>Prisoner Seven brought a message from Commander Petrov. It seems the captains in the first line of defense have something to report about the situation.</eng>
+			</desc>
+			<main>
+				<eng>Talk to the captains</eng>
+			</main>
+			<Speak1>
+				<eng>Speak with Captain Lugov!</eng>
+			</Speak1>
+			<Speak2>
+				<eng>Speak with Captain Vrikov!</eng>
+			</Speak2>
+			<Speak3>
+				<eng>Speak with Captain Volovich!</eng>
+			</Speak3>
+			<Speak4>
+				<eng>Speak with Captain Bolshoy!</eng>
+			</Speak4>
+			<Completed>
+				<eng>The captains have made their reports. Now it's up to me to use their information to our advantage.</eng>
+			</Completed>
+		</Ch1_First_line_of_defense>
+		<Ch1_The_ornithopter_base>
+			<Name>
+				<eng>Ornithopter Control Station</eng>
+			</Name>
+			<desc>
+				<eng>The enemy has an ornithopter control station nearby, which is giving us much grief. I decided to try and destroy it before the second wave of attack begins.</eng>
+			</desc>
+			<main>
+				<eng>Find an engineer!</eng>
+			</main>
+			<Destroy>
+				<eng>Sabotage the control stations! ([Controller_deactivate]/3)</eng>
+			</Destroy>			
+			<Find>
+				<eng>Find another engineer!</eng>
+			</Find>
+			<Completed>
+				<eng>I managed to disable the ornithopter control station. Those ornithopters won't cause any more trouble.</eng>
+			</Completed>					
+		</Ch1_The_ornithopter_base>
+		<Ch1_The_phlogiston_factory>
+			<Name>
+				<eng>The phlogiston plant</eng>
+			</Name>
+			<desc>
+				<eng>We need to blow up the railway bridge that leads to one of our defensive positions to give it a fighting chance. The men suggested to release phlogiston from a tank directly beneath the bridge and use that as an explosive. I just need to open some gas valves first.</eng>
+			</desc>
+			<main>
+				<eng>Open the gas valves!</eng>
+			</main>			
+			<Destroy>
+				<eng>Leave the area with the elevator and ignite the gas cloud with an elyctric apparatus!</eng>
+			</Destroy>
+			<Completed>
+				<eng>I succesfully blew up the railway bridge. The enemy can only approach from one direction now.</eng>
+			</Completed>					
+		</Ch1_The_phlogiston_factory>
+		<Ch1_The_second_wave>
+			<Name>
+				<eng>The second wave</eng>
+			</Name>
+			<desc>
+				<eng>We managed to repel the first wave of attack but the the battle is far from over. We need to regroup and fill any gaps in our lines.</eng>
+			</desc>
+			<main>
+				<eng>Give orders to your soldiers in the second line of defense!</eng>
+			</main>
+			<Go_back>
+				<eng>Go back to the commander and get ready for battle</eng>
+			</Go_back>
+			<Repel2>
+				<eng>Repel the second wave of attack!</eng>
+			</Repel2>
+			<Completed>
+				<eng>The second wave was repelled, although at a grave cost.</eng>
+			</Completed>
+		</Ch1_The_second_wave>
+		<Ch1_Rescue_Vlados>
+			<Name>
+				<eng>Vlados in trouble</eng>
+			</Name>
+			<desc>
+				<eng>News about Count Vlados has finally come, but it is not good. It seems he won't be saving the Resistance today, the Resistance needs to save him. And by the Resistence I mean myself.</eng>
+			</desc>
+			<main>
+				<eng>Rescue Count Vlados!</eng>
+			</main>
+			<Speak_Vcapt>
+				<eng>Locate and talk to the captain serving under Vlados!</eng>
+			</Speak_Vcapt>
+			<Completed>
+				<eng>I've reached the Count's supposed position but I only found some of his men. Our vampire friend is still missing in action.</eng>
+			</Completed>
+		</Ch1_Rescue_Vlados>
+		<Ch1_Saving_private_Bryan>
+			<Name>
+				<eng>Saving Private Bryan</eng>
+			</Name>
+			<desc>
+				<eng>Apparently my position as leader of the Resistance is best used to save a private named Bryan. He must be really favored by the higher powers.</eng>
+			</desc>
+			<main>
+				<eng>Find Private Bryan</eng>
+			</main>
+			<Escort>
+				<eng>Escort Private Bryan to the exit</eng>
+			</Escort>
+			<Completed>
+				<eng>Saving Private Bryan was probably one of the toughest missions I'll perform in the war. I almost died - as usual - but it's done.</eng>
+			</Completed>								
+		</Ch1_Saving_private_Bryan>
+		<Ch1_Protect_evacuation_of_the_wounded>
+			<Name>
+				<eng>Evacuating the injured</eng>
+			</Name>
+			<desc>
+				<eng>An officer is evacuating a wounded Resistance leader. Without proper protection they are easy prey for the enemy.</eng>
+			</desc>
+			<main>
+				<eng>Find the triage officer and escort him to safety!</eng>
+			</main>
+			<Completed>
+				<eng>The wounded Resistance leader has been succesfully evacuated.</eng>
+			</Completed>								
+		</Ch1_Protect_evacuation_of_the_wounded>
+		<Ch1_Protect_the_weapon_shipment>
+			<Name>
+				<eng>Weapon supplies</eng>
+			</Name>
+			<desc>
+				<eng>A major weapon shipment is on the move to safety. Its protection may be essential to keep the Resistance afloat for a while.</eng>
+			</desc>
+			<main>
+				<eng>Locate the weapon shipment and protect it!</eng>
+			</main>
+			<Completed>
+				<eng>The weapon shipment has been taken to my Secret Lair.</eng>
+			</Completed>								
+		</Ch1_Protect_the_weapon_shipment>
+		<Ch1_hunter_explorers>
+			<Name>
+				<eng>Octopod Annihilator</eng>
+			</Name>
+			<desc>
+				<eng>Here I thought the Doomsday Automaton was Fulmigati's worst invention... Apparently there is a so -called "Octopod Annihilator" as well. Good thing I like a challenge.</eng>
+			</desc>
+			<main>
+				<eng>Destroy the Octopod Annihilator!</eng>
+			</main>
+			<Completed>
+				<eng>I succesfully destroyed the Octopod Annihilator.</eng>
+			</Completed>
+		</Ch1_hunter_explorers>
+		<Ch1_Free_Telsa>
+			<Name>
+				<eng>The prisoner</eng>
+			</Name>
+			<desc>
+				<eng>Our soldiers have found an ornithopter that was reprogrammed and sent to us by the famous inventor Nicola Telsa. Apparently he was captured by Harker's forces and he wants us to free him. The ornithopter should lead us to his prison.</eng>
+			</desc>
+			<main>
+				<eng>Go to the Drainage Tunnels!</eng>
+			</main>
+			<Follow>
+				<eng>Follow the ornithopter to the Drainage Tunnels!</eng>
+			</Follow>
+			<Rescue>
+				<eng>Rescue Telsa!</eng>
+			</Rescue>
+			<Completed>
+				<eng>I found and rescued Telsa. He is working for us now.</eng>
+			</Completed>
+		</Ch1_Free_Telsa>
+		<Ch1_First_Tower_defense>
+			<Name>
+				<eng>The Subterranean Incursion</eng>
+			</Name>
+			<desc>
+				<eng>Harker's forces are relentlessly scouring the tunnels in search of my lair and they managed to reach one of our outlying outposts. We need to mount a defense there to keep them at bay.</eng>
+			</desc>
+			<main>
+				<eng>Defend the resistance outpost against the Subterranean Incursion!</eng>
+			</main>
+			<report>
+				<eng>Go back to Commander Petrov</eng>
+			</report>
+			<Completed>
+				<eng>Harker's underground attack force has been succesfully repelled. The Lair will remain safe for a while.</eng>
+			</Completed>
+		</Ch1_First_Tower_defense>
+		<Ch1_Resistance_elite>
+			<Name>
+				<eng>Resistance Elite</eng>
+			</Name>
+			<desc>
+				<eng>It seems I am to play commander for quite a while. A group of elite soldiers have been assigned under my command, led by three captains. I am to send them on various missions.</eng>
+			</desc>
+			<main>
+				<eng>Meet your captains!</eng>
+			</main>
+			<Send_captain>
+				<eng>Send a captain on the mission to recover Thor's Hammer!</eng>
+			</Send_captain>
+			<Completed>
+				<eng>I have spoken to my captains and learned about their strengths. I should check back with them from time to time and send them on available missions.</eng>
+			</Completed>		
+		</Ch1_Resistance_elite>
+		<Ch1_Prisoners>
+			<Name>
+				<eng>Prisoners</eng>
+			</Name>
+			<desc>
+				<eng>A beggar revealed that there is a secret section in the prison with more prisoners. Freeing them could bolster the ranks of the Resistance.</eng>
+			</desc>
+			<main>
+				<eng>Free all prisoners in the secret Holding Facility</eng>
+			</main>
+			<Completed>
+				<eng>The hidden section of the prison is now empty. We have gained quite a few loyal freedom fighters today.</eng>
+			</Completed>		
+		</Ch1_Prisoners>
+		<Ch1_Power_of_Perun_Part1>
+			<Name>
+				<eng>Power of Perun - Part 1</eng>
+			</Name>
+			<desc>
+				<eng>According to Prisoner Seven, there is a mystical figure of great power in the Thunderhead Mountains who could help us deal with Harker's force domes. Even though this "Perun" may only be a legend, the Hunters' Guild must have sealed the area for a reason. Whoever or whatever is there, might be able to turn the tide of this war.</eng>
+			</desc>
+			<main>
+				<eng>Make your way to the plateau</eng>
+			</main>
+			<Pass_through>
+				<eng>Pass through the caves and find the other exit</eng>
+			</Pass_through>
+			<Completed>
+				<eng>We have made our way to the plateau called Giantwoods. The power we seek is definitely here, but we still need to find the exact place.</eng>
+			</Completed>
+		</Ch1_Power_of_Perun_Part1>
+		<Ch1_Power_of_Perun_Part2>
+			<Name>
+				<eng>Power of Perun - Part 2</eng>
+			</Name>
+			<desc>
+				<eng>The Giantwoods is a cold and dangerous area that was sealed by the Hunters' Guild long ago. I must thoroughly explore it to find Perun.</eng>
+			</desc>
+			<main>
+				<eng>Find Perun in the Giantwoods</eng>
+			</main>
+			<Speak1>
+				<eng>Speak with the Giant Stonehead</eng>
+			</Speak1>
+			<Speak2>
+				<eng>Speak with all Giant Stoneheads</eng>
+			</Speak2>
+			<Speak3>
+				<eng>Return to the first Stonehead</eng>
+			</Speak3>
+			<Completed>
+				<eng>I have finally been granted access to the mountain where Perun is imprisoned but I must still reach its peak.</eng>
+			</Completed>
+		</Ch1_Power_of_Perun_Part2>
+		<Ch1_Power_of_Perun_Part3>
+			<Name>
+				<eng>Power of Perun - Part 3</eng>
+			</Name>
+			<desc>
+				<eng>The final leg of my quest is ahead of me. I must climb to the top of the mountain and acquire Perun's power. The place is no doubt heavily guarded so I better prepare for a difficult fight.</eng>
+			</desc>
+			<main>
+				<eng>Go to Perun's prison</eng>
+			</main>
+			<Defeat>
+				<eng>Defeat the Guardians of Perun</eng>
+			</Defeat>
+			<Kill>
+				<eng>Kill the Adepts</eng>
+			</Kill>
+			<Break>
+				<eng>Break the seal</eng>
+			</Break>
+			<Return>
+				<eng>Return to Prisoner Seven in the Lair</eng>
+			</Return>
+			<Completed>
+				<eng>My mission was a success. Perun's power will soon be unleashed and we shall be able to break through without those blasted force domes blocking us at every turn.</eng>
+			</Completed>
+		</Ch1_Power_of_Perun_Part3>
+		<Ch1_Childrens_of_evil>
+			<Name>
+				<eng>Children of Evil</eng>
+			</Name>
+			<desc>
+				<eng>I have inadvertantly summoned a group of evil giants by sounding a gong. I'd rather dispatch them.</eng>
+			</desc>
+			<main>
+				<eng>Kill the evil Giants!</eng>
+			</main>
+			<Completed>
+				<eng>By sounding a gong I summoned some evil giants, but I took care of them. I'd rather watch what I touch in the future.</eng>
+			</Completed>
+		</Ch1_Childrens_of_evil>
+		<Ch1_Csort_breathes>
+			<Name>
+				<eng>The Black Idol</eng>
+			</Name>
+			<desc>
+				<eng>We came across a place where the veil between the Ink and the real world has been broken. An Adept of Perun requested that we go through and deal with whatever's the cause of the problem.</eng>
+			</desc>
+			<main>
+				<eng>Cross the gate bridge into the ink and Destroy the Black Idol</eng>
+			</main>
+			<Speak>
+				<eng>Speak with the Adept of Perun</eng>
+			</Speak>
+			<Completed>
+				<eng>The tear between the Ink and the real world has been mended. At least this one was.</eng>
+			</Completed>
+		</Ch1_Csort_breathes>
+		<Ch1_Ancient_clock>
+			<Name>
+				<eng>Ancient clock</eng>
+			</Name>
+			<desc>
+				<eng>We came across an inventor called Vasily Mechanov. He is looking for an ancient family heirloom and asked us to help him retrieve it. He agreed to lend his services to the resistance if we do.</eng>
+			</desc>
+			<main>
+				<eng>Find the clockwork in the Cold Caverns</eng>
+			</main>
+			<Speak_Vasily>
+				<eng>Speak with Vasily Mechanov</eng>
+			</Speak_Vasily>
+			<Completed>
+				<eng>We returned the ancient clock to our new friend Vasily. He has also joined the Resistance and went ahead to the Secret Lair. I'll find him there.</eng>
+			</Completed>
+		</Ch1_Ancient_clock>
+		<Ch1_The_curse>
+			<Name>
+				<eng>The curse</eng>
+			</Name>
+			<desc>
+				<eng>I've met a group of spirits who asked for my help. Apparently someone from their village stole a relic from the Spiritwalkers who in turn cursed them with eternal afterlife until the relic is returned. If I am to help, I must either find the relic or destroy the spiritwalker's totem to end the curse.</eng>
+			</desc>
+			<main>
+				<eng>Find the Spiritwalkers' relic or destroy the Spiritwalker totem</eng>
+			</main>
+			<Find>
+				<eng>Find the Spiritwalkers' ritual place</eng>
+			</Find>
+			<Destroy>
+				<eng>Destroy the spiritwalker's totem</eng>
+			</Destroy>
+			<Completed>
+				<eng>The Spiritwalker curse has been lifted. The troubled spirits can rest in peace.</eng>
+			</Completed>
+		</Ch1_The_curse>
+		<Ch1_The_spiritwalker_camp2>
+			<main>
+				<eng>Talk to the Spiritwalker Elder</eng>
+			</main>
+		</Ch1_The_spiritwalker_camp2>
+		<Ch1_Free_merchant>
+			<Name>
+				<eng>Free the merchant</eng>
+			</Name>
+			<desc>
+				<eng>My old acquaintenance, the traveling merchant is in trouble again. This time, the Spiritwalkers accuse him with awakening some dark earth spirit and plan to sacrifice him. Perhaps I should do something.</eng>
+			</desc>
+			<main>
+				<eng>Talk to the Spiritwalker Elder</eng>
+			</main>
+			<Fight>
+				<eng>Kill all Spiritwalkers</eng>
+			</Fight>
+			<Calm>
+				<eng>Deal with the Spirit of the Deep</eng>
+			</Calm>
+			<Find>
+				<eng>Find the missing runestone for the well</eng>
+			</Find>
+			<Return>
+				<eng>Return to the Spiritwalker Elder</eng>
+			</Return>
+			<Open>
+				<eng>Open the bone prison and free the traveling merchant</eng>
+			</Open>
+			<Completed>
+				<eng>I managed to save the traveling merchant once more. I wonder how long it'll be until I find him in trouble again...</eng>
+			</Completed>
+		</Ch1_Free_merchant>
+		<Ch1_Gate_of_Perun>
+			<Name>
+				<eng>Gate of Perun</eng>
+			</Name>
+			<desc>
+				<eng>An over-enthusiastic adept of Perun has opened a nearby Perun's Gate and many frost spirits came through. I must decide whether to close the gate again or not.</eng>
+			</desc>
+			<main>
+				<eng>Eliminate all frost spirits around Perun's Gate</eng>
+			</main>
+			<Close>
+				<eng>Close the gate</eng>
+			</Close>
+			<Completed>
+				<eng>The gate has been closed. The frost demons shall not plague this land anymore.</eng>
+			</Completed>
+		</Ch1_Gate_of_Perun>
+		<Ch1_Szerpentin_ghoul>
+			<main>
+				<eng>Woody</eng>
+			</main>
+		</Ch1_Szerpentin_ghoul>
+		<Ch1_The_massacred_caravan>
+			<main>
+				<eng>Massacred Caravan</eng>
+			</main>
+		</Ch1_The_massacred_caravan>
+		<Ch1_The_moonstone>
+			<main>
+				<eng>Corpse</eng>
+			</main>
+		</Ch1_The_moonstone>
+		<Ch2_Second_Tower_defense>
+			<Name>
+				<eng>Invasion of the Rat-Things</eng>
+			</Name>
+			<desc>
+				<eng>Harker's underground forces have gained access to a tunnel dangerously close to the Lair. We must push them back and seal the tunnel to once again secure our hideout.</eng>
+			</desc>
+			<main>
+				<eng>Defend the tunnels against the Invasion of the Rat-Things</eng>
+			</main>	
+			<Report2>
+				<eng>Speak with the commander</eng>
+			</Report2>
+			<Completed>
+				<eng>Harker's underground troops have been repelled once more. I hope we can end this war before they gain enough strength to try again.</eng>
+			</Completed>	
+		</Ch2_Second_Tower_defense>
+		<Ch2_Third_Tower_defense>
+			<Name>
+				<eng>The Inhuman Regiment</eng>
+			</Name>
+			<desc>
+				<eng>Since the storm makes any military action on the surface impossible, Harker moved a sizeable force underground and launched yet another assault in the tunnels. They must be stopped.</eng>
+			</desc>
+			<main>
+				<eng>Defend the tunnels against the Inhuman Regiment!</eng>
+			</main>
+			<Report3>
+				<eng>Speak with the commander</eng>
+			</Report3>
+			<Completed>
+				<eng>Harker's third underground offensive suffered the same fate as the ones before. We won again.</eng>
+			</Completed>	
+		</Ch2_Third_Tower_defense>
+		<Ch2_Tear_of_Koscsej>
+			<main>
+				<eng>Talk to Dr. Dampf about the moonstones!</eng>
+			</main>
+		</Ch2_Tear_of_Koscsej>
+		<Ch2_Legend_of_chimera>
+			<Name>
+				<eng>Legend of the Chimera</eng>
+			</Name>
+			<desc>
+				<eng>Prisoner Seven has found an abandoned facility in the ink where Fulmigati ran some promising experiments. He believes I might find something useful there, so I should journey there and check it out.</eng>
+			</desc>
+			<main>
+				<eng>Explore the secret laboratory</eng>
+			</main>
+			<Find_arena>
+				<eng>Find the Circle of Combat</eng>
+			</Find_arena>
+			<Defeat>
+				<eng>Defeat the Chimera</eng>
+			</Defeat>
+			<Go_back>
+				<eng>Go back to the Lair and speak with Prisoner Seven</eng>
+			</Go_back>
+			<Look_chimera>
+				<eng>Go to your study and meet your new guardian!</eng>
+			</Look_chimera>
+			<Completed>
+				<eng>I've managed to learn quite a bit about my newest... companion. I have no doubt that this creature will prove very useful.</eng>
+			</Completed>
+		</Ch2_Legend_of_chimera>
+		<Ch2_Chimera_informations>
+			<main>
+				<eng>Gather information from the books</eng>
+			</main>
+		</Ch2_Chimera_informations>
+		<Ch2_Counter_offensive>
+			<Name>
+				<eng>Counteroffensive</eng>
+			</Name>
+			<desc>
+				<eng>The tables have turned and we are on the offensive at last. Our target is the Foundry but we must break through Harker's lines at viaduct Junction first.</eng>
+			</desc>
+			<main>
+				<eng>Meet Captain Vrikov at the Viaduct Junction</eng>
+			</main>
+			<Brake_trough>
+				<eng>Break through the enemy lines and reach the gate to the Foundry</eng>
+			</Brake_trough>
+			<Eliminate_automatons>
+				<eng>Eliminate the Doomsday Machines</eng>
+			</Eliminate_automatons>
+			<proceed>
+				<eng>Proceed to the Foundry</eng>
+			</proceed>
+			<Completed>
+				<eng>The Viaduct Junction is ours again! The initive is decidedly ours now and morele is clearly rising amongst the men.</eng>
+			</Completed>
+		</Ch2_Counter_offensive>
+		<Ch2_Enemy_outpost>
+			<Name>
+				<eng>Enemy outpost</eng>
+			</Name>
+			<desc>
+				<eng>Our counter offensive against Viaduct Junction has met fierce resistance and we are in danger of losing our momentum. Fortunately, our scouts have spotted a weak spot in the enemy line. I am to lead the charge against it.</eng>
+			</desc>
+			<main>
+				<eng>Clear the enemy outpost</eng>
+			</main>
+			<Completed>
+				<eng>We have broken through! Now I can flank the other enemy positions and assist our troops in their push forward.</eng>
+			</Completed>
+		</Ch2_Enemy_outpost>
+		<Ch2_The_Ornithopter_base_2>
+			<Name>
+				<eng>Enemy Strongpoint</eng>
+			</Name>
+			<desc>
+				<eng>Harker's forces are dug in around ornithopter control tower and our attempts to dislodge them have been unsuccesful thus far. Seems like my personal assistance is needed to take this vital point on the battlefield.</eng>
+			</desc>
+			<main>
+				<eng>Help the Resistance soldiers to occupy the ornithopter control tower!</eng>
+			</main>
+			<Completed>
+				<eng>Another success. The control tower is ours and we can continue the offensive.</eng>
+			</Completed>
+		</Ch2_The_Ornithopter_base_2>
+		<Ch2_The_artillery>
+			<Name>
+				<eng>The Artillery</eng>
+			</Name>
+			<desc>
+				<eng>The enemy has an artillery position nearby and it is only lightly protected. That means we have the opportunity to take it and turn it against the enemy.</eng>
+			</desc>
+			<main>
+				<eng>Occupy the artillery</eng>
+			</main>
+			<Completed>
+				<eng>The artillery position is ours. Time to rain death on Harker's lines.</eng>
+			</Completed>
+		</Ch2_The_artillery>
+		<Ch2_The_railway_gun>
+			<Name>
+				<eng>The Railway Gun</eng>
+			</Name>
+			<desc>
+				<eng>There is a heavy railway cannon blocking our way. It is capable of great devestation so it must be neutralized.</eng>
+			</desc>
+			<main>
+				<eng>Neutralize the railway gun</eng>
+			</main>
+			<Completed>
+				<eng>The cannon has been silenced.</eng>
+			</Completed>
+		</Ch2_The_railway_gun>
+		<Ch2_Four_choise>
+			<main>
+				<eng>You can give orders to this captain</eng>
+			</main>
+		</Ch2_Four_choise>
+		<Ch2_Retake_Ornithopter_base>
+			<Name>
+				<eng>Ornithopter Control Tower</eng>
+			</Name>
+			<desc>
+				<eng>The enemy has recaptured the ornithopter launch tower and is tring to reactivate it. It was the source of much grief in the first battle of Viaduct Junction, so we must make take it back at all cost.</eng>
+			</desc>
+			<main>
+				<eng>Retake the Ornithopter Control Tower</eng>
+			</main>
+			<Completed>
+				<eng>We managed to clear the area around the ornithopter launch tower just in time.</eng>
+			</Completed>
+		</Ch2_Retake_Ornithopter_base>
+		<Ch2_Harker_captains>
+			<Name>
+				<eng>Bounty hunting</eng>
+			</Name>
+			<desc>
+				<eng>I have been given three targets of opportunity, a war criminal, a serial killer and a new automaton prototype. I should take care of them if the bettlefield situation permits it.</eng>
+			</desc>
+			<main>
+				<eng>Find Harker's dogs ([Finded_harker_captain]/3)</eng>
+			</main>
+			<Kill_capt1>
+				<eng>Eliminate the Harker's captain</eng>
+			</Kill_capt1>
+			<Kill_capt2>
+				<eng>Eliminate the murderer</eng>
+			</Kill_capt2>
+			<Kill_capt3>
+				<eng>Destroy the prototype</eng>
+			</Kill_capt3>
+			<Completed>
+				<eng>All three targets have been eliminated.</eng>
+			</Completed>
+		</Ch2_Harker_captains>
+		<Ch2_Fourth_Tower_defense>
+			<Name>
+				<eng>Maze of Blades</eng>
+			</Name>
+			<desc>
+				<eng>Harker chose to approach the Lair through the oldest and most dangerous vaults where no one dares to enter. I'll meet him there.</eng>
+			</desc>
+			<main>
+				<eng>Defend the tunnels at the Maze of Blades</eng>
+			</main>	
+			<Report4>
+				<eng>Speak with the commander</eng>
+			</Report4>
+			<Completed>
+				<eng>The vaults are secure once more.</eng>
+			</Completed>	
+		</Ch2_Fourth_Tower_defense>
+		<Ch2_Clear_the_Foundry>
+			<Name>
+				<eng>The Foundry</eng>
+			</Name>
+			<desc>
+				<eng>Without the Force Domes, the Foundry is wide open for an assault. It will no doubt be a costly operation but control of this vital facility may be the deciding factor in the outcome of the war.</eng>
+			</desc>
+			<main>
+				<eng>Take back the Foundry ([occupied_area]%)</eng>
+			</main>
+			<command>
+				<eng>You can give new orders to this captain</eng>
+			</command>
+			<Talk_captain>
+				<eng>Talk to the captain</eng>
+			</Talk_captain>
+			<Completed>
+				<eng>We took back the Foundry! However, Harker clearly used the facility for something nefarious and the clues he left behind point to the fact that the war is far from over.</eng>
+			</Completed>
+		</Ch2_Clear_the_Foundry>
+		<Ch2_Mystic_machine_plan>
+			<main>
+				<eng>Look at the drawing board</eng>
+			</main>
+		</Ch2_Mystic_machine_plan>
+		<Ch2_First_Foundry_quest>
+			<Name>
+				<eng>Manual of Practical Runes</eng>
+			</Name>
+			<desc>
+				<eng>Dr. Dampf informed me that there is a magical manual somewhere in the Foundry. He wants me to find it and take it to him.</eng>
+			</desc>
+			<main>
+				<eng>Find the manual in the hidden workshop!</eng>
+			</main>
+			<Give>
+				<eng>Take the manual to Dr. Dampf!</eng>
+			</Give>
+			<Completed>
+				<eng>I have delivered the manual to Dr. Dampf.</eng>
+			</Completed>
+		</Ch2_First_Foundry_quest>
+		<Ch2_Second_Foundry_quest>
+			<Name>
+				<eng>Strong enemies</eng>
+			</Name>
+			<desc>
+				<eng>Our soldiers have met a particularly fierce pocket of enemy resistance in the Quality Control Room.</eng>
+			</desc>
+			<main>
+				<eng>Clear the hall</eng>
+			</main>
+			<Completed>
+				<eng>The pocket of resistance has been eleiminated.</eng>
+			</Completed>
+		</Ch2_Second_Foundry_quest>
+		<Ch2_Droppod_base>
+			<Name>
+				<eng>The Secret weapon</eng>
+			</Name>
+			<desc>
+				<eng>Harker has activated his secret weapon and deployed it against the Lair! I must go back and find out what's going on.</eng>
+			</desc>
+			<main>
+				<eng>Go back to the Lair and speak with Prisoner Seven!</eng>
+			</main>
+			<Occupy>
+				<eng>Reach the Floating Platform!</eng>
+			</Occupy>
+			<Turn_on>
+				<eng>Enter the coordinates of the Extraction Rig!</eng>
+			</Turn_on>
+			<Use_droppod>
+				<eng>Enter the prepared Riftshell!</eng>
+			</Use_droppod>
+			<Completed>
+				<eng>We've made it onto the Extraction Rig. Time to throw a spanner into the cogwheels.</eng>
+			</Completed>
+		</Ch2_Droppod_base>
+		<Ch2_Fifth_Tower_defense>
+			<Name>
+				<eng>Caverns of Steel</eng>
+			</Name>
+			<desc>
+				<eng>Harker's troops are now moving through the underground factories built by Fulmigati. I must stop them before they get close.</eng>
+			</desc>
+			<main>
+				<eng>Defend the tunnels at the Caverns of Steel</eng>
+			</main>				
+			<Report5>
+				<eng>Speak with the commander</eng>
+			</Report5>
+			<Completed>
+				<eng>We've succesfully defended the underground factories.</eng>
+			</Completed>
+		</Ch2_Fifth_Tower_defense>
+		<Ch2_Bossfight>
+			<Name>
+				<eng>Goliath</eng>
+			</Name>
+			<desc>
+				<eng>Harker's Doomsday Device is ready to destroy the lair- even if it means collapsing half of Borgova on the surface. I made it onto the back of the mechanical abomination, now I must find its weak spot.</eng>
+			</desc>
+			<main>
+				<eng>Destroy the Extraction Rig!</eng>
+			</main>
+			<heat>
+				<eng>Overheat the central core!</eng>
+			</heat>	
+			<escape>
+				<eng>Escape the platform!</eng>
+			</escape>			
+			<Completed>
+				<eng>Harker's colossal doomsday device has been destroyed. The city of Borgova has a very distinctive new landmark now.</eng>
+			</Completed>
+		</Ch2_Bossfight>
+		<Ch3_City1_defeat_Harker>
+			<Name>
+				<eng>Beginning of the End</eng>
+			</Name>
+			<desc>
+				<eng>In order to end this war, I must go after General Harker himself. Apparently, he is holed up in the Merchant District but we have a spy amongst his troops. Perhaps this will allow me to dispatch the general without risking the lives of Resistance soldiers.</eng>
+			</desc>
+			<main>
+				<eng>Meet the Resistance spy in the Merchant District</eng>
+			</main>
+			<renegat_vampir>
+				<eng>Take the Demagnetizer Toolbox from the renegade vampire</eng>
+			</renegat_vampir>	
+			<find_harker>
+				<eng>Infiltrate General Harker's headquarters</eng>
+			</find_harker>			
+			<Completed>
+				<eng>I managed to breach Harker's headquarters but the general has fled. I must go after him.</eng>
+			</Completed>
+		</Ch3_City1_defeat_Harker>
+		<Ch3_City1_kaszarnya>
+			<Name>
+				<eng>The Elite Guard</eng>
+			</Name>
+			<desc>
+				<eng>The garrison near Harker's headquarters houses the general's elite guards. They will be alerted when I move against the headquarters, so maybe I should deal with them first. If I destroy the Force Wall generators  of the garrison I may be able to poison the troops.</eng>
+			</desc>
+			<main>
+				<eng>Destroy the Force Wall generators on the roof of the Bank of Borgova</eng>
+			</main>
+			<szellozok_megmergezese>
+				<eng>Release poison gas into the garrison building</eng>
+			</szellozok_megmergezese>			
+			<Completed>
+				<eng>The Elite Guard has been silently dispatched. Onwards to the headquarters now.</eng>
+			</Completed>
+		</Ch3_City1_kaszarnya>
+		<Ch3_City1_hunter_explorers>
+			<Name>
+				<eng>Annihilator Squadron</eng>
+			</Name>
+			<desc>
+				<eng>I stumbled into a whole squadron of Octopod Annihilators. I wonder where the General gets all these? Anyway, once more into the fray I suppose...</eng>
+			</desc>
+			<main>
+				<eng>Destroy the Octopod Annihilators!</eng>
+			</main>						
+			<Completed>
+				<eng>The Annihilators have been annihilated.</eng>
+			</Completed>
+		</Ch3_City1_hunter_explorers>
+		<Ch3_ThroughTheSpiderRocks>
+			<Name>
+				<eng>Off the beaten track</eng>
+			</Name>
+			<desc>
+				<eng>Harker has fled the city and is on route to mysterious forbidden place in search of a mythical item: the Death of Koschei the Deathless. This is supposedly an incredibly powerful artifact which means I cannot let it fall into the General's hands.</eng>
+			</desc>
+			<main>
+				<eng>Go to the Wormwood Chasm and find out where exactly Harker went.</eng>
+			</main>
+			<follow>
+				<eng>Follow Harker</eng>
+			</follow>			
+			<Completed>
+				<eng>I have fought my way through the Wormwood Chasm and finally caught up with the general. Time to end this.</eng>
+			</Completed>
+		</Ch3_ThroughTheSpiderRocks>
+		<Ch3_SpiderRocks_Seals>
+			<Name>
+				<eng>Hex Poles</eng>
+			</Name>
+			<desc>
+				<eng>This  land is warded by ancient Hex Poles, which means that the Resistance cannot send soldiers from the Ink to assist me. However, if I break these protective seals I can remedy this situation.</eng>
+			</desc>
+			<main>
+				<eng>Destroy the Hex Poles ([broken]/4)</eng>
+			</main>					
+			<Completed>
+				<eng>I have destroyed Hex Poles. The Resistance can send reinforcements.</eng>
+			</Completed>
+		</Ch3_SpiderRocks_Seals>
+		<Ch3_SpiderRocks_Boss>
+			<Name>
+				<eng>The Kings and Queens of Wormwood Chasm</eng>
+			</Name>
+			<desc>
+				<eng>The Wormwood Chasm is ruled by three enormous spider specimen that have decimated Harker's forces as he passed through. A wounded soldier he left behind told me to take care of these spiders and I am inclined to do so. I am a monster hunter after all...</eng>
+			</desc>
+			<main>
+				<eng>Kill the Fat Widow</eng>
+			</main>
+			<boss_2>
+				<eng>Kill the Black Reaver</eng>
+			</boss_2>
+			<boss_3>
+				<eng>Kill the Spotted Leviathan</eng>
+			</boss_3>			
+			<Completed>
+				<eng>I have cleared the Wormwood Chasm. The place is now almost acceptably safe for the Resistance soldiers to pass through.</eng>
+			</Completed>
+		</Ch3_SpiderRocks_Boss>
+		<Ch2_Sixth_Tower_defense>
+			<Name>
+				<eng>Halls of Remembrance</eng>
+			</Name>
+			<desc>
+				<eng>Harker's forces have opened a door to the sacred underground chambers and they are disturbingly close to the Lair. This might be their last attempt.</eng>
+			</desc>
+			<main>
+				<eng>Defend the tunnels at the Halls of Remembrance</eng>
+			</main>				
+			<Report6>
+				<eng>Speak with the commander</eng>
+			</Report6>
+			<Completed>
+				<eng>Harker's final attempt to reach the Lair has been thwarted.</eng>
+			</Completed>
+		</Ch2_Sixth_Tower_defense>
+		<Ch3_Bossfight>
+			<Name>
+				<eng>The Final Confrontation</eng>
+			</Name>
+			<desc>
+				<eng>I have finally caught up with General Harker. He is desperately trying to reach Koschei's Death and has awakened its twisted guardian, the Dryad Queen. I must deal with them both.</eng>
+			</desc>
+			<main>
+				<eng>Defeat the Dryad Queen</eng>
+			</main>
+			<stop_harker>
+				<eng>Stop Harker</eng>
+			</stop_harker>
+			<kill_harker>
+				<eng>Defeat General Harker</eng>
+			</kill_harker>
+			<completed>
+				<eng>Harker is defeated but I have been betrayed. Prisoner Sevens has stolen Koschei's the Death and fled. This is no doubt the beginning of another adventure... No rest for the heroic, I suppose.</eng>
+			</completed>
+		</Ch3_Bossfight>
+		<Ch4_New_Assignment2>
+			<Name>
+				<eng>New Assignment</eng>
+			</Name>
+			<main>
+				<eng>Talk to Guard captain in the Lair</eng>
+			</main>
+		</Ch4_New_Assignment2>
+		<Ch4_New_Assignment3>
+			<Name>
+				<eng>New Assignment</eng>
+			</Name>
+			<main>
+				<eng>Talk to Commander Petrov in the Lair</eng>
+			</main>
+		</Ch4_New_Assignment3>
+		<Ch4_New_Assignment4>
+			<Name>
+				<eng>New Assignment</eng>
+			</Name>
+			<main>
+				<eng>Talk to Prisoner Seven in the Lair</eng>
+			</main>
+		</Ch4_New_Assignment4>
+	</Quests>
+	<reports>		
+		<Commander_Petrov>
+			<Retake_tunnels_first>
+				<eng>Van Helsing! We need you in the tunnels immediately.</eng>
+			</Retake_tunnels_first>
+			<Vampire_lord>
+				<eng>Van Helsing, we may have found a new recruit to our cause. Come here, please.</eng>
+			</Vampire_lord>
+			<Supply_shipment>
+				<eng>Van Helsing! A very important shipment will arrive in the city soon. We must intercept it before it reaches Harker.</eng>
+			</Supply_shipment>
+			<Second_TD_available>
+				<eng>We need you, Van Helsing! Harker is preparing a new attack on the tunnels.</eng>
+			</Second_TD_available>
+			<Retake_tunnels_second>
+				<eng>Van Helsing! Join us immediately in the Lair. We have to take back the tunnels.</eng>
+			</Retake_tunnels_second>
+			<Frankenstein_laboratory>
+				<eng>Van Helsing! We have found a secret laboratory. Join us in the Lair, please.</eng>
+			</Frankenstein_laboratory>
+			<Marauders_attack>
+				<eng>Van Hesling! Marauders are threatening the city. We need you here!</eng>
+			</Marauders_attack>
+			<Retake_tunnels_third>
+				<eng>Van Helsing! We need you in the tunnels immediately.</eng>
+			</Retake_tunnels_third>
+			<Offensive_stalled>
+				<eng>Van Helsing! Harker's heavily armed units surrounded the Launch Tower. Our soldiers need your help to break through.</eng>
+			</Offensive_stalled>
+			<Ornibase_under_attack>
+				<eng>The Launch Tower is under attack! Help our soldiers to defend their position.</eng>
+			</Ornibase_under_attack>
+			<Retake_Ornibase>
+				<eng>Van Helsing! Harker's soldiers recaptured the Launch Tower. Stop them before they make the controls operational again.</eng>
+			</Retake_Ornibase>
+			<First_wanted_message>
+				<eng>Van Helsing, Captain Blood is near. Find that man and kill him.</eng>
+			</First_wanted_message>
+			<Third_wanted_message>
+				<eng>You are approaching the Alpha Prototype. You must destroy it!</eng>
+			</Third_wanted_message>
+			<Second_wanted_message>
+				<eng>The Gasmask Man should be near, Van Helsing. When you find him, you must kill him!</eng>
+			</Second_wanted_message>
+			<Fourth_TD_available>
+				<eng>Van Helsing! Join us immediately in the Lair. We have to take back the tunnels.</eng>
+			</Fourth_TD_available>
+			<Retake_tunnels_fourth>
+				<eng>Van Helsing! We need you in the tunnels immediately.</eng>
+			</Retake_tunnels_fourth>
+			<Ch2_bossfight_radio1>
+				<eng>Our scientists have found the weak spot! If the central core overheats, the whole system will blow up!</eng>
+			</Ch2_bossfight_radio1>
+			<Ch2_bossfight_radio2>
+				<eng>The core is protected by a Force Shield! You can disable it by pulling three emergency levers, but it will be temporary!</eng>
+			</Ch2_bossfight_radio2>
+			<Fifth_TD_available>
+				<eng>Van Helsing! Harker has sent new troops to the tunnel system. Return immediately!</eng>
+			</Fifth_TD_available>
+			<Retake_tunnels_fifth>
+				<eng>Van Helsing! We must take back the underground vaults before Harker finds the Lair!</eng>
+			</Retake_tunnels_fifth>
+			<Foundry_counterattack>
+				<eng>Van Helsing! A sizeable enemy force has launched a counterattack! We need you to engage them!</eng>
+			</Foundry_counterattack>
+			<Sixth_TD_available>
+				<eng>Van Helsing! Join us immediately in the Lair. We have a new problem in the tunnel system.</eng>
+			</Sixth_TD_available>
+			<Ch3_city1_hunter_explorers>
+				<eng>Harker deployed three Annihilators! Take them out! That will be a devastating blow to them.</eng>
+			</Ch3_city1_hunter_explorers>
+			<Ch3_city1_kaszarnya>
+				<eng>Watch out! The garrison is sending reinforcements to help Harker!</eng>
+			</Ch3_city1_kaszarnya>
+			<Nationale_treasure>
+				<eng>We may have found clues as to the whereabouts of King Borislav's occult treasure. You should send someone to retrieve it.</eng>
+			</Nationale_treasure>
+			<Bridge_Over_the_River>
+				<eng>Our engineers who are rebuilding one of the bridges over the river need assistance. Please join us in the Lair.</eng>
+			</Bridge_Over_the_River>
+		</Commander_Petrov>
+		<Dr_Dampf>
+			<Alchemist_message1>
+				<eng>Van Helsing! I need you to find me a rare occult textbook in the Foundry.</eng>
+			</Alchemist_message1>
+			<Alchemist_message2>
+				<eng>There is a hidden workshop in the Foundry where they keep the Manual of Practical Runes for creating enchanted molds.</eng>
+			</Alchemist_message2>
+		</Dr_Dampf>
+		<Koscsej>
+			<Prisoner_Seven_radio1>
+				<eng>We could send you reinforcements with our Riftshells. There is one problem, though.</eng>
+			</Prisoner_Seven_radio1>
+			<Prisoner_Seven_radio2>
+				<eng>The ancient Hex Poles isolate this place from the Ink. Destroy four Hex Poles first!</eng>
+			</Prisoner_Seven_radio2>
+			<Prisoner_Seven_Message01>
+				<eng>Yes! That's it, Van Helsing. You are on the right track.</eng>
+			</Prisoner_Seven_Message01>
+			<Prisoner_Seven_Message02>
+				<eng>Look around you, hunter. The realm of the Deathless. Isn't it savagely beautiful?</eng>
+			</Prisoner_Seven_Message02>
+			<Prisoner_Seven_Message03>
+				<eng>The most powerful artifact of Borgovia is almost in your reach! Move, hunter!</eng>
+			</Prisoner_Seven_Message03>
+			<Prisoner_Seven_Message04>
+				<eng>Just imagine the possibilities, Van Helsing! Of you and me, having that kind of power!</eng>
+			</Prisoner_Seven_Message04>
+			<Prisoner_Seven_Message05>
+				<eng>You are so close, hunter! Don't you dare give up on Borgovia now!</eng>
+			</Prisoner_Seven_Message05>
+			<Prisoner_Seven_Message06>
+				<eng>What's the hold-up, hunter? Why are you wasting our time?</eng>
+			</Prisoner_Seven_Message06>
+			<Prisoner_Seven_Message07>
+				<eng>Harker is ahead of you! He has reached the Glade of Thorns!</eng>
+			</Prisoner_Seven_Message07>
+			<Prisoner_Seven_Message08>
+				<eng>My senses tell me that blood was spilled in the forbidden forest!  They are too close!</eng>
+			</Prisoner_Seven_Message08>
+			<Prisoner_Seven_Message09>
+				<eng>Hunter! Harker has engaged in combat with the guardians of the treasure! Don't waste your time!</eng>
+			</Prisoner_Seven_Message09>
+		</Koscsej>
+		<Vladimir>
+			<Vladimir_morning_show01>
+				<eng>GOOOOD MOOOOOOORNING, Borgova!</eng>
+			</Vladimir_morning_show01>
+			<Vladimir_morning_show02>
+				<eng>Attention, Resistance fighters. Testing the Aerial Transmitter, 1, 2, 3.</eng>
+			</Vladimir_morning_show02>
+			<Vladimir_morning_show03>
+				<eng>Sending out the first broadcast to all the brave soldiers of Resistance! For Borgova!</eng>
+			</Vladimir_morning_show03>
+			<Vladimir_morning_show04>
+				<eng>Due to the energy consumption of the device no more general announcements are allowed.</eng>
+			</Vladimir_morning_show04>
+			<Vladimir_morning_show05>
+				<eng>I'd like to send this Chopin Piano Concerto to my mother and all the fans out there!</eng>
+			</Vladimir_morning_show05>
+			<Vladimir_morning_show06>
+				<eng>This is a service announcement. No one is allowed to use the frequency for personal messages.</eng>
+			</Vladimir_morning_show06>
+		</Vladimir>
+		<Domovoy>
+			<Morning_show_kozjatek>
+				<eng>The Domovoy Liberation Front is here! We have the Transmitter! Freedom!...</eng>
+			</Morning_show_kozjatek>
+		</Domovoy>
+		<Message>
+			<Radio_alien_message>
+				<eng>...this is Ripley, last survivor of Nostromo, signing off...</eng>
+			</Radio_alien_message>
+		</Message>
+	</reports>
+	<hiddencontent>
+		<Da_Vinci_note>
+			<eng>You've found Da Vinci's lost blueprints of the ornnithopter.</eng>
+		</Da_Vinci_note>
+		<Appleshooter_Bow>
+			<eng>You've found Wilhelm Tell's crossbow.</eng>
+		</Appleshooter_Bow>
+		<Secret_prison_opened>
+			<eng>You've found the hidden prison section.</eng>
+		</Secret_prison_opened>
+		<Hannibal_mask>
+			<eng>You've found the Mask of the Cannibal.</eng>
+		</Hannibal_mask>
+		<Hannibal_mask_low>
+			<eng>You've found the Mask of the Cannibal.</eng>
+		</Hannibal_mask_low>
+		<Dr_Jekyl_tincture>
+			<eng>You've found Dr. Jekyll's tincture.</eng>
+		</Dr_Jekyl_tincture>
+		<Mushroom_diploma>
+			<eng>You've found the Mushroom Expert Certificate.</eng>
+		</Mushroom_diploma>
+		<BNT_SQ13_dead_hunter>
+			<eng>You've looted the body of the dead young hunter.</eng>
+		</BNT_SQ13_dead_hunter>
+		<Gold_fish>
+			<eng>You've found a goldfish.</eng>
+		</Gold_fish>
+		<rukh_pole>
+			<eng>You've found the Woodcarver's treasure.</eng>
+		</rukh_pole>
+		<Gong_giants_active>
+			<eng>You've called forth the giants with the Giant Gong.</eng>
+		</Gong_giants_active>
+		<alms_for_ghoul>
+			<eng>You've helped Woody avoid people accusing him of being a ghoul.</eng>
+		</alms_for_ghoul>
+		<dinner_for_ghoul>
+			<eng>You've revealed that Woody is a ghoul.</eng>
+		</dinner_for_ghoul>
+		<Don_Quijote_Spear>
+			<eng>You've found Don Qijote's lance.</eng>
+		</Don_Quijote_Spear>
+		<VH2harpyfeather_trophy>
+			<eng>You've found the Scarecrow's treasure.</eng>
+		</VH2harpyfeather_trophy>
+		<VH2harpyfeather_trophy_low>
+			<eng>You've found the Scarecrow's treasure.</eng>
+		</VH2harpyfeather_trophy_low>
+		<Steal_the_armor>
+			<eng>You've found the Dungeonkeeper's armour.</eng>
+		</Steal_the_armor>
+		<Bomb_have_been_planted2>
+			<eng>You've saved the Bomb Expert.</eng>
+		</Bomb_have_been_planted2>
+		<cold_cavers_domovoy_done>
+			<eng>You've evicted the Domovoy from the Minecart.</eng>
+		</cold_cavers_domovoy_done>
+		<gandalf_looted>
+			<eng>You've looted the body of the Grey Wizard.</eng>
+		</gandalf_looted>
+		<Rare_ore_loot_active>
+			<eng>You've found a Rare Ore.</eng>
+		</Rare_ore_loot_active>
+		<Vh2cavern_ring>
+			<eng>You've found the Afterlife ring.</eng>
+		</Vh2cavern_ring>
+		<Vh2cavern_ring_low>
+			<eng>You've found the Afterlife ring.</eng>
+		</Vh2cavern_ring_low>
+		<spirit_banter_played>
+			<eng>You've found the Masterfully Botched Armour.</eng>
+		</spirit_banter_played>
+		<moonstones>
+			<eng>You've found all three Moonstones.</eng>
+		</moonstones>
+		<Spiritwalker_bone_relic>
+			<eng>You've found the Spiritwalkers' relic.</eng>
+		</Spiritwalker_bone_relic>
+		<Rune_stone_of_carcas_pit>
+			<eng>You've found the runestone from the old well.</eng>
+		</Rune_stone_of_carcas_pit>
+		<essence_of_the_rock>
+			<eng>You've won The Rock from the stone heads.</eng>
+		</essence_of_the_rock>
+		<Fifth_drum_klicked>
+			<eng>You've proven the existence of the Yeti.</eng>
+		</Fifth_drum_klicked>
+		<Steal_the_medallion>
+			<eng>You've found the Dungeonkeeper's amulet.</eng>
+		</Steal_the_medallion>
+		<giantwoods_black_knight>
+			<eng>You defeated the Black Knight.</eng>
+		</giantwoods_black_knight>
+		<td1_secret>
+			<eng>You've found the secret area in the Subterranean Incursion.</eng>
+		</td1_secret>
+		<td2_secret>
+			<eng>You've found the secret area in the Invasion of the Rat-Things.</eng>
+		</td2_secret>
+		<td_inkiscoming>
+			<eng>You've found the secret area in the Inktide Tunnels.</eng>
+		</td_inkiscoming>
+
+		<ink_glass_statues_finished>
+			<eng>You've summoned the chimera by turning the statues.</eng>
+		</ink_glass_statues_finished>
+		<Emerald_lantern>
+			<eng>You've found the Emerald Lantern.</eng>
+		</Emerald_lantern>
+		<vh2_Koscsej_tear>
+			<eng>You've had Koschei's Tear made.</eng>
+		</vh2_Koscsej_tear>
+		<terminator>
+			<eng>You destroyed the Alpha Prototype.</eng>
+		</terminator>
+		<thief_loot_dropped>
+			<eng>You've stolen the treasure of the Thieves' Guild.</eng>
+		</thief_loot_dropped>
+		<vh2_t95_chip>
+			<eng>You've found the T95 Chip.</eng>
+		</vh2_t95_chip>
+		<diamond_earring>
+			<eng>You thawed the Goldfish and made a wish. (Well someone did anyway...)</eng>
+		</diamond_earring>
+		<HalfLife_POI_completed>
+			<eng>You've found the strangely scientific looking Resistance sign.</eng>
+		</HalfLife_POI_completed>
+		<spilled_essence>
+			<eng>You've found the chest full of essences.</eng>
+		</spilled_essence>
+		<BNT_POI11_Secretlab>
+			<eng>You've found a secret area in the Foundry.</eng>
+		</BNT_POI11_Secretlab>
+		<Lightsabre_crystal>
+			<eng>You've found the Photon Blade Essence.</eng>
+		</Lightsabre_crystal>
+		<Lightsabre_crystal_low>
+			<eng>You've found the Photon Blade Essence.</eng>
+		</Lightsabre_crystal_low>
+		<mokusok_az_erdobol>
+			<eng>You are one of the few who survived a mass squirrel attack.</eng>
+		</mokusok_az_erdobol>
+		<td3_secret>
+			<eng>You've found the secret area in the Invasion of the Inhuman Regiment.</eng>
+		</td3_secret>
+		<td4_secret>
+			<eng>You've found the secret area in the Maze of Blades.</eng>
+		</td4_secret>
+		<td5_secret>
+			<eng>You've found the secret area in the Caverns of Steel.</eng>
+		</td5_secret>
+		<td6_secret>
+			<eng>You've found the secret area in the Halls of Remembrance.</eng>
+		</td6_secret>
+		<Sherlock_Holmes_dialog_done>
+			<eng>You've found the home of the famous detective.</eng>
+		</Sherlock_Holmes_dialog_done>
+		<inkripper>
+			<eng>You killed Jack the Inkripper.</eng>
+		</inkripper>
+		<woody>
+			<eng>You killed woody. (You evil person...)</eng>
+		</woody>
+		<hannibal>
+			<eng>You killed Dr. Lecter.</eng>
+		</hannibal>
+		<batman>
+			<eng>You've seen the Helsing signal.</eng>
+		</batman>
+		<Steal_the_gloves>
+			<eng>You've taken the gloves from the sacrificial altar.</eng>
+		</Steal_the_gloves>
+		<BNT_POI15_Scarecrow_pokszikla>
+			<eng>You survived the mass harpy attack.</eng>
+		</BNT_POI15_Scarecrow_pokszikla>
+		<cemetery_loot_done>
+			<eng>You've read all the headstones.</eng>
+		</cemetery_loot_done>
+		<Steal_the_skull>
+			<eng>You've taken the bizarre skull from the sacrificial altar.</eng>
+		</Steal_the_skull>
+		<Altair_cutscene_done>
+			<eng>You've taken all items from all sacrificial altars.</eng>
+		</Altair_cutscene_done>
+		<secret_key_door_opened>
+			<eng>You've used the key to open the Mystic Orb.</eng>
+		</secret_key_door_opened>
+		<Message_ring_POI_done>
+			<eng>You've followed the instructions on the Ring of Guidance.</eng>
+		</Message_ring_POI_done>
+		<chimera_kaki>
+			<eng>You've become the true owner of the Chimera.</eng>
+		</chimera_kaki>		
+	</hiddencontent>
+</Root>

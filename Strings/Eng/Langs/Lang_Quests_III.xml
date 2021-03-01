@@ -1,0 +1,1166 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Quests>	
+		<Ch1_Lair_Recordkeeper_markers>
+			<main>
+				<eng>New Research Notes Available</eng>
+			</main>
+		</Ch1_Lair_Recordkeeper_markers>
+		<Ch1_lair_kingpin>
+			<Name>
+				<eng>Strange inmates</eng>
+			</Name>
+			<desc>
+				<eng>Refugees from the city are taking shelter in the prison block. A criminal called the Kingpin has showed up and started demanding money from them.</eng>
+			</desc>
+			<main>
+				<eng>Investigate the Kingpin</eng>
+			</main>
+			<kill>
+				<eng>Defeat the thugs</eng>
+			</kill>
+			<return>
+				<eng>Return to the Jailor</eng>
+			</return>
+			<completed>
+				<eng> I sorted out the situation in the prison block and made the refugees happy.</eng>
+			</completed>
+		</Ch1_lair_kingpin>
+		<Ch1_ResistanceManStart>
+			<Name>
+				<eng>A leader's duty</eng>
+			</Name>
+			<desc>
+				<eng>Commander Petrov wants to talk to me about something important. I should hear him out.</eng>
+			</desc>
+			<main>
+				<eng>Go to the Lair and talk to Commander Petrov</eng>
+			</main>			
+			<completed>
+				<eng>Commander Petrov informed me of my duties managing our elite forces.</eng>
+			</completed>
+		</Ch1_ResistanceManStart>
+		<Ch1_TF_mindswap>
+			<Name>
+				<eng>Minds in turmoil</eng>
+			</Name>
+			<desc>
+				<eng>I encountered a group of prisoners trapped in a diabolical machine which has swapped their minds. They want me to fix the contraption to get their original bodies back.</eng>
+			</desc>
+			<main>
+				<eng>Find the Ghost Capacitor</eng>
+			</main>
+			<return>
+				<eng>Activate the machine</eng>
+			</return>
+			<check>
+				<eng>Check The result</eng>
+			</check>
+			<completed>
+				<eng>I fixed the machine, but the rescue operation turned out to be be much more complicated than expected.</eng>
+			</completed>
+		</Ch1_TF_mindswap>
+		<Ch1_haunted_ghost>
+			<Name>
+				<eng>Stranded ghosts</eng>
+			</Name>
+			<desc>
+				<eng>Two ghosts in the haunted forest want me to recover and bury their remains at an altar. Otherwise, they can't leave this world.</eng>
+			</desc>
+			<main>
+				<eng>Retrieve the remains</eng>
+			</main>
+			<return>
+				<eng>Return to the altar</eng>
+			</return>
+			<completed>
+				<eng>After recovering all the remains from the tree monsters the poor souls were finally laid to rest.</eng>
+			</completed>
+		</Ch1_haunted_ghost>		
+		<Ch1_Hauntedforest_Bandita>
+			<Name>
+				<eng>Outlaw in distress</eng>
+			</Name>
+			<desc>
+				<eng>A friendly Outlaw asked me to deal with a group of monsters interfering with the daily staged stagecoach robberies he is doing for the children.</eng>
+			</desc>
+			<main>
+				<eng>Clear the stagecoach site</eng>
+			</main>
+			<return_to_bandit>
+				<eng>Return to the outlaw</eng>
+			</return_to_bandit>
+			<completed>
+				<eng>I mopped up all "monstrous activities" around the ruined stagecoach, the locals will be happy.</eng>
+			</completed>
+		</Ch1_Hauntedforest_Bandita>
+		<Ch1_Testing_Facility>
+			<Name>
+				<eng>Testing Facility</eng>
+			</Name>
+			<desc>
+				<eng>I followed the Cultists to a secret underground laboratory where Count Vlados is also being held as prisoner.</eng>
+			</desc>
+			<main>
+				<eng>Explore the Testing Facility</eng>
+			</main>
+			<Capture>
+				<eng>Capture the Infiltrator</eng>
+			</Capture>
+			<jailor>
+				<eng>Talk to the Jailor in the Secret Lair</eng>
+			</jailor>
+			<completed>
+				<eng>I freed Count Vlados, captured the leader of the cultist raiding party and explored the secret laboratory.</eng>
+			</completed>
+		</Ch1_Testing_Facility>
+		<Ch1_The_captured_vampire>
+			<Name>
+				<eng>The imprisoned vampire</eng>
+			</Name>
+			<desc>
+				<eng>Count Vlados is alive and well, but we need a key to his cell to free him.</eng>
+			</desc>
+			<main>
+				<eng>Find Count Vlados</eng>
+			</main>
+			<find>
+				<eng>Get the key from the Warden</eng>
+			</find>
+			<free>
+				<eng>Open the cell door</eng>
+			</free>
+			<completed>
+				<eng>After acquiring the cell key from the Warden we have freed Count Vlados.</eng>
+			</completed>
+		</Ch1_The_captured_vampire>
+		<Ch1_Haunted_Forest1>
+			<Name>
+				<eng>Haunted Forest</eng>
+			</Name>
+			<desc>
+				<eng>We followed the trail of the Cultists to the Haunted Forest, looking for their hideout.</eng>
+			</desc>
+			<main>
+				<eng>Use the Inkgate to travel to the Haunted Forest</eng>
+			</main>
+			<Info>
+				<eng>Talk to Semyon, the Wanderer about the hideout</eng>
+			</Info>
+			<enter>
+				<eng>Enter the village through the Inkgate</eng>
+			</enter>
+			<completed>
+				<eng>We gathered information about the whereabouts of the Hideout, which can only be reached by traveling through Gnarlovoy.</eng>
+			</completed>
+		</Ch1_Haunted_Forest1>
+		<Ch1_The_Curse2>
+			<Name>
+				<eng>The curse</eng>
+			</Name>
+			<desc>
+				<eng>Someone has planted giant eggs called Inkgrubs in the forest, which ooze Ink that distorts this world.</eng>
+			</desc>
+			<main>
+				<eng>Destroy the Inkgrubs ([destroyed_inkgrubs]/3)</eng>
+			</main>
+			<completed>
+				<eng>By destroying the Inkgrubs we have reversed the corruption in Haunted Forest.</eng>
+			</completed>
+		</Ch1_The_Curse2>				
+		<Ch1_The_Curse2_Wraithwoods>
+			<Name>
+				<eng>More Inkgrubs</eng>
+			</Name>
+			<desc>
+				<eng>I found more giant stone eggs called Inkgrubs in Wraithwoods.</eng>
+			</desc>
+			<main>
+				<eng>Destroy the Inkgrubs ([destroyed_wr_inkgrubs]/3)</eng>
+			</main>
+			<completed>
+				<eng>By destroying all Inkgrubs we have reversed the corruption in Wraithwoods.</eng>
+			</completed>
+		</Ch1_The_Curse2_Wraithwoods>
+		<Ch1_Lost_Village>
+			<Name>
+				<eng>The lost village</eng>
+			</Name>
+			<desc>
+				<eng>Our path led us to the gnome village of Gnarlovoy where we must locate the Inkgate to get back to the forest.</eng>
+			</desc>
+			<main>
+				<eng>Find the Inkgate back to the forest</eng>
+			</main>
+			<completed>
+				<eng>We have found the Inkgate leading back to the forest.</eng>
+			</completed>
+		</Ch1_Lost_Village>
+		<Ch1_gnarlovoy_attackers>
+			<Name>
+				<eng>Clear out the village</eng>
+			</Name>
+			<desc>
+				<eng>The lost gnome village of Gnarlovoy was overran by packs of marauding creatures. Time for some monster hunting.</eng>
+			</desc>
+			<main>
+				<eng>Eliminate all monsters in Gnarlovoy</eng>
+			</main>
+			<completed>
+				<eng>We have eradicated the monster infestation in Gnarlovoy.</eng>
+			</completed>
+		</Ch1_gnarlovoy_attackers>
+		<Ch1_The_wraithwoods>
+			<Name>
+				<eng>Through the woods</eng>
+			</Name>
+			<desc>
+				<eng>We have to find our way through Wraithwoods to the entrance of the secret Cultist Hideout.</eng>
+			</desc>
+			<main>
+				<eng>Find the entrance to the secret hideout</eng>
+			</main>
+			<enter_hideout>
+				<eng>Enter the secret hideout</eng>
+			</enter_hideout>
+			<completed>
+				<eng>We have found the entrance to the secret Cultist Hideout.</eng>
+			</completed>
+		</Ch1_The_wraithwoods>
+		<Ch1_TD1>
+			<Name>
+				<eng>The undead horde</eng>
+			</Name>
+			<desc>
+				<eng>An undead horde is marching up through the tunnels towards the city. I volunteered to intercept and fight them at one of our old underground outposts.</eng>
+			</desc>
+			<main>
+				<eng>Defend the underground outpost against the undead horde!</eng>
+			</main>
+			<report>
+				<eng>Go back to Commander Petrov</eng>
+			</report>			
+			<completed>
+				<eng>The undead horde has been dealt with</eng>
+			</completed>
+		</Ch1_TD1>		
+		<Ch1_The_Hideout>
+			<Name>
+				<eng>The hideout</eng>
+			</Name>
+			<desc>
+				<eng>We entered the lair of the Cult Leader, time to destroy his minions before taking him down aswell.</eng>
+			</desc>
+			<main>
+				<eng>Kill the Cult Leader</eng>
+			</main>
+			<completed>
+				<eng>The Cult Leader and his followers are gone, the forest will suffer no more.</eng>
+			</completed>
+		</Ch1_The_Hideout>		
+		<Ch1_Gnarl_beast>
+			<Name>
+				<eng>A wonderful stew</eng>
+			</Name>
+			<desc>
+				<eng>We have met a starving gnome family hiding in Gnarlovoy. They want me to get an exotic creature for them, so they could replenish their food supply.</eng>
+			</desc>
+			<main>
+				<eng>Get the Skrimbeast</eng>
+			</main>
+			<return>
+				<eng>Return to the family</eng>
+			</return>
+			<completed>
+				<eng>We have delivered the creature with slight (and very noisy) complications.</eng>
+			</completed>			
+		</Ch1_Gnarl_beast>
+		<Ch2_Vampire_Invasion>
+			<Name>
+				<eng>Vampire invasion</eng>
+			</Name>
+			<desc>
+				<eng>A strange cataclysm has destroyed half of the city and I have to find an Inkgate in the Gothic Quarter to stop the vampire invasion.</eng>
+			</desc>
+			<main>
+				<eng>Talk to Count Vlados in the Lair</eng>
+			</main>
+			<find>
+				<eng>Find the Inkgate in the Gothic Quarter</eng>
+			</find>
+			<fight>
+				<eng>Defeat the vampires near the Inkgate</eng>
+			</fight>
+			<Close_inkgate>
+				<eng>Close the Inkgate</eng>
+			</Close_inkgate>
+			<Go_back_OT>
+				<eng>Go back to Count Vlados</eng>
+			</Go_back_OT>
+			<completed>
+				<eng>I have thwarted the vampire invasion in the Gothic Quarter and closed the Inkgate.</eng>
+			</completed>
+		</Ch2_Vampire_Invasion>
+		<Ch2_Dark_Carnival>
+			<Name>
+				<eng>Dark Carnival</eng>
+			</Name>
+			<desc>
+				<eng>I have to convince Fata Morgana in the Dark Carnival to open an Inkgate for me to the Nightmare Hollow.</eng>
+			</desc>
+			<main>
+				<eng>Talk to Fata Morgana in the Dark Carnival</eng>
+			</main>
+			<ringmaster>
+				<eng>Defeat the Mad Ringmaster</eng>
+			</ringmaster>
+			<Fata_morgana>
+				<eng>Return to Fata Morgana</eng>
+			</Fata_morgana>
+			<Enter>
+				<eng>Enter the Nightmare Hollow</eng>
+			</Enter>
+			<completed>
+				<eng>I made a deal with Fata Morgana and after killing the Mad Ringmaster she opened the Inkgate for me to the Nightmare Hollow.</eng>
+			</completed>
+		</Ch2_Dark_Carnival>
+		<Ch2_Nightmare_Hollow>
+			<Name>
+				<eng>The Valley of Death</eng>
+			</Name>
+			<desc>
+				<eng>I have entered the Valley of Death in Nightmare Hollow to find a way to the Necropolis.</eng>
+			</desc>
+			<main>
+				<eng>Find the way to the Second Circle of the Nightmare Hollows</eng>
+			</main>
+			<Enter_Necropolis>
+				<eng>Enter the Necropolis</eng>
+			</Enter_Necropolis>
+			<completed>
+				<eng>I have found a way and entered the Necropolis in Nightmare Hollow.</eng>
+			</completed>
+		</Ch2_Nightmare_Hollow>
+		<Ch2_Necropolis>
+			<Name>
+				<eng>Ghosts and Ghouls</eng>
+			</Name>
+			<desc>
+				<eng>I have entered the Necropolis in Nightmare Hollow to find a way to the Third Circle.</eng>
+			</desc>
+			<main>
+				<eng>Find the way to the Third Circle of the Nightmare Hollows</eng>
+			</main>
+			<Enter_ImpTomb>
+				<eng>Enter the Impossible Tombs</eng>
+			</Enter_ImpTomb>
+			<completed>
+				<eng>I have found the way to the Impossible Tombs in Nightmare Hollow.</eng>
+			</completed>
+		</Ch2_Necropolis>
+		<Ch2_Impossible_Tombs>
+			<Name>
+				<eng>Agent of the Faceless Tsar</eng>
+			</Name>
+			<desc>
+				<eng>I have entered the Impossible Tombs to find Lady Irina in the Nightmare Hollow.</eng>
+			</desc>
+			<main>
+				<eng>Find Lady Irina</eng>
+			</main>
+			<Free_soul>
+				<eng>Free Lady Irina's soul</eng>
+			</Free_soul>
+			<completed>
+				<eng>I've freed Lady Irina's soul and in return I was granted access to the Spectral Provinces.</eng>
+			</completed>
+		</Ch2_Impossible_Tombs>
+		<Ch2_Oldtown_rescue>
+			<Name>
+				<eng>In the nick of time</eng>
+			</Name>
+			<desc>
+				<eng>I'm on a mission to rescue a group of survivors in the Gothic Quarter who are putting up a brave, but hopeless fight against the vampires.</eng>
+			</desc>
+			<main>
+				<eng>Rescue the survivors</eng>
+			</main>
+			<Evac>
+				<eng>Evacuate the survivors</eng>
+			</Evac>
+			<completed>
+				<eng>I helped the survivors to get rid of the invading vampire horde, then I gave them directions to the nearby Inkgate in town.</eng>
+			</completed>
+		</Ch2_Oldtown_rescue>
+		<Ch2_DK_domovoy>
+			<Name>
+				<eng>Front row seat</eng>
+			</Name>
+			<desc>
+				<eng>I met a hopelessly sad creature at the entrance of Dark Carnival, trying to sell tickets for the Circus, but no one was buying.</eng>
+			</desc>
+			<main>
+				<eng>Buy a ticket</eng>
+			</main>
+			<completed>
+				<eng>I've bought tickets from the Domovoy as his first ever guest making him happy. He might come handy as an ally later.</eng>
+			</completed>
+		</Ch2_DK_domovoy>		
+		<Ch2_DK_sabotage>
+			<Name>
+				<eng>The saboteur</eng>
+			</Name>
+			<desc>
+				<eng>I met Chester The Jester who asked me to destroy the Boiler Apparatus at the edge of Dark Carnival to halt the continuous flow of the Yellow Slime.</eng>
+			</desc>
+			<main>
+				<eng>Destroy the Apparatus</eng>
+			</main>
+			<completed>
+				<eng>We have brought the Boiler Apparatus down and stopped the flow of the Yellow Slime.</eng>
+			</completed>
+		</Ch2_DK_sabotage>
+		<Ch2_DK_wretched_mirror>
+			<Name>
+				<eng>Wretched Mirror</eng>
+			</Name>
+			<desc>
+				<eng>A magical mirror started creating evil, bloodthirsty duplicates of anyone who stepped in front of it, so I was asked to sort out the mess.</eng>
+			</desc>
+			<main>
+				<eng>Smash the Wretched Mirror in the Dark Carnival</eng>
+			</main>
+			<completed>
+				<eng>I defeated the minions of the Wretched Mirror and destroyed the artifact.</eng>
+			</completed>
+		</Ch2_DK_wretched_mirror>
+		<Ch2_NH_feud_beyond_grave>
+			<Name>
+				<eng>Feud beyond the grave</eng>
+			</Name>
+			<desc>
+				<eng>I met a vengeful ghost who asked me to fulfill his revenge by destroying the remnants of a rival family.</eng>
+			</desc>
+			<main>
+				<eng>Destroy the remnants of House Lavinius ([NH_ghosts_destroyed]/5)</eng>
+			</main>
+			<return>
+				<eng>Return to the vengeful Ghost</eng>
+			</return>
+			<kill>
+				<eng>Destroy the Ghost</eng>
+			</kill>
+			<completed>
+				<eng>I have decided the fate of the vengeful ghost in the Nightmare Hollow.</eng>
+			</completed>
+		</Ch2_NH_feud_beyond_grave>
+		<Ch2_NH_Ascension>
+			<Name>
+				<eng>The Ascension</eng>
+			</Name>
+			<desc>
+				<eng>I have met an apparition who was deemed to roam the Nightmare Hollow for eternity, unless I find and speak one of his names to break the curse.</eng>
+			</desc>
+			<main>
+				<eng>Find the names of the Apparition ([NH_apparition_names]/3)</eng>
+			</main>
+			<kill>
+				<eng>Destroy the Apparition</eng>
+			</kill>
+			<return>
+				<eng>Return to the Apparition</eng>
+			</return>			
+			<completed>
+				<eng>I have found and uttered the name of the accursed Apparition in Nightmare Hollow.</eng>
+			</completed>
+		</Ch2_NH_Ascension>
+		<Ch2_NH_hidden_pathways>
+			<Name>
+				<eng>Hidden pathways</eng>
+			</Name>
+			<desc>
+				<eng>I have entered the hidden pathways of the Impossible Tombs on Nightmare Hollow.</eng>
+			</desc>
+			<main>
+				<eng>Clear the hidden pathways</eng>
+			</main>
+			<completed>
+				<eng>I cleared the hidden pathways of the Impossible Tombs on Nightmare Hollow.</eng>
+			</completed>
+		</Ch2_NH_hidden_pathways>
+		<Ch3_Spectral_Provinces>
+			<Name>
+				<eng>Spectral Provinces</eng>
+			</Name>
+			<desc>
+				<eng>I've entered the Spectral Provinces to investigate the dark disturbances in the Ink.</eng>
+			</desc>
+			<main>
+				<eng>Enter the Spectral Provinces</eng>
+			</main>
+			<Talk_locals>
+				<eng>Talk to the locals</eng>
+			</Talk_locals>
+			<Destroy_Inkgrub>
+				<eng>Destroy the Inkgrub</eng>
+			</Destroy_Inkgrub>
+			<Enter_frozen>
+				<eng>Enter the Valley of Frost through the Gate</eng>
+			</Enter_frozen>
+			<completed>
+				<eng>I've destroyed the Inkgrub (that they call here a Receiver) corrupting the Spectral Provinces.</eng>
+			</completed>
+		</Ch3_Spectral_Provinces>
+		<Ch3_Frozen_Island>
+			<Name>
+				<eng>Cold Feet</eng>
+			</Name>
+			<desc>
+				<eng>I've entered the Valley of Frost, ready to find and destroy the next Inkgrub.</eng>
+			</desc>
+			<main>
+				<eng>Find the riverbed</eng>
+			</main>
+			<explosives>
+				<eng>Get some explosives in the nearest mining village</eng>
+			</explosives>
+			<destroy>
+				<eng>Find and destroy the Inkgrub</eng>
+			</destroy>
+			<blowup>
+				<eng>Blow-up the Obstacle</eng>
+			</blowup>			
+			<enter>
+				<eng>Enter the Island of Terror through the Gate</eng>
+			</enter>
+			<completed>
+				<eng>I've destroyed the Inkgrub that was corrupting the Valley of Frost.</eng>
+			</completed>
+		</Ch3_Frozen_Island>
+		<Ch3_Island_of_Terror>
+			<Name>
+				<eng>Power of nightmares</eng>
+			</Name>
+			<desc>
+				<eng>I have entered the Island of Terror to find and destroy the next Inkgrub.</eng>
+			</desc>
+			<main>
+				<eng>Find the Inkgrub</eng>
+			</main>
+			<destroy_darkness>
+				<eng>Destroy the Inkgrub</eng>
+			</destroy_darkness>
+			<Enter_glass>
+				<eng>Enter Castle Glass through the Gate</eng>
+			</Enter_glass>
+			<completed>
+				<eng>I have destroyed the Inkgrub and gained access to Castle Glass.</eng>
+			</completed>
+		</Ch3_Island_of_Terror>
+		<Ch3_Castle_Glass>
+			<Name>
+				<eng>Castle Glass</eng>
+			</Name>
+			<desc>
+				<eng>I have entered Castle Glass to find and destroy the last Inkgrub.</eng>
+			</desc>
+			<main>
+				<eng>Find the Inkgrub</eng>
+			</main>
+			<Shield_Masters>
+				<eng>Eliminate the Shield Masters ([Dead_Shield_Masters]/3)</eng>
+			</Shield_Masters>
+			<Fourth_Inkgrub>
+				<eng>Destroy the Inkgrub</eng>
+			</Fourth_Inkgrub>
+			<Meet_Sturm>
+				<eng>Meet Von Sturm in Clockwork Keep</eng>
+			</Meet_Sturm>
+			<completed>
+				<eng>I have destroyed the last Inkgrub and entered Clockwork Keep to meet Von Sturm.</eng>
+			</completed>
+		</Ch3_Castle_Glass>
+		<Ch1_TD2>
+			<Name>
+				<eng>The Empyrean Perimeter</eng>
+			</Name>
+			<desc>
+				<eng>An Inkrift is forming near the newly discovered otherworldly fortification called the Empyrean Perimeter. I decided to defend the place personally.</eng>
+			</desc>
+			<main>
+				<eng>Defend the Empyrean Perimeter against the otherworldly invasion!</eng>
+			</main>
+			<report>
+				<eng>Go back to Commander Petrov</eng>
+			</report>			
+			<completed>
+				<eng>The Empyrean perimeter has been secured</eng>
+			</completed>
+		</Ch1_TD2>
+		<Ch3_Koscheis_relic>
+			<Name>
+				<eng>Koschei's Death</eng>
+			</Name>
+			<desc>
+				<eng>I have entered Clockwork Keep to destroy the Arcane Lifeforce Container (Koschei's Death).</eng>
+			</desc>
+			<main>
+				<eng>Activate the Power Relays ([active_power_interface]/2)</eng>
+			</main>
+			<Turnon_controller>
+				<eng>Turn on the Dream Weaver Relay</eng>
+			</Turnon_controller>
+			<desintegrator>
+				<eng>Get the Desintegrator</eng>
+			</desintegrator>
+			<Destroy_relic>
+				<eng>Destroy the Arcane Lifeforce Container</eng>
+			</Destroy_relic>
+			<completed>
+				<eng>I have successfully destroyed Koschei's Death in Clockwork Keep.</eng>
+			</completed>
+		</Ch3_Koscheis_relic>
+		<Ch3_SP_PaperTrail>
+			<Name>
+				<eng>Paper Trail</eng>
+			</Name>
+			<desc>
+				<eng>A dying man asked me to look for survivors on Spectral Provinces.</eng>
+			</desc>
+			<main>
+				<eng>Find Survivors on Spectral Provinces</eng>
+			</main>
+			<completed>
+				<eng>I have found no survivors, only some notes of the expedition on Spectral Provinces.</eng>
+			</completed>
+		</Ch3_SP_PaperTrail>
+		<Ch3_SP_Hostage>
+			<Name>
+				<eng>Quiz for life or death</eng>
+			</Name>
+			<desc>
+				<eng>I encountered a monster who was just about to kill a scientist. To save his life, I agreed to play a game with the vile creature.</eng>
+			</desc>
+			<main>
+				<eng>Save the Scientist</eng>
+			</main>
+			<completed>
+				<eng>I resolved the stand-off by answering all questions correctly, thus saving the scientist.</eng>
+			</completed>
+		</Ch3_SP_Hostage>
+		<Ch3_SP_SupplyRun>
+			<Name>
+				<eng>Supply run</eng>
+			</Name>
+			<desc>
+				<eng>I was asked to collect some food supplies for the gnomes from their storehouse on Spectral Provinces.</eng>
+			</desc>
+			<main>
+				<eng>Get supplies from the Storehouse</eng>
+			</main>
+			<collect>
+				<eng>Collect supplies ([food_sack]/4)</eng>
+			</collect>
+			<return>
+				<eng>Return to the Gnome village</eng>
+			</return>
+			<kill>
+				<eng>Kill the monsters</eng>
+			</kill>
+			<completed>
+				<eng>By the time I returned from the storehouse all the gnomes were killed by the monsters.</eng>
+			</completed>
+		</Ch3_SP_SupplyRun>
+		<Ch3_SP_TheDreamer>
+			<Name>
+				<eng>The Dreamer</eng>
+			</Name>
+			<desc>
+				<eng>I met the Dreamer, a former member of the Void Expedition, who has turned into a monster. He asked me to collect Rust Fragments so he could forge a powerful artifact to aid me in the fight against Koschei.</eng>
+			</desc>
+			<main>
+				<eng>Collect Rust Fragments on Island of Terror ([rust_fragment]/5)</eng>
+			</main>
+			<return>
+				<eng>Return to the Dreamer</eng>
+			</return>
+			<completed>
+				<eng>I collected all the Rust Fragments and the Dreamer has forged me the artifact. Unfortunately, it resulted in his death.</eng>
+			</completed>
+		</Ch3_SP_TheDreamer>
+		<Ch3_SP_SoulShelter>
+			<Name>
+				<eng>Soul Shelter</eng>
+			</Name>
+			<desc>
+				<eng>I have found an arcane painting which holds the soul of an Atlantean Mage. He asked for my help to recharge his Shelter.</eng>
+			</desc>
+			<main>
+				<eng>Find the Soul Sceptre in Castle Glass</eng>
+			</main>
+			<lure>
+				<eng>Lure spirits to the Soul Sceptre</eng>
+			</lure>
+			<kill>
+				<eng>Harvest spirits to charge the Soul Sceptre ([spiritdome_monsters_killed]/12)</eng>
+			</kill>
+			<return>
+				<eng>Return to the Soul Shelter</eng>
+			</return>
+			<completed>
+				<eng>I helped the Atlantean Mage in Castle Glass to recharge his Soul Shelter so he could survive a few more centuries.</eng>
+			</completed>
+		</Ch3_SP_SoulShelter>
+		<Ch4_CK_Improbability_Flux>
+			<Name>
+				<eng>Improbability Flux</eng>
+			</Name>
+			<desc>
+				<eng>Von Sturm asked me to find the Master Engineer Key to turn the Clockwork Keep's defensive systems back on.</eng>
+			</desc>
+			<main>
+				<eng>Find the Master Engineer Key</eng>
+			</main>
+			<enable>
+				<eng>Turn the Improbability Flux Generator back on</eng>
+			</enable>
+			<completed>
+				<eng>I turned the Improbability Flux Generator back online at the Clockwork Keep.</eng>
+			</completed>
+		</Ch4_CK_Improbability_Flux>
+		<Ch4_CK_Klockmeister>
+			<main>
+				<eng>Count the Cogs</eng>
+			</main>
+		</Ch4_CK_Klockmeister>		
+		<Ch4_The_Gatekeeper>
+			<Name>
+				<eng>The Gatekeeper</eng>
+			</Name>
+			<desc>
+				<eng>I have entered the Gatekeeper's Domain to gain passage to the Deep Ink Realms.</eng>
+			</desc>
+			<main>
+				<eng>Enter the Gatekeeper's Domain through the gate</eng>
+			</main>
+			<Gatekeeper>
+				<eng>Talk to the Gatekeeper</eng>
+			</Gatekeeper>
+			<Champion_fight>
+				<eng>Defeat the Champion</eng>
+			</Champion_fight>
+			<Deep_Ink>
+				<eng>Enter the Deep Ink through the gate</eng>
+			</Deep_Ink>
+			<completed>
+				<eng>I defeated the Gatekeeper's champion and gained access to the Deep Ink Realms.</eng>
+			</completed>
+		</Ch4_The_Gatekeeper>
+		<Ch4_Titanslayer_Relic>
+			<Name>
+				<eng>Titanslayer relic</eng>
+			</Name>
+			<desc>
+				<eng>I was asked by travellers turned into ghosts to acquire the Titanslayer Relic at the Shrine of Lamentation.</eng>
+			</desc>
+			<main>
+				<eng>Get the Titanslayer relic</eng>
+			</main>
+			<Meet_travellers>
+				<eng>Meet the ghosts at the gate</eng>
+			</Meet_travellers>
+			<Enter_pokolgate>
+				<eng>Enter the Tower of Torment through the gate</eng>
+			</Enter_pokolgate>
+			<completed>
+				<eng>I acquired the Titanslayer Relic and entered the Tower of Torment through the Inkgate.</eng>
+			</completed>
+		</Ch4_Titanslayer_Relic>
+		<Ch4_Hell_titan_flesh>
+			<Name>
+				<eng>Flesh of Titans</eng>
+			</Name>
+			<desc>
+				<eng>I was asked to obtain the flesh of a Titan to help the prisoners in the Shrine of Lamentation.</eng>
+			</desc>
+			<main>
+				<eng>Kill the Tormentors and obtain the meat cleaver</eng>
+			</main>
+			<harvest>
+				<eng>Harvest Titan Flesh ([titan_flesh_count]/3)</eng>
+			</harvest>
+			<drop>
+				<eng>Throw the meat chunks into the Feeders</eng>
+			</drop>
+			<return>
+				<eng>Return to the Deformed Prisoner</eng>
+			</return>
+			<completed>
+				<eng>I obtained and delivered the flesh of a Titan in the Shrine of Lamentation.</eng>
+			</completed>		
+		</Ch4_Hell_titan_flesh>
+		<Ch4_Tower_of_Torment>
+			<Name>
+				<eng>Tower of Torment</eng>
+			</Name>
+			<desc>
+				<eng>I've to find my way to the bottom of the Tower of Torment.</eng>
+			</desc>
+			<main>
+				<eng>Find the way to the bottom of the tower</eng>
+			</main>
+			<Enter_VC>
+				<eng>Enter the Void Cathedral through the gate</eng>
+			</Enter_VC>
+			<completed>
+				<eng>I've entered the Void Cathedral throught the gate.</eng>
+			</completed>		
+		</Ch4_Tower_of_Torment>
+		<Ch4_Finalboss>
+			<Name>
+				<eng>The fall of the Faceless One</eng>
+			</Name>
+			<desc>
+				<eng>I must defeat my nemesis, the Faceless Tsar.</eng>
+			</desc>
+			<main>
+				<eng>Defeat the Faceless One</eng>
+			</main>
+			<completed>
+				<eng>I've defeated the Faceless Tsar, who was truly Koschei the Deathless. I was victorius!</eng>
+			</completed>
+		</Ch4_Finalboss>
+		<Ch1_TD3>
+			<Name>
+				<eng>Battle in the Ink</eng>
+			</Name>
+			<desc>
+				<eng>The Cult of Seven opened another rift at a section of the Empyrean Perimeter. I've decided that a place called the Memorial Perk is worth defending personally.</eng>
+			</desc>
+			<main>
+				<eng>Defend the Memorial Perk against the otherworldly invasion!</eng>
+			</main>
+			<report>
+				<eng>Go back to Commander Petrov</eng>
+			</report>			
+			<completed>
+				<eng>The Memorial Perk is once again safe to visit</eng>
+			</completed>
+		</Ch1_TD3>
+		<Ch4_Crazyoldman>
+			<main>
+				<eng>Crazy Old Man</eng>
+			</main>
+		</Ch4_Crazyoldman>
+	</Quests>
+	<reports>		
+		<Vladimir>
+			<Count_Vlados_is_free>
+				<eng>Sir! We have secured and searched the Testing Facility. We found a prison block and rescued an undead gentleman from the ranks of the Resistance.</eng>
+			</Count_Vlados_is_free>
+			<Count_Vlados_is_free_02>
+				<eng>Count Vlados wants you to know that he was a tad disappointed that you couldn't find him there, but he has no grudge against you.</eng>
+			</Count_Vlados_is_free_02>
+			<Ink_Borgova_01>
+				<eng>Something bad is happening in Borgova! Earthquakes strike the city! The Ink is gushing through the cracks!</eng>
+			</Ink_Borgova_01>
+			<Ink_Borgova_02>
+				<eng>It's the Ink! It's overflowing Borgova! Houses are disappearing in the void! What shall we do?!</eng>
+			</Ink_Borgova_02>
+			<Oldtown_radio_message>
+				<eng>Some survivors are trapped in the Gothic Quarter. Vampires will get to them soon, they need your help!</eng>
+			</Oldtown_radio_message>
+		</Vladimir>	
+		<Commander_Petrov>
+			<MS_Crazedannihilators>
+				<eng>Van Helsing! Stray war machines have been spotted in the city. Return to the Lair when you can.</eng>
+			</MS_Crazedannihilators>
+			<MS_Ink_incursions>
+				<eng>We are getting reports of monster attacks in the city. Please check the situation when you get the chance.</eng>
+			</MS_Ink_incursions>
+			<MS_Labriot>
+				<eng>We found another abandoned laboratory and ran into trouble. The captains wish to discuss the situation with you.</eng>
+			</MS_Labriot>			
+			<MS_Borgoland>
+				<eng>The enemy is attacking our surface headquarters! We need you back in the Lair!</eng>
+			</MS_Borgoland>
+			<MS_Kidnapped_lieutenant>
+				<eng>Van Helsing! The enemy has captured one of our key personnel. We must send a rescue mission!</eng>
+			</MS_Kidnapped_lieutenant>
+			<MS_TD2>
+				<eng>Van helsing! We need to discuss an important matter. Return to the lair as soon as you can.</eng>
+			</MS_TD2>
+			<MS_TD3>
+				<eng>We've received news that trouble is brewing at the Empyrean Perimeter. Your assistance is needed.</eng>
+			</MS_TD3>
+			<MS_Heroic_suicide>
+				<eng>Va...sing! The cult of... a massive attack! The city... apart! You must.... Lair!</eng>
+			</MS_Heroic_suicide>
+		</Commander_Petrov>
+		<Vlados>
+			<MS_TD1_1>
+				<eng>Is this unholy contraption functioning? Should I speak into this appliance? Does my hair look good? I'll start now.</eng>
+			</MS_TD1_1>
+			<MS_TD1_2>
+				<eng>I have grave news. The ancient vampires your esteemed father put away a long time ago... They are back.</eng>
+			</MS_TD1_2>
+			<MS_TD1_3>
+				<eng>Someone woke the monsters and they are moving through the tunnels towards the Lair. We must stop them!</eng>
+			</MS_TD1_3>
+			<Vampires_in_the_city>
+				<eng>Van Helsing! The vampire princes! They are back from their crypts! They are invading the city!</eng>
+			</Vampires_in_the_city>
+		</Vlados>
+		<Von_Sturm>
+			<Transmitter_prototype>
+				<eng>I managed to activate my Aerial Transmitter prototype! It can't reach Borgovia, but I can talk to you!</eng>
+			</Transmitter_prototype>
+			<Von_Sturm_info01>
+				<eng>Go through the gate. The next Inkgrub is in the Valley of Frost.</eng>
+			</Von_Sturm_info01>
+			<Clockwork_Meet>
+				<eng>Good work! Step through the gate and I'll meet you at our humble adobe, the Clockwork Keep!</eng>
+			</Clockwork_Meet>
+			<Second_phase>
+				<eng>Excellent! Now get to the eastern section of the Keep and power up the Dream Weaver via the control panel!</eng>
+			</Second_phase>
+			<Third_phase>
+				<eng>Outstanding! Now go to the northern end of the Keep and destroy Koschei's Relic with the Disintegrator!</eng>
+			</Third_phase>
+			<RM_improbability1>
+				<eng>Urgent message! Can you take a slight detour to the Improbability Flux Generator and turn it back on?</eng>
+			</RM_improbability1>
+			<RM_improbability2>
+				<eng>It was our defense against the monsters of the Ink, but it was disabled when the Tsar conquered the Keep.</eng>
+			</RM_improbability2>
+			<RM_improbability3>
+				<eng>Retrieve the Master Engineer Key, get close to the Generator and all will take care of itself automatically!</eng>
+			</RM_improbability3>
+			<RM_improbability4>
+				<eng>Outstanding! The Improbability Flux Generator is operational. Thank you and carry on!</eng>
+			</RM_improbability4>
+		</Von_Sturm>
+		<Chimera>
+			<hunting_finished>
+				<eng>Your Chimera has returned from a successful hunt. Return to the lair to receive the spoils of the hunt.</eng>
+			</hunting_finished>
+			<injured>
+				<eng>You chimera has been injured while hunting! It will be unavailable for 10 minutes.</eng>
+			</injured>
+			<recovered>
+				<eng>Your chimera has recovered from its injuries and is ready to hunt.</eng>
+			</recovered>
+		</Chimera>
+	</reports>
+	<hiddencontent>
+		<wraith_hellgate_done>
+			<eng>You've closed the Gateway at the sacrificial site</eng>
+		</wraith_hellgate_done>		
+		<relics_riddle_solved>
+			<eng>You've found a way to get the Relics under the mystical barrier</eng>
+		</relics_riddle_solved>		
+		<drop_xenoacid>
+			<eng>You've granted the death wish of the mutant clone</eng>
+		</drop_xenoacid>
+		<Inkwraith_secret_elite>
+			<eng>You've found and killed the Eater of Light</eng>
+		</Inkwraith_secret_elite>
+			<Zsilip_nyitva>
+			<eng>You've found the underwater section of the Laboratory</eng>
+		</Zsilip_nyitva>
+		<Documents_finded>
+			<eng>You've found the Contrasolis Serum documents</eng>
+		</Documents_finded>	
+		<daywalker_done>
+			<eng>You've met the Daywalker</eng>
+		</daywalker_done>		
+		<haunted_crystal_end>
+			<eng>You couldn't resist the temptation to hit the Rippling Crystal</eng>
+		</haunted_crystal_end>
+		<Hauted_Forest_gong>
+			<eng>Katarina really had to hit that gong</eng>
+		</Hauted_Forest_gong>
+		<Oldwitch_dialog_done>
+			<eng>You've uncovered the true story of Hansel and Gretel</eng>
+		</Oldwitch_dialog_done>
+		<Gnarl_Riddle_Loot>
+			<eng>You've decrypted the riddle of the Frog Statues</eng>
+		</Gnarl_Riddle_Loot>
+		<lair_alchemist_yesskrim>
+			<eng>You've acquired the Skrimbeast potion</eng>
+		</lair_alchemist_yesskrim>
+		<Wraith_relics_hint>
+			<eng>You've found the hint to the Relics.</eng>
+		</Wraith_relics_hint>
+		<vlados_woundedman_saved>
+			<eng>You've saved the wounded man who was bitten by vampires.</eng>
+		</vlados_woundedman_saved>
+		<crowell_russ_done>
+			<eng>You've talked to the Gladiator who killed the previous Ringmaster.</eng>
+		</crowell_russ_done>
+		<NH_hiddentreasure_solved>
+			<eng>You've solved the riddle to the hidden treasure in Necropolis.</eng>
+		</NH_hiddentreasure_solved>
+		<NH_necklace_sold>
+			<eng>You've sold the Hag's chocolate necklace to the undead.</eng>
+		</NH_necklace_sold>
+		<hc_halaskofa_done>
+			<eng>You've looked under the bench in the Gothic Quarter.</eng>
+		</hc_halaskofa_done>
+		<hc_hirdetes_done>
+			<eng>You've read the advertisement on the monster hunter seminar.</eng>
+		</hc_hirdetes_done>
+		<hc_poni_done>
+			<eng>You've found the tomb of Lady Irina's lost pony.</eng>
+		</hc_poni_done>
+		<hc_grimhound_done>
+			<eng>You've found a suspiciously well fed stray dog.</eng>
+		</hc_grimhound_done>
+		<hc_szoborcsodalat_done>
+			<eng>You've found a menacing statue in the Impossible Tombs.</eng>
+		</hc_szoborcsodalat_done>
+		<hc_favago_done>
+			<eng>You've met the dead Lumberjacks again in the Impossible Tombs.</eng>
+		</hc_favago_done>
+		<hc_postakocsi_done>
+			<eng>You've found the property of the Stagecoach Robbery Association.</eng>
+		</hc_postakocsi_done>
+		<BNT_hc_leghajo>
+			<eng>You've have sabotaged the Mad Ringmaster's airship.</eng>
+		</BNT_hc_leghajo>
+		<hc_winter_done>
+			<eng>You've talked to Gnome Sentry. Winter is coming...</eng>
+		</hc_winter_done>
+		<ck_clockmeister_rightcount>
+			<eng>You've helped the Klockmeister to count the cogs on a wheel.</eng>
+		</ck_clockmeister_rightcount>
+		<Lair_dreamer_deal>
+			<eng>You've swapped the Dreamer Artifact to something else with Dr. Dampf.</eng>
+		</Lair_dreamer_deal>
+		<BNT_hc_buzamezo>
+			<eng>You've found the hidden treasure in the wheatfield.</eng>
+		</BNT_hc_buzamezo>
+		<hc_atlantis_done>
+			<eng>You've found the hidden book called "The Man from Atlantis".</eng>
+		</hc_atlantis_done>
+		<hc_szoborfelirat_done>
+			<eng>You've read the inscription on the horned statue.</eng>
+		</hc_szoborfelirat_done>
+		<hc_beardgrease_itemgot>
+			<eng>You've found the hidden stash of Gnome Beard Grease.</eng>
+		</hc_beardgrease_itemgot>
+		<hc_bloodrabbit_killed>
+			<eng>You've defeated the Blood Rabbit.</eng>
+		</hc_bloodrabbit_killed>
+		<hc_atlantiszi_damak_done>
+			<eng>You've found the portrait of the Atlantean Dame.</eng>
+		</hc_atlantiszi_damak_done>
+		<hc_kiado_lakas_done>
+			<eng>You've found the "Cabin in the Wood for Rent" sign.</eng>
+		</hc_kiado_lakas_done>
+		<Who_banter_done>
+			<eng>You've found the discarded TARDIS console.</eng>
+		</Who_banter_done>
+		<hc_inquisitorarmor_done>
+			<eng>You've found a strange armor from the very grim future.</eng>
+		</hc_inquisitorarmor_done>
+		<hc_gate_domovoy_killed>
+			<eng>You've killed the suicidal domovoy.</eng>
+		</hc_gate_domovoy_killed>
+		<hell_tastemeat_yes>
+			<eng>You've agreed to taste Titan flesh.</eng>
+		</hell_tastemeat_yes>
+		<hc_titan_kard_done>
+			<eng>You've found the Titan-slaying paraphernalia.</eng>
+		</hc_titan_kard_done>
+		<hc_guidebook_done>
+			<eng>You've found the guidebook to Hell written by Dante A.</eng>
+		</hc_guidebook_done>
+		<hc_interrogator_rokon_done>
+			<eng>You've met with a relative of the Jailor in the Tower of Torment.</eng>
+		</hc_interrogator_rokon_done>
+		<hc_katarina_rokon_done>
+			<eng>You've met the ghost of Katarina's aunt in th Shrine of Lamentation.</eng>
+		</hc_katarina_rokon_done>
+		<hc_titanhus_recipe_done>
+			<eng>You've found the recipebook for preparing Titan meat.</eng>
+		</hc_titanhus_recipe_done>
+		<hc_fulmigati_done>
+			<eng>You've met Professor Fulmigati in the Shrine of Lamentation.</eng>
+		</hc_fulmigati_done>
+		<hc_koschei_fragment_found>
+			<eng>You've found a fragment of Kochei's Death.</eng>
+		</hc_koschei_fragment_found>
+		<td7_secret>
+			<eng>You've found the secret area in the The Steam Halls.</eng>
+		</td7_secret>
+		<td8_secret>
+			<eng>You've found the secret area in the The Empyrean Perimeter.</eng>
+		</td8_secret>
+		<td9_secret>
+			<eng>You've found the secret area in the Memorial Perk.</eng>
+		</td9_secret>
+	</hiddencontent>
+	<Bossfight>
+		<hauntedforestboss>
+			<Title>
+				<eng>The Hideout</eng>
+			</Title>
+			<main>
+				<eng>Kill the Cult Leader</eng>
+			</main>
+		</hauntedforestboss>
+		<FinalBoss>
+			<Title>
+				<eng>The Nemesis</eng>
+			</Title>
+			<defeat_1>
+				<eng>Defeat the Faceless One</eng>
+			</defeat_1>
+			<defeat_2>
+				<eng>Defeat the Second Avatar of Faceless One</eng>
+			</defeat_2>
+			<defeat_3>
+				<eng>Defeat the True Shape of the Faceless One</eng>
+			</defeat_3>
+		</FinalBoss>
+	</Bossfight>
+	<Scripting>
+		<lair_siege>
+			<waves>
+				<eng>Waves: %d / %d</eng>
+			</waves>
+			<machine_parts>
+				<eng>Machine Parts</eng>
+			</machine_parts>
+			<use_map_to_start>
+				<eng>Use map to start next wave!</eng>
+			</use_map_to_start>
+			<progress>
+				<eng>Siege progress:</eng>
+			</progress>
+			<call_wave>
+				<eng>Start Wave</eng>
+			</call_wave>
+			<wave_info>
+				<eng>Wave Info</eng>
+			</wave_info>
+			<message>
+				<wave_start>
+					<eng>Wave started!</eng>
+				</wave_start>
+				<wave_clear>
+					<eng>Wave cleared!</eng>
+				</wave_clear>
+				<machine_part_added>
+					<eng>Recieved %d Machine Parts.</eng>
+				</machine_part_added>
+			</message>
+		</lair_siege>
+	</Scripting>
+</Root>

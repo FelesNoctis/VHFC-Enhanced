@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Soldiers>
+		<aranycikesz>
+			<Name>
+				<eng>Seekermaton</eng>
+			</Name>
+		</aranycikesz>
+		<Daimon_Tormentor>
+			<Name>
+				<eng>Daimon Master Tormentor</eng>
+			</Name>
+		</Daimon_Tormentor>
+		<Deformed_prisoner>
+			<Name>
+				<eng>Deformed Prisoner</eng>
+			</Name>
+		</Deformed_prisoner>		
+		<Fulmigati_ghost>
+			<Name>
+				<eng>Professor Fulmigati</eng>
+			</Name>
+		</Fulmigati_ghost>
+		<Katarina_aunt>
+			<Name>
+				<eng>Katarina's Aunt</eng>
+			</Name>
+		</Katarina_aunt>
+		<crazyoldman>
+			<Name>
+				<eng>Crazy Old Man</eng>
+			</Name>
+		</crazyoldman>
+		<Fallen_acolyte>
+			<Name>
+				<eng>Fallen Acolyte of Koschei</eng>
+			</Name>
+		</Fallen_acolyte>
+		<fallen_warlord>
+			<Name>
+				<eng>Nyhelm, The Fallen Warlord</eng>
+			</Name>
+		</fallen_warlord>
+		<Fallen_hunter>
+			<Name>
+				<eng>Fallen Monster Hunter</eng>
+			</Name>
+		</Fallen_hunter>		
+		<Interrogator_relative>
+			<Name>
+				<eng>Interrogator's Cousin</eng>
+			</Name>
+		</Interrogator_relative>
+		<Gatekeeper>
+			<Name>
+				<eng>Gatekeeper</eng>
+			</Name>
+		</Gatekeeper>
+		<NPC_Gnome_sentry2>
+			<Name>
+				<eng>Gnome Sentry</eng>
+			</Name>
+		</NPC_Gnome_sentry2>		
+		<fat_white_dog>
+			<Name>
+				<eng>Well fed stray dog</eng>
+			</Name>
+		</fat_white_dog>
+		<Demon_Dog_red>
+			<Name>
+				<eng>Demon Dog</eng>
+			</Name>
+		</Demon_Dog_red>
+		<NPC_Klockmeister>
+			<Name>
+				<eng>Klockmeister</eng>
+			</Name>
+		</NPC_Klockmeister>
+		<Restless_Wonderer>
+			<Name>
+				<eng>Restless Wonderer</eng>
+			</Name>
+		</Restless_Wonderer>
+		<Ink_traveller>
+			<Name>
+				<eng>Ink Traveller Leader</eng>
+			</Name>
+		</Ink_traveller>
+		<vampire_hiddenpath>
+			<Name>
+				<eng>Nosferatu</eng>
+			</Name>
+		</vampire_hiddenpath>
+		<Hoarder_Ghost>
+			<Name>
+				<eng>Hoarder Ghost</eng>
+			</Name>
+		</Hoarder_Ghost>
+		<Krakenoid_small>
+			<Name>
+				<eng>Krakenoid Servant</eng>
+			</Name>
+		</Krakenoid_small>
+		<Gnome_trader>
+			<Name>
+				<eng>Pavel, the Merchant</eng>
+			</Name>
+		</Gnome_trader>
+		<Gnome_Misha>
+			<Name>
+				<eng>Misha, the Sentry</eng>
+			</Name>
+		</Gnome_Misha>		
+		<Krakenoid_elite>
+			<Name>
+				<eng>Krakenoid Leader</eng>
+			</Name>
+		</Krakenoid_elite>
+		<Krakenoid>
+			<Name>
+				<eng>Krakenoid</eng>
+			</Name>
+		</Krakenoid>
+		<NPC_Granny_Inkblot>
+			<Name>
+				<eng>Old Hag</eng>
+			</Name>
+		</NPC_Granny_Inkblot>
+		<Fallen_mercenary>
+			<Name>
+				<eng>Fallen Mercenary</eng>
+			</Name>
+		</Fallen_mercenary>
+		<Twisted_executioner>
+			<Name>
+				<eng>Twisted Executioner</eng>
+			</Name>
+		</Twisted_executioner>
+		<Spectral_Guardsman>
+			<Name>
+				<eng>Spectral Guardsman</eng>
+			</Name>
+		</Spectral_Guardsman>	
+		<Shrieking_Widow>
+			<Name>
+				<eng>Shrieking Widow</eng>
+			</Name>
+		</Shrieking_Widow>
+		<Flame_serpent>
+			<Name>
+				<eng>Flame Serpent</eng>
+			</Name>
+		</Flame_serpent>
+		<Crowell_Russ>
+			<Name>
+				<eng>Crowell Russ</eng>
+			</Name>
+		</Crowell_Russ>
+		<NPC_Jester>
+			<Name>
+				<eng>Chester The Jester</eng>
+			</Name>
+		</NPC_Jester>
+		<Wretched_clown>
+			<Name>
+				<eng>Clown</eng>
+			</Name>
+		</Wretched_clown>		
+		<NPC_Domovoy>
+			<Name>
+				<eng>Domovoy</eng>
+			</Name>
+		</NPC_Domovoy>
+		<Vampireling>
+			<Name>
+				<eng>Vampire Hatchling</eng>
+			</Name>
+		</Vampireling>	
+		<Vampirelord_Meele>
+			<Name>
+				<eng>Vampire Lord</eng>
+			</Name>
+		</Vampirelord_Meele>		
+		<Vampirelord_Flying>
+			<Name>
+				<eng>Vampire Lord</eng>
+			</Name>
+		</Vampirelord_Flying>
+		<Vampire_WarLord>
+			<Name>
+				<eng>Vampire Warlord</eng>
+			</Name>
+		</Vampire_WarLord>
+		<OT_wounded_man>
+			<Name>
+				<eng>Dying Man</eng>
+			</Name>
+		</OT_wounded_man>	
+		<Oldtown_survivor>
+			<Name>
+				<eng>Survivor</eng>
+			</Name>
+		</Oldtown_survivor>		
+		<Cerebralus_v2>
+			<Name>
+				<eng>Cerebralus</eng>
+			</Name>
+		</Cerebralus_v2>		
+		<Crabling_elite>
+			<Name>
+				<eng>King of Weaklings</eng>
+			</Name>
+		</Crabling_elite>
+		<Mermaid_elite>
+			<Name>
+				<eng>Lake Spirit</eng>
+			</Name>
+		</Mermaid_elite>
+		<Gloomstrider_elite>
+			<Name>
+				<eng>Nightstalker</eng>
+			</Name>
+		</Gloomstrider_elite>
+		<Mysterious_Cerambyx_elite>
+			<Name>
+				<eng>Inscrutable Genius</eng>
+			</Name>
+		</Mysterious_Cerambyx_elite>
+		<sting_heeled_jack_elite>
+			<Name>
+				<eng>Capering Nightmare</eng>
+			</Name>
+		</sting_heeled_jack_elite>
+		<Conjurer_elite>
+			<Name>
+				<eng>Grand Conjurer</eng>
+			</Name>
+		</Conjurer_elite>
+		<Inkwraith_secret_elite>
+			<Name>
+				<eng>Guardian of the Night</eng>
+			</Name>
+		</Inkwraith_secret_elite>
+		<Inkwraith_elite>
+			<Name>
+				<eng>Eater of Light</eng>
+			</Name>
+		</Inkwraith_elite>
+		<Magmalith_elite>
+			<Name>
+				<eng>Magmalith Conqueror</eng>
+			</Name>
+		</Magmalith_elite>
+		<Bonechopper_elite>
+			<Name>
+				<eng>Murderous Fragmentator</eng>
+			</Name>
+		</Bonechopper_elite>
+		<Gryphon_elite>
+			<Name>
+				<eng>Mountain Guardian</eng>
+			</Name>
+		</Gryphon_elite>
+		<Minotaur_elite>
+			<Name>
+				<eng>Maze Lord</eng>
+			</Name>
+		</Minotaur_elite>		
+		<Three_Headed_Dragon_elite>
+			<Name>
+				<eng>Dragon King</eng>
+			</Name>
+		</Three_Headed_Dragon_elite>	
+		<Basalthanor_boss>
+			<Name>
+				<eng>Acolyte of the Faceless Tsar</eng>
+			</Name>
+		</Basalthanor_boss>
+		<Magic_sphere>
+			<Name>
+				<eng>Inkgrub</eng>
+			</Name>
+		</Magic_sphere>
+		<Ravenous>
+			<Name>
+				<eng>Gully, The Ravenous</eng>
+			</Name>
+		</Ravenous>		
+		<Skrimbeast>
+			<Name>
+				<eng>Skrimbeast</eng>
+			</Name>
+		</Skrimbeast>
+		<Ripley>
+			<Name>
+				<eng>Colonist</eng>
+			</Name>
+		</Ripley>
+		<Thug>
+			<Name>
+				<eng>Thug</eng>
+			</Name>
+		</Thug>
+		<Refugee>
+			<Name>
+				<eng>Refugee</eng>
+			</Name>
+		</Refugee>
+		<Kingpin>
+			<Name>
+				<eng>Lucas, The Kingpin</eng>
+			</Name>
+		</Kingpin>		
+		<Centaur_spear_elite>
+			<Name>
+				<eng>Centaur Beastmaster</eng>
+			</Name>
+		</Centaur_spear_elite>
+		<Fata_Morgana>
+			<Name>
+				<eng>Fata Morgana</eng>
+			</Name>
+		</Fata_Morgana>
+		<Ringmaster>
+			<Name>
+				<eng>Mad Ringmaster</eng>
+			</Name>
+		</Ringmaster>
+		<fenybenjaro>
+			<Name>
+				<eng>The Daywalker</eng>
+			</Name>
+		</fenybenjaro>
+		<Infiltrator>
+			<Name>
+				<eng>Infiltrator</eng>
+			</Name>
+		</Infiltrator>
+		<ghost_favago>
+			<Name>
+				<eng>Lumberjack</eng>
+			</Name>
+		</ghost_favago>
+		<mindswap_female>
+			<Name>
+				<eng>Eliza</eng>
+			</Name>
+		</mindswap_female>
+		<mindswap_male>
+			<Name>
+				<eng>Wilhelm</eng>
+			</Name>
+		</mindswap_male>
+			<mindswap_cat>
+			<Name>
+				<eng>Grumpy</eng>
+			</Name>
+		</mindswap_cat>		
+		<CountVlados>
+			<Name>
+				<eng>Count Vlados</eng>
+			</Name>
+		</CountVlados>
+		<Inkripper_VHIII_elite>
+			<Name>
+				<eng>Cult Leader</eng>
+			</Name>
+		</Inkripper_VHIII_elite>
+		<Interrogator>
+			<Name>
+				<eng>Jailor</eng>
+			</Name>
+		</Interrogator>
+		<Warden>
+			<Name>
+				<eng>Warden</eng>
+			</Name>
+		</Warden>
+		<Basalthanor>
+			<Name>
+				<eng>Basalthanor</eng>
+			</Name>
+		</Basalthanor>
+		<Bies>
+			<Name>
+				<eng>Bies</eng>
+			</Name>
+		</Bies>
+		<Centaur>
+			<Name>
+				<eng>Centaur</eng>
+			</Name>
+		</Centaur>
+		<Daimon_executor>
+			<Name>
+				<eng>Daimon Executor</eng>
+			</Name>
+		</Daimon_executor>
+		<Devourer>
+			<Name>
+				<eng>Devourer</eng>
+			</Name>
+		</Devourer>
+		<Eater_Of_The_Dead>
+			<Name>
+				<eng>Eater of the Dead</eng>
+			</Name>
+		</Eater_Of_The_Dead>
+		<Meatservant>
+			<Name>
+				<eng>Meatservant</eng>
+			</Name>
+		</Meatservant>
+		<Mermaid>
+			<Name>
+				<eng>Mermaid</eng>
+			</Name>
+		</Mermaid>
+		<Pirate>
+			<Name>
+				<eng>Pirate</eng>
+			</Name>
+		</Pirate>
+		<Rubezahl>
+			<Name>
+				<eng>Rubezahl</eng>
+			</Name>
+		</Rubezahl>
+		<Troglodyte>
+			<Name>
+				<eng>Troglodyte</eng>
+			</Name>
+		</Troglodyte>
+		<Windwalker>
+			<Name>
+				<eng>Windwalker</eng>
+			</Name>
+		</Windwalker>
+		<Zealot>
+			<Name>
+				<eng>Zealot</eng>
+			</Name>
+		</Zealot>
+		<Ghoulkin>
+			<Name>
+				<eng>Ghoulkin</eng>
+			</Name>
+		</Ghoulkin>
+		<Living_Dead>
+			<Name>
+				<eng>Living Dead</eng>
+			</Name>
+		</Living_Dead>
+		<Restless_Soul>
+			<Name>
+				<eng>Restless Soul</eng>
+			</Name>
+		</Restless_Soul>
+		<Revenant>
+			<Name>
+				<eng>Revenant</eng>
+			</Name>
+		</Revenant>
+		<Shambler>
+			<Name>
+				<eng>Shambler</eng>
+			</Name>
+		</Shambler>
+		<Slouchkin>
+			<Name>
+				<eng>Slouchkin</eng>
+			</Name>
+		</Slouchkin>
+		<Undead_Servant>
+			<Name>
+				<eng>Undead Servant</eng>
+			</Name>
+		</Undead_Servant>
+		<Walking_Corpse>
+			<Name>
+				<eng>Walking Corpse</eng>
+			</Name>
+		</Walking_Corpse>
+		<Amphibian_Spitter>
+			<Name>
+				<eng>Amphibian Spitter</eng>
+			</Name>
+		</Amphibian_Spitter>
+		<Amphibian_Crawler>
+			<Name>
+				<eng>Amphibian Crawler</eng>
+			</Name>
+		</Amphibian_Crawler>
+		<Drakeling>
+			<Name>
+				<eng>Drakeling</eng>
+			</Name>
+		</Drakeling>
+		<Centauress>
+			<Name>
+				<eng>Centauress</eng>
+			</Name>
+		</Centauress>
+		<Firebird>
+			<Name>
+				<eng>Firebird</eng>
+			</Name>
+		</Firebird>
+		<Gloomstrider>
+			<Name>
+				<eng>Gloomstrider</eng>
+			</Name>
+		</Gloomstrider>
+		<Great_Cerambyx>
+			<Name>
+				<eng>Great Cerambyx</eng>
+			</Name>
+		</Great_Cerambyx>
+		<Horned_Abomination>
+			<Name>
+				<eng>Horned Abomination</eng>
+			</Name>
+		</Horned_Abomination>
+		<Mysterious_Cerambyx>
+			<Name>
+				<eng>Mysterious Cerambyx</eng>
+			</Name>
+		</Mysterious_Cerambyx>
+		<Bursterfiend>
+			<Name>
+				<eng>Bursterfiend</eng>
+			</Name>
+		</Bursterfiend>
+		<Ruined_Beauty>
+			<Name>
+				<eng>Ruined Beauty</eng>
+			</Name>
+		</Ruined_Beauty>
+		<Grimhound>
+			<Name>
+				<eng>Grimhound</eng>
+			</Name>
+		</Grimhound>
+		<Grosstrich>
+			<Name>
+				<eng>Grosstrich</eng>
+			</Name>
+		</Grosstrich>
+		<Killer_Clown>
+			<Name>
+				<eng>Killer Clown</eng>
+			</Name>
+		</Killer_Clown>
+		<Tusker>
+			<Name>
+				<eng>Tusker</eng>
+			</Name>
+		</Tusker>
+		<Tusker_Sow>
+			<Name>
+				<eng>Tusker Sow</eng>
+			</Name>
+		</Tusker_Sow>
+		<Salamandertoad_Poronty>
+			<Name>
+				<eng>Salamandertoad Spawn</eng>
+			</Name>
+		</Salamandertoad_Poronty>
+		<Outcast>
+			<Name>
+				<eng>Outcast</eng>
+			</Name>
+		</Outcast>
+		<Black_Vagrant>
+			<Name>
+				<eng>Black Vagrant</eng>
+			</Name>
+		</Black_Vagrant>
+		<Shadow_Imp>
+			<Name>
+				<eng>Shadow Imp</eng>
+			</Name>
+		</Shadow_Imp>
+		<Gloom_Imp>
+			<Name>
+				<eng>Gloom Imp</eng>
+			</Name>
+		</Gloom_Imp>
+		<Torso>
+			<Name>
+				<eng>Torso</eng>
+			</Name>
+		</Torso>
+		<Bonechopper>
+			<Name>
+				<eng>Bonechopper</eng>
+			</Name>
+		</Bonechopper>
+		<Daimon>
+			<Name>
+				<eng>Daimon</eng>
+			</Name>
+		</Daimon>
+		<Flesh_Golem>
+			<Name>
+				<eng>Flesh Golem</eng>
+			</Name>
+		</Flesh_Golem>
+		<Massacrare_Brothers>
+			<Name>
+				<eng>Massacrare Brothers</eng>
+			</Name>
+		</Massacrare_Brothers>
+		<Reanimated_Gentleman>
+			<Name>
+				<eng>Reanimated Gentleman</eng>
+			</Name>
+		</Reanimated_Gentleman>
+		<Rotting_Abomination>
+			<Name>
+				<eng>Rotting Abomination</eng>
+			</Name>
+		</Rotting_Abomination>
+		<Mantiswyrm>
+			<Name>
+				<eng>Mantiswyrm</eng>
+			</Name>
+		</Mantiswyrm>
+		<Minotaur>
+			<Name>
+				<eng>Minotaur</eng>
+			</Name>
+		</Minotaur>
+		<Nightmare>
+			<Name>
+				<eng>Nightmare</eng>
+			</Name>
+		</Nightmare>
+		<Quag_Thing>
+			<Name>
+				<eng>Quag Thing</eng>
+			</Name>
+		</Quag_Thing>
+		<Mastodon>
+			<Name>
+				<eng>Mastodon</eng>
+			</Name>
+		</Mastodon>
+		<Centaur_Rampager>
+			<Name>
+				<eng>Centaur Rampager</eng>
+			</Name>
+		</Centaur_Rampager>
+		<Conjurer>
+			<Name>
+				<eng>Conjurer</eng>
+			</Name>
+		</Conjurer>
+		<Daimon_Judge>
+			<Name>
+				<eng>Daimon Judge</eng>
+			</Name>
+		</Daimon_Judge>
+		<Hollow_King>
+			<Name>
+				<eng>Hollow King</eng>
+			</Name>
+		</Hollow_King>
+		<Hollow_Lord>
+			<Name>
+				<eng>Hollow Lord</eng>
+			</Name>
+		</Hollow_Lord>
+		<Inkwraith>
+			<Name>
+				<eng>Inkwraith</eng>
+			</Name>
+		</Inkwraith>
+		<Magmalith>
+			<Name>
+				<eng>Magmalith</eng>
+			</Name>
+		</Magmalith>
+		<Marauder>
+			<Name>
+				<eng>Marauder</eng>
+			</Name>
+		</Marauder>
+		<Nosferatu>
+			<Name>
+				<eng>Nosferatu</eng>
+			</Name>
+		</Nosferatu>
+		<Restless_Creaker>
+			<Name>
+				<eng>Restless Creaker</eng>
+			</Name>
+		</Restless_Creaker>
+		<Silent_Creaker>
+			<Name>
+				<eng>Silent Creaker</eng>
+			</Name>
+		</Silent_Creaker>
+		<Sneaking_Creaker>
+			<Name>
+				<eng>Sneaking Creaker</eng>
+			</Name>
+		</Sneaking_Creaker>
+		<Underdweller>
+			<Name>
+				<eng>Underdweller</eng>
+			</Name>
+		</Underdweller>
+		<Succubus>
+			<Name>
+				<eng>Succubus</eng>
+			</Name>
+		</Succubus>
+		<Ghastly_Bride>
+			<Name>
+				<eng>Ghastly Bride</eng>
+			</Name>
+		</Ghastly_Bride>
+		<Vengeful_Lady>
+			<Name>
+				<eng>Vengeful Lady</eng>
+			</Name>
+		</Vengeful_Lady>
+		<Sting_Heeled_Jack>
+			<Name>
+				<eng>Sting Heeled Jack</eng>
+			</Name>
+		</Sting_Heeled_Jack>
+		<Spinefish_Crawler>
+			<Name>
+				<eng>Spinefish Crawler</eng>
+			</Name>
+		</Spinefish_Crawler>
+		<Shriekerstump>
+			<Name>
+				<eng>Shriekerstump</eng>
+			</Name>
+		</Shriekerstump>
+		<Grandfather_Crab>
+			<Name>
+				<eng>Grandfather Crab</eng>
+			</Name>
+		</Grandfather_Crab>
+		<Gryphon>
+			<Name>
+				<eng>Gryphon</eng>
+			</Name>
+		</Gryphon>
+		<Mound_Turtle>
+			<Name>
+				<eng>Mound Turtle</eng>
+			</Name>
+		</Mound_Turtle>
+		<Salamandertoad>
+			<Name>
+				<eng>Salamandertoad</eng>
+			</Name>
+		</Salamandertoad>
+		<Three_Headed_Dragon>
+			<Name>
+				<eng>Three Headed Dragon</eng>
+			</Name>
+		</Three_Headed_Dragon>
+		<White_Wobbler>
+			<Name>
+				<eng>White Wobbler</eng>
+			</Name>
+		</White_Wobbler>
+		<Gnome_encounter>
+			<Name>
+				<eng>Timur, the Wise</eng>
+			</Name>
+		</Gnome_encounter>
+		<Gnome_Scavenger>
+			<Name>
+				<eng>Semyon, the Wanderer</eng>
+			</Name>
+		</Gnome_Scavenger>
+		<cancroidus>
+			<Name>
+				<eng>Cancroidus</eng>
+			</Name>
+		</cancroidus>
+		<TD2_devourer>
+			<Name>
+				<eng>Hungerling</eng>
+			</Name>
+		</TD2_devourer>
+		<TD2_windwalker>
+			<Name>
+				<eng>Windstrider</eng>
+			</Name>
+		</TD2_windwalker>
+		<inkkutya>
+			<Name>
+				<eng>Netherhound</eng>
+			</Name>
+		</inkkutya>
+		<Apparition>
+			<Name>
+				<eng>Ghastly Apparition</eng>
+			</Name>
+		</Apparition>
+		<vengeful_ghost>
+			<Name>
+				<eng>Vengeful Ghost</eng>
+			</Name>
+		</vengeful_ghost>
+		<vengeful_mega_ghost>
+			<Name>
+				<eng>Vengeful Ghost</eng>
+			</Name>
+		</vengeful_mega_ghost>
+		<Remnant_ghost>
+			<Name>
+				<eng>Revenant</eng>
+			</Name>
+		</Remnant_ghost>
+		<konyvtaros>
+			<Name>
+				<eng>The Recordkeeper</eng>
+			</Name>
+		</konyvtaros>
+		<evil_helsing>
+			<Name>
+				<eng>Evil Van Helsing</eng>
+			</Name>
+		</evil_helsing>
+		<headless_champion>
+			<Name>
+				<eng>Headless Champion</eng>
+			</Name>
+		</headless_champion>
+		<Tormented_Soul>
+			<Name>
+				<eng>Tormented Soul</eng>
+			</Name>
+		</Tormented_Soul>
+		<Demented_Sufferer>
+			<Name>
+				<eng>Demented Sufferer</eng>
+			</Name>
+		</Demented_Sufferer>
+		<Irinas_bodyguard>
+			<Name>
+				<eng>Dreadwraith</eng>
+			</Name>
+		</Irinas_bodyguard>
+		<Lady_Irina>
+			<Name>
+				<eng>Lady Irina</eng>
+			</Name>
+		</Lady_Irina>
+		<gnome_tribesman>
+			<Name>
+				<eng>Gnome Tribesman</eng>
+			</Name>
+		</gnome_tribesman>
+		<Gnome_Elder>
+			<Name>
+				<eng>Gnome Elder</eng>
+			</Name>
+		</Gnome_Elder>
+		<Scientist>
+			<Name>
+				<eng>Scientist</eng>
+			</Name>
+		</Scientist>
+		<Dreamer>
+			<Name>
+				<eng>The Dreamer</eng>
+			</Name>
+		</Dreamer>
+		<Atlantean_mage>
+			<Name>
+				<eng>Atlantean Mage</eng>
+			</Name>
+		</Atlantean_mage>
+		<Lair_enginier>
+			<Name>
+				<eng>Inventor</eng>
+			</Name>
+		</Lair_enginier>
+		<Cannon_Ornithopter>
+			<Name>
+				<eng>Gun Platform</eng>
+			</Name>
+		</Cannon_Ornithopter>
+		<Constructor_Spider>
+			<Name>
+				<eng>Dismemberbot</eng>
+			</Name>
+		</Constructor_Spider>
+		<Constructor_ornithropter>
+			<Name>
+				<eng>Ornithropter</eng>
+			</Name>
+		</Constructor_ornithropter>
+		<Constructor_Katyusa_tower>
+			<Name>
+				<eng>Devastator Sentry</eng>
+			</Name>
+		</Constructor_Katyusa_tower>
+		<Constructor_Frost_Ray_Sentry>
+			<Name>
+				<eng>Cool Aide</eng>
+			</Name>
+		</Constructor_Frost_Ray_Sentry>
+		<SmallHidra>
+			<Name>
+				<eng>Lesser Flame Serpent</eng>
+			</Name>
+		</SmallHidra>
+		<Reanimated_behemoth>
+			<Name>
+				<eng>Reanimated Behemoth</eng>
+			</Name>
+		</Reanimated_behemoth>
+		<Batmoth_giant>
+			<Name>
+				<eng>Batmoth Giant</eng>
+			</Name>
+		</Batmoth_giant>
+		<rat_pit>
+			<Name>
+				<eng>Rat Pit</eng>
+			</Name>
+		</rat_pit>
+		<rovarraj>
+			<Name>
+				<eng>Beetle Cloud</eng>
+			</Name>
+		</rovarraj>
+		<shadow_warrior>
+			<Name>
+				<eng>Shadow Warrior</eng>
+			</Name>
+		</shadow_warrior>	
+		<Von_Sturm>
+			<Name>
+				<eng>Von Sturm</eng>
+			</Name>
+		</Von_Sturm>
+
+		<SpecialAbilities>
+			<HPRegeneration>
+				<eng>Regeneration</eng>
+			</HPRegeneration>
+			<Nightmare_berserk>
+				<eng>Enrage</eng>
+			</Nightmare_berserk>
+			<Rugas_FlashGolem>
+				<eng>Thrust</eng>
+			</Rugas_FlashGolem>
+			<Bat_Swarm_Vampirelord_Flying>
+				<eng>Swarm of Bats</eng>
+			</Bat_Swarm_Vampirelord_Flying>
+			<__icebolt_Nosferatu>
+				<eng>Ice Ball</eng>
+			</__icebolt_Nosferatu>
+			<__fire_ring>
+				<eng>Fire Ring</eng>
+			</__fire_ring>
+			<Korbeutes>
+				<eng>Frenzied Whirl</eng>
+			</Korbeutes>
+			<Panic>
+				<eng>Panic</eng>
+			</Panic>
+			<Fire_swing>
+				<eng>Fire Swing</eng>
+			</Fire_swing>
+			<Molebolt>
+				<eng>Hunter-Driller</eng>
+			</Molebolt>
+			<Meteor_rain>
+				<eng>Meteor Rain</eng>
+			</Meteor_rain>
+			<Firebolt_Heeled_Jack>
+					<eng>Flame Ball</eng>
+			</Firebolt_Heeled_Jack>
+			<LightningClaw>
+					<eng>Lightning Claw</eng>
+			</LightningClaw>
+			<Mereghanyas>
+					<eng>Bile Vomit</eng>
+			</Mereghanyas>
+			<Summon_Rovarraj_Silent_Creaker>
+					<eng>Summon Beetle Cloud</eng>
+			</Summon_Rovarraj_Silent_Creaker>
+			<Underdweler_swing>
+					<eng>Blade Swing</eng>
+			</Underdweler_swing>
+			<Verhanyas>
+					<eng>Torrent of Blood</eng>
+			</Verhanyas>
+			<Double_lightning>
+					<eng>Lightning Assault</eng>
+			</Double_lightning>
+			<Icespell_area>
+					<eng>Winter Flare</eng>
+			</Icespell_area>
+			<Ice_nova>
+					<eng>Icicle Blast</eng>
+			</Ice_nova>
+			<Fire_nova>
+					<eng>Flame Blast</eng>
+			</Fire_nova>
+			<Arcane_nova>
+					<eng>Arcane Blast</eng>
+			</Arcane_nova>
+			<Elemental_oszlop>
+					<eng>Arcane Pillar</eng>
+			</Elemental_oszlop>
+			<Elemental_earthquake>
+					<eng>Earth Blast</eng>
+			</Elemental_earthquake>
+			<Summon_Bathmoth_giant>
+					<eng>Summon Batmoth Giant</eng>
+			</Summon_Bathmoth_giant>
+			<Summon_Drakeling>
+					<eng>Summon Drakeling</eng>
+			</Summon_Drakeling>	
+			<Advanced_icequake>
+					<eng>Frozen Soil</eng>
+			</Advanced_icequake>
+			<Jeghanyas>
+					<eng>Freezing Breath</eng>
+			</Jeghanyas>
+			<double_attack>
+					<eng>Dual Strike</eng>
+			</double_attack>
+			<Minotaur_axethrowing>
+					<eng>Axe Throw</eng>
+			</Minotaur_axethrowing>
+			<Tuzcsova>
+					<eng>Fire Breath</eng>
+			</Tuzcsova>
+			<Tuzcsova_big>
+					<eng>Greater Fire Breath</eng>
+			</Tuzcsova_big>
+			<Tuzcsova_big_purple>
+					<eng>Arcane Breath</eng>
+			</Tuzcsova_big_purple>
+			<Chest_Laser>
+					<eng>Obliterator Ray</eng>
+			</Chest_Laser>
+			<Devour_minion>
+					<eng>Devour Minion</eng>
+			</Devour_minion>			
+			<Basalthanor_summon>
+					<eng>Summon Ikwraiths</eng>
+			</Basalthanor_summon>
+			<__acid_pool>
+					<eng>Corrosive Pool</eng>
+			</__acid_pool>
+			<__firewall>
+					<eng>Wall of Fire</eng>
+			</__firewall>
+			<__frost_nova>
+					<eng>Ice Blast</eng>
+			</__frost_nova>
+			<__poison_tocsa_kopet>
+					<eng>Toxic Pool</eng>
+			</__poison_tocsa_kopet>
+			<Acid_spill_zombies>
+					<eng>Fetid Spill</eng>
+			</Acid_spill_zombies>
+			<Afterburn_Basalthanor>
+					<eng>Flaming Strike</eng>
+			</Afterburn_Basalthanor>
+			<Bleeding_Bonechopper>
+					<eng>Bleeding</eng>
+			</Bleeding_Bonechopper>
+			<Bogarraj_Shambler>
+					<eng>Beetle Cloud</eng>
+			</Bogarraj_Shambler>
+			<Bonechopper_Reborn>
+					<eng>Unholy Rebirth</eng>
+			</Bonechopper_Reborn>
+			<BoosterSigil_Hollow>
+					<eng>Dark Sigil</eng>
+			</BoosterSigil_Hollow>
+			<Centaur_Archery>
+					<eng>Ice Arrow</eng>
+			</Centaur_Archery>
+			<Centaur_AxeThrowing>
+					<eng>Axe Throw</eng>
+			</Centaur_AxeThrowing>
+			<Centaur_SpearThrowing>
+					<eng>Spear Throw</eng>
+			</Centaur_SpearThrowing>
+			<Conjurer_Villam>
+					<eng>Thunderstrike</eng>
+			</Conjurer_Villam>
+			<Crystal_nova_Hollow>
+					<eng>Crystal Blast</eng>
+			</Crystal_nova_Hollow>
+			<CurseOfPerun_Conjurer>
+					<eng>Call Lightning</eng>
+			</CurseOfPerun_Conjurer>
+			<Dot_aura_poison_Zombies>
+					<eng>Poison Cloud</eng>
+			</Dot_aura_poison_Zombies>
+			<Duplacsapas_Minotaur>
+					<eng>Dual Strike</eng>
+			</Duplacsapas_Minotaur>
+			<Entrap_Hollow>
+					<eng>Entrap</eng>
+			</Entrap_Hollow>
+			<Explosion_Death>
+					<eng>Deathblast</eng>
+			</Explosion_Death>
+			<Explosion_Death_poronty>
+					<eng>Deathblast</eng>
+			</Explosion_Death_poronty>
+			<Explosion_take_damage>
+					<eng>Pain Blast</eng>
+			</Explosion_take_damage>
+			<Fire_ring_Basalthanor>
+					<eng>Fire Ring</eng>
+			</Fire_ring_Basalthanor>
+			<Fire_wave_Basalthanor>
+					<eng>Fire Wave</eng>
+			</Fire_wave_Basalthanor>
+			<Fireball_Succubus>
+					<eng>Flaming Sphere</eng>
+			</Fireball_Succubus>
+			<Firebolt_Drakeling>
+					<eng>Fire Bolt</eng>
+			</Firebolt_Drakeling>
+			<Firebolt_Succubus>
+					<eng>Fire Bolt</eng>
+			</Firebolt_Succubus>
+			<Fireform_Basalthanor>
+					<eng>Fiery Form</eng>
+			</Fireform_Basalthanor>
+			<GrappleAttack_Salamandertoad>
+					<eng>Grapple</eng>
+			</GrappleAttack_Salamandertoad>
+			<Grubshriek_idezes_Haunted_Forest>
+					<eng>Summon Grubshriek</eng>
+			</Grubshriek_idezes_Haunted_Forest>
+			<Grubshriek_spawn_WW>
+					<eng>Living Nest</eng>
+			</Grubshriek_spawn_WW>
+			<HarmfulSigil_Hollow>
+					<eng>Harmful Sigil</eng>
+			</HarmfulSigil_Hollow>
+			<HealAlly_mermaid>
+					<eng>Heal Ally</eng>
+			</HealAlly_mermaid>
+			<Ice_DOT>
+					<eng>Sphere of Frost</eng>
+			</Ice_DOT>
+			<Inkwraith_lightning>
+					<eng>Lightning Burst</eng>
+			</Inkwraith_lightning>
+			<Keleskiposszanas>
+					<eng>Spawnin Sac</eng>
+			</Keleskiposszanas>			
+			<Lightning_ring_Conjurer>
+					<eng>Lightning Ring</eng>
+			</Lightning_ring_Conjurer>
+			<lightningbolt_Conjurer>
+					<eng>Lightning Bolt</eng>
+			</lightningbolt_Conjurer>
+			<Lightningdmg_Conjurer>
+					<eng>Lightning Damage</eng>
+			</Lightningdmg_Conjurer>			
+			<PhlogistonCharge>
+					<eng>Phlogiston Charge</eng>
+			</PhlogistonCharge>
+			<PhlogistonWard_Conjurer>
+					<eng>Phlogiston Ward</eng>
+			</PhlogistonWard_Conjurer>
+			<Plasma_shoot>
+					<eng>Arcane Bolt</eng>
+			</Plasma_shoot>
+			<Poison_DOT>
+					<eng>Toxic Cloud</eng>
+			</Poison_DOT>
+			<Poison_tocsa_kopet_beauty>
+					<eng>Toxic Pool</eng>
+			</Poison_tocsa_kopet_beauty>
+			<Poisonbolt_Amphibian>
+					<eng>Poison Bolt</eng>
+			</Poisonbolt_Amphibian>
+			<Poisonbolt_beauty>
+					<eng>Poison Bolt</eng>
+			</Poisonbolt_beauty>
+			<Poisonbolt_Heeled_Jack>
+					<eng>Poison Bolt</eng>
+			</Poisonbolt_Heeled_Jack>
+			<QuagThing_quake>
+					<eng>Quake Strike</eng>
+			</QuagThing_quake>
+			<Skyblast_Basalthanor>
+					<eng>Skyblast</eng>
+			</Skyblast_Basalthanor>
+			<Spawn_Slouckin>
+					<eng>Summon Sloluchkin</eng>
+			</Spawn_Slouckin>
+			<Stunutes_Gryphon>
+					<eng>Slam Dive</eng>
+			</Stunutes_Gryphon>
+			<Stunutes_meatservant>
+					<eng>Paralyzing Kick</eng>
+			</Stunutes_meatservant>
+			<Summon_ghoulkin>
+					<eng>Summon Ghoulkin</eng>
+			</Summon_ghoulkin>
+			<Summon_inkripper>
+					<eng>Summon Inkripper</eng>
+			</Summon_inkripper>
+			<Summon_Inkwraith>
+					<eng>Summon Inkwraith</eng>
+			</Summon_Inkwraith>
+			<Summon_spinefish>
+					<eng>Summon Spinefish</eng>
+			</Summon_spinefish>
+			<Summon_Torso>
+					<eng>Reanimated Torso</eng>
+			</Summon_Torso>
+			<Summon_TorsoMinion>
+					<eng>Reanimated Torso</eng>
+			</Summon_TorsoMinion>
+			<Summon_TorsoVeteran>
+					<eng>Reanimated Torso</eng>
+			</Summon_TorsoVeteran>
+			<SummonerSigil_Hollow>
+					<eng>Summoner Sigil</eng>
+			</SummonerSigil_Hollow>
+			<Szellokes_Gryphon>
+					<eng>Wing Blast</eng>
+			</Szellokes_Gryphon>
+			<Toppantas_Gryphon>
+					<eng>Stomping</eng>
+			</Toppantas_Gryphon>
+			<Windwalker_zap>
+					<eng>Lightning Breath</eng>
+			</Windwalker_zap>
+			<Wisp_damage_Inkwraith>
+					<eng>Summon Wisp</eng>
+			</Wisp_damage_Inkwraith>
+			<GrappleAttack_Sneakingcreaker>
+					<eng>Grapple</eng>
+			</GrappleAttack_Sneakingcreaker>
+			<Summon_Gloomstrider>
+					<eng>Summon Gloomstrider</eng>
+			</Summon_Gloomstrider>			
+			<Attack_area>
+					<eng>Pulverizing Strike</eng>
+			</Attack_area>
+			<Erdei_szello>
+					<eng>Wrath of the Forest</eng>
+			</Erdei_szello>
+			<Szikladobas_twigbeast>
+					<eng>Rock Hurl</eng>
+			</Szikladobas_twigbeast>
+			<Sziklazapor>
+					<eng>Rock Barrage</eng>
+			</Sziklazapor>
+			<__Fireball>
+					<eng>Flaming Sphere</eng>
+			</__Fireball>			
+			<Wight_drainlife>
+					<eng>Drain Life</eng>
+			</Wight_drainlife>
+			<feltamasztas_wight>
+					<eng>Resurrection</eng>
+			</feltamasztas_wight>			
+			<DelayedBlastSwarm>
+					<eng>Delayed Blast Swarm</eng>
+			</DelayedBlastSwarm>
+			<ElyctricalBolas_dirigiblusa>
+					<eng>Elyctrical Bolas</eng>
+			</ElyctricalBolas_dirigiblusa>
+			<Hammersmite_cancroidus>
+					<eng>Hammer Smack</eng>
+			</Hammersmite_cancroidus>
+		</SpecialAbilities>
+	</Soldiers>
+</Root>

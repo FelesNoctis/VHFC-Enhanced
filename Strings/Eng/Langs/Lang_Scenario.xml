@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<dailyquest>
+		<Reward>
+			<eng>Reward: %d Fate Poins</eng>
+		</Reward>
+		<KillCommon>
+			<name>
+				<eng>Rampage</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] monsters ([count]/[max_count])</eng>
+			</desc>
+		</KillCommon>
+		<KillChampion>
+			<name>
+				<eng>Trophy Hunt</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] Champion monsters ([count]/[max_count])</eng>
+			</desc>
+		</KillChampion>
+		<KillElite>
+			<name>
+				<eng>Big Game Hunt</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] Elite monsters ([count]/[max_count])</eng>
+			</desc>
+		</KillElite>
+		<LootChest>
+			<name>
+				<eng>Treasure Trip</eng>
+			</name>
+			<desc>
+				<eng>Open [max_count] Treasure Chests ([count]/[max_count])</eng>
+			</desc>
+		</LootChest>
+		<LootEpic>
+			<name>
+				<eng>Relic Hunt</eng>
+			</name>
+			<desc>
+				<eng>Find [max_count] Epic items ([count]/[max_count])</eng>
+			</desc>
+		</LootEpic>
+		<KillPhysical>
+			<name>
+				<eng>Cold Steel Carnage</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] monsters with physical type skills ([count]/[max_count])</eng>
+			</desc>
+		</KillPhysical>
+		<KillPoison>
+			<name>
+				<eng>Noxious Carnage</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] monsters with poison type skills ([count]/[max_count])</eng>
+			</desc>
+		</KillPoison>
+		<KillLightning>
+			<name>
+				<eng>Fulgurous Carnage</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] monsters with lightning type skills ([count]/[max_count])</eng>
+			</desc>
+		</KillLightning>
+		<KillFire>
+			<name>
+				<eng>Flaming Carnage</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] monsters with fire type skills ([count]/[max_count])</eng>
+			</desc>
+		</KillFire>
+		<KillIce>
+			<name>
+				<eng>Frozen Carnage</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] monsters with ice type skills ([count]/[max_count])</eng>
+			</desc>
+		</KillIce>
+		<KillKatarina>
+			<name>
+				<eng>Ghost Training</eng>
+			</name>
+			<desc>
+				<eng>Let Katarina kill [max_count] monsters ([count]/[max_count])</eng>
+			</desc>
+		</KillKatarina>
+		<CompleteScenario>
+			<name>
+				<eng>Adventure Run</eng>
+			</name>
+			<desc>
+				<eng>Complete [max_count] Adventures ([count]/[max_count])</eng>
+			</desc>
+		</CompleteScenario>
+		<CompleteScenarioCoop>
+			<name>
+				<eng>Team Adventure Run</eng>
+			</name>
+			<desc>
+				<eng>Complete an Adventure in coop</eng>
+			</desc>
+		</CompleteScenarioCoop>
+		<KillChampionNoDeath>
+			<name>
+				<eng>Deathless Trophy Hunt</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] Champion monsters without dying ([count]/[max_count])</eng>
+			</desc>
+		</KillChampionNoDeath>
+		<KillEliteNoDeath>
+			<name>
+				<eng>Deathless Big Game Hunt</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] Elite monsters without dying ([count]/[max_count])</eng>
+			</desc>
+		</KillEliteNoDeath>
+		<KillNoDeath>
+			<name>
+				<eng>Deathless Rampage</eng>
+			</name>
+			<desc>
+				<eng>Kill [max_count] monsters without dying ([count]/[max_count])</eng>
+			</desc>
+		</KillNoDeath>
+		<UseEssence>
+			<name>
+				<eng>Essence Smithing</eng>
+			</name>
+			<desc>
+				<eng>Put [max_count] worth of essence into items ([count]/[max_count])</eng>
+			</desc>
+		</UseEssence>
+		<GoldSpentGambler>
+			<name>
+				<eng>Gambling Spree</eng>
+			</name>
+			<desc>
+				<eng>Gamble [max_count] gold ([count]/[max_count])</eng>
+			</desc>
+		</GoldSpentGambler>
+		<WinArenaWave>
+			<name>
+				<eng>Arena Newcomer</eng>
+			</name>
+			<desc>
+				<eng>Survive [max_count] waves in the Arena ([count]/[max_count])</eng>
+			</desc>
+		</WinArenaWave>
+		<WinArenaWave2>
+			<name>
+				<eng>Arena Contender</eng>
+			</name>
+			<desc>
+				<eng>Survive [max_count] waves in the Arena ([count]/[max_count])</eng>
+			</desc>
+		</WinArenaWave2>
+		<WinArenaWave3>
+			<name>
+				<eng>Arena Veteran</eng>
+			</name>
+			<desc>
+				<eng>Survive [max_count] waves in the Arena ([count]/[max_count])</eng>
+			</desc>
+		</WinArenaWave3>
+		<WinArenaWave4>
+			<name>
+				<eng>Arena Champion</eng>
+			</name>
+			<desc>
+				<eng>Survive [max_count] waves in the Arena ([count]/[max_count])</eng>
+			</desc>
+		</WinArenaWave4>
+		<CompleteScenarioHunterOrElementalist>
+			<name>
+				<eng>Kite Training</eng>
+			</name>
+			<desc>
+				<eng>Complete an Adventure with Bounty Hunter or Elementalist</eng>
+			</desc>
+		</CompleteScenarioHunterOrElementalist>
+		<CompleteScenarioHunterOrConstructor>
+			<name>
+				<eng>Gun Run</eng>
+			</name>
+			<desc>
+				<eng>Complete an Adventure with Bounty Hunter or Constructor</eng>
+			</desc>
+		</CompleteScenarioHunterOrConstructor>
+		<CompleteScenarioProtectorOrPhlogistoneer>
+			<name>
+				<eng>Assault Exercise</eng>
+			</name>
+			<desc>
+				<eng>Complete an Adventure with Protector or Phlogistoneer</eng>
+			</desc>
+		</CompleteScenarioProtectorOrPhlogistoneer>
+		<CompleteScenarioProtectorOrUmbralist>
+			<name>
+				<eng>Fencing Practice</eng>
+			</name>
+			<desc>
+				<eng>Complete an Adventure with Protector or Umbralist</eng>
+			</desc>
+		</CompleteScenarioProtectorOrUmbralist>
+		<CompleteScenarioPhlogistoneerOrElementalist>
+			<name>
+				<eng>Demolitions Drill</eng>
+			</name>
+			<desc>
+				<eng>Complete an Adventure with Phlogistoneer or Elementalist</eng>
+			</desc>
+		</CompleteScenarioPhlogistoneerOrElementalist>
+		<CompleteScenarioConstructorOrUmbralist>
+			<name>
+				<eng>Utility Exam</eng>
+			</name>
+			<desc>
+				<eng>Complete an Adventure with Constructor or Umbralist</eng>
+			</desc>
+		</CompleteScenarioConstructorOrUmbralist>
+		<PigasusItemBought>
+			<name>
+				<eng>Happy Shopping</eng>
+			</name>
+			<desc>
+				<eng>Buy an item from the Pigasus vendor.</eng>
+			</desc>
+		</PigasusItemBought>		
+	</dailyquest>
+	<battle>
+		<gui>
+			<map>
+				<scenario_Nightmare_Hollow02>
+					<name>
+						<eng>Darkgate Cemetery</eng>
+					</name>
+				</scenario_Nightmare_Hollow02>
+				<scenario_tutorial2_Nightmare_Hollow02>
+					<name>
+						<eng>Darkgate Cemetery</eng>
+					</name>
+				</scenario_tutorial2_Nightmare_Hollow02>
+				<scenario_poksziklak>
+					<name>
+						<eng>Gloomy Crags</eng>
+					</name>
+				</scenario_poksziklak>
+				<scenario_cold_caverns>
+					<name>
+						<eng>Deep Mines</eng>
+					</name>
+				</scenario_cold_caverns>
+				<scenario_foundry>
+					<name>
+						<eng>Steel District</eng>
+					</name>
+				</scenario_foundry>
+				<scenario_ink_glass>
+					<name>
+						<eng>Atlantean Ruins</eng>
+					</name>
+				</scenario_ink_glass>
+				<scenario_ink_beggarking>
+					<name>
+						<eng>Boneyard Reef</eng>
+					</name>
+				</scenario_ink_beggarking>
+				<scenario_tutorial1_cave>
+					<name>
+						<eng>Forlorn Grotto</eng>
+					</name>
+				</scenario_tutorial1_cave>
+				<scenario_haunted_forest02>
+					<name>
+						<eng>Vilewoods</eng>
+					</name>
+				</scenario_haunted_forest02>
+				<scenario_ink_frozen>
+					<name>
+						<eng>Permafrost Island</eng>
+					</name>
+				</scenario_ink_frozen>
+				<scenario_ink_old_town>
+					<name>
+						<eng>Shattered District</eng>
+					</name>
+				</scenario_ink_old_town>
+				<scenario_pokol1>
+					<name>
+						<eng>Desolate Limbo</eng>
+					</name>
+				</scenario_pokol1>
+				<scenario_tutorial2_ink4>
+					<name>
+						<eng>Void Archipelago</eng>
+					</name>
+				</scenario_tutorial2_ink4>
+				<scenario_dark_carnival>
+					<name>
+						<eng>Rabid Circus</eng>
+					</name>
+				</scenario_dark_carnival>
+				<scenario_tutorial3_vizt1>
+					<name>
+						<eng>Infested Slums</eng>
+					</name>
+				</scenario_tutorial3_vizt1>				
+				<terep_lair>
+					<desc>
+						<eng>This is your home base where you can store, buy and upgrade equipment as well as reset your character's skills and abilities.</eng>
+					</desc>
+				</terep_lair>
+				<arena>
+					<name>
+						<eng>Arena</eng>
+					</name>
+					<desc>
+						<eng>Wager your Fate Points to enter an immensely challenging endless Arena. After defeating the bosses every 5 waves, you are rewarded with one loot chest at the end(5 max). The Arena should not be tried by the unprepared.</eng>
+					</desc>
+				</arena>
+			</map>
+			<scenario>
+				<difficulty>
+					<eng>Special Conditions:</eng>
+				</difficulty>
+				<scenario_Nightmare_Hollow02>
+					<eng>Darkgate Cemetery</eng>
+				</scenario_Nightmare_Hollow02>
+				<scenario_tutorial2_Nightmare_Hollow02>
+					<eng>Darkgate Cemetery</eng>
+				</scenario_tutorial2_Nightmare_Hollow02>
+				<scenario_fenyves>
+					<eng>Croakwood</eng>
+				</scenario_fenyves>
+				<scenario_poksziklak>
+					<eng>Gloomy Crags</eng>
+				</scenario_poksziklak>
+				<scenario_foundry>
+					<eng>Steel District</eng>
+				</scenario_foundry>
+				<scenario_cold_caverns>
+					<eng>Deep Mines</eng>
+				</scenario_cold_caverns>
+				<scenario_ink_glass>
+					<eng>Atlantean Ruins</eng>
+				</scenario_ink_glass>
+				<scenario_ink_beggarking>
+					<eng>Boneyard Reef</eng>
+				</scenario_ink_beggarking>
+				<scenario_cave>
+					<eng>Forlorn Grotto</eng>
+				</scenario_cave>
+				<scenario_haunted_forest02>
+					<eng>Vilewoods</eng>
+				</scenario_haunted_forest02>
+				<scenario_ink_frozen>
+					<eng>Permafrost Island</eng>
+				</scenario_ink_frozen>
+				<scenario_ink_old_town>
+					<eng>Shattered District</eng>
+				</scenario_ink_old_town>
+				<scenario_pokol1>
+					<eng>Desolate Limbo</eng>
+				</scenario_pokol1>
+				<scenario_ink4>
+					<eng>Void Archipelago</eng>
+				</scenario_ink4>
+				<scenario_dark_carnival>
+					<eng>Rabid Circus</eng>
+				</scenario_dark_carnival>
+				<scenario_gyarnegyed>
+					<eng>Furnace Alley</eng>
+				</scenario_gyarnegyed>
+				<scenario_viztisztito_1>
+					<eng>Infested Slums</eng>
+				</scenario_viztisztito_1>
+				<scenario_tutorial1_cave>
+					<eng>Forlorn Grotto</eng>
+				</scenario_tutorial1_cave>
+				<scenario_tutorial2_ink4>
+					<eng>Void Archipelago</eng>
+				</scenario_tutorial2_ink4>
+				<scenario_tutorial3_vizt1>
+					<eng>Infested Slums</eng>
+				</scenario_tutorial3_vizt1>	
+				<arena>
+					<eng>Arena</eng>
+					<entry_fee>
+						<eng>Entry fee: 20 Fate Points</eng>
+					</entry_fee>
+					<entry_free>
+						<eng>First entry is free every day</eng>
+					</entry_free>
+					<level_req>
+						<eng>The Arena is only available from level 20.</eng>
+					</level_req>
+					<round>
+						<eng>Round %d</eng>
+					</round>
+				</arena>
+				<nubcsirke>
+					<eng>Congratulations! You have unlocked two new maps!</eng>
+				</nubcsirke>
+				<fate_gained>
+					<eng>+%d Fate Points!</eng>
+				</fate_gained>
+				<fate_nomore>
+					<eng>Daily Fate limit reached!</eng>
+				</fate_nomore>
+			</scenario>
+		</gui>
+	</battle>
+	<common>
+		<enter>
+			<eng>Enter</eng>
+		</enter>
+	</common>
+</Root>

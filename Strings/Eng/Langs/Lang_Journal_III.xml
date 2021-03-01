@@ -1,0 +1,232 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Journal>		
+		<Misc>
+			<prometheus>
+				<label>
+					<eng>Prometheus</eng>
+				</label>
+				<popup>
+					<eng>The truth behind Weird Science</eng>
+				</popup>
+			</prometheus>
+		</Misc>
+		<Tutorial>	
+			<VH3_Blocking>
+				<title>
+					<eng>Blocking</eng>
+				</title>				
+				<desc>
+					<eng>As a protector, your most essential skill is the Shield Block. While you keep this skill active, you to completely negate all incoming damage in a 180 degree arc.\nBlocking accumulates Retaliation, which provides a damage bonus the next time you attack.\nAlternating Shield Block and Retaliation attacks is a viable tactic as a Protector.\nThe Retaliation value is displayed above the health orbs with an orange streak.</eng>
+				</desc>
+			</VH3_Blocking>			
+			<VH3_Energy_Shield>
+				<title>
+					<eng>Energy Shield</eng>
+				</title>				
+				<desc>
+					<eng>Phlogistoneers are protected by an energy shield. The shield has a separate health value which is calculated on top of the pholgistoneer's own health.\nThe energy shield regenerates when the pholgitoneer spends a set amount of time away from enemies.\nThe shield can be upgraded with additional properties through the associated skill of the same name.</eng>
+				</desc>
+			</VH3_Energy_Shield>			
+			<VH3_Cloaking>
+				<title>
+					<eng>Cloaking</eng>
+				</title>				
+				<desc>
+					<eng>Umbralists have the ability to cloak themselves. This is a special state in which the umbralist is invisible to enemies.\nThe umbralist can become cloaked by using one of several skills that have this effect.\nCloaking lasts for 5 seconds or until the umbralist attacks.\nEmerging from cloak confers a significant damage bonus that applies to all attacks performed in the next 7 seconds.\nThese abilities generally make the umbralist best suited for hit and run tactics.</eng>
+				</desc>
+			</VH3_Cloaking>							
+			<VH3_LevelingUp>
+				<title>
+					<eng>Leveling Up</eng>
+				</title>				
+				<desc>
+					<eng>Your character gains experience and levels up as he progresses through the story. To benefit from experience, you need to distribute the various points gained at level up.\n\n- Attribute points are distributed in the Character window (accessed by pressing “C”). Attributes increase your character’s resources and give bonuses to skills. They have no upper limit.\n- Skill points are distributed in the Skills window (accessed by pressing “K”). Skills can be upgraded to a maximum level of 10, each level costing 2 skill points.\n- You can purchase powerups for skills, each costing 1 skill point.\n- Finally, there are four expertise skills for each skill that extend and modify the way their parent skill behaves. These have three levels and cost 2 skill points/level.\n\n - Tips\n- By pressing Ctrl + left click you can spend 5 points of Attribute or Skill points. Shift + left click spends all avaliable points at once.</eng>
+				</desc>
+			</VH3_LevelingUp>			
+			<VH3_CompanionWindow>
+				<title>
+					<eng>Companion Window</eng>
+				</title>				
+				<desc>
+					<eng>You have a permanent companion, Lady Katarina by your side. She can be of great assistance to you in many ways.\n\n- Lady Katarina has three combat shapes available. You can change between these by clicking on the buttons beside her portrait.\n- She has her own character sheet and inventory that you can access by pressing “O”.\n- She gains levels, Attribute and Skill points the same as you. Make sure to spend these.\n- You can influence how she fights and gathers equipment on the Behaviour tab.\n- You can also send her to sell items in her inventory and buy potions with the Go Shopping button on her equipment tab.\n\nTips\n- You can quickly set the treshold at which she uses health potions with the slider next to her portrait. You can also make her drink a potion by clicking on the potion icon there.</eng>
+				</desc>
+			</VH3_CompanionWindow>						
+		</Tutorial>
+		<Mechanics>			
+			<VH3_DefensiveStatistics>
+				<title>
+					<eng>Defensive Statistics</eng>
+				</title>				
+				<desc>
+					<eng>There are 8 defensive values in Van Helsing 2: Dodge, Block, Defense, Damage Reduction, the three Resistances and the Crowd Control Resistance.\n\n- Dodge is compared to each attacker's attack strength and a percent value is calculated. A random roll then determines whether the attack was avoided.\n- Block is only used when wielding a shield or melee weapons and is a flat percentage chance that protects against close range attacks. It is calculated prior to Dodge.\n\n-If an attack is not deflected, damage is calculated.\n- The damage is first decreased by Defense, then the resistance of the appropriate type. Physical damage for example is reduced by the Physical Resistance.\n- Both Defense and Resistance values are transformed into a percentage value by comparing them to the character’s level. The higher level the character is, the less the same Resistance value is worth.\n- The remaining damage is decreased by the general Damage Reduction, which is a flat percentage value.\n- Lastly, the Crowd Control Resistance is a percentage value which decreases the duration of debilitating effects (slow, stun, etc.) on your character.</eng>
+				</desc>
+			</VH3_DefensiveStatistics>			
+			<VH3_Enchanter>
+				<title>
+					<eng>Enchanter</eng>	
+				</title>				
+				<desc>
+					<eng>Items can be further enhanced by placing additional enchantments on them at the Enchanter. Most items can hold one extra enchantment, but some can hold two. You can access this feature at the Lair, at the NPC called Saffi.\n\n- You can apply the extra enchantment(s) on the Enchant tab of the enchanter window. The new enchantment will be chosen randomly.\n- An item cannot have multiple enchantments of the same type and certain types of items cannot bear certain types of enchantments. Weapons for example cannot have a Defense enchantment.\n- You can replace individual enchantments on the Replace tab. You can replace one enchantment on each item but you can replace it any number of times. The new enchantment will also be randomly chosen. Unique enchantments cannot be replaced, only their value will change.\n- The enchanter also lets you change the cosmetic appearance of your item to that of another item. You can even give your favourite items a name if you want.</eng>
+				</desc>
+			</VH3_Enchanter>			
+			<VH3_TheChimera>
+				<title>
+					<eng>The Chimera</eng>
+				</title>				
+				<desc>
+					<eng>The Chimera is a creature made of the material of the Ink, a clever, swift and strong being. According to legend, the very first Chimera was originally created by Koschei the Deathless, the greatest wizard of all time. He designed his experiment to be bodyguards and hunters in the Ink. The Ink slowly distorts them, though, so the older specimens end up as devious beasts.\n\nThe Chimera's body is made of raw Ink-material, and a creature of pure magic won’t consume ordinary food. They live on magical essences that they smell from miles away.\n\nThe Chimera’s body can be influenced by arcane means. The master must place magic candles in the summoning ring to grant the creature strength, faster movement, thicker hide, resistance to magic or advanced fighting skills.\n\nIn order to turn the Chimera into a loyal Guardian, a prospective master must defeat it in a special Circle of Combat.  If he or she fails, the creature is set free.</eng>
+				</desc>
+			</VH3_TheChimera>			
+		</Mechanics>
+		<notes>
+			<title>
+				<eng>Research Documents</eng>
+			</title>
+			<popup>
+				<eng>Outlines from Fulmigati’s journal</eng>
+			</popup>
+			<NotesfromtheRecordKeeper>
+				<title>
+					<eng>Notes from the Record Keeper</eng>
+				</title>
+				<desc>
+					<eng>"If these records – all salvaged from the Testing Facility – are true (and they must be, considering that this dossier once belonged to the Professor himself), the birth of Weird Science and modern Borgova itself, with all its creatures and machines was the result of one particular and extended experiment that Fulmigati called “Project Prometheus”. One project that changed the world in mere decades! This research is certainly promising to be groundbreaking."</eng>
+				</desc>
+			</NotesfromtheRecordKeeper>
+			<BirthofWeirdScience>
+				<title>
+					<eng>Birth of Weird Science</eng>
+				</title>
+				<desc>
+					<eng>"The records we obtained in the Testing Facility are detailed accounts of the birth of the Weird Science. All reports indicate that Project Prometheus started right after the liberation of Borgovia, when the Phlogiston Society began to experiment with the fusion of machines, living creatures and magic. They created two individual research departments, one dedicated to the development of something they described as “arcane apparatus”, while the other focused on the so-called "man-machines" – one group was determined to build impossible machines, the other experimented with the creation of artificial life itself!"</eng>
+				</desc>
+			</BirthofWeirdScience>
+			<ArcaneApparatus>
+				<title>
+					<eng>Arcane Apparatus</eng>
+				</title>
+				<desc>
+					<eng>"Finally I learned more about the Arcane Apparatus Research Project. The Phlogiston Society dedicated serious efforts to create the first machines that could defy the laws of nature, but they failed until they acquired a certain "power source not of this world". The nature of this power source is highly classified and there is hardly anything on the subject, not even in Fulmigati's own journals, but as I gather, this power source was obtained by Van Helsing Senior during the battle during the liberation of Borgovia, taken from a highly evolved creature."</eng>
+				</desc>
+			</ArcaneApparatus>
+			<TheMysteriousPowerSource>
+				<title>
+					<eng>The Mysterious Power Source</eng>
+				</title>
+				<desc>
+					<eng>"The records were thoroughly purged and contain almost nothing on the mysterious power source that Van Helsing Sr. obtained from that supernatural creature, who seems to have possessed almost godlike attributes. This mysterious source supposedly contained such amounts of pure magical energy that it could alter the very laws of nature. The Society used that godlike power source to build their first colossal machines, but later they deemed it so dangerous that they decided to bury it somewhere safe where it couldn’t cause – as they put it – further problems. The secrecy on the matter is highly disturbing. The later modifications on the prototypical arcane machines used a much toned-down version of the power source, a modification of the original."</eng>
+				</desc>
+			</TheMysteriousPowerSource>
+			<Subjectno7>
+				<title>
+					<eng>Subject no.7</eng>
+				</title>
+				<desc>
+					<eng>"The first groundbreaking achievements  in the creation of artificial life came around the same time as the success with the arcane power source, and the records indicate that this sudden breakthrough might be connected to one of the test subjects, only referred to as “Subject no. 7” in the documents. Unfortunately all the details are classified: what I could discover was that the Phlogiston Society experimented on “beings with arcane abilities”, and the first six specimen all perished. Subject no. 7 was regarded as extremely dangerous and powerful, and even the dull research notes convey something of the terror the scientists felt around this being."</eng>
+				</desc>
+			</Subjectno7>
+			<IndustrialCreatures>
+				<title>
+					<eng>Industrial Creatures</eng>
+				</title>
+				<desc>
+					<eng>"The vaults of the various testing facilities gave birth to new breeds of creatures. The experiments conducted on the mysterious Subject no. 7. opened up new pathways into mad experiments. The facilities soon turned into a nightmarish amalgamation of hospitals, prisons and laboratories, where monsters were grown in vats, animated by lightning or fused with machines."</eng>
+				</desc>
+			</IndustrialCreatures>
+			<TheFirstVoidExpedition>
+				<title>
+					<eng>The First Void Expedition</eng>
+				</title>
+				<desc>
+					<eng>"The Phlogiston Society initiated the discovery of the Ink as soon as they have invented the first machines that could tear a hole into the fabric of the universe. Soon they began nurturing plans to conquer and colonize the vast reaches of the Ink and appointed a fellow member, Von Sturm to supervise the construction of the first Inkship, a colossal balloon capable of sailing the mists of dreams. The expedition set off soon, and they sent back promising reports and samples, but suddenly they went silent. It seems that they never returned and Fulmigati gave up his Ink Expansion Plans afterwards."</eng>
+				</desc>
+			</TheFirstVoidExpedition>
+			<TheRust>
+				<title>
+					<eng>The Rust</eng>
+				</title>
+				<desc>
+					<eng>"The Rust is a rare material you can only find in certain regions of the Ink. It’s a metallic substance that enhances the reality-shaping properties of the Ink and deteriorates quickly in our world. There are depositories in the provinces of the Ink where this material can be extracted. The first tests indicated that Rust can be used to build machines that could control the flow of the Ink, but after the designated laboratory disintegrated into a black bubble of nothing (with all the remaining samples), the Rust Project was discontinued."</eng>
+				</desc>
+			</TheRust>
+		</notes>
+		<World>
+			<HauntedForest>
+				<title>
+					<eng>Haunted Forest</eng>
+				</title>
+				<misc>
+					<eng>Abandoned Region</eng>
+				</misc>
+				<quote>
+					<eng>"This forest  used to be the place where the sinister tales happened. The ones with the evil witches."</eng>
+				</quote>
+				<desc>
+					<eng>The vast wilderness of the Thunderhead Mountains always had a nasty reputation. Travelers en route to Borgova through the Gorgon Pass didn't really have a choice but to cross Gallowsbog or the Croakwood, but no one has ever ventured on his own free will into the higher reaches of the mountain, into the forest that the locals appropriately (and lovingly) called the Haunted Forest and Wraithwoods: the home to extremely powerful and evil supernatural creatures. At least that was the case until Van Helsing Senior cleared out the infestation from those hidden corners of the land, but as the old saying goes, in due course everything reverts to its original and evil state in Borgovia.</eng>
+				</desc>
+			</HauntedForest>
+			<DarkCarnival>
+				<title>
+					<eng>Dark Carnival</eng>
+				</title>
+				<misc>
+					<eng>Hidden Corner</eng>
+				</misc>
+				<quote>
+					<eng>"The Dark Carnival presents for your entertainment the most magnificent spectacles!"</eng>
+				</quote>
+				<desc>
+					<eng>The Dark Carnival was always part of Borgova: in the dark ages, under the rule of the vampire princes, it was an almost independent city inside the city, a sanctuary for gifted outsiders. With the triumph of the Phlogiston Society, Professor Fulmigati first planned to destroy the circus tents, but realized in good time that that even his "enlightened populace" needed entertainment. Unfortunately he also thought that it would be the best place to send his failed creations he only called, which later led to serious problems among the circus folk.</eng>
+				</desc>
+			</DarkCarnival>
+			<NightmareHollow>
+				<title>
+					<eng>Nightmare Hollow</eng>
+				</title>
+				<misc>
+					<eng>Pocket Realm</eng>
+				</misc>
+				<quote>
+					<eng>"There are three Circles of the Dead here."</eng>
+				</quote>
+				<desc>
+					<eng>Nightmare Hollow is one of the most dangerous realms of the Ink, the un-resting place for all the truly wicked souls – ghosts and  spirits and the cream of the undead nobility of Old Borgova, who decided to retreat here after they had enough of the old-fashioned hauntings in their crumbling mansion in the old quarters of Borgova. Nightmare Hollow has three circles: one for those who could afford filling up their crypts with money during their mortal lives, one for those who didn't, and there are the Impossible Tombs, a prison for the undead that even their kin thought too dangerous to roam the Otherworld.</eng>
+				</desc>
+			</NightmareHollow>
+			<TheDeepRealms>
+				<title>
+					<eng>The Deep Realms</eng>
+				</title>
+				<misc>
+					<eng>A Forbidden World</eng>
+				</misc>
+				<quote>
+					<eng>"Immortals can pass through the Gate for a gift. Mortals have to prove themselves in a trial of combat."</eng>
+				</quote>
+				<desc>
+					<eng>The Ink is vast and infinite, but still it has something resembling a structure. The deeper you go in the swirling haze of this strange otherworld, the more twisted the perceived reality becomes. There are separate regions in the Ink, and you can't simply cross from the Shallow Reaches – the pocket realms closest to Borgovia – into the Deep Realms without making a bargain with the powerful and mystic entities called the Gatekeepers. Sometimes you pay with blood, sometimes you fight a duel – the Gatekeepers make the rules here.</eng>
+				</desc>
+			</TheDeepRealms>
+			<VonSturm>
+				<title>
+					<eng>Von Sturm</eng>
+				</title>
+				<misc>
+					<eng>Retired Mad Scientist</eng>
+				</misc>
+				<quote>
+					<eng>"Our airship only crashed here a decade ago, so you are right on time."</eng>
+				</quote>
+				<desc>
+					<eng>Von Sturm used to be one the founding scientists of the Phlogiston Society. His chosen field of expertise was the construction of airships: this and his enthusiasm for exploration made him the perfect candidate to become the leading officer on the expedition to the depth of the Ink. The Phlogiston Society considered the Otherworld as a vast territory to conquer and colonize, and Von Sturm was a devoted supporter of the First Void Expedition and the supervisor of the construction of the first Inkship, a colossal balloon capable of sailing the mists of dreams. Unfortunately, the expedition never returned and Fulmigati eventually wrote the whole enterprise off as a failure.</eng>
+				</desc>
+			</VonSturm>
+		</World>
+	</Journal>
+</Root>

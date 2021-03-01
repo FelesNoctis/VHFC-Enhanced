@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Battle>
+		<GUI>
+			<map>
+				<terep_ink_hive>
+					<name>
+						<eng>The Nest</eng>
+					</name>
+				</terep_ink_hive>
+				<terep_ink_mechanic>
+					<name>
+						<eng>Machine Hive</eng>
+					</name>
+				</terep_ink_mechanic>
+				<terep_csatorna_hosszu>
+					<name>
+						<eng>Test Chamber</eng>
+					</name>
+				</terep_csatorna_hosszu>
+				<terep_csatorna_nekro>
+					<name>
+						<eng>Underground Headquarters</eng>
+					</name>
+				</terep_csatorna_nekro>
+			</map>
+		</GUI>
+		<GameObject>
+			<Info>
+				<terep_csatorna_nekro>
+					<Waypoint_nekro>
+						<eng>Underground Headquarters</eng>
+					</Waypoint_nekro>
+				</terep_csatorna_nekro>
+				<Lift_1>
+					<eng>Elevator</eng>
+				</Lift_1>
+				<Lift_2>
+					<eng>Elevator</eng>
+				</Lift_2>
+				<lift_nekro1>
+					<eng>Elevator</eng>
+				</lift_nekro1>
+				<lift_nekro2>
+					<eng>Elevator</eng>
+				</lift_nekro2>
+				<Lift_nekro3>
+					<eng>Elevator</eng>
+				</Lift_nekro3>
+			</Info>
+		</GameObject>
+	</Battle>
+</Root>

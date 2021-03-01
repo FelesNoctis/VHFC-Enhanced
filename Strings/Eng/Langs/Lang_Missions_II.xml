@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<Missions>
+		<ThorsHammer>
+			<Name>
+				<eng>Thor's Hammer</eng>
+			</Name>
+			<Desc>
+				<eng>We lost a weapon shipment that contained a valuable treasure from the Museum of Arts and Artifacts. It's called Thor's Hammer. We must take it back. Harker's troops transported the relic to a heavily guarded facility. We have an agent among his soldiers, who could help us to organize a secret recovery mission. Our covert group shouldn't alert the enemy. They need a leader who's willing to survey the area first then attack with precision, and who isn't afraid to face superior numbers. If there's a battle, it will probably happen in the narrow tunnels, where fearless heroism could succeed against larger forces.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>This sounds like an impossible mission, sir, so count me in! Superior numbers, heroic sacrifice! We were born to do this!</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>Sounds like a plan. Thorough exploration, silent and swift ambush, that's for me and the lads. Easy as pie.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>Mmhm, lots of unknown elements in the equation! And it feels more like a job for thieves, not soldiers. Still, we can try. I'll round up the boys and we'll get that hammer back.</eng>
+			</DrStahl>
+		</ThorsHammer>
+		<FirstTD>
+			<Name>
+				<eng>The Subterranean Incursion</eng>
+			</Name>
+			<Desc>
+				<eng>General Harker has sent his soldier-things down to the underground tunnels. They are still looking for the Lair. If we don't stop them now, they will eventually succeed. Luckily, their numbers are limited, so a very swift and aggressive attack should send them fleeing. But this task needs a leader with a knowledge of melee tactics to organize the movements in the separate tunnels at the same time.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>Sir, you can trust me with this one! Some of my men were born to fight in close combat! One heroic charge and the tunnels will be clear.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>Defending a narrow tunnel? It's easy, though a bit below my rank. And I couldn't use my ranged weapons. But I am still your best shot at dealing with the management of the soldiers and the traps at the same time, so I'll do what I have to do.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>Hmff! Well, um, it boils down to two things. Clever resource management and good organizational skills, which are my areas of... no, there are three things! I forgot close combat! I lack the expertise in that, but I can try.</eng>
+			</DrStahl>
+		</FirstTD>
+		<RetakeTunnels1>
+			<Name>
+				<eng>Battle in the Tunnels</eng>
+			</Name>
+			<Desc>
+				<eng>Van Helsing! We must drive out Harker's troops from the tunnels as soon as possible. They are too close to the Lair. Their numbers are disturbingly great, so we must attack them when they aren't expecting anything. We must mobilize as many soldiers as we can. If we coordinate our men properly, our enemies won't have time to assess the situation. If we can push them out for a while and deploy the traps, we will win this battle.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>It's easy. I'll command the largest battalion as possible, and crush them in close combat.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>That doesn't sound too difficult, but I'd send some men to the side tunnels. They could surprise our enemies, until we deploy the traps.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>Umm... yes. We should work with nice, deadly traps!  But I'm not so sure about these unpleasant, closed range scuffles.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>That's a task for me! We'll take Harker's soldiers by surprise and crush their morale. I can lead a whole army against them.</eng>
+			</Upyr>
+		</RetakeTunnels1>
+		<VampireLord>
+			<Name>
+				<eng>The Vampire Lord</eng>
+			</Name>
+			<Desc>
+				<eng>Baron Upyr is one of the renegade vampire nobles who supported the Resistance earlier. After the fall of Fulmigati he returned to his solitary ways. We must convince him to help us again. But a vampire is a master of occult powers, so we need someone who can take care of that. He will also use his otherworldly abilities to hide and fight, so we need skilled trackers. And then we'll face our most difficult task... to use flattery and sweet promises to make him join our cause.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>I say we turn the whole tunnel system upside down. And when we find the creature, he won't say no to a whole battalion of fine Resistance soldiers!</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>Baron Upyr? An arrogant, posh bloodsucker, like all vampires. Luckily I can find any monster anywhere. Convincing him could be more difficult, though.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>Baron Upyr is a creature of many talents! I admire his knowledge of magic, and I can follow the occult trail he left behind. We might even speak the same language when I find him!</eng>
+			</DrStahl>
+		</VampireLord>
+		<SupplyShipment>
+			<Name>
+				<eng>Supply Shipment</eng>
+			</Name>
+			<Desc>
+				<eng>We have information on a shipment of supplies that was sent to Harker. We must intercept it. We are familiar with their chosen route and we know the details of their military escort. We have to survey that route first and find the perfect spot for the ambush. But this attack has to be planned in advance and we should take care of the guards from afar.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>I wouldn't consider myself an expert on urban warfare and assault, but I might be able to sweep away the whole escort with one relentless charge.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>So who do you call when you need to know the lay of the land and place sharpshooters on the roofs? That's right. You call me and my lads.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>Well, umm, so I could definitely prepare some nasty mechanical surprises for the guards. And I'm sure I could come up with a good strategy if I could take a look at the route in advance. Defeating the guards by sheer force might be a problem...</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>There is no need to treat them with kid gloves. If we put the fear of blood into them they will be too busy fleeing to hinder us much. One brutal assault will take care of the shipment once and for all.</eng>
+			</Upyr>
+		</SupplyShipment>
+		<SecondTD>
+			<Name>
+				<eng>Invasion of the Rat-Things</eng>
+			</Name>
+			<Desc>
+				<eng>General Harker is still determined to find the entrance to the Lair. Now he has enlisted the help of the rat-people of the Borgovian underworld. The good thing is that these creatures are cowards, and a ruthless strike will scare them away.  An energetic and brutal attack will confuse them, and during the chaos we can deploy traps that will deal with the rest. Still, we should expect large numbers, which will require competence in melee battles.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>Allow me, sir, to deal with this rabble. I will not hesitate to lead a heroic charge with my brave men.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>How I hate these crawling monsters! My only problem is with the tunnels. Not a particularly good place for ranged weapons, but we use what we can, right?</eng>
+			</Stark>
+			<DrStahl>
+				<eng>I don't particularly enjoy huge underground battles. At least in the tunnels I could employ my clever traps, if that's enough.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>Those rats are talking vermin, and in huge numbers they will cut down their own warriors during the chaos. In the confusion I will attack without mercy.</eng>
+			</Upyr>
+		</SecondTD>
+		<RetakeTunnels2>
+			<Name>
+				<eng>The Rat-Catchers</eng>
+			</Name>
+			<Desc>
+				<eng>Harker has enlisted the help of the rat-people of the Borgovian underworld and they are attacking through the tunnels. We must be quick and merciless, and we must plan our strategy first. Secondly, we need someone who can execute that strategy and lead the men accordingly. It wouldn't hurt if they had no idea about our troops either. It could buy us time until we find a way to restart the traps.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>I think careful planning is overrated when you are dealing with the rat-people. We could destroy their outpost with a single charge.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>They are rats hiding in the tunnels. I can outsmart them any time. They won't even know what hit them when I send in my men from all directions.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>I have, umm, surveyed the blueprints of the place. I could restart the traps or negotiate with the ratfolk but that might not be enough.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>These creatures are just simple minions and I know how to deal with those. I am also a better planner and a more vicious foe than any of them.</eng>
+			</Upyr>
+		</RetakeTunnels2>
+		<Frankenstein>
+			<Name>
+				<eng>Frankenstein's Laboratory</eng>
+			</Name>
+			<Desc>
+				<eng>Our soldiers were digging a tunnel when they stumbled upon a hidden door. It leads to a secret laboratory that used to belong to a certain Dr. Frankenstein. It could be a treasure trove for our scientists if we can find someone to explore the place. Besides, it's quite possibly a dangerous maze, full of deadly traps. And considering the former inhabitant, we should expect problems of an occult nature. Not to mention the machines of applied weird science.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>Traps and occult machines? Not a particularly military assignment, but with a squadron of good men I should be able to deal with it.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>So you've found the secret lab built by a mad scientist? Leave the traps and the exploration to me. What's the worst that could happen? Well, magic and weird machines... but I'm sure I can deal with those too.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>That man was a living legend of science! A Modern Prometheus! I'm a great admirer of his work, and that makes me the perfect choice to deal with his heritage. And with his traps too.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>That man was a visionary way before his time. Thus he often met with hatred... and angry peasants carrying pitchforks. We were alike and I used to hide in similar places. Leave the magical and mechanical defenses to me.</eng>
+			</Upyr>
+		</Frankenstein>
+		<GangsofBorgova>
+			<Name>
+				<eng>Gangs of Borgova</eng>
+			</Name>
+			<Desc>
+				<eng>While General Harker is focusing his attention on the Old Town and the industrial districts, and we are still hiding down here, the rest of Borgova has fallen prey to the various criminal gangs. We are planning a counterstrike to get rid of these marauders. We need a captain who can coordinate different groups simultaneously. We want someone able to track down these secret hideouts and also use deadly force against them. These criminals are holed up in the tunnels, so we need soldiers with experience in close combat.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>I will gather a group of veterans and we'll take care of these worthless nobodies. We'll find the gangs, send them packing by sheer force and hang their leaders to show how serious we are.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>Do we really need to start another war? I don't think so. But me and my men could track down these hidden lairs and eliminate the gang leaders. That would put a stop to these problems, at least for a while.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>Some of these criminals are civilians who have no other choice to survive! I strongly disapprove of killing them. We should try to negotiate with the leaders. Maybe we can scare them without shedding blood.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>I propose a great hunt! I will find these marauder leaders and drain them of their blood. When their minions are terrified enough, they will be more willing to accept our terms.</eng>
+			</Upyr>
+		</GangsofBorgova>
+		<ThirdTD>
+			<Name>
+				<eng>The Inhuman Regiment</eng>
+			</Name>
+			<Desc>
+				<eng>General Harker has sent his soldier-things down to the tunnels. It's serious. We must gather all available men and we need someone who can lead them on a massive charge. He should also take care of the traps down there, while dealing with the defensive tactics at the same time. Or hurt Harker's men really bad to make them flee. That's also an option.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>Personally I'm not that skilled with traps and I prefer one-man heroism over massive clashes, but I think I could manage.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>Give me a lot of good lads! I have served as an officer before. But I have to warn you, I prefer ambush over defense.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>I can take care of traps for sure, although I don't see how my men would survive while I work.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>I could easily overrun the whole sad assembly. I will take them by surprise and tear their whole army apart from the inside with a few tactical moves.</eng>
+			</Upyr>
+		</ThirdTD>
+		<RetakeTunnels3>
+			<Name>
+				<eng>Cleaning Operation</eng>
+			</Name>
+			<Desc>
+				<eng>General Harker has sent his soldier-things down to the tunnels. I think we could really use a more stealthy approach. I wouldn't hurt though if we attack them ferociously, so they don't have time to regroup. It will definitely be a close-ranged combat, so we need someone who can manage that too. And we shouldn't forget about the traps.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>I'm still learning the mechanics of the traps, and you all know how much I dislike sneaking upon the enemy. I could take them in a melee, if I have to.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>I could surprise them for sure and I'm good with traps. I prefer to avoid close combat if I can, but I'm an expert hunter so it won't be a problem.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>I can still take care of the traps, although considering the circumstances I don't know if I will have time to do that. It sounds quite dangerous.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>I will wipe them away. I love to get close to my prey and my ferocious warriors will take care of the rest.</eng>
+			</Upyr>
+		</RetakeTunnels3>
+		<GunsBorgova>
+			<Name>
+				<eng>The Guns of Borgova</eng>
+			</Name>
+			<Desc>
+				<eng>Harker deployed a group of long-range mortars in the outskirts, ready to rain fire and death upon us. We have to destroy this artillery. They have dug in, so some careful planning will be required. We have better chances if our enemies are not aware of our movements. This mission also requires a fearless man in charge who is ready to attack a bunch of mortars and capable of using tactics in a confined area.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>That sounds like my area of expertise. I won't plan any ambush, I can tell you that much, but trust me, a good, old-fashioned charge will deal with them!</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>Attacking the mortars out in the open? I could come up with a plan for a surprise attack, but it doesn't sound like a great idea, if I can say so.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>Umm, ehh, I'd love to use my expertise to help you out, but I don't know how. Do you think that the captain in charge would be open to negotiations?</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>Those blasted guns again! Let me show them the extent of my hate. I'm not the type who would lead a heroic charge, but let me loose in a confined area and see what happens.</eng>
+			</Upyr>
+		</GunsBorgova>
+		<FourthTD>
+			<Name>
+				<eng>Maze of Blades</eng>
+			</Name>
+			<Desc>
+				<eng>Harker found a new route through the tunnels system. They are approaching the ancient vaults no one dares to enter. We must send in an overwhelming force and it's crucial that we use the traps to defeat them. The good thing is that those halls are suitable for ranged weapons and almost as good for close combat. But we need someone who can defend these positions if the enemy gets through the traps.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>It doesn't sound like the place for a good, old-fashioned heroic stance. Still, I'm not afraid of taking my chances.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>I was trained to deal with situations like this. Devious machinery, sharpshooters on ledges! It will be a piece of cake.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>I could do wonders with those traps. I'm also familiar with the defensive strategies we should use down there, which will compensate for the lack of combat skills.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>Those halls are spacious. Me and my loyal warriors can charge at them from close and also attack from the distance. There will be blood.</eng>
+			</Upyr>
+		</FourthTD>
+		<RetakeTunnels4>
+			<Name>
+				<eng>To the Vaults</eng>
+			</Name>
+			<Desc>
+				<eng>Harker found a new route through the tunnel system. They are approaching the ancient vaults no one dares to enter. We must come up with a good strategy in advance. It's also crucial that they don't notice our troops.  When we are in, we can still use the traps to defeat them. As we all know, those halls are suitable for ranged weapons and almost as good for close combat.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>It still doesn't sound like a task I was trained for, but that won't be a problem. A fearless leader always triumphs.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>It won't be a problem. We can get close to them, then I deploy the traps. My sharpshooters take care of the rest.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>Erm, uhh, I'm not that skilled in combat, but believe me, if I can lay my hands on those traps, they will flee in terror.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>Those vaults are underground battlefields and I lead my warriors into a glorious fight. I don't trust traps. We'll destroy them in melee and from far away.</eng>
+			</Upyr>
+		</RetakeTunnels4>
+		<Museum>
+			<Name>
+				<eng>Museum of Arts and Artifacts</eng>
+			</Name>
+			<Desc>
+				<eng>Harker wants to lay his hands on the secret warehouse where the Museum of Arts and Artifacts stores the mythical treasure. His orderlies will arrive to take over soon. We need someone to convince the curator to hand us over the artifacts. The traps that should protect the place are already installed, but not activated. We could modify them to leave some surprises behind us. And if Harker has soldiers stationed there, that means battle in a confined space.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>I'm not an expert on rare artifacts, but if I fail and Harker sends in a whole army, I will defend the warehouse any time!</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>I'm not a man of many words, but I'm quite good with traps and I my archers can defend a warehouse if needed. I also have some experience with things from ancient tombs.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>Ach, the bastion of knowledge! I could certainly convince a fellow scholar of our good intentions. And I love tinkering with traps and planning out strategies.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>I never met a mortal who could deny my wishes. Leave this to me. I also know my way around traps and I can kill the intruders, should they arrive.</eng>
+			</Upyr>
+		</Museum>
+		<KillerBeast>
+			<Name>
+				<eng>Invisible killer</eng>
+			</Name>
+			<Desc>
+				<eng>A monster is on rampage in Borgova. It must have escaped from Fulmigati's laboratories. You will hardly believe me, but it's invisible. It kills silently and skins the victims. We've already lost a squadron, so we need someone who can hunt it down. It's a task for brave men. On the other hand, I can see no other option but lure the thing into a trap. We must use overwhelming force, and this time brutality must be fought with brutality,  from close range.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>Reporting for duty, sir! A battle of wits and weapons, bravery and fighting skills? That's for me.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>This task requires a lot more men and a less subtle approach than I'd normally prefer. But I am a hunter, so I could try if you want.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>Oh my! That sounds like a textbook case of occult experiments gone wrong. I wish I could examine the creature, but I'm not sure I could stay alive long enough.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>Allow me to demonstrate the ferocity, strength, cunning and close-combat experience of an old-fashioned monster against a newly bred creature of the night.</eng>
+			</Upyr>
+		</KillerBeast>
+		<FifthTD>
+			<Name>
+				<eng>Caverns of Steel</eng>
+			</Name>
+			<Desc>
+				<eng>Harker's troops are moving through the underground factories built by Fulmigati. Those halls could be easily defended if someone has the experience. An overwhelming force can do wonders there. I'd also consider the clever use of traps. The size of the caverns gives ample opportunities to deploy ranged weapons, while the ramps are great to engage in melee attacks.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>I could lead my men against the hordes of attackers, but we might end up in a tight spot in a place like that.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>That sounds just great. Me and my boys will hunt them down from the higher positions, while the traps take care of the rest.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>The machines down there could be easily modified and turned into traps. If my men follow my defensive strategy, we'll win!</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>I can charge them with my howling army and tear them apart. I don't care about the traps or ranged weapons. We won't need them.</eng>
+			</Upyr>
+		</FifthTD>
+		<RetakeTunnels5>
+			<Name>
+				<eng>The Secret Factory</eng>
+			</Name>
+			<Desc>
+				<eng>Harker's troops have occupied the Fulmigati's underground factories.  We must come up with a good strategy. A surprise attack could work, and the old machines can easily be modified and turned into traps. The size of the caverns gives ample opportunity to deploy ranged weapons, while the ramps are great for engaging in melee attacks.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>I feel that a fearless charge might not have the same effect as an ambush. I could still give it a try.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>Leave them to me! I'll take them by surprise first, them I pelt them with arrows and bullets. The traps will clear out the rest.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>I could turn those machines into deadly traps, but otherwise I'd feel a bit out of my depths. Still, it could work!</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>It won't be a problem. I'm not that skilled with the traps as I'd love to be, but my ferocity and the element of surprise will win this battle.</eng>
+			</Upyr>
+		</RetakeTunnels5>
+		<Nationaltreasure>
+			<Name>
+				<eng>The National Treasure</eng>
+			</Name>
+			<Desc>
+				<eng>Our scientists found a secret message hidden in the Magna Charta of Borgovia that leads us to location of King Borislav's occult treasure. We must send someone who can convince the mortal guardians to grant us access to the place and has considerable knowledge of the arcane arts. It won't hurt if he could take a good look at the place around before barging in. Undoubtedly there will be traps protecting the sacred artifact.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>If that treasure is guarded by a monster or a champion, I'm your man. But I must admit that I'm not a negotiator.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>I'm neither a scholar nor a diplomat. Still, I know my way around ancient ruins and dungeons, if it's any help.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>That's marvelous! As a scholar of the occult and an expert on mechanical devices, I'd sure love to use the opportunity. And I'm good at negotiating deals.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>As someone with enough experience with occult treasures and a talent for sneaking around unnoticed, I think I would just do great.</eng>
+			</Upyr>
+		</Nationaltreasure>
+		<LugosiBridge>
+			<Name>
+				<eng>Bridge over the Lugosi river</eng>
+			</Name>
+			<Desc>
+				<eng>As you know, we always have problems with the bridges around here. Our engineers are rebuilding one of the destroyed bridges, but the army is moving against them as we speak. We need someone who can defend the construction site all costs, even against impossible odds. It could also speed up things if we could help out the engineers as well. The bridge fortunately can be protected from both afar and close range.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>Allow me to take this assignment, sir! Defending a bridge on my own against the tides of our enemies? I'm really good at these kinds of missions.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>I could take them one by one with the sharpshooters, but I doubt it could stop all of them.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>I could organize the workers into a group of defenders. At the same time I could also lend a helping hand to the engineers.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>I would charge the intruders on the bridge and send them sprawling into the abyss! That should be enough.</eng>
+			</Upyr>
+		</LugosiBridge>
+		<SixthTD>
+			<Name>
+				<eng>Halls of Remembrance</eng>
+			</Name>
+			<Desc>
+				<eng>Harker's forces have opened a door to the sacred underground chambers. They are dismantling the Halls of Remembrance and they are disturbingly close to the Lair. We must send all our available soldiers down there, so will need someone who can commandeer the troops. These halls are spacious, so a well-timed ranged attack could break their momentum, but it could be useful if our defensive strategy is sound and strong. We should count on the traps as well in case they break through.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>I could lead a ferocious charge if you think that it can help.</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>That's sweet. I would send my boys with some guns to the ledges, survey the halls before the troops arrive and deploy some nasty traps as a welcome committee.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>A clever defensive method and the devious deployment of the traps! I could deal with them.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>Leave them to me! I will survey the halls first, and use my ferocity against these machine-beings where I hurt them the most.</eng>
+			</Upyr>
+		</SixthTD>
+		<RetakeTunnels6>
+			<Name>
+				<eng>Desecrated Chambers</eng>
+			</Name>
+			<Desc>
+				<eng>Harker's forces have opened a door to the sacred underground chambers. We can't let Harker break through now, when we are so close to victory! We need someone who can lead a whole army upon them! First we have to sneak upon them. We must also send all our available soldiers down there, so will need someone who can commandeer our men.  These halls are huge, fortunately, so a well-timed ranged attack could break their charge. We should use the traps in case they break through.</eng>
+			</Desc>
+			<Tsarevich>
+				<eng>I don't care about the numbers or a sneak attack. I'll take them down in a blaze of glory!</eng>
+			</Tsarevich>
+			<Stark>
+				<eng>I could surprise them first, then I would take care of them from the distance. And you can count on me with the traps too.</eng>
+			</Stark>
+			<DrStahl>
+				<eng>That's exactly my area of expertise! Well, the deployment of the traps, anyway.</eng>
+			</DrStahl>
+			<Upyr>
+				<eng>I will attack them without mercy! I will bathe in their blood, trust me.</eng>
+			</Upyr>
+		</RetakeTunnels6>
+	</Missions>
+	<resistance>
+		<captains>
+			<Tsarevich>
+				<Name>
+					<eng>Ivan Tsarevich</eng>
+				</Name>
+				<Desc>
+					<eng>"Ivan Tsarevich reporting, sir! Special command tactics and offensive warfare!"</eng>
+				</Desc>
+			</Tsarevich>
+			<Stark>
+				<Name>
+					<eng>Igor Stark</eng>
+				</Name>
+				<Desc>
+					<eng>"Exploration is my middle name! And ambush! Ambush is my other middle name. I also have an inkling of traps and ranged weapons. Nah, sorry. Actually I'm great with traps!"</eng>
+				</Desc>
+			</Stark>
+			<DrStahl>
+				<Name>
+					<eng>Dr. Stahl</eng>
+				</Name>
+				<Desc>
+					<eng>"I'm a simple genius, born to defeat the world with giant, exploding machines. Currently I'm helping out the Resistance. I'm also a diplomat, an expert on traps and occult knowledge. At your service!"</eng>
+				</Desc>
+			</DrStahl>
+			<Upyr>
+				<Name>
+					<eng>Baron Upyr</eng>
+				</Name>
+			</Upyr>
+		</captains>
+		<captain_stat>
+			<bravery>
+				<name>
+					<eng>Awesome Champion</eng>
+				</name>
+				<desc>
+					<eng>Level of personal heroism, the ability to fight effectively against an enemy with superior numbers.</eng>
+				</desc>
+			</bravery>
+			<offense>
+				<name>
+					<eng>Battalion Commander</eng>
+				</name>
+				<desc>
+					<eng>Leadership and the ability to organize and command larger groups of soldiers.</eng>
+				</desc>
+			</offense>
+			<aggression>
+				<name>
+					<eng>Aggression</eng>
+				</name>
+				<desc>
+					<eng>The ability to handle situations aggressively and knowledge of aggressive strategies.</eng>
+				</desc>
+			</aggression>
+			<diplomacy>
+				<name>
+					<eng>Impressive Diplomat</eng>
+				</name>
+				<desc>
+					<eng>Knowledge in diplomacy, persuasion and an attidute of exploring the possibilities before solving a problem.</eng>
+				</desc>
+			</diplomacy>
+			<scouting>
+				<name>
+					<eng>Reconnoitre</eng>
+				</name>
+				<desc>
+					<eng>Talent in scouting, tracking and searching.</eng>
+				</desc>
+			</scouting>
+			<ambush>
+				<name>
+					<eng>Ambush</eng>
+				</name>
+				<desc>
+					<eng>Knowledge in stealth, ability to exploit the advantages of an enviroment.</eng>
+				</desc>
+			</ambush>
+			<strategy>
+				<name>
+					<eng>Master Strategist</eng>
+				</name>
+				<desc>
+					<eng>Aptitude in strategic thinking and laying out effective strategies.</eng>
+				</desc>
+			</strategy>
+			<occult>
+				<name>
+					<eng>Occult Scholar</eng>
+				</name>
+				<desc>
+					<eng>Familiarity with the arcane, occult arts.</eng>
+				</desc>
+			</occult>
+			<science>
+				<name>
+					<eng>Scientific Prodigy</eng>
+				</name>
+				<desc>
+					<eng>Expertise in the field of both theoretical and applied weird science.</eng>
+				</desc>
+			</science>
+			<traps>
+				<name>
+					<eng>Traps</eng>
+				</name>
+				<desc>
+					<eng>Knowledge of operating and disarming traps.</eng>
+				</desc>
+			</traps>
+			<range>
+				<name>
+					<eng>Legendary Archer</eng>
+				</name>
+				<desc>
+					<eng>Skill in using ranged weaponry and employing ranged tactics.</eng>
+				</desc>
+			</range>
+			<melee>
+				<name>
+					<eng>Melee Expert</eng>
+				</name>
+				<desc>
+					<eng>Competence in melee combat and melee tactics.</eng>
+				</desc>
+			</melee>
+			<defense>
+				<name>
+					<eng>Genius Defender</eng>
+				</name>
+				<desc>
+					<eng>The ability to effectively use defensive structures and using defensive strategies.</eng>
+				</desc>
+			</defense>
+		</captain_stat>
+		<traits>
+			<bravery>
+				<Name>
+					<eng>Awesome Champion</eng>
+				</Name>
+				<Desc>
+					<eng>Grants a small bonus to the Awesome Champion Characteristic.</eng>
+				</Desc>
+			</bravery>
+			<diplomacy>
+				<Name>
+					<eng>Impressive Diplomat</eng>
+				</Name>
+				<Desc>
+					<eng>Grants a small bonus to the Impressive Diplomat Characteristic.</eng>
+				</Desc>
+			</diplomacy>
+			<strategy>
+				<Name>
+					<eng>Master Strategist</eng>
+				</Name>
+				<Desc>
+					<eng>Grants a small bonus to the Master Strategist Characteristic.</eng>
+				</Desc>
+			</strategy>
+			<occult>
+				<Name>
+					<eng>Occult Scholar</eng>
+				</Name>
+				<Desc>
+					<eng>Grants a small bonus to the Occult Scholar Characteristic.</eng>
+				</Desc>
+			</occult>
+			<science>
+				<Name>
+					<eng>Scientific Prodigy</eng>
+				</Name>
+				<Desc>
+					<eng>Grants a small bonus to the Scientific Prodigy Characteristic.</eng>
+				</Desc>
+			</science>
+			<range>
+				<Name>
+					<eng>Legendary Archer</eng>
+				</Name>
+				<Desc>
+					<eng>Grants a small bonus to the Legendary Archer Characteristic.</eng>
+				</Desc>
+			</range>
+			<melee>
+				<Name>
+					<eng>Melee Expert</eng>
+				</Name>
+				<Desc>
+					<eng>Grants a small bonus to the Melee Expert Characteristic.</eng>
+				</Desc>
+			</melee>
+			<defense>
+				<Name>
+					<eng>Genius Defender</eng>
+				</Name>
+				<Desc>
+					<eng>Grants a small bonus to the Genius Defender Characteristic.</eng>
+				</Desc>
+			</defense>
+			<physique>
+				<Name>
+					<eng>Unnatural Physique</eng>
+				</Name>
+				<Desc>
+					<eng>Recovery time from wounded status is decreased by 15%.</eng>
+				</Desc>
+			</physique>
+			<treasure>
+				<Name>
+					<eng>Treasure Hunter</eng>
+				</Name>
+				<Desc>
+					<eng>Increases the chance and amount of useful items your troops can gather during a mission.</eng>
+				</Desc>
+			</treasure>
+			<leadership>
+				<Name>
+					<eng>Born Leader</eng>
+				</Name>
+				<Desc>
+					<eng>Increases the number of soldiers this captain can take to a mission by 2 per skill level.</eng>
+				</Desc>
+			</leadership>
+			<medic>
+				<Name>
+					<eng>Experienced Medic</eng>
+				</Name>
+				<Desc>
+					<eng>Decreases the recovery cost of wounded soldiers by 20% per skill level (applies to the entire soldier pool).</eng>
+				</Desc>
+			</medic>
+			<planning>
+				<Name>
+					<eng>Effective Planner</eng>
+				</Name>
+				<Desc>
+					<eng>Completion time for missions is decreased by 15%.</eng>
+				</Desc>
+			</planning>
+			<protect>
+				<Name>
+					<eng>Careful Leader</eng>
+				</Name>
+				<Desc>
+					<eng>Slightly decreases the chance of soldier deaths during missions.</eng>
+				</Desc>
+			</protect>
+			<chosen>
+				<Name>
+					<eng>Chosen One</eng>
+				</Name>
+				<Desc>
+					<eng>The captain can carry one more relic and his relics provide 33% more bonuses per skill level.</eng>
+				</Desc>
+			</chosen>
+			<training>
+				<Name>
+					<eng>Training Instructor</eng>
+				</Name>
+				<Desc>
+					<eng>Decreases the training cost of new soldiers by 10% per skill level (applies to the entire soldier pool).</eng>
+				</Desc>
+			</training>
+			<aggression>
+				<Name>
+					<eng>Aggression</eng>
+				</Name>
+				<Desc>
+					<eng>Grants a small bonus to the Aggression Characteristic.</eng>
+				</Desc>
+			</aggression>
+			<scouting>
+				<Name>
+					<eng>Scouting</eng>
+				</Name>
+				<Desc>
+					<eng>Grants a small bonus to the Reconnoitre Characteristic.</eng>
+				</Desc>
+			</scouting>
+		</traits>
+		<relics>					
+			<Thors_hammer>
+				<name>
+					<eng>Thor's Hammer</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Melee Expert characteristic.</eng>
+				</desc>	
+			</Thors_hammer>
+			<Appleshooter_bow>
+				<name>
+					<eng>Tell's Appleshooter Bow</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Legendary Archer characteristic.</eng>
+				</desc>	
+			</Appleshooter_bow>
+			<Ancient_clock>
+				<name>
+					<eng>Ancient Clock</eng>
+				</name>
+				<desc>
+					<eng>Decreases mission completion time by 15%.</eng>
+				</desc>	
+			</Ancient_clock>
+			<Frankenstein_guide>
+				<name>
+					<eng>Dr. Frankenstein's Lab Guide</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Scientific Prodigy characteristic.</eng>
+				</desc>	
+			</Frankenstein_guide>
+			<Don_Quijote_Spear>
+				<name>
+					<eng>Don Quijote's Lance</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Aggression characteristic.</eng>
+				</desc>	
+			</Don_Quijote_Spear>
+			<Emerald_lantern>
+				<name>
+					<eng>Emerald Lantern</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Occult Scholar characteristic.</eng>
+				</desc>	
+			</Emerald_lantern>
+			<Da_Vinci_kodex>
+				<name>
+					<eng>Daedalus Manuscript</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Traps characteristic.</eng>
+				</desc>	
+			</Da_Vinci_kodex>
+				<Predator_helmet>
+				<name>
+					<eng>Predator Helmet</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Ambush characteristic.</eng>
+				</desc>	
+			</Predator_helmet>
+			<Holy_Grail>
+				<name>
+					<eng>Holy Grail</eng>
+				</name>
+				<desc>
+					<eng>Decreases recovery time for the bearer by 15%.</eng>
+				</desc>	
+			</Holy_Grail>
+			<Perseus_shield>
+				<name>
+					<eng>Perseus Shield</eng>
+				</name>
+				<desc>
+					<eng>Bestows a significant bonus to the Genius Defender characteristic.</eng>
+				</desc>	
+			</Perseus_shield>
+			<Dark_force_cloak>
+				<name>
+					<eng>Dark Force Cloak</eng>
+				</name>
+				<desc>
+					<eng>Increases the amount of loot you can carry home from a mission by 6.</eng>
+				</desc>	
+			</Dark_force_cloak>
+			<Necronomicon>
+				<name>
+					<eng>Necronomicon</eng>
+				</name>
+				<desc>
+					<eng>Significantly decreases the chance of soldier deaths during missions. </eng>
+				</desc>	
+			</Necronomicon>
+		</relics>
+	</resistance>
+</Root>

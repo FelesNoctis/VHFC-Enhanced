@@ -1,0 +1,2275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Languages>eng</Languages>
+	<SimplifiedConversation>
+		<Testing_Facility>
+			<All_banters>				
+				<BNT_Lab_vlados_leaving>
+					<01_NPC_CountVlados>
+						<eng>Let me just savor the grandiose moment when a vampire was saved by a monster hunter.</eng>
+					</01_NPC_CountVlados>
+				</BNT_Lab_vlados_leaving>	
+				<BNT_Lab_drinkxeno>
+					<01_VH>
+						<eng>The vial says "Drink Xeno-Acid for Ultimate Refreshment".</eng>
+					</01_VH>
+				</BNT_Lab_drinkxeno>				
+				<BNT_Lab_secretarea>
+					<01_VH>
+						<eng> I was worried that we wouldn't find a hidden room in this laboratory. I can sleep well now.</eng>
+					</01_VH>
+				</BNT_Lab_secretarea>
+				<CUT_Labor_beginning>
+					<01_Katarina>
+						<eng>So... we have to clear out some cultists from a secret laboratory that was founded by the leading mad genius of our time. Right?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Yes. Why do you ask?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Why should I help you out with this? It should be child’s play for you by now.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Nice try, but I won’t release you yet. We have a nemesis to defeat.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Can’t blame a girl for trying.</eng>
+					</05_Katarina>
+				</CUT_Labor_beginning>
+				<BNT_Labor_menetkozben1>
+					<01_Katarina>
+						<eng>Why are mad scientist so obsessed with underground labs?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>They have the brains but they lack the imagination.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>I beg to differ. Fulmigati’s creatures show plenty of imagination.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>In that case they are just traditionalists.</eng>
+					</04_VH>
+				</BNT_Labor_menetkozben1>
+				<BNT_Labor_menetkozben2>
+					<01_Katarina>
+						<eng>So why do you think that this Cult of Seven is led by Prisoner Seven?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Their actions follow a pattern, so they must have an evil plan, which implies a nemesis, and I only have one of those currently.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>I thought the name of the group rather gave it away, but I like your reasoning.</eng>
+					</03_Katarina>
+				</BNT_Labor_menetkozben2>
+				<BNT_Labor_menetkozben3>
+					<01_VH>
+						<eng>Here they come!</eng>
+					</01_VH>
+				</BNT_Labor_menetkozben3>			
+				<BNT_Labor_menetkozben4>
+					<01_VH>
+						<eng>This facility is swarming with abandoned research subjects. I should have told them earlier that I came only for the cultists.</eng>
+					</01_VH>
+				</BNT_Labor_menetkozben4>
+				<BNT_Labor_muto>
+					<01_VH>
+						<eng>What is this awful place?!</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Straight out of the Lab Decoration Almanac for Youthful Mad Scientists.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Doctor Frankenstein would be green with envy.</eng>
+					</03_VH>
+				</BNT_Labor_muto>
+				<CUT_Labor_Vlados02>
+					<01_NPC_CountVlados>
+						<eng>Finally! I was worried that you had fallen prey to the hungry darkness that inhabits these caverns of torture and...</eng>
+					</01_NPC_CountVlados>
+					<02_Katarina>
+						<eng>Stop it.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>I followed your advice. It took some time.</eng>
+					</03_VH>
+				</CUT_Labor_Vlados02>
+				<BNT_Labor_zsilip>
+					<01_VH>
+						<eng>I think I set something in motion. That’s never a good thing..</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>You are finally starting to grasp the intricacies of weird science.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Enough of the sarcasm. The water level is sinking. There is a stairway, we should take a look down there.</eng>
+					</03_VH>
+				</BNT_Labor_zsilip>
+				<BNT_Labor_lake>
+					<01_Katarina>
+						<eng>A nice subterranean lake! Fancy a swim, Van Helsing?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>In this secret laboratory? One word, Katarina: Megasharks.</eng>
+					</02_VH>
+				</BNT_Labor_lake>
+				<BNT_Labor_documents>
+					<01_Katarina>
+						<eng>These seem to be the research documents on the serum. We should burn them.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I’ll have the lads take everything to the Lair. It must contain all the secrets of this terrible place.</eng>
+					</02_VH>
+				</BNT_Labor_documents>
+				<CUT_CoS_lead1>
+					<01_Cultist1>
+						<eng>Through the gate! Quick!</eng>
+					</01_Cultist1>
+					<02_Cultist2>
+						<eng>Watch out! You'll break the vials!</eng>
+					</02_Cultist2>
+					<03_Cos_lead>
+						<eng>Take the serum to the master! I'll join you later.</eng>
+					</03_Cos_lead>
+				</CUT_CoS_lead1>
+				<CUT_CoS_lead2>
+					<01_Katarina>
+						<eng>They are escaping!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>We must capture their leader alive! Otherwise we'll never find out what they are doing.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Ah, we’ll never take him alive.</eng>
+					</03_Katarina>
+				</CUT_CoS_lead2>
+				<BNT_nevergetme>
+					<01_Cos_lead>
+						<eng>You’ll never take me alive! Long live the Faceless Tsar!</eng>
+					</01_Cos_lead>
+				</BNT_nevergetme>
+				<CUT_before_leaving>
+					<01_Katarina>
+						<eng>He's unconscious! We took you alive, see?! I’ll take him to the Lair.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Great idea. Tell the others to start interrogating him about this evil Tsar of theirs. Politely.</eng>
+					</02_VH>
+				</CUT_before_leaving>
+				<BNT_Katarina_return>
+					<01_Katarina>
+						<eng>Package delivered! The interrogator is ready to begin. I don’t want to miss the screaming and the begging, so please, hurry up.</eng>
+					</01_Katarina>
+				</BNT_Katarina_return>
+				<BNT_lab_cat_idle1>
+					<01_NPC_mindswap_cat>
+						<eng>All this cat fur makes my eyes itch and water.</eng>
+					</01_NPC_mindswap_cat>
+				</BNT_lab_cat_idle1>
+				<BNT_lab_male_idle1>
+					<01_NPC_mindswap_male>
+						<eng>Meow?</eng>
+					</01_NPC_mindswap_male>
+				</BNT_lab_male_idle1>
+				<BNT_lab_female_idle1>
+					<01_NPC_mindswap_female>
+						<eng>I want to see this body ripped apart! Smells tasty!</eng>
+					</01_NPC_mindswap_female>
+				</BNT_lab_female_idle1>
+				<BNT_lab_werewolf_idle1>
+					<01_mindswap_werewolf>
+						<eng>Phew, my mouth reeks of rotten meat.</eng>
+					</01_mindswap_werewolf>
+				</BNT_lab_werewolf_idle1>
+				<CUT_lab_mindswap_activate>
+					<01_Katarina>
+						<eng>We have the Ghost Capacitor! Stand back everyone! Oh wait, you can't move...</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Hmm, the machine has three sockets. I wonder which is the right one.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>This is where dramatic music comes in and our hero, with sweaty forehead, hesitates. Aaand this is where I just grab the Capacitor and insert it there!</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Katarina!</eng>
+					</04_VH>
+				</CUT_lab_mindswap_activate>
+				<CUT_lab_mindswap_end>
+					<01_mindswap_werewolf>
+						<eng>Meow?</eng>
+					</01_mindswap_werewolf>
+					<02_NPC_mindswap_cat>
+						<eng>Furry body, tiny claws. But still can rend human flesh. Nice!</eng>
+					</02_NPC_mindswap_cat>
+					<03_NPC_mindswap_male>
+						<eng>Oh god, now I'm in a gentleman's body with the extra parts.</eng>
+					</03_NPC_mindswap_male>
+					<04_NPC_mindswap_female>
+						<eng>Turned into a woman, this feels weird. Pleasantly weird... Aaargh!</eng>
+					</04_NPC_mindswap_female>
+				</CUT_lab_mindswap_end>
+				<CUT_lab_mindswap_end2>
+					<01_Katarina>
+						<eng>Seems like it is working!</eng>
+					</01_Katarina>
+					<02_NPC_mindswap_cat>
+						<eng>Meow, meow!</eng>
+					</02_NPC_mindswap_cat>
+					<03_NPC_mindswap_female>
+						<eng>Back in my own body, finally!</eng>
+					</03_NPC_mindswap_female>
+					<04_NPC_mindswap_male>
+						<eng>We are eternally grateful, stranger!</eng>
+					</04_NPC_mindswap_male>
+					<05_mindswap_werewolf>
+						<eng>At laast! I'm free! Now you all die!</eng>
+					</05_mindswap_werewolf>
+				</CUT_lab_mindswap_end2>
+				<CUT_lab_mindswap_hatethis>
+					<01_Katarina>
+						<eng>Oops, an unexpected turn of events.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Sometimes I really hate my job...</eng>
+					</02_VH>
+				</CUT_lab_mindswap_hatethis>
+			</All_banters>
+		</Testing_Facility>
+		<Haunted_Forest>
+			<All_banters>
+				<CUT_cursedforest1>
+					<01_Katarina>
+						<eng>What happened here? This used to be the forest where all the sinister tales happened. The ones with the evil witches and monsters that never saw the light of the day.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>You know, it still looks like "that" forest.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>That is what troubles me! Your father put an end to all that.</eng>
+					</03_Katarina>
+				</CUT_cursedforest1>
+				<CUT_cursedforest2>
+					<01_NPC_Gnome_encounter>
+						<eng>Strangers! What are you doing here?</eng>
+					</01_NPC_Gnome_encounter>
+					<02_Katarina>
+						<eng>Just having a little déjá vu.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>We are looking for a hideout in the forest. Have you seen a camp around here?</eng>
+					</03_VH>
+					<04_NPC_Gnome_encounter>
+						<eng>You should ask my brother, Semyon the Wanderer. He's been around for a while... I've only just arrived here.</eng>
+					</04_NPC_Gnome_encounter>
+					<05_VH>
+						<eng>Thank you, little man.</eng>
+					</05_VH>
+				</CUT_cursedforest2>
+				<CUT_inkgrub1>
+					<01_VH>
+						<eng>These eggs are quite peculiar. What are these and how did they end up in this forest?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>What if there is a creature out here, laying these eggs?</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>You just had to put that image into my head, didn’t you?</eng>
+					</03_VH>
+				</CUT_inkgrub1>
+				<CUT_inkgrub2>
+					<01_VH>
+						<eng>So this stone egg is an Inkgrub? This is what we have to deal with?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Yes. The source of corruption in the forest.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Always a great excuse to destroy something.</eng>
+					</03_VH>
+				</CUT_inkgrub2>
+				<BNT_afterinkgrub>
+					<01_VH>
+						<eng>The curse seems to be reversible. Good.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Even the weather started changing for the better as soon as the Inkgrub was shattered.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Yes, the forest is slowly turning back to normal.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>Let's find more stones to make this place boring again.</eng>
+					</04_Katarina>
+				</BNT_afterinkgrub>
+				<BNT_hauntedforest_utkozben>
+					<01_Katarina>
+						<eng>Something is terribly wrong here. Everything looks the same as in the old days.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>First law of nature in Borgovia: give it time and everything reverts to evil.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Somebody is turning back these woods into the old haunted forest, but why?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>And I was just joking. The cultists should give us some answers.</eng>
+					</04_VH>
+				</BNT_hauntedforest_utkozben>
+				<BNT_witchhut>
+					<01_Katarina>
+						<eng> I remember this house! The kids we found inside said that the walls were delicious. They didn’t think much of the doors, though.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I’ll pass, thank you. I think I’ve lost my appetite.</eng>
+					</02_VH>
+				</BNT_witchhut>
+				<BNT_frogprince>
+					<01_Katarina>
+						<eng>So this is what happens to frog princes who were left unkissed!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Or dumped in a toxic well.</eng>
+					</02_VH>
+				</BNT_frogprince>
+				<CUT_Hauted_Forest_gong_1>
+					<01_VH>
+						<eng>Don’t say a word! I learned my lesson. I won’t touch the gong.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Then it's my turn to hit it! Get ready!</eng>
+					</02_Katarina>
+				</CUT_Hauted_Forest_gong_1>
+				<CUT_Hauted_Forest_gong_hit>
+					<01_gong>
+						<eng></eng>
+					</01_gong>
+				</CUT_Hauted_Forest_gong_hit>
+				<CUT_Hauted_Forest_gong_2>
+					<01_VH>
+						<eng>Diving headfirst into obvious traps seems like an unhealthy habit.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Can't lose my head twice. But I'm still proud of you for not touching the gong.</eng>
+					</02_Katarina>
+				</CUT_Hauted_Forest_gong_2>
+				<BNT_rock_and_crystal>
+					<01_VH>
+						<eng>That looks... well, it looks like nothing I’ve ever seen.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Time to make this the official motto of Borgovia.</eng>
+					</02_Katarina>
+				</BNT_rock_and_crystal>
+				<CUT_inkspill>
+					<01_NPC_Gnome_Scavenger>
+						<eng>Wait! Don't you come any closer! It's dangerous!</eng>
+					</01_NPC_Gnome_Scavenger>
+					<02_Katarina>
+						<eng>Look at this, Van Helsing! The Ink has bled through to our world... the situation is growing worse.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>I'm trying to find the hideout of a hostile cult. Do you know anything about that?</eng>
+					</03_VH>
+					<04_NPC_Gnome_Scavenger>
+						<eng>There is a camp in the Wraithwoods, but that's beyond this spill. It cuts the entire forest in half.</eng>
+					</04_NPC_Gnome_Scavenger>
+					<05_VH>
+						<eng>At least the other half of the forest has a promising name.</eng>
+					</05_VH>
+					<06_NPC_Gnome_Scavenger>
+						<eng>If you enter here, you could get to the Wraithwoods through our village in the Ink. But as I said... it's a dangerous place.</eng>
+					</06_NPC_Gnome_Scavenger>
+					<07_Katarina>
+						<eng>Don't encourage him!</eng>
+					</07_Katarina>
+				</CUT_inkspill>
+				<BNT_haunted_bandit_idle>
+					<01_NPC_Bandita>
+						<eng>Can't wait to go back to my outlaw ways.</eng>
+					</01_NPC_Bandita>
+				</BNT_haunted_bandit_idle>			
+				<BNT_haunted_ghost_idle1>
+					<01_NPC_ghost_favago1>
+						<eng>I'm soo tired of arguing with this oaf!</eng>
+					</01_NPC_ghost_favago1>
+				</BNT_haunted_ghost_idle1>
+				<BNT_haunted_ghost_idle2>
+					<01_NPC_ghost_favago2>
+						<eng>All the blame is on him!</eng>
+					</01_NPC_ghost_favago2>
+				</BNT_haunted_ghost_idle2>
+				<BNT_haunted_crystal_hit>
+					<01_Katarina>
+						<eng>Hit it again!</eng>
+					</01_Katarina>
+				</BNT_haunted_crystal_hit>
+				<BNT_haunted_crystal_hit2>
+					<01_Katarina>
+						<eng>This is so exciting! Try again!</eng>
+					</01_Katarina>
+				</BNT_haunted_crystal_hit2>
+				<BNT_haunted_crystal_hit3>
+					<01_Katarina>
+						<eng>Don't stop now! Hit the crystal!</eng>
+					</01_Katarina>
+				</BNT_haunted_crystal_hit3>
+				<BNT_afterthewitch>
+					<01_Katarina>
+						<eng>I still don’t understand this. Your father killed the witch! And it was an evil one.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Remember what the gnome said. Someone is rewriting the world, waking up this nightmare forest. And yes, she has returned, but she might not be the same. Yet.</eng>
+					</02_VH>
+				</BNT_afterthewitch>
+				<BNT_katarinaink>
+					<01_Katarina>
+						<eng>I’ve been wanting to tell you something for a while, Van Helsing. Something has changed in me.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>It’s not the right time to discuss your afterlife issues, Katarina.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Oh, you...! It’s not that. Since the Ink has been in turmoil, I've felt that I have some control over it. Almost as if I could try to shape it.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>How is that possible?</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Where do you think all those ghosts go who don’t want to haunt smelly old houses? To the darkest realm of the Ink. To the bleak Circles of the Nightmare Hollow.</eng>
+					</05_Katarina>
+				</BNT_katarinaink>
+			</All_banters>
+		</Haunted_Forest>
+		<Hideout>
+			<All_banters>
+				<CUT_cult_leader_monolog>
+					<01_Basalthanor_boss>
+						<eng>Van Helsing! My master told me to expect you. Did you come to your senses?  If you are here to serve the Faceless Tsar, first you must kneel. Then wait until I decide if you are worthy of servitude!</eng>
+					</01_Basalthanor_boss>
+					<02_Katarina>
+						<eng>Typical. I don’t even deserve an evil monologue. What about me, big lad?!</eng>
+					</02_Katarina>
+					<03_Basalthanor_boss>
+						<eng>But you have already done so much for my master, little Borgovian princess, just like your brothers and sisters did. You will join him in the black heart of the Ink and sit at his throne in the Void Cathedral, where he is watching over everything that happens in your world.</eng>
+					</03_Basalthanor_boss>
+					<04_VH>
+						<eng>I really hope so. I want him to see how I destroy you.</eng>
+					</04_VH>
+				</CUT_cult_leader_monolog>
+			</All_banters>
+		</Hideout>
+		<Ink_Old_Town>
+			<All_banters>
+				<BNT_sunnyvampires>
+					<01_Katarina>
+						<eng>I still can’t get over the idea that Fulmigati wanted to grant the vampires protection from sunlight. I’ve seen some evil deeds, this one takes the cake.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I agree. What’s next? Vampires that sparkle in the sunlight?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>At least that would be the end of the vampires as we know them.</eng>
+					</03_Katarina>
+				</BNT_sunnyvampires>
+				<CUT_Vampiregate_close>
+					<01_Katarina>
+						<eng>Do you remember how confident I was about closing the gate? Well, it might be a bit more difficult than I thought.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>What do you mean by "difficult"? Should I run? Will Borgova survive?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>It will be fine. You’d rather step back, though. Black gate, dissolve, and let this world be healed!</eng>
+					</03_Katarina>
+				</CUT_Vampiregate_close>
+				<BNT_children_of_the_night>
+					<01_Katarina>
+						<eng>This place is crawling with bloodsuckers!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Listen to them. Children of the night... what music they make.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>If you can call that commotion music.</eng>
+					</03_Katarina>
+				</BNT_children_of_the_night>
+				<CUT_oldtown_vamp_siege>
+					<01_Vampire_siege>
+						<eng>Quit the laughable antics with the garlic. We will drink your blood anyway.</eng>
+					</01_Vampire_siege>
+					<02_NPC_Oldtown_survivor>
+						<eng>Not while one of us is breathing!</eng>
+					</02_NPC_Oldtown_survivor>
+					<03_Vampire_siege>
+						<eng>We have all eternity to wait.</eng>
+					</03_Vampire_siege>
+				</CUT_oldtown_vamp_siege>
+				<BNT_Oldtown_siege>
+					<01_VH>
+						<eng>Seems like we found the survivors.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>All three of them. Strength in numbers!</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Keeping vampires at bay at a vegetable stall packed with garlic? Desperate, but impressive.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>I'm honestly surprised that they made it this far.</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>Well then, time to slay more vampires!</eng>
+					</05_VH>
+				</BNT_Oldtown_siege>
+				<CUT_vampireboss>
+					<01_Nosferatu_boss>
+						<eng>We meet... AT LAST! If I can’t take my revenge on the father, his son will do.</eng>
+					</01_Nosferatu_boss>
+					<02_VH>
+						<eng>Big words from someone who has already lost Borgovia once.</eng>
+					</02_VH>
+					<03_Nosferatu_boss>
+						<eng>You can’t lose something you never had, you fool. We were only the enforcers of the true master, the shadow behind the curtain, the Deathless King of the land.</eng>
+					</03_Nosferatu_boss>
+					<04_VH>
+						<eng>You are lying!</eng>
+					</04_VH>
+					<05_Nosferatu_boss>
+						<eng>You didn’t know! How sweet! Your father tricked our master, stole the source of his power and only then could he defeat us... And he was so ashamed that he didn’t tell his own son!</eng>
+					</05_Nosferatu_boss>
+					<06_Katarina>
+						<eng>I don’t want to disturb the traditional showdown with a vampire, but that gaping hole must be the Inkgate that Vlados mentioned.</eng>
+					</06_Katarina>
+					<07_VH>
+						<eng>Good. Let's deal with them and you can close it down.</eng>
+					</07_VH>
+				</CUT_vampireboss>
+				<BNT_hc_halaskofa_bode>
+					<01_Katarina>
+						<eng>I'm sure the Faceless Tsar is not hiding under there...</eng>
+					</01_Katarina>
+				</BNT_hc_halaskofa_bode>
+				<BNT_hc_hirdetes>
+					<01_VH>
+						<eng>"Weeknight seminars for amateur monster hunters. Performed by the famous Von Hellsong. 5 gold only!"</eng>
+					</01_VH>
+				</BNT_hc_hirdetes>
+				<BNT_hc_postakocsi>
+					<01_VH>
+						<eng>"Property of the Daily Stagecoach Robbery Association"</eng>
+					</01_VH>
+				</BNT_hc_postakocsi>
+			</All_banters>
+		</Ink_Old_Town>
+		<Lair>
+			<All_banters>
+				<BNT_lair_kingpin_jailor_idle>
+					<01_NPC_Interrogator>
+						<eng>Try not to make a mess, please.</eng>
+					</01_NPC_Interrogator>
+				</BNT_lair_kingpin_jailor_idle>
+				<BNT_lair_kingpin_thug1>
+					<01_Thug1>
+						<eng>Look, the monster hunter is back!</eng>
+					</01_Thug1>
+				</BNT_lair_kingpin_thug1>
+				<BNT_lair_kingpin_thug2>
+					<01_Thug2>
+						<eng>Are you looking at me, punk?</eng>
+					</01_Thug2>
+				</BNT_lair_kingpin_thug2>
+				<BNT_lair_kingpin_refugee1>
+					<01_NPC_refugee1>
+						<eng>This place needs a good cleaning.</eng>
+					</01_NPC_refugee1>
+				</BNT_lair_kingpin_refugee1>
+				<BNT_lair_kingpin_refugee2>
+					<01_NPC_refugee2>
+						<eng>Can you direct me to the dining hall, please?</eng>
+					</01_NPC_refugee2>
+				</BNT_lair_kingpin_refugee2>
+				<BNT_RM_Start>
+					<01_Commander_Petrov>
+						<eng>Van Helsing! A Moment of your time, please!</eng>
+					</01_Commander_Petrov>
+				</BNT_RM_Start>
+				<CUT_ResManIntro>
+					<01_Commander_Petrov>
+						<eng>Welcome back. I trust your search is going well?</eng>
+					</01_Commander_Petrov>
+					<02_VH>
+						<eng>We're making progress.</eng>
+					</02_VH>
+					<03_Commander_Petrov>
+						<eng>Glad to hear it. At any rate, while you were gone, the situation in the city has grown even worse. I’ve got my hands full directing our troops to deal with looters, gangs and other troublemakers.</eng>
+					</03_Commander_Petrov>
+					<04_VH>
+						<eng>Business as usual?</eng>
+					</04_VH>
+					<05_Commander_Petrov>
+						<eng>I refer to your leadership regarding the most pressing matters. You’ll find the reports on the desk behind me. Our elite units are standing by and their captains are awaiting your orders.</eng>
+					</05_Commander_Petrov>
+					<06_VH>
+						<eng>Thank you. I’ll be sure to check on them whenever I can.</eng>
+					</06_VH>
+				</CUT_ResManIntro>
+				<CUT_Lair_newgate>
+					<01_VH>
+						<eng>What is this gate? Another tear in the veil of the world?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Yes, but it was me. Since the recent disturbances in the Ink I have gained more control over the material of the dreams. I thought it might be useful to have a direct gateway over there.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>So this gate leads back to the Ink?</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>To places that we’ve already explored. That’s the only way it can work.</eng>
+					</04_Katarina>
+				</CUT_Lair_newgate>
+			</All_banters>
+			<Idle_banters>
+				<BNT_Jailor_idle1>
+					<01_NPC_Interrogator>
+						<eng>At your service, sir.</eng>
+					</01_NPC_Interrogator>
+				</BNT_Jailor_idle1>
+				<BNT_Jailor_idle2>
+					<01_NPC_Interrogator>
+						<eng>I have everything under control.</eng>
+					</01_NPC_Interrogator>
+				</BNT_Jailor_idle2>
+				<BNT_Jailor_idle3>
+					<01_NPC_Interrogator>
+						<eng>Do need my assistance?</eng>
+					</01_NPC_Interrogator>
+				</BNT_Jailor_idle3>
+				<BNT_Jailor_idle4>
+					<01_NPC_Interrogator>
+						<eng>Have you brought some new prisoners?</eng>
+					</01_NPC_Interrogator>
+				</BNT_Jailor_idle4>
+				<BNT_Jailor_idle5>
+					<01_NPC_Interrogator>
+						<eng>You know, I could never hurt a fly.</eng>
+					</01_NPC_Interrogator>
+				</BNT_Jailor_idle5>
+				<BNT_Jailor_idle6>
+					<01_NPC_Interrogator>
+						<eng>I only want to cuddle.</eng>
+					</01_NPC_Interrogator>
+				</BNT_Jailor_idle6>
+				<BNT_Jailor_idle7>
+					<01_NPC_Interrogator>
+						<eng>Why is everyone so afraid of me?</eng>
+					</01_NPC_Interrogator>
+				</BNT_Jailor_idle7>
+				<BNT_Jailor_idle8>
+					<01_NPC_Interrogator>
+						<eng>Would you like to hear my new poem?</eng>
+					</01_NPC_Interrogator>
+				</BNT_Jailor_idle8>
+				<BNT_Jailor_idle9>
+					<01_NPC_Interrogator>
+						<eng>Can I bring my little puppies to the Lair some time?</eng>
+					</01_NPC_Interrogator>
+				</BNT_Jailor_idle9>
+				<BNT_Jailor_idle10>
+					<01_NPC_Interrogator>
+						<eng>I just want to make this city a better place.</eng>
+					</01_NPC_Interrogator>
+				</BNT_Jailor_idle10>
+				<BNT_Jailor_idle11>
+					<01_NPC_Interrogator>
+						<eng>I’m so bored.</eng>
+					</01_NPC_Interrogator>
+				</BNT_Jailor_idle11>
+				<BNT_Jailor_idle12>
+					<01_NPC_Interrogator>
+						<eng>Can I just go home now?</eng>
+					</01_NPC_Interrogator>
+				</BNT_Jailor_idle12>
+				<BNT_Jailor_idle13>
+					<01_NPC_Interrogator>
+						<eng>Are we finished here?</eng>
+					</01_NPC_Interrogator>
+				</BNT_Jailor_idle13>
+				<BNT_Vlados_idle1>
+					<01_NPC_CountVlados>
+						<eng>What a splendid day for an apocalypse!</eng>
+					</01_NPC_CountVlados>
+				</BNT_Vlados_idle1>
+				<BNT_Vlados_idle2>
+					<01_NPC_CountVlados>
+						<eng>Apologies for not telling you about my sunlight resistance.</eng>
+					</01_NPC_CountVlados>
+				</BNT_Vlados_idle2>
+				<BNT_Vlados_idle3>
+					<01_NPC_CountVlados>
+						<eng>How I missed this murky, damp, dark dungeon!</eng>
+					</01_NPC_CountVlados>
+				</BNT_Vlados_idle3>
+				<BNT_Vlados_idle4>
+					<01_NPC_CountVlados>
+						<eng>I’m sorry I missed your reckoning with Harker.</eng>
+					</01_NPC_CountVlados>
+				</BNT_Vlados_idle4>
+				<BNT_Vlados_idle5>
+					<01_NPC_CountVlados>
+						<eng>Thank you for rescuing me, by the way.</eng>
+					</01_NPC_CountVlados>
+				</BNT_Vlados_idle5>
+				<BNT_Vlados_idle6>
+					<01_NPC_CountVlados>
+						<eng>I’ve heard you have a new nemesis. Isn’t it great?</eng>
+					</01_NPC_CountVlados>
+				</BNT_Vlados_idle6>
+				<BNT_Vlados_idle7>
+					<01_NPC_CountVlados>
+						<eng>I’m ready to help. Just call me!</eng>
+					</01_NPC_CountVlados>
+				</BNT_Vlados_idle7>
+				<BNT_Vlados_idle8>
+					<01_NPC_CountVlados>
+						<eng>I still have my thirst under control, in case you wondered.</eng>
+					</01_NPC_CountVlados>
+				</BNT_Vlados_idle8>
+				<BNT_Vlados_idle9>
+					<01_NPC_CountVlados>
+						<eng>My imprisonment has given me inspiration.</eng>
+					</01_NPC_CountVlados>
+				</BNT_Vlados_idle9>
+				<BNT_Vlados_idle10>
+					<01_NPC_CountVlados>
+						<eng>For a better Borgova!</eng>
+					</01_NPC_CountVlados>
+				</BNT_Vlados_idle10>
+				<BNT_Vlados_idle11>
+					<01_NPC_CountVlados>
+						<eng>Ready when you are.</eng>
+					</01_NPC_CountVlados>
+				</BNT_Vlados_idle11>
+				<BNT_Vlados_idle12>
+					<01_NPC_CountVlados>
+						<eng>Let’s fight the good fight.</eng>
+					</01_NPC_CountVlados>
+				</BNT_Vlados_idle12>
+				<BNT_Vlados_idle13>
+					<01_NPC_CountVlados>
+						<eng>Do you need me?</eng>
+					</01_NPC_CountVlados>
+				</BNT_Vlados_idle13>
+				<BNT_Vlados_idle14>
+					<01_NPC_CountVlados>
+						<eng>I am Count Vlados and I bid you welcome!</eng>
+					</01_NPC_CountVlados>
+				</BNT_Vlados_idle14>
+				<BNT_Vlados_idle15>
+					<01_NPC_CountVlados>
+						<eng>Shall we go?</eng>
+					</01_NPC_CountVlados>
+				</BNT_Vlados_idle15>
+				<BNT_konyvtaros_idle1>
+					<01_NPC_konyvtaros>
+						<eng>Just a second. Yes, I know you are here.</eng>
+					</01_NPC_konyvtaros>
+				</BNT_konyvtaros_idle1>
+				<BNT_konyvtaros_idle2>
+					<01_NPC_konyvtaros>
+						<eng>How can I help you?</eng>
+					</01_NPC_konyvtaros>
+				</BNT_konyvtaros_idle2>
+				<BNT_konyvtaros_idle3>
+					<01_NPC_konyvtaros>
+						<eng>A book is a fragile creature, isn’t that so?</eng>
+					</01_NPC_konyvtaros>
+				</BNT_konyvtaros_idle3>
+				<BNT_konyvtaros_idle4>
+					<01_NPC_konyvtaros>
+						<eng>The research material we found is amazing.</eng>
+					</01_NPC_konyvtaros>
+				</BNT_konyvtaros_idle4>
+				<BNT_konyvtaros_idle5>
+					<01_NPC_konyvtaros>
+						<eng>I’m fascinated by this place.</eng>
+					</01_NPC_konyvtaros>
+				</BNT_konyvtaros_idle5>
+				<BNT_konyvtaros_idle6>
+					<01_NPC_konyvtaros>
+						<eng>Yes. Yes?</eng>
+					</01_NPC_konyvtaros>
+				</BNT_konyvtaros_idle6>
+				<BNT_konyvtaros_idle7>
+					<01_NPC_konyvtaros>
+						<eng>Are you looking for something?</eng>
+					</01_NPC_konyvtaros>
+				</BNT_konyvtaros_idle7>
+				<BNT_konyvtaros_idle8>
+					<01_NPC_konyvtaros>
+						<eng>Borgovia is built upon the undead corpses of the past.</eng>
+					</01_NPC_konyvtaros>
+				</BNT_konyvtaros_idle8>
+				<BNT_konyvtaros_idle9>
+					<01_NPC_konyvtaros>
+						<eng>This city was shaped in the forge of mad science.</eng>
+					</01_NPC_konyvtaros>
+				</BNT_konyvtaros_idle9>
+				<BNT_konyvtaros_idle10>
+					<01_NPC_konyvtaros>
+						<eng>Fascinating, simply fascinating... Um, not you, sorry.</eng>
+					</01_NPC_konyvtaros>
+				</BNT_konyvtaros_idle10>
+				<BNT_konyvtaros_idle11>
+					<01_NPC_konyvtaros>
+						<eng>Yes? Do you need something?</eng>
+					</01_NPC_konyvtaros>
+				</BNT_konyvtaros_idle11>
+				<BNT_konyvtaros_idle12>
+					<01_NPC_konyvtaros>
+						<eng>What do you need? I’m rather busy.</eng>
+					</01_NPC_konyvtaros>
+				</BNT_konyvtaros_idle12>
+				<BNT_konyvtaros_idle13>
+					<01_NPC_konyvtaros>
+						<eng>So many things to learn, so little time...</eng>
+					</01_NPC_konyvtaros>
+				</BNT_konyvtaros_idle13>
+				<BNT_konyvtaros_idle14>
+					<01_NPC_konyvtaros>
+						<eng>I used to be lecturer at the university, did you know that?</eng>
+					</01_NPC_konyvtaros>
+				</BNT_konyvtaros_idle14>
+				<BNT_konyvtaros_idle15>
+					<01_NPC_konyvtaros>
+						<eng>Don’t mind me talking to myself.</eng>
+					</01_NPC_konyvtaros>
+				</BNT_konyvtaros_idle15>
+			</Idle_banters>
+			<Commander_Petrov>
+				<BNT_Commander_idle_01>
+					<01_NPC_res_commander>
+						<eng>Borgovia is in danger. Do your best, hunter.</eng>
+					</01_NPC_res_commander>
+				</BNT_Commander_idle_01>
+				<BNT_Commander_idle_02>
+					<01_NPC_res_commander>
+						<eng>Just find the creature threatening this city.</eng>
+					</01_NPC_res_commander>
+				</BNT_Commander_idle_02>
+				<BNT_Commander_idle_03>
+					<01_NPC_res_commander>
+						<eng>I’ll just hold down the fort while you are busy.</eng>
+					</01_NPC_res_commander>
+				</BNT_Commander_idle_03>
+				<BNT_Commander_idle_04>
+					<01_NPC_res_commander>
+						<eng>Everything is under control, hunter.</eng>
+					</01_NPC_res_commander>
+				</BNT_Commander_idle_04>
+				<BNT_Commander_idle_05>
+					<01_NPC_res_commander>
+						<eng>Can I help you with something?</eng>
+					</01_NPC_res_commander>
+				</BNT_Commander_idle_05>
+				<BNT_Commander_idle_06>
+					<01_NPC_res_commander>
+						<eng>The protection of the Lair is as imperative as always.</eng>
+					</01_NPC_res_commander>
+				</BNT_Commander_idle_06>
+				<BNT_Commander_idle_07>
+					<01_NPC_res_commander>
+						<eng>I can’t remember what peace feels like, you know.</eng>
+					</01_NPC_res_commander>
+				</BNT_Commander_idle_07>
+				<BNT_Commander_idle_08>
+					<01_NPC_res_commander>
+						<eng>This Lair is the last safe haven in Borgovia… Ridiculous, I know.</eng>
+					</01_NPC_res_commander>
+				</BNT_Commander_idle_08>
+			</Commander_Petrov>
+		</Lair>		
+		<Gnarlovoy>
+			<All_banters>
+				<BNT_gnomes>
+					<01_Katarina>
+						<eng>A gnome village! I always wanted a gnome, but my father told me that they lived in a dark fairytale world. Turns out the old monster spoke the truth at least once.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>You never mention your family. Why?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Show me the small print in the binding spell that compels me to talk about them!</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Relax! I was just making an observation.</eng>
+					</04_VH>
+				</BNT_gnomes>
+				<BNT_Gnarl_Riddle1>
+					<01_Katarina>
+						<eng>Look! There is an inscription on this idol in the ancient gnome dialect! I'm sure I saw more around the village.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Can you read it, please?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>"Runs deep, facing the abyss"</eng>
+					</03_Katarina>
+				</BNT_Gnarl_Riddle1>
+				<BNT_Gnarl_Riddle2>
+					<01_Katarina>
+						<eng>"A window to the world down below"</eng>
+					</01_Katarina>
+				</BNT_Gnarl_Riddle2>
+				<BNT_Gnarl_Riddle3>
+					<01_Katarina>
+						<eng>"A dark mirror, shaped like a ring"</eng>
+					</01_Katarina>
+				</BNT_Gnarl_Riddle3>
+				<BNT_Gnarl_Riddle4>
+					<01_Katarina>
+						<eng>"Not with one face, but three"</eng>
+					</01_Katarina>
+					<02_Katarina>
+						<eng>I read all the inscriptions. What is the meaning of this cryptic riddle?</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>I have to think about it, but the solution must be somewhere here...</eng>
+					</03_VH>
+				</BNT_Gnarl_Riddle4>
+				<BNT_Gnarl_Riddle_End>
+					<01_VH>
+						<eng>So the riddle was the key to the location of hidden treasure.</eng>
+					</01_VH>
+				</BNT_Gnarl_Riddle_End>			
+				<CUT_Gnarl_beast_socute>
+					<01_Katarina>
+						<eng>Oh, look at this creature, it's soo cute!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>It is not a pony!</eng>
+					</02_VH>					
+					<03_Katarina>
+						<eng> Poor baby, we won't let those evil gnomes harm you, will we?</eng>
+					</03_Katarina>
+				</CUT_Gnarl_beast_socute>
+				<BNT_Gnarl_beast_scream>
+					<01_NPC_Skrimbeast>
+						<eng> </eng>
+					</01_NPC_Skrimbeast>
+					<02_VH>
+						<eng>What is this soul splitting scream? My ears will start bleeding soon.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>It's absolutely unbearable. Make it stop Van Helsing, please!</eng>
+					</03_Katarina>					
+				</BNT_Gnarl_beast_scream>
+				<BNT_Gnarl_beast_ambush>
+					<01_VH>
+						<eng>He is calling monsters from the deep Ink. Look!</eng>
+					</01_VH>
+				</BNT_Gnarl_beast_ambush>
+				<CUT_Gnarl_beast_killed>
+					<01_VH>
+						<eng>The beast fell silent as soon as we killed the abominations.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Never felt so much pain in my spectral life. Can we help this poor thing now?</eng>
+					</02_Katarina>					
+					<03_VH>
+						<eng>Well, let me open the cage...</eng>
+					</03_VH>
+					<04_NPC_Skrimbeast>
+						<eng> </eng>
+					</04_NPC_Skrimbeast>
+				</CUT_Gnarl_beast_killed>			
+				<BNT_Gnarl_beast_killed2>
+					<01_VH>
+						<eng>Katarina!</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Err, I acted on impulse, for the sake of my afterlife sanity. It's definitely cuter when it’s dead!</eng>
+					</02_Katarina>					
+					<03_VH>
+						<eng>The gnomes wanted to kill it, anyway. Grab the remains and let's head back.</eng>
+					</03_VH>
+				</BNT_Gnarl_beast_killed2>
+			</All_banters>
+		</Gnarlovoy>
+		<Wraithwoods>
+			<All_banters>
+				<BNT_Wraith_hellgate_badmove>
+					<01_VH>
+						<eng>Blast this incantation! Every time I make a mistake the cracks get wider.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>These are just lesser minions. I want my Big Bad one!</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Err, how about a pony instead?</eng>
+					</03_VH>
+				</BNT_Wraith_hellgate_badmove>						
+				<CUT_Wraith_hellgate_start>
+					<01_Katarina>
+						<eng>Look, an old sacrificial site! Brings back memories...</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>It's a gateway to the deepest Ink Realms. Which are, as we learned, the dwelling place of some truly nasty creatures. And someone has tried to rip this gate open recently.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>From this side, sadly. So much Ink is seeping through the cracks that my senses are tingling.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>I remember an incantation for sealing such fissures, but I just can't recall the whole ritual. It involved drawing an arcane pattern around the gate.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Will you give it a try? Or how about failing on purpose? We might get a meet a big bad creature from the other side!</eng>
+					</05_Katarina>		
+				</CUT_Wraith_hellgate_start>
+			</All_banters>
+		</Wraithwoods>
+		<Dark_Carnival>
+			<All_banters>
+				<CUT_Hunter_games>
+					<01_NPC_Mad_Ringmaster>
+						<eng>Ladies and gentlemen! The Dark Carnival presents for your entertainment the most magnificent spectacles! Evil clowns, killer acrobatics and mad fire-eaters! ENTER! Oh, a visitor! Who might you be, good sir?</eng>
+					</01_NPC_Mad_Ringmaster>
+					<02_VH>
+						<eng>My name is Van Helsing, and she is...</eng>
+					</02_VH>
+					<03_NPC_Mad_Ringmaster>
+						<eng>And HERE HE IS, ladies and gentlemen! The legend we've been waiting for to spice up our contest! Let the Hunter Games begin! Bring me HIS HEAD and win the price!</eng>
+					</03_NPC_Mad_Ringmaster>
+					<04_VH>
+						<eng>You can’t be serious.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>I really should have a bow for this kind of deal.</eng>
+					</05_Katarina>
+					<06_NPC_Mad_Ringmaster>
+						<eng>May the odds be in OUR favor!</eng>
+					</06_NPC_Mad_Ringmaster>
+				</CUT_Hunter_games>
+				<CUT_beforeringmaster>
+					<01_Katarina>
+						<eng>It's never good when the gates close behind you.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Look! There is a stage over there with that lunatic Ringmaster. Let's have a nice little chat with him.</eng>
+					</02_VH>
+				</CUT_beforeringmaster>
+				<CUT_arenafight_begin>
+					<01_NPC_Mad_Ringmaster>
+						<eng>Ladies and gentlemen! Please welcome our guest of honor, Van Helsing! The man, the legend, the PREY! Witness the most stupendous, most magnificent and truly colossal entertainment that the Dark Carnival can offer!</eng>
+					</01_NPC_Mad_Ringmaster>
+					<02_VH>
+						<eng>I’m giving you one last chance to walk away. Stop this madness right now and I’ll let you live.</eng>
+					</02_VH>
+					<03_NPC_Mad_Ringmaster>
+						<eng>Ladies and gentlemen! Can you hear the man begging for his life? Place your bets! Buy drinks from the refreshment carts!</eng>
+					</03_NPC_Mad_Ringmaster>
+					<04_Katarina>
+						<eng>At least you tried, Van Helsing.</eng>
+					</04_Katarina>
+					<05_NPC_Mad_Ringmaster>
+						<eng>Let the Hunter Games continue!</eng>
+					</05_NPC_Mad_Ringmaster>
+				</CUT_arenafight_begin>
+				<CUT_after_firstround>
+					<01_Katarina>
+						<eng>Was that all, Ringmaster? I was expecting something stupendous, magnificent and colossal.</eng>
+					</01_Katarina>
+					<02_NPC_Mad_Ringmaster>
+						<eng>First round is over! NOT-SO FLAWLESS VICTORY! OUTSTANDING… with some minor flaws! Generally well done! NOW GET HIM FOR REAL, MY MINIONS!</eng>
+					</02_NPC_Mad_Ringmaster>
+				</CUT_after_firstround>
+				<CUT_after_secondround>
+					<01_Katarina>
+						<eng>I’m still waiting for my spectacular spectacle. I hope that lousy brawl was not what you had in mind.</eng>
+					</01_Katarina>
+					<02_NPC_Mad_Ringmaster>
+						<eng>Ladies and gentlemen, don’t listen to those pompous killers! That was only the MAGNIFICENT warm-up, the taste of things to come! Let the third round commence!</eng>
+					</02_NPC_Mad_Ringmaster>
+				</CUT_after_secondround>
+				<CUT_after_thirdround>
+					<01_VH>
+						<eng>Can’t you just give up? I don’t have all day, I have a nemesis to defeat.</eng>
+					</01_VH>
+					<02_NPC_Mad_Ringmaster>
+						<eng>Isn’t this entertaining enough?! I give you a nemesis, you insolent slayer! Ladies and gentlemen, allow me to present the event of the century! Ringmaster Extraordinaire against the Big Bad Hunter!</eng>
+					</02_NPC_Mad_Ringmaster>
+					<03_VH>
+						<eng>You want to fight me?</eng>
+					</03_VH>
+					<04_NPC_Mad_Ringmaster>
+						<eng>Prepare to die!</eng>
+					</04_NPC_Mad_Ringmaster>
+				</CUT_after_thirdround>
+				<BNT_Fata_Morgana>
+					<01_VH>
+						<eng>If this Fata Morgana already knew you before you left Borgovia, she must be a rare creature indeed.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Was this a not too subtle reference to my age? You never do that to a lady, NEVER!</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>It’s not about your age, but your mysterious past. Even my father refused to discuss it.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>You should be a good son then and follow his example.</eng>
+					</04_Katarina>
+				</BNT_Fata_Morgana>
+				<BNT_DK_jester_done>
+					<01_VH>
+						<eng>Nice fireworks. I'm impressed.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>We just made the Mad Ringmaster even crazier.</eng>
+					</02_Katarina>
+				</BNT_DK_jester_done>
+				<BNT_DK_wretched>
+					<01_Wretched_minion1>
+						<eng>Torture and maim all for the Wretched One!</eng>
+					</01_Wretched_minion1>
+					<02_Wretched_minion2>
+						<eng>Charge! Stab them in the eyes!</eng>
+					</02_Wretched_minion2>
+				</BNT_DK_wretched>
+				<CUT_DK_wretched_one>
+					<01_Mirror>
+						<eng>First you let me rot in a cellar for decades. Then I served as an amusement for peasants at the Bazaar. Then they crack my beautiful silvery pane. Now you will all pay in blood and sorrow!</eng>
+					</01_Mirror>
+					<02_Katarina>
+						<eng>A magical mirror throwing a hissy fit? Just like the one I used to have in my chambers.</eng>
+					</02_Katarina>
+				</CUT_DK_wretched_one>
+				<BNT_DK_evil_helsing>
+					<01_Evil_VH>
+						<eng>It's a pleasure to meet my lesser self. The destroyer of our father's legacy. The downfall of Borgovia. The pet puppet of the Faceless One. The Failure mocked by a spoilt ghost princess.</eng>
+					</01_Evil_VH>
+					<02_VH>
+						<eng>Tough words from the pet puppet of a broken piece of furniture.</eng>
+					</02_VH>
+					<03_Evil_VH>
+						<eng>There is one final act left. Dying by your own hand!</eng>
+					</03_Evil_VH>
+				</BNT_DK_evil_helsing>
+				<BNT_hc_grimhound>
+					<01_VH>
+						<eng>This one looks suspiciously well fed for a stray dog. Let's hope he is not on a "human diet".</eng>
+					</01_VH>
+				</BNT_hc_grimhound>
+				<BNT_hc_leghajo>
+					<01_VH>
+						<eng>Let's make a small cut on the airship's balloon. Just in case the Mad Ringmaster tries to get away...</eng>
+					</01_VH>
+				</BNT_hc_leghajo>
+			</All_banters>
+		</Dark_Carnival>
+		<Nightmare_Hollow>
+			<All_banters>
+				<CUT_nightmarehollow_start>
+					<01_VH>
+						<eng>And how does it feel to be home?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>This place was never my home! We lived in a nice, crumbling, haunted mansion in the town. When I was still alive, I mean.  I only got here after… the accident, and your father took me away just in time - before my relatives could tear me apart.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Look, I’ve never harassed you about your past. But you must tell me what happened to you. I must know about this Lady Irina.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>Yes… I suppose you must. But there are three Circles of the Dead here. This is the first, the Impossible Tombs will be the last. We must get to the Necropolis first.</eng>
+					</04_Katarina>
+				</CUT_nightmarehollow_start>
+				<CUT_necropolisstart>
+					<01_Katarina>
+						<eng>Welcome to the Second Circle. This is where the wealthy souls stay for ever. You know, the ones who could afford to fill up their crypts with money during their mortal lives.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Makes you wonder why the ectoplasmoid proletariat wouldn’t revolt against the oppressive immaterial regime.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Borgovia might be the guiding light in mad science, but some things just won’t change around here that fast. And speaking of fast… let’s get to one of the bridges quickly.</eng>
+					</03_Katarina>
+				</CUT_necropolisstart>
+				<CUT_Agent_Irina>
+					<01_Lady_Irina_Bad>
+						<eng>Well, well. It’s been a while, little sister! Fate plays cruel jokes on us. Here you are, the lapdog for the warrior of light, repenting for your sins. And here I am, once an innocent soul, now the acolyte of darkness, all thanks to you.</eng>
+					</01_Lady_Irina_Bad>
+					<02_Katarina>
+						<eng>Would you believe me if I told you that I was sorry?</eng>
+					</02_Katarina>
+					<03_Lady_Irina_Bad>
+						<eng>Of course not! You are just playing tricks with me. What a hypocrite you are! Have you ever told your mortal master about the terrible deeds our family has done?</eng>
+					</03_Lady_Irina_Bad>
+					<04_Katarina>
+						<eng>It wouldn’t have been very… ladylike.</eng>
+					</04_Katarina>
+					<05_Lady_Irina_Bad>
+						<eng>Still the witty one, I see. Know this, hunter: during our reign of blood hundreds and thousands perished to please our protector, Koschei, the Deathless. Why would you turn against him now, sister?</eng>
+					</05_Lady_Irina_Bad>
+					<06_Katarina>
+						<eng>You are insane! Koschei never existed. He was just a myth, a legendary magician… an excuse for our family to revel in violence!</eng>
+					</06_Katarina>
+					<07_Lady_Irina_Bad>
+						<eng>That’s so sweet! You really believe your childish nonsense! How could you be so blind? How could you not recognize the one behind the mask?</eng>
+					</07_Lady_Irina_Bad>
+					<08_Katarina>
+						<eng>And now you are playing tricks with me. I won’t fall for this, sister.</eng>
+					</08_Katarina>
+					<09_VH>
+						<eng>Enough! I don’t care who he is. You can call him Prisoner Seven, the Faceless Tsar or the Deathless One: whatever his name, I will destroy him. But not before I seal these tombs again.</eng>
+					</09_VH>
+				</CUT_Agent_Irina>
+				<CUT_Irina_bucsuja>
+					<01_Lady_Irina_Good>
+						<eng>What happened? All the darkness I carried around with me... just fell away. I’m floating… away. Away from this terrible place.</eng>
+					</01_Lady_Irina_Good>
+					<02_Katarina>
+						<eng>I’m so sorry, Irina. I really am.</eng>
+					</02_Katarina>
+					<03_Lady_Irina_Good>
+						<eng>Don’t be. It’s good to be free again, even if it takes me somewhere else. But for you… it’s not over yet. My parting gift is a door to the heart of the Ink. Go to the Spectral Provinces. That’s the source of the dark disturbance in the Ink. You might even find a way to the Faceless Tsar.</eng>
+					</03_Lady_Irina_Good>
+					<04_Katarina>
+						<eng>Thank you, sister. It’s such a shame that we must part like this.</eng>
+					</04_Katarina>
+					<05_Lady_Irina_Good>
+						<eng>One last thing before I go, Katarina. Do you remember my pony?</eng>
+					</05_Lady_Irina_Good>
+					<06_Katarina>
+						<eng>The one I stole from you? When I made you so angry?</eng>
+					</06_Katarina>
+					<07_Lady_Irina_Good>
+						<eng>I won’t lift that curse. You’ll never have a pony again. Sorry.</eng>
+					</07_Lady_Irina_Good>
+					<08_Katarina>
+						<eng>Oh, you just had to ruin it, didn’t you?</eng>
+					</08_Katarina>
+				</CUT_Irina_bucsuja>
+				<CUT_NH_Ascension_heaven>
+					<01_Katarina>
+						<eng>The tomb says "Here lies Albus, the fool who dared the might of the Death God"</eng>
+					</01_Katarina>
+				</CUT_NH_Ascension_heaven>
+				<CUT_NH_Ascension_hell>
+					<01_Katarina>
+						<eng>The tomb says "Here lies Infernalus, a friend buried alive by the Eternal Tsar"</eng>
+					</01_Katarina>
+				</CUT_NH_Ascension_hell>			
+				<CUT_NH_Ascension_damnation>
+					<01_Katarina>
+						<eng>The tomb says "Here lies Damnatus, crushed again and again by the Faceless One"</eng>
+					</01_Katarina>
+				</CUT_NH_Ascension_damnation>
+				<CUT_NH_vengeful_ghost2>
+					<01_vengeful_ghost>
+						<eng>The curse is lifted, mortal. You struck down House Lavinius. I devoured their essence and became more powerful than I've ever been. Time to show my gratitude... by ripping out your feeble soul. Mwahaha!</eng>
+					</01_vengeful_ghost>
+				</CUT_NH_vengeful_ghost2>
+				<CUT_NH_hidden_path1>
+					<01_Katarina>
+						<eng>The Inkgate to the Spectral Provinces is open. But when my sister passed away I felt another gate opening nearby. Maybe we should investigate.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>And I feel a familiar stench. There are vampires here!</eng>
+					</02_VH>			
+				</CUT_NH_hidden_path1>
+				<CUT_NH_hidden_path2>
+					<01_Vampire_hiddenpath>
+						<eng>The hunter is here! Run and warn the others!</eng>
+					</01_Vampire_hiddenpath>
+					<02_VH>
+						<eng>So this is what you were all hiding from me. You were too cowardly to join the others in Borgova, were you?</eng>
+					</02_VH>
+					<03_Vampire_hiddenpath>
+						<eng>Or it was a clever ploy, puny mortal! Ha! It hadn't even occured to you, had it? We lured you into our trap!</eng>
+					</03_Vampire_hiddenpath>
+					<04_VH>
+						<eng>Nice try. I will kill you last, funny one.</eng>
+					</04_VH>
+				</CUT_NH_hidden_path2>
+				<CUT_NH_hidden_ghost>
+					<01_Hoarder_Ghost_v1>
+						<eng>Stay away, miserable thieves! No one will touch my treasure! No one!</eng>
+					</01_Hoarder_Ghost_v1>
+					<02_Katarina>
+						<eng>I remember him! He was a wealthy merchant in his time and a perfect example of parsimony. He died of hunger in a palace filled with gold.</eng>
+					</02_Katarina>
+					<03_Hoarder_Ghost_v1>
+						<eng>Don't even dare to set eyes on one copper penny! All mine!</eng>
+					</03_Hoarder_Ghost_v1>
+					<04_VH>
+						<eng>Honestly, I had enough of chatting to the undead.</eng>
+					</04_VH>
+				</CUT_NH_hidden_ghost>
+				<BNT_NH_hidden_ghost2>
+					<01_Hoarder_Ghost_v2>
+						<eng>Mwahahah! You can't kill me! I can hear all the stolen coins rattling in your pockets!</eng>
+					</01_Hoarder_Ghost_v2>
+					<02_VH>
+						<eng>Not him again!</eng>
+					</02_VH>	
+				</BNT_NH_hidden_ghost2>
+				<BNT_NH_hidden_end>
+					<01_Hoarder_Ghost_v3_boss>
+						<eng>I rise again stronger and stronger! Drop your bags, I'll slash your throats, greedy gold grabbers!</eng>
+					</01_Hoarder_Ghost_v3_boss>
+					<02_VH>
+						<eng>I will make sure that you stay down for good this time.</eng>
+					</02_VH>
+				</BNT_NH_hidden_end>
+				<BNT_NH_hidden_lastone>
+					<01_VH>
+						<eng>Remember that I told you I will kill you last?</eng>
+					</01_VH>
+					<02_Vampire_hiddenpath>
+						<eng>We slaughtered your kind like cattle in Borgovia. No witty remark can take that joy away.</eng>
+					</02_Vampire_hiddenpath>
+					<03_VH>
+						<eng>It was not the question. Anyway, I lied.</eng>
+					</03_VH>
+				</BNT_NH_hidden_lastone>
+				<BNT_NH_hidden_treasure>
+					<01_VH>
+						<eng>I sense something magical around here...</eng>
+					</01_VH>
+				</BNT_NH_hidden_treasure>
+				<BNT_hc_poni_sirfelirat>
+					<01_VH>
+						<eng>We'll meet again on heavenly grazing grounds, my dearest pony. Your Irina.</eng>
+					</01_VH>
+				</BNT_hc_poni_sirfelirat>
+				<BNT_hc_szoborcsodalat>
+					<01_VH>
+						<eng>When aesthetic grace meets ancient evil. Some of these statues look more menacing than the inhabitants...</eng>
+					</01_VH>
+				</BNT_hc_szoborcsodalat>
+				<BNT_hc_favago_szellemek>
+					<01_Katarina>
+						<eng>These two didn't get too far from the Haunted Forest...</eng>
+					</01_Katarina>
+				</BNT_hc_favago_szellemek>
+			</All_banters>
+		</Nightmare_Hollow>	
+		<Spectral_Provinces>
+			<Ink_mythical>
+				<CUT_sturmwelcome>
+					<01_NPC_Von_Sturm>
+						<eng>A rescue party! Franz von Sturm, chief scientific officer of the First Borgovian Void Expedition, reporting for duty! Our airship only crashed here a decade ago, so you are right on time.</eng>
+					</01_NPC_Von_Sturm>
+					<02_VH>
+						<eng>Bad news, then. Fulmigati is dead, we are not your rescue party and you must explain what is happening here.</eng>
+					</02_VH>
+					<03_NPC_Von_Sturm>
+						<eng>Efficient and practical! I like that! There is a dark presence in the void, which is trying to use the reality-shaping abilities of the Ink for its own nefarious purposes.</eng>
+					</03_NPC_Von_Sturm>
+					<04_VH>
+						<eng>I know. Borgovia is changing back to the way it used to be.</eng>
+					</04_VH>
+					<05_NPC_Von_Sturm>
+						<eng>Excellent! I mean, it's horrible, but it fits my theory which I based purely on scientific observation since the Faceless One began using our Clockwork Keep. I suspected that he’s rewriting the world.</eng>
+					</05_NPC_Von_Sturm>
+					<06_Katarina>
+						<eng>What are you talking about?</eng>
+					</06_Katarina>
+					<07_NPC_Von_Sturm>
+						<eng>We built four Ethereal Transmitters in these provinces to send signals home. They didn’t work. The locals call them Inkgrubs, which is annoying… Anyway, the Faceless One uses them to amplify the power of the Ink. Think of magnifying lenses and sunlight!</eng>
+					</07_NPC_Von_Sturm>
+					<08_VH>
+						<eng>If I destroy the Inkgrubs, will it revert the changes?</eng>
+					</08_VH>
+					<09_NPC_Von_Sturm>
+						<eng>Of course not. But you will prevent Borgovia from changing further back to its old form. Or falling apart entirely. We have one, umm, Inkgrub here, you can start with that. I’ll be in touch.</eng>
+					</09_NPC_Von_Sturm>
+				</CUT_sturmwelcome>
+				<BNT_SP_papertrail_conclusion>
+					<01_Katarina>
+						<eng>No survivors, everybody is dead.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Someone wanted to eliminate everyone from that Clockwork Keep. We have to pass the information we gathered to Von Sturm later.</eng>
+					</02_VH>				
+				</BNT_SP_papertrail_conclusion>
+				<CUT_MYTH_hostage_start1>
+					<01_Minotaur>
+						<eng>See these blades? What should I chop off first? Your tiny feet? Or one of those twigs you call arms?</eng>
+					</01_Minotaur>
+					<02_Scientist>
+						<eng>Please, don't kill me!</eng>
+					</02_Scientist>
+					<03_Minotaur>
+						<eng>I have already killed your friends and feasted on their livers. Why should I stop now?</eng>
+					</03_Minotaur>
+					<04_Scientist>
+						<eng>But you’re supposed to be a herbivore!</eng>
+					</04_Scientist>
+					<05_Minotaur>
+						<eng>Do you think I eat plants with all these pointy teeth?</eng>
+					</05_Minotaur>
+				</CUT_MYTH_hostage_start1>
+				<CUT_MYTH_hostage_start2>
+					<01_VH>
+						<eng>Hold it right there! Let him go and fight me instead!</eng>
+					</01_VH>
+					<02_Minotaur>
+						<eng>One wrong move, puny human, and I’ll take his head off!</eng>
+					</02_Minotaur>
+					<03_VH>
+						<eng>Then I’d take yours a heartbeat later, creature.</eng>
+					</03_VH>
+					<04_Scientist>
+						<eng>For the sake of the periodic table, save me!</eng>
+					</04_Scientist>
+					<05_Minotaur>
+						<eng>Hmm. Seems like we have a stand-off here. Want to play a game? I ask three tricky questions. If you give me the right answers, I let him go.</eng>
+					</05_Minotaur>
+					<06_VH>
+						<eng>And I will let you go. Deal.</eng>
+					</06_VH>
+				</CUT_MYTH_hostage_start2>
+				<CUT_MYTH_right_answer>
+					<01_Scientist>
+						<eng>I think I need to change my pants...</eng>
+					</01_Scientist>
+				</CUT_MYTH_right_answer>
+				<BNT_hc_buzamezo>
+					<01_VH>
+						<eng>Hiding treasure in a wheatfield. A smart move, but not smart enough.</eng>
+					</01_VH>
+				</BNT_hc_buzamezo>
+				<BNT_hc_szoborfelirat>
+					<01_VH>
+						<eng>Angus, the Young. Always took the higher road to hell...</eng>
+					</01_VH>
+				</BNT_hc_szoborfelirat>
+			</Ink_mythical>
+			<Ink_frozen>
+				<CUT_frozenisland>
+					<01_VH>
+						<eng>Judging by the freezing cold this must be the Valley of Frost.</eng>
+					</01_VH>
+					<02_NPC_Gnome_sentry1>
+						<eng>Astonishing observation! I’m Misha, the last sentry alive at the Inkgate. Actually we were waiting for the scientists to return, but at least you are not monsters.</eng>
+					</02_NPC_Gnome_sentry1>
+					<03_VH>
+						<eng>Have you seen a giant sphere we call the Inkgrub?</eng>
+					</03_VH>
+					<04_NPC_Gnome_sentry1>
+						<eng>That accursed thing which has brought permanent winter upon us? Destroyed our lands and turned the amphibians into evil creatures? It rings a bell, yes.</eng>
+					</04_NPC_Gnome_sentry1>
+					<05_VH>
+						<eng>Just point me in the right direction and I’ll make it go away.</eng>
+					</05_VH>
+					<06_NPC_Gnome_sentry1>
+						<eng>This island is already dead. You can find the Inkgrub on the far side of the riverbed. Are the scientists coming? They needed us in the mines!</eng>
+					</06_NPC_Gnome_sentry1>
+					<07_VH>
+						<eng>Don't get your hopes up.</eng>
+					</07_VH>
+					<08_NPC_Gnome_sentry1>
+						<eng>Good luck then, sir.</eng>
+					</08_NPC_Gnome_sentry1>
+				</CUT_frozenisland>
+				<CUT_frozen_needexplosives>
+					<01_VH>
+						<eng>The rubble blocked the bridge. We need something to get us to the other side.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Like explosives?</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>That is actually a good idea. The sentry was talking about a mining operation, if I'm not mistaken.</eng>
+					</03_VH>				
+				</CUT_frozen_needexplosives>
+				<CUT_frozen_getexplosives1>
+					<01_NPC_Gnome_trader>
+						<eng>Oh, his highness is back!</eng>
+					</01_NPC_Gnome_trader>
+					<02_Katarina>
+						<eng>Let me handle this… We need explosives to get over the bridge, you nice little gnome.</eng>
+					</02_Katarina>
+					<03_NPC_Gnome_trader>
+						<eng>An untouched set of explosives, stolen by yours truly, for a kiss. Take it or leave it.</eng>
+					</03_NPC_Gnome_trader>
+					<04_Katarina>
+						<eng>Step closer, my brave little friend.</eng>
+					</04_Katarina>
+				</CUT_frozen_getexplosives1>
+				<CUT_frozen_encounter2>
+					<01_NPC_Gnome_trader>
+						<eng>Oh, another human to ruin us. I have everything you might need! Fish skin coats, beard grease! Shovels, wooden sandals, explosives!</eng>
+					</01_NPC_Gnome_trader>
+					<02_Katarina>
+						<eng>Let me handle this… We need explosives to get over the bridge, you nice little gnome.</eng>
+					</02_Katarina>
+					<03_NPC_Gnome_trader>
+						<eng>An untouched set of explosives, stolen by yours truly, for a kiss. Take it or leave it.</eng>
+					</03_NPC_Gnome_trader>
+					<04_Katarina>
+						<eng>Step closer, my brave little friend.</eng>
+					</04_Katarina>
+				</CUT_frozen_encounter2>
+				<CUT_frozen_getexplosives2>
+					<01_NPC_Gnome_trader>
+						<eng>Eeek! You can have the package for free!</eng>
+					</01_NPC_Gnome_trader>
+					<02_VH>
+						<eng>I must admit, that was a neat trick.</eng>
+					</02_VH>
+				</CUT_frozen_getexplosives2>
+				<CUT_frozen_blowupobstacle>
+					<01_VH>
+						<eng>Let's blow this rubble sky high!</eng>
+					</01_VH>
+				</CUT_frozen_blowupobstacle>
+				<CUT_supplyrun_storehouse>
+					<01_VH>
+						<eng>These could be the ruins of the storehouse. By the looks of it, a huge fire raged here recently.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>The gnomes must have seen this from the village.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>So the tricky little guy fooled me. There is no "vital information", I guess. Grab what we can and return immediately!</eng>
+					</03_VH>				
+				</CUT_supplyrun_storehouse>
+				<CUT_supplyrun_end_banter>
+					<01_Katarina>
+						<eng>Fate has a twisted sense of humor. The gnomes who wanted to be fed are now getting eaten by monsters.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>They sent us away to fetch food, only to become food themselves.</eng>
+					</02_VH>
+					<03_Monster>
+						<eng>Hghrrah! How philosophical! Care to join them as the dessert?</eng>
+					</03_Monster>
+					<04_VH>
+						<eng>This dessert will be your last!</eng>
+					</04_VH>				
+				</CUT_supplyrun_end_banter>
+				<BNT_hc_winter>
+					<01_Gnome>
+						<eng>Winter is coming... Or is it already here? I'm so confused.</eng>
+					</01_Gnome>
+				</BNT_hc_winter>
+			</Ink_frozen>
+			<Ink_darkness>
+				<CUT_dark_dreamer2>
+					<01_Dreamer>
+						<eng>It was so hard to stay awake. I tried to cling to last scraps of my sanity. Are you ready?</eng>
+					</01_Dreamer>
+					<02_VH>
+						<eng>You mean ready to destroy you if you even think of making a wrong move? Yes.</eng>
+					</02_VH>
+					<03_Dreamer>
+						<eng>There is something that you must know. The artifact I’ll craft for you will lose all its powers if you leave the Ink, even once.</eng>
+					</03_Dreamer>
+					<04_VH>
+						<eng>I will keep that in mind.</eng>
+					</04_VH>
+					<05_Dreamer>
+						<eng>Please tell Von Sturm that I’m sorry for causing so much death and suffering...</eng>
+					</05_Dreamer>
+				</CUT_dark_dreamer2>
+				<CUT_dark_dreamer_end>
+					<01_Katarina>
+						<eng>Creating the item devoured all his strength and killed him. I didn't expect that.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I'm sure he was aware of the consequences. Let's keep our fingers crossed that the artifact will not work against us.</eng>
+					</02_VH>
+				</CUT_dark_dreamer_end>
+				<BNT_Lair_dreamer_artifact>
+					<01_VH>
+						<eng>Well, the Dreamer did warn us. The artifact he gave me is powerless now.</eng>
+					</01_VH>
+				</BNT_Lair_dreamer_artifact>
+				<BNT_hc_kiado_lakas>
+					<01_VH>
+						<eng>"Cabin in the Woods for Rent. Perfect holiday retreat for university students and blond girls! (Cellar is currently under renovations.)"</eng>
+					</01_VH>
+				</BNT_hc_kiado_lakas>
+				<BNT_inquisitorarmor>
+					<01_Katarina>
+						<eng>What is this strange equipment?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I don't know, but it looks like something from a very grim future.</eng>
+					</02_VH>
+				</BNT_inquisitorarmor>
+			</Ink_darkness>
+			<Ink_glass2>
+				<CUT_armored_inkgrub>
+					<01_Katarina>
+						<eng>Just when I thought that these Inkgrubs couldn’t be more annoying , here is another one, protected by a forcefield!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>It’s rather inconvenient. It means that first we must take out the Shield Masters.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Can you be a bit more obscure, please?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>It is something I picked up from the Resistance scientists. This magical barrier is feeding on the lifeforce of its creators. The Shield Masters. We kill them, the shield goes down. Simple.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Let's make a killing then!</eng>
+					</05_Katarina>
+				</CUT_armored_inkgrub>
+				<CUT_Glass_soul_sceptre>
+					<01_Katarina>
+						<eng>The Soul Sceptre is hidden there. I can feel it.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>And it won't come with us without a fight.</eng>
+					</02_VH>
+				</CUT_Glass_soul_sceptre>
+				<CUT_Glass_spirit_dome>
+					<01_Katarina>
+						<eng>The Spirit Dome. An arcane gathering place for restless souls. Atlanteans surely didn't let anything go to waste.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Time to lure them out. Just don't get too close to the Sceptre!</eng>
+					</02_VH>
+				</CUT_Glass_spirit_dome>
+				<BNT_hc_atlantiszi_damak>
+					<01_Katarina>
+						<eng>Tell me Van Helsing, who is fairest of them all?</eng>
+					</01_Katarina>
+				</BNT_hc_atlantiszi_damak>
+			</Ink_glass2>
+		</Spectral_Provinces>
+		<Clockwork_Keep>
+			<All_banters>
+				<CUT_Koscheis_relic>
+					<01_NPC_Von_Sturm>
+						<eng> Great work with the Transmitters! And here comes the fun part. The Faceless Tsar replaced our power source with his own Category “A” Arcane Lifeforce Container. Which is powerful enough to generate a reality-shaping tide that will reach Borgovia.</eng>
+					</01_NPC_Von_Sturm>
+					<02_VH>
+						<eng>Are you telling me that this clacking nightmare is powered by Koschei’s Death?! </eng>
+					</02_VH>
+					<03_NPC_Von_Sturm>
+						<eng>What a simple name for such a great artifact! But yes. Enter the Clockwork Keep and power up the Dream Weaver by flipping on two power relays. Our scientists will control the Weaver remotely, and by using the material of creation they’ll build a Disintegrating Device. It can destroy the Relic. I'll talk you through it.</eng>
+					</03_NPC_Von_Sturm>
+					<04_Katarina>
+						<eng>Good, beause I didn't understand the half of that. Did you?</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>No. Let's go.</eng>
+					</05_VH>
+				</CUT_Koscheis_relic>
+				<BNT_power_interface>
+					<01_Katarina>
+						<eng>You know what bothers me the most? Those huge gears turning. It makes my head spin.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>That shouldn't be too hard, considering the condition of your head.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>What a bad joke. Try harder, Van Helsing.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Alright, this unholy clanking is indeed unsettling.</eng>
+					</04_VH>
+				</BNT_power_interface>
+				<CUT_Destroy_relic>
+					<01_Katarina>
+						<eng>This Relic seems indestructible.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>That's the whole point of it, right? Let me figure out how to use that Disintegrator.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Just point and shoot!</eng>
+					</03_Katarina>
+				</CUT_Destroy_relic>
+				<CUT_Gate_to_the_Gatekeeper>
+					<01_NPC_Von_Sturm>
+						<eng> The Clockwork Keep is under control again! The rewriting process of Borgovia has been terminated. What a victory for the history books, despite all the improbabilities! </eng>
+					</01_NPC_Von_Sturm>
+					<02_VH>
+						<eng>I still have to track down the mastermind who wanted to turn back time at home. </eng>
+					</02_VH>
+					<03_NPC_Von_Sturm>
+						<eng> The good thing is you still have a chance against the Faceless Tsar. He’s just lost Koschei’s Death, right? But only an ancient Gatekeeper can grant you a passage to the Deep Realms where he is hiding. I will open you a gate to his domain for you, right away.</eng>
+					</03_NPC_Von_Sturm>
+					<04_Katarina>
+						<eng>Not a frozen world again, please!</eng>
+					</04_Katarina>
+				</CUT_Gate_to_the_Gatekeeper>
+				<CUT_CK_counting_teeth>
+					<01_NPC_Klockmeister>
+						<eng>Where were we? Oh, yes. Give me the correct number of cogs on the wheel here! Start counting!</eng>
+					</01_NPC_Klockmeister>
+				</CUT_CK_counting_teeth>
+				<BNT_tardis>
+					<01_Katarina>
+						<eng>The sign says "Discarded TARDIS console, do not touch!" What is a TARDIS?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I have no idea. The scientists must have used all kinds of mechanical parts floating in the otherworld of dreams. It could be anything.</eng>
+					</02_VH>
+				</BNT_tardis>
+			</All_banters>
+		</Clockwork_Keep>
+		<Kapubirtok>
+			<All_banters>
+				<CUT_Gatekeeper_deal>
+					<01_NPC_Gatekeeper>
+						<eng>Human and ghost. What an unlikely pair. One bound to the decaying flesh, the other bound to him by an oath to a bloodline. What do you seek in the Gatekeeper's Domain?</eng>
+					</01_NPC_Gatekeeper>
+					<02_Katarina>
+						<eng>We seek passage to the Deep Realms.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>We have unfinished business with a certain Faceless Tsar.</eng>
+					</03_VH>
+					<04_NPC_Gatekeeper>
+						<eng>Immortals can pass through the Gate for a gift. Mortals have to prove themselves in a trial of combat.</eng>
+					</04_NPC_Gatekeeper>
+					<05_VH>
+						<eng>Do I have to fight you to get to the other side? </eng>
+					</05_VH>
+					<06_NPC_Gatekeeper>
+						<eng>An interesting thought, but you can't fight me. You have to face my champion. Simply submit to his might. Just die and you can pass.</eng>
+					</06_NPC_Gatekeeper>
+					<07_Katarina>
+						<eng>I think he prefers a more violent solution. What was that part about immortals and gifts?</eng>
+					</07_Katarina>
+					<08_VH>
+						<eng>I'm too close to my prey. Let's do this!</eng>
+					</08_VH>
+				</CUT_Gatekeeper_deal>
+			</All_banters>
+		</Kapubirtok>
+		<pokol1>
+			<All_banters>
+				<CUT_Ghost_traveller>
+					<01_NPC_Ghost_traveller_leader>
+						<eng>Turn back, mortal! You will find nothing here but suffering and death.</eng>
+					</01_NPC_Ghost_traveller_leader>
+					<02_Katarina>
+						<eng>Your concern for my immortal well-being is deeply touching.</eng>
+					</02_Katarina>
+					<03_NPC_Ghost_traveller_leader>
+						<eng>But you don’t have to worry. You belong here with us. We used to be wanderers of the Ink, explorers of unearthly provinces, until we stumbled upon this battlefield where heroes fought the rebellious Titans eons ago. And it was to be the death of us.</eng>
+					</03_NPC_Ghost_traveller_leader>
+					<04_VH>
+						<eng>It’s a fascinating and heartbreaking tale, but why should I turn back?</eng>
+					</04_VH>
+					<05_NPC_Ghost_traveller_leader>
+						<eng>Because this place will be the death of you as well. The Shrine of Lamentation is the gateway to the tower where an imprisoned Titan still squirms in agony. And no mortal can survive the presence of a Titan without the necessary protection.</eng>
+					</05_NPC_Ghost_traveller_leader>
+					<06_Katarina>
+						<eng>I’m sorry, but what’s with the plural? Are you referring to yourself?</eng>
+					</06_Katarina>
+				</CUT_Ghost_traveller>
+				<CUT_titanslayer_relic>
+					<01_Katarina>
+						<eng>Oh, I see. I would have preferred a group of imaginary friends.</eng>
+					</01_Katarina>
+					<02_NPC_Ghost_traveller_leader>
+						<eng>Listen to me! The Titanslayers were mortal giants, but they came to the depth of the Ink protected by amulets. One of those relics, the Aegis is still somewhere here. It’s useless to us, but mortals can use it to restore life.</eng>
+					</02_NPC_Ghost_traveller_leader>
+					<03_VH>
+						<eng>I can see where this is going... Can you tell me where this Aegis is?</eng>
+					</03_VH>
+					<04_NPC_Ghost_traveller_leader>
+						<eng>Promise me that you will use the Aegis to change us back into mortals. To make sure you keep your word we’ll keep the gate to the tower closed until you do that.</eng>
+					</04_NPC_Ghost_traveller_leader>
+					<05_VH>
+						<eng>You seem to have serious trust issues, but what other choice do I have? You have my word.</eng>
+					</05_VH>
+				</CUT_titanslayer_relic>
+				<CUT_ink_travellers>
+					<01_VH>
+						<eng>I have the amulet we all need. What next?</eng>
+					</01_VH>
+					<02_NPC_Ghost_traveller_leader>
+						<eng>I knew we could trust you! Grab the relic and say it aloud: "What Titans took, I will return! Be whole again."</eng>
+					</02_NPC_Ghost_traveller_leader>
+					<03_Katarina>
+						<eng>Wait a second! Could this relic return me... to my mortal body?</eng>
+					</03_Katarina>
+					<04_NPC_Ghost_traveller_leader>
+						<eng>No, my lady. The Aegis was forged to counter the power of the Titans. It can only protect you from them - and return what they took away.</eng>
+					</04_NPC_Ghost_traveller_leader>
+					<05_Katarina>
+						<eng>So it’s another piece of useless junk. You could have told us that earlier.</eng>
+					</05_Katarina>
+					<06_VH>
+						<eng>Let’s do this. "What Titans took, I will return! Be whole again."</eng>
+					</06_VH>
+				</CUT_ink_travellers>
+				<CUT_need_tsrelic>
+					<01_Ink_traveller_elit>
+						<eng>Rejoice, brothers! We are whole again! We are grateful, stranger. The gate is open. Now you only have to give us the relic and you can be on your merry way.</eng>
+					</01_Ink_traveller_elit>
+					<02_Katarina>
+						<eng>Wait! That was not the deal!</eng>
+					</02_Katarina>
+					<03_Ink_traveller_elit>
+						<eng>The deal? We told you where to find the relic. You found it, gave us back our bodies and we opened the gate for you. That was the deal. This is the realm of the fallen Titans. We need this relic to continue on our journey.</eng>
+					</03_Ink_traveller_elit>
+					<04_VH>
+						<eng>There is no honor among the fallen, is that it? But there is one slight flaw in your plan. I have the Aegis and I won’t give it to you.</eng>
+					</04_VH>
+					<05_Ink_traveller_elit>
+						<eng>Shouldn’t be a hindrance. Now that we are in our bodies again, we are fairly capable of tearing you apart!</eng>
+					</05_Ink_traveller_elit>
+				</CUT_need_tsrelic>
+				<BNT_ghosttraveller1>
+					<01_NPC_Ghost_traveller_leader>
+						<eng>What’s taking so long? We have suffered enough!</eng>
+					</01_NPC_Ghost_traveller_leader>
+				</BNT_ghosttraveller1>
+				<BNT_ghosttraveller2>
+					<01_NPC_Ghost_traveller_leader>
+						<eng>Do you  have the amulet? Can we leave this place?</eng>
+					</01_NPC_Ghost_traveller_leader>
+				</BNT_ghosttraveller2>
+				<BNT_ghosttraveller3>
+					<01_NPC_Ghost_traveller_leader>
+						<eng>Why did we come here? Why should we suffer so long?</eng>
+					</01_NPC_Ghost_traveller_leader>
+				</BNT_ghosttraveller3>
+				<BNT_ghosttraveller4>
+					<01_NPC_Ghost_traveller_leader>
+						<eng>“Wander around the Ink”, they said… “Visit the realms of pure wonder”, they said…</eng>
+					</01_NPC_Ghost_traveller_leader>
+				</BNT_ghosttraveller4>
+				<BNT_ghosttraveller5>
+					<01_NPC_Ghost_traveller_leader>
+						<eng>And the Titans rebelled against the Ancients of the Inkheart, and the Ancients sent the slayers to deal with the rebels!</eng>
+					</01_NPC_Ghost_traveller_leader>
+				</BNT_ghosttraveller5>
+				<BNT_ghosttraveller6>
+					<01_NPC_Ghost_traveller_leader>
+						<eng>So tell me, are you a slayer?</eng>
+					</01_NPC_Ghost_traveller_leader>
+				</BNT_ghosttraveller6>
+				<CUT_crazyoldman>
+					<01_crazyoldman>
+						<eng>Don’t... don’t go any farther! This place is... Hell!</eng>
+					</01_crazyoldman>
+					<02_Katarina>
+						<eng>You don’t say.</eng>
+					</02_Katarina>
+					<03_crazyoldman>
+						<eng>Listen to me, you fools! Beyond the Shrine of Lamentation, the Tower of Torment rises to the empty sky! The cage of the fallen Titans harbors an ancient secret!</eng>
+					</03_crazyoldman>
+					<04_VH>
+						<eng>That sounds... promising.</eng>
+					</04_VH>
+					<05_crazyoldman>
+						<eng>At the base of the Tower there is a gaping hole! A wound that opens into the Void Cathedral, where the Faceless Tsar gnaws hungrily in his chambers beyond time amidst the unholy piping of accursed flutes!</eng>
+					</05_crazyoldman>
+					<06_Katarina>
+						<eng>I think we got it, thank you.</eng>
+					</06_Katarina>
+					<07_crazyoldman>
+						<eng>Run! Run away while you still can!</eng>
+					</07_crazyoldman>
+					<08_VH>
+						<eng>I know you only want to help, but you just gave me the directions I needed. Thank you.</eng>
+					</08_VH>
+				</CUT_crazyoldman>
+			</All_banters>
+		</pokol1>
+		<pokol2>
+			<All_banters>
+				<BNT_towerstart>
+					<01_Katarina>
+						<eng>And there was a time when I thought that Nightmare Hollow is a bleak place.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Our goal is simple. We go to tower and find the gate that leads to that Void Cathedral.</eng>
+					</02_VH>
+				</BNT_towerstart>
+				<CUT_priseven01>
+					<01_NPC_Prisoner_Seven>
+						<eng>Welcome, my dear Van Helsing! I’m so glad that we meet again. I have been watching your progress with great satisfaction.</eng>
+					</01_NPC_Prisoner_Seven>
+					<02_VH>
+						<eng>Really? And here I was, thinking that you were hiding and scheming, trying to destroy my world from a safe distance and sending in your minions to do your dirty work.</eng>
+					</02_VH>
+					<03_NPC_Prisoner_Seven>
+						<eng>That might be true, yes, but I still regard you as someone worthy of my attention. I truly admire you. You are free to leave.</eng>
+					</03_NPC_Prisoner_Seven>
+					<04_VH>
+						<eng>You can’t be serious. It’s a trick.</eng>
+					</04_VH>
+					<05_NPC_Prisoner_Seven>
+						<eng>Such rage! Maybe my little minions will satisfy your lust for battle.</eng>
+					</05_NPC_Prisoner_Seven>
+				</CUT_priseven01>
+				<CUT_priseven02>
+					<01_NPC_Prisoner_Seven>
+						<eng>We had such a nice synergy, Van Helsing. You, coming to Borgovia, defeating Fulmigati and setting me free, although unintentionally. Me, helping you defeat a military genius.</eng>
+					</01_NPC_Prisoner_Seven>
+					<02_VH>
+						<eng>You forgot to mention that you used me to get your hands on Koschei’s Death.</eng>
+					</02_VH>
+					<03_NPC_Prisoner_Seven>
+						<eng>See? Our roles in this world complement each other nicely.</eng>
+					</03_NPC_Prisoner_Seven>
+					<04_VH>
+						<eng>If you don’t mind, I’d like to fulfill my role and destroy you now. Nicely.</eng>
+					</04_VH>
+				</CUT_priseven02>
+				<CUT_priseven03>
+					<01_NPC_Prisoner_Seven>
+						<eng>Impressive. But what is this obsession with me? You’ve already thwarted my plans, destroyed the source of my power. Why do you want to kill an old creature with severe back pains and only a tiny horde of monsters left?</eng>
+					</01_NPC_Prisoner_Seven>
+					<02_VH>
+						<eng>When you betrayed me and threatened my world, you turned me into your nemesis. Obsession is part of that package.</eng>
+					</02_VH>
+					<03_NPC_Prisoner_Seven>
+						<eng>Do I detect some self-loathing? Do you blame yourself for trusting me?</eng>
+					</03_NPC_Prisoner_Seven>
+					<04_VH>
+						<eng>I never trusted you. I knew that you were evil.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Excuse me! And who warned you that he was evil? Hmm?</eng>
+					</05_Katarina>
+					<06_VH>
+						<eng>Still, I needed your help to defeat a genius with an army of living machines. I hoped that I could stop you before it was too late. I was wrong and Borgova paid the price.</eng>
+					</06_VH>
+					<07_NPC_Prisoner_Seven>
+						<eng>See? It’s all about your self-loathing. Isn’t that liberating? Ponder on this while you fight for your life.</eng>
+					</07_NPC_Prisoner_Seven>
+				</CUT_priseven03>
+				<CUT_priseven041>
+					<01_NPC_Prisoner_Seven>
+						<eng>Why don’t you just give up? It shouldn’t end like this. This is your last chance to turn back.</eng>
+					</01_NPC_Prisoner_Seven>
+					<02_Katarina>
+						<eng>Did you hear that? Bargaining. The last stage of the archvillain breakdown.</eng>
+					</02_Katarina>
+					<03_NPC_Prisoner_Seven>
+						<eng>Enough of this, Van Helsing! You win! Yes, you win! But you’ll never take me alive! NEVER!</eng>
+					</03_NPC_Prisoner_Seven>
+				</CUT_priseven041>
+				<CUT_priseven042>
+					<01_Katarina>
+						<eng>That was disappointing. I was expecting a more grandiose clash of Titans!</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Our wretched prey knows that he doesn’t have a chance. We have cornered him in his hiding hole. Let’s follow him through the gate and end this.</eng>
+					</02_VH>
+				</CUT_priseven042>
+				<BNT_hc_titan_kard>
+					<01_VH>
+						<eng>There is a very small plaque with an inscription.  It says "Masterwork Titan-slaying paraphernalia from  Kratos & co."</eng>
+					</01_VH>
+				</BNT_hc_titan_kard>
+				<BNT_hc_interrogator_rokon>
+					<01_NPC_Daimon_Executor>
+						<eng>My cousin is a Jailor now in an evil mastermind's dungeon, or so I heard...</eng>
+					</01_NPC_Daimon_Executor>
+				</BNT_hc_interrogator_rokon>
+				<BNT_hc_katarina_rokon>
+					<01_Katarina>
+						<eng>It's nice to see my bloodthirsty aunt here, but it still can't be worse than suffering through her Saturday tea parties.</eng>
+					</01_Katarina>
+				</BNT_hc_katarina_rokon>
+				<BNT_hc_titanhus_recept>
+					<01_Katarina>
+						<eng>The title says: "The Real Hell's Kitchen. Recipes and exotic seasonings for Titan meat."</eng>
+					</01_Katarina>
+				</BNT_hc_titanhus_recept>
+				<BNT_hc_fulmigati>
+					<01_VH>
+						<eng>Ah, Professor Fulmigati! If this is hell, then this must be the Circle for mad scientists.</eng>
+					</01_VH>
+				</BNT_hc_fulmigati>
+			</All_banters>
+		</pokol2>
+		<VoidCathedral>
+			<All_banters>
+				<CUT_bossfight01>
+					<01_Katarina>
+						<eng>Umm... Is this the hiding hole where we have cornered our wretched prey? Just to make sure we are in the right place.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I meant that metaphorically, Katarina. Whatever this creature has become, this will be the end of him.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Good, good! You had me a bit worried there for a second. With this eerie chamber beyond time and the dragon and all.</eng>
+					</03_Katarina>
+				</CUT_bossfight01>
+				<BNT_afterfirstattack>
+					<01_Faceless_One>
+						<eng>My, my! You look surprised, Van Helsing! Did you expect an  evil monologue?</eng>
+					</01_Faceless_One>
+					<02_VH>
+						<eng>That’s the least you could do. Professional courtesy and all.</eng>
+					</02_VH>
+					<03_Faceless_One>
+						<eng>But we had that covered at the tower. Now you only have to die.</eng>
+					</03_Faceless_One>
+				</BNT_afterfirstattack>
+				<CUT_bossfight02>
+					<01_Faceless_One>
+						<eng>Now you are making me angry, Van Helsing!</eng>
+					</01_Faceless_One>
+					<02_VH>
+						<eng>I'm glad to hear that.</eng>
+					</02_VH>
+					<03_Faceless_One>
+						<eng>I used to be Koschei the Deathless! The Faceless Tsar! The immortal monarch of Borgovia! I ruled this land for centuries!</eng>
+					</03_Faceless_One>
+					<04_VH>
+						<eng>And you would have gotten away with it if it weren't for those meddling monster hunters.</eng>
+					</04_VH>
+					<05_Faceless_One>
+						<eng>Trust me, it won’t happen again.</eng>
+					</05_Faceless_One>
+				</CUT_bossfight02>
+				<CUT_bossfight03>
+					<01_Faceless_One>
+						<eng>You are relentless, just like your father, I give you that. I should have stopped him when he realized that the vampire princes were not his true enemies.</eng>
+					</01_Faceless_One>
+					<02_VH>
+						<eng>But he found your death tucked away safely. Deprived you of your power.</eng>
+					</02_VH>
+					<03_Faceless_One>
+						<eng>And what an incredible source of power! If only you knew what you destroyed in your ignorance! And you’ll pay for this!</eng>
+					</03_Faceless_One>
+				</CUT_bossfight03>
+				<CUT_bossfight04>
+					<01_VH>
+						<eng>Are you afraid of me, creature? You'll regret that my father didn’t destroy you decades ago.</eng>
+					</01_VH>
+					<02_Faceless_One>
+						<eng>Oh, but he thought he had! Only Fulmigati had other plans. He wanted to experiment on an immortal.</eng>
+					</02_Faceless_One>
+					<03_VH>
+						<eng>So you became Prisoner Seven.</eng>
+					</03_VH>
+					<04_Faceless_One>
+						<eng>They cut me open! Took my wings and teeth! Skinned me and bled me! From my bones and my blood they created impossible creatures! They powered their first machines with my magic!</eng>
+					</04_Faceless_One>
+					<05_VH>
+						<eng>A whole city crafted from the living corpse of a fallen god. That explains a lot.</eng>
+					</05_VH>
+					<06_Katarina>
+						<eng>Great, he has started his grand speech! Keep him talking, Van Helsing!</eng>
+					</06_Katarina>
+				</CUT_bossfight04>
+				<CUT_bossfight_05>
+					<01_Faceless_One>
+						<eng>Do you have any idea, Van Helsing, how it feels to become a shadow of your former self? A wretched shell used for experiments?</eng>
+					</01_Faceless_One>
+					<02_VH>
+						<eng>If you are counting on my sympathy, it's too late for that.</eng>
+					</02_VH>
+					<03_Faceless_One>
+						<eng>You have ruined my transformation! Imagine what I could have been if you hadn’t destroyed my Death.</eng>
+					</03_Faceless_One>
+					<04_VH>
+						<eng>Let’s see what happens if I take away everything!</eng>
+					</04_VH>
+				</CUT_bossfight_05>
+				<CUT_bossfight_end>
+					<01_Katarina>
+						<eng>I can’t believe it! We did it, Van Helsing! Koschei, the Deathless is – well, dead.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Thank you, Katarina. Thank you very much for everything.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Wait, why are you so serious? You are acting strange.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>It's time to set you free from your arcane bonds. You've earned this. I hereby release you from the services of the Van Helsing family!</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>Great. It was about time.</eng>
+					</05_Katarina>
+					<06_VH>
+						<eng>Well... yes. It's just... never mind.</eng>
+					</06_VH>
+					<07_Katarina>
+						<eng>Oooh, did you expect a teary-eyed, grateful speech? You should know me better, Van Helsing. I've earned this indeed. I'm free... AT LAST! MWAHAHAHA!</eng>
+					</07_Katarina>
+					<08_VH>
+						<eng>That's it then? We part our ways?</eng>
+					</08_VH>
+					<09_Katarina>
+						<eng>Are you insane? Absolutely not. I'll stay with you.</eng>
+					</09_Katarina>
+					<10_VH>
+						<eng>Beg your pardon?</eng>
+					</10_VH>
+					<11_Katarina>
+						<eng>You won't get rid of me that easily. What if I want to be your companion? It's been an interesting un-life so far.</eng>
+					</11_Katarina>
+					<12_VH>
+						<eng>I'm glad. I really am.</eng>
+					</12_VH>
+					<13_Katarina>
+						<eng>And you can't order me to stay away! Hah! That's the beauty of it!</eng>
+					</13_Katarina>
+					<14_VH>
+						<eng>I might have second thoughts about this, you know.</eng>
+					</14_VH>
+					<15_Katarina>
+						<eng>Don't be silly, Van Helsing. Let's go. You don't want to miss all the other adventures the world can offer you. Right?</eng>
+					</15_Katarina>
+				</CUT_bossfight_end>
+			</All_banters>
+		</VoidCathedral>
+		<General>
+			<Katarina>
+				<BNT_katarina_01>
+					<01_VH>
+						<eng>I really don't want to sound impatient, but you promised me a story about Lady Irina.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>You must understand that I've kept this to myself for more than a century. So it's a little difficult to know where to begin.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>Let's start with a simple question. Who is she?</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>She is my... sister.</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>Your sister!</eng>
+					</05_VH>
+					<06_Katarina>
+						<eng>To be precise, my twin. I was... how should I put it... her evil twin. You know, it's a very Borgovian thing.</eng>
+					</06_Katarina>
+					<07_VH>
+						<eng>I might need some time to deal with this.</eng>
+					</07_VH>
+				</BNT_katarina_01>
+				<BNT_katarina_02>
+					<01_Katarina>
+						<eng>Still interested in my past? I come from a traditional Borgovian family. I had ancestors with names like "Impaler", we kept dungeons below our manor and worshipped a dark god.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>And Irina was the... what? The white sheep of the family?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Yes. No wonder we didn't get along. I was ambitious, cruel and I loathed her. I always played nasty tricks on her. There was that incident with the pony... You know, can we just not talk about this until I destroy some monsters?</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>Be my guest. But then please, continue.</eng>
+					</04_VH>
+				</BNT_katarina_02>
+				<BNT_katarina_03>
+					<01_Katarina>
+						<eng>I hate this dreadful place. This where all my family members ended up after they died. We became the aristocracy of the Nightmare Hollow, which is one of the consequences of worshipping a dark god. The Faceless One, we called it.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>The Faceless One... and you didn’t think it was worth mentioning this until now?</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>It's Borgovia! Everything and everyone here is Faceless or Grim or Evil or something else that you find in the thesaurus when you’ve run out of the convenient names.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>And what was it like to serve the Faceless One?</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>It involved a lot of chanting in robes. Altars of obsidian, black candles. And some nastier practices too. But I’ll get back to that later.</eng>
+					</05_Katarina>
+				</BNT_katarina_03>
+				<BNT_katarina_04>
+					<01_Katarina>
+						<eng>Back to my story then. There were tensions between Irina and me, the quarrels of the good twin and the bad twin. When I heard the whispers that on our birthday my family would throw a ball in honor of her – her only! –  my wrath knew no bounds. I was an unbearable  monster then, can you imagine that?</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>I can't even picture you brimming with furious anger.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>And that was what led to the most despicable decisions of my mortal life.</eng>
+					</03_Katarina>
+				</BNT_katarina_04>
+				<BNT_katarina_05>
+					<01_VH>
+						<eng>I really must hear the rest of your story. What happened on that fateful evening?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>I decided that only I deserved that special occasion and Irina didn't. My plan was simple and cruel. I gave her a potion that put her to sleep, then I slipped into her beautiful dress and went to the ball instead of her.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>And your family realized that they had been tricked and punished you?</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>It was worse than that. They didn't even notice I wasn't Irina.</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>I really don't like where this tale is going.</eng>
+					</05_VH>
+				</BNT_katarina_05>
+				<BNT_katarina_06>
+					<01_Katarina>
+						<eng>Where was I with my tale? The ball, right? What I didn't know was that it wasn't for Irina or me. It was to be a celebration for the Faceless One, including a grand sacrifice.</eng>
+					</01_Katarina>
+					<02_VH>
+						<eng>Your evil family wanted to sacrifice the innocent Irina to their dark god.</eng>
+					</02_VH>
+					<03_Katarina>
+						<eng>Indeed. It's terrible, isn't it? My family was a nest of monsters. I wasn't any better than them. But we all paid the price. Yes, we all did.</eng>
+					</03_Katarina>
+					<04_VH>
+						<eng>They sacrificed you in her place.</eng>
+					</04_VH>
+					<05_Katarina>
+						<eng>When I realized what they were going to do, I panicked. I was shrieking, I told them that it was a mistake. They laughed. And they cut off my head with the sacrificial silver axe.</eng>
+					</05_Katarina>
+					<06_VH>
+						<eng>I don't even know what to say.</eng>
+					</06_VH>
+				</BNT_katarina_06>
+				<BNT_katarina_07>
+					<01_VH>
+						<eng>What happened after your death?</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Everyone lived miserably ever after. If the Faceless One did exist, we fell out of his graces. I became a ghost and everyone blamed me for the downfall. I spent a lifetime in Nightmare Hollow enduring torture by my own family.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>And Irina?</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>She died shortly afterwards. She became a ghost and turned into something dark and bitter. Like I used to be. A banshee who wanted to destroy me.</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>What did you do?</eng>
+					</05_VH>
+					<06_Katarina>
+						<eng>I escaped. When your father began his war against the darkness, I offered him my help. I repented my sins. I tried to be something else. Something better.</eng>
+					</06_Katarina>
+				</BNT_katarina_07>
+				<BNT_katarina_08>
+					<01_VH>
+						<eng>So you made a pact with my father to get away from here.</eng>
+					</01_VH>
+					<02_Katarina>
+						<eng>Yes. He didn't trust me, for obvious reasons, so he crafted the magical oath that binds me to your family. And that's all you need to know.</eng>
+					</02_Katarina>
+					<03_VH>
+						<eng>You should have told me this a long time ago.</eng>
+					</03_VH>
+					<04_Katarina>
+						<eng>I didn't want your pity. I still don't. But you were right. You have the right to know about this.</eng>
+					</04_Katarina>
+					<05_VH>
+						<eng>I'll skip the emotional monologue. But I'll be there during your family reunion.</eng>
+					</05_VH>
+					<06_Katarina>
+						<eng>Believe me, you'll need my protection more.</eng>
+					</06_Katarina>
+				</BNT_katarina_08>
+			</Katarina>
+		</General>
+	</SimplifiedConversation>
+</Root>
