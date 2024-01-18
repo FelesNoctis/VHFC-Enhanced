@@ -115,7 +115,7 @@ v9 has covered pretty much all of what I intend to do with this mod and now most
 ---
 ## DOWNLOAD AND INSTALLATION
 
-You can download any version of this mod from my Google Dropbox here: [Download Here](drive.google.com)
+You can download any version of this mod from my Google Dropbox here: [Download Here](https://github.com/FelesNoctis/VHFC-Enhanced/blob/main/Van%20Helsing%20Enhanced%20v9-2.zip)
 
 __v9-2:__ This version is the full mod experience, with all features discussed above included. You cannot pick which parts of the mod you want as of v4 and later, due to the number of changes that change the same files.
 
